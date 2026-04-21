@@ -98,15 +98,17 @@ def is_spanish_content(text: str) -> bool:
     # Damos un pequeño margen al español por ser el objetivo.
     return es_count >= en_count or es_count > 0
 
-def is_relevant(title: str, desc: str = "") -> bool:
+def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     """
     Verifica si el puesto es relevante:
     1. No debe tener palabras de la blacklist.
     2. Debe tener al menos una palabra de TI.
     3. Debe tener al menos una palabra de nivel (Junior/Trainee/Analista).
     4. Debe estar en español o ser para hispanohablantes.
+    5. Si NO es en Chile, debe ser Remoto.
     """
     title_lower = title.lower()
+    desc_lower = desc.lower()
     
     # 1. Filtro Blacklist (Exclusión total)
     for black in BLACKLIST:
@@ -134,12 +136,19 @@ def is_relevant(title: str, desc: str = "") -> bool:
     if not has_level:
         return False
 
-    # 4. Filtro de Idioma (Nuevo)
-    # Se aplica al título y opcionalmente a la descripción
+    # 4. Filtro de Idioma
     content_to_check = f"{title} {desc}"
     if not is_spanish_content(content_to_check):
         logger.info(f"Descartado por idioma: {title}")
         return False
+
+    # 5. Si no es Chile, DEBE ser remoto
+    if location.lower() != "chile":
+        remote_keywords = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "en cualquier lugar"]
+        is_remote = any(kw in title_lower or kw in desc_lower for kw in remote_keywords)
+        if not is_remote:
+            logger.info(f"Descartado por no ser remoto fuera de Chile ({location}): {title}")
+            return False
             
     return True
 
@@ -172,7 +181,7 @@ def fetch_metadata(url: str) -> Dict[str, str]:
         
     return {"url": url, "title": title, "desc": desc}
 
-def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int = 24) -> List[Dict[str, str]]:
+def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int = 24, remote_only: bool = False) -> List[Dict[str, str]]:
     """
     LinkedIn guest search scraper.
     """
@@ -182,12 +191,15 @@ def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int
     
     url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={query}&location={loc}&f_TPR={tpr}&sortBy=DD&start=0"
     
+    if remote_only:
+        url += "&f_WT=2"
+    
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
     }
     
-    logger.info("Scrapeando LinkedIn: keywords=%s, location=%s", keywords, location)
+    logger.info("Scrapeando LinkedIn: keywords=%s, location=%s, remote=%s", keywords, location, remote_only)
     try:
         resp = requests.get(url, headers=headers, timeout=15)
         resp.raise_for_status()
@@ -207,9 +219,9 @@ def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int
             
             if title_tag and link_tag:
                 title = title_tag.get_text(strip=True)
-                # LinkedIn guest search doesn't usually give description in the landing, 
-                # but we can pass the title for the language check.
-                if not is_relevant(title):
+                
+                # Check relevance with location context
+                if not is_relevant(title, location=location):
                     continue
                 
                 company = company_tag.get_text(strip=True) if company_tag else "N/A"
@@ -317,7 +329,13 @@ def main():
     offers = []
     for url in found_urls:
         meta = fetch_metadata(url)
-        if is_relevant(meta["title"], meta["desc"]):
+        # For Google results, we treat location as "Internacional" to enforce remote rules
+        # unless we find "Chile" in the title or URL.
+        google_loc = "Internacional"
+        if "chile" in meta["title"].lower() or "chile" in url.lower():
+            google_loc = "Chile"
+            
+        if is_relevant(meta["title"], meta["desc"], location=google_loc):
             # Intentar extraer empresa del título o URL para sitios que no son LinkedIn
             title_parts = meta["title"].split(" at ")
             if len(title_parts) < 2:
@@ -361,7 +379,7 @@ def main():
     for loc_es in regiones_es:
         for combo in combos_remote:
             logger.info("Scrapeando LinkedIn Remoto: %s en %s", combo, loc_es)
-            offers.extend(fetch_linkedin_jobs(combo, location=loc_es, hours=24))
+            offers.extend(fetch_linkedin_jobs(combo, location=loc_es, hours=24, remote_only=True))
             time.sleep(2)
 
     seen_keys = load_seen()

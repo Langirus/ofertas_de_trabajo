@@ -2,8 +2,8 @@ name: Job Search Daily
 
 on:
   schedule:
-    # Runs daily at 12:00 UTC (aprox morning in Chile during southern summer)
-    - cron: '0 12 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch: {}
 
 jobs:

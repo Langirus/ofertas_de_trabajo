@@ -25,6 +25,8 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4
 https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182
 https://cl.linkedin.com/jobs/view/ingeniero-a-cash-management-junior-at-confidential-4398488424
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-metals-4403634101
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-programador-inform%C3%A1tico-at-constructora-3l-4404871675
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-salfacorp-4404893105
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-computaci%C3%B3n-e-inform%C3%A1tica-at-ardum-ingenier%C3%ADa-spa-4401654193
 https://co.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bairesdev-4403616214
 https://de.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403633853
@@ -107,5 +109,7 @@ juniorsoftwareengineer|trustinsoda
 juniorwebfrontenddeveloper|joinrs
 practicanteprofesionaldecomputacineinformtica|ardumingenieraspa
 prcticaprofesionalit|metlenenergymetals
+prcticaprofesionalprogramadorinformtico|constructora3l
+prcticaprofesionalti|salfacorp
 programadorajuniorphpvuejs|getronics
 programadorasoftwarejunior|grupoviarium

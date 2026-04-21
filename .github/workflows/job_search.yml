@@ -11,6 +11,8 @@ on:
 jobs:
   run-search:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -32,3 +34,11 @@ jobs:
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
         run: |
           python main.py
+
+      - name: Save memory (seen_jobs.txt)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.txt
+          git commit -m "chore: actualizar memoria de ofertas enviadas [skip ci]" || echo "No hay cambios en la memoria"
+          git push

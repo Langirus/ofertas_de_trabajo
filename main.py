@@ -41,21 +41,26 @@ SITES = [
 WHITELIST_TI = [
     "Informática", "TI", "IT", "Sistemas", "Software", "Programador", "Desarrollador", 
     "Developer", "Computación", "Soporte", "Redes", "Ciberseguridad", "Datos", "Data", 
-    "Cloud", "Infraestructura", "QA", "Testing", "Informático", "Telecomunicaciones"
+    "Cloud", "Infraestructura", "QA", "Testing", "Informático", "Telecomunicaciones",
+    "Web", "Frontend", "Backend", "Fullstack", "Java", "Python", "Javascript", "React",
+    "Node", "SQL", "Base de datos", "Ingeniero", "Ingeniería", "Tecnología"
 ]
 
 # Niveles Junior/Trainee (Whitelist 2)
 WHITELIST_LEVEL = [
     "Junior", "Trainee", "Práctica", "Practicante", "Entry Level", "Sin experiencia", 
-    "Analista", "Egresado", "Recién graduado", "Nivel inicial"
+    "Analista", "Egresado", "Recién graduado", "Nivel inicial", "Analyst", "Jr"
 ]
 
 # Blacklist: Filtros para descartar Senior o áreas ajenas
 BLACKLIST = [
     "Senior", "Sr", "Lead", "Principal", "Jefe", "Director", "Manager", "Expert", 
     "Civil", "Viales", "Construcción", "Hidráulica", "Minas", "Minería", "BIM", 
-    "Arquitecto", "Comercial", "Ventas", "Psicólogo", "Contador", "Social", "Veterinario"
+    "Arquitecto", "Comercial", "Ventas", "Psicólogo", "Contador", "Social", "Veterinario",
+    "Médico", "Enfermero", "Abogado", "Recursos Humanos", "RRHH"
 ]
+
+SEEN_FILE = "seen_jobs.txt"
 
 LOCATION_CHILE = "Chile"
 # ---------------------------------
@@ -224,6 +229,17 @@ HTML_TEMPLATE = """
 </html>
 """
 
+def load_seen():
+    if not os.path.exists(SEEN_FILE):
+        return set()
+    with open(SEEN_FILE, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
+
+def save_seen(urls):
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
+        for url in sorted(urls):
+            f.write(url + "\n")
+
 def main():
     logger.info("--- Iniciando Búsqueda TI Multisector ---")
     
@@ -253,36 +269,45 @@ def main():
 
     # --- PASO 2: LinkedIn Chile ---
     combos_chile = [
-        ["Junior", "Informática"],
-        ["Soporte", "TI", "Junior"],
+        ["Junior", "Software"],
+        ["Trainee", "Informática"],
+        ["Soporte", "TI"],
         ["Analista", "Sistemas"],
-        ["Trainee", "Desarrollador"],
-        ["Práctica", "TI"]
+        ["Práctica", "Programador"],
+        ["Junior", "IT"]
     ]
     for combo in combos_chile:
-        offers.extend(fetch_linkedin_jobs(combo, location="Chile", hours=2))
+        offers.extend(fetch_linkedin_jobs(combo, location="Chile", hours=24))
         time.sleep(2)
 
     # --- PASO 3: LinkedIn Remoto Internacional ---
     combos_remote = [
-        ["Junior", "Remoto", "Software"],
+        ["Junior", "Remote", "Software"],
         ["Trainee", "Remote", "Developer"],
-        ["Analista", "Remoto", "IT"],
+        ["Junior", "Backend"],
+        ["Junior", "Frontend"],
         ["Data", "Junior", "Remote"]
     ]
     for combo in combos_remote:
-        offers.extend(fetch_linkedin_jobs(combo, location="Worldwide", hours=2))
+        offers.extend(fetch_linkedin_jobs(combo, location="Worldwide", hours=24))
         time.sleep(2)
 
-    unique_offers = []
-    seen_urls = set()
+    seen_urls = load_seen()
+    new_offers = []
+    
     for o in offers:
         if o["url"] not in seen_urls:
-            unique_offers.append(o)
+            new_offers.append(o)
             seen_urls.add(o["url"])
 
+    logger.info("Total encontradas: %d | Nuevas para enviar: %d", len(offers), len(new_offers))
+
+    if not new_offers:
+        logger.info("No hay ofertas nuevas. Fin del proceso.")
+        return
+
     html = Template(HTML_TEMPLATE).render(
-        offers=unique_offers, 
+        offers=new_offers, 
         generated_at=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     )
     
@@ -291,10 +316,11 @@ def main():
         filename = f"report_preview_{datetime.utcnow().strftime('%Y%H%M%SZ')}.html"
         with open(filename, "w", encoding="utf-8") as f:
             f.write(html)
-        logger.info("DRY_RUN: Reporte guardado en %s (Encontrados: %d)", filename, len(unique_offers))
+        logger.info("DRY_RUN: Reporte guardado en %s (Nuevas: %d)", filename, len(new_offers))
     else:
-        subject = f"[JobSearch] {len(unique_offers)} Ofertas Nuevas - {datetime.utcnow().strftime('%Y-%m-%d')}"
+        subject = f"[JobSearch] {len(new_offers)} Ofertas Nuevas - {datetime.utcnow().strftime('%Y-%m-%d')}"
         send_email_safe(html, subject)
+        save_seen(seen_urls)
 
 def send_email_safe(html_body: str, subject: str):
     sender = os.environ.get("EMAIL_SENDER")

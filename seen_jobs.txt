@@ -1,5 +1,6 @@
 analistadeciberseguridadjunior|hfsolutions
 analistadesoportedeaplicacionesproduccindynamicsazuresql|kibernum
+analistadesoporteparati|experischile
 analistadesoportesapfimmfm|kibernum
 dataengineerjuniorremotework|bairesdev
 entrylevelengineerdeveloper|rovisys
@@ -20,6 +21,7 @@ https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-44036368
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403663095
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-hf-solutions-4404392452
 https://cl.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-producci%C3%B3n-%E2%80%93-dynamics-azure-sql-at-kibernum-4401941948
+https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4404845106
 https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182
 https://cl.linkedin.com/jobs/view/ingeniero-a-cash-management-junior-at-confidential-4398488424
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-metals-4403634101
@@ -30,7 +32,10 @@ https://de.linkedin.com/jobs/view/junior-data-analyst-at-prime-seafood-imports-i
 https://de.linkedin.com/jobs/view/junior-frontend-developer-react-m-f-x-at-progyny-inc-4404562149
 https://de.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404048401
 https://de.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404031924
+https://es.linkedin.com/jobs/view/junior-developer-at-cacesa-tech-logistics-4404804429
 https://es.linkedin.com/jobs/view/junior-frontend-engineer-at-glovo-4403939948
+https://es.linkedin.com/jobs/view/programador-a-junior-php-vue-js-at-getronics-4390038119
+https://es.linkedin.com/jobs/view/programador-a-software-junior-at-grupo-viarium-4403918683
 https://fr.linkedin.com/jobs/view/junior-data-analyst-at-prime-authority-4404814894
 https://fr.linkedin.com/jobs/view/junior-data-analyst-at-singapore-space-summit-4401934393
 https://il.linkedin.com/jobs/view/junior-full-stack-developer-at-unilink-ltd-4404560546
@@ -81,6 +86,7 @@ juniordataanalyst|tantumpay
 juniordataanalyticsspecialisthochiminhcityvietnamremoteworking|lekconsulting
 juniordataengineer|smartcommunications
 juniordataenginer|lesclubsohadaducamerounlcoc
+juniordeveloper|cacesatechlogistics
 juniorfrontenddeveloperangular|ascendion
 juniorfrontenddeveloperintern|infrabyteconsulting
 juniorfrontenddeveloperreactmfx|progynyinc
@@ -101,3 +107,5 @@ juniorsoftwareengineer|trustinsoda
 juniorwebfrontenddeveloper|joinrs
 practicanteprofesionaldecomputacineinformtica|ardumingenieraspa
 prcticaprofesionalit|metlenenergymetals
+programadorajuniorphpvuejs|getronics
+programadorasoftwarejunior|grupoviarium

@@ -52,6 +52,7 @@ GitHub Actions
 - El workflow `.github/workflows/job_search.yml` ya incluye un `cron` diario. Ajusta la expresión `cron` si quieres otra hora (la actual es `0 12 * * *` UTC).
 
 Limitaciones y buenas prácticas
+- **Filtro de Idioma**: El script incluye un detector heurístico que prioriza ofertas en español y descarta aquellas claramente en otros idiomas.
 - `googlesearch-python` depende de resultados públicos de Google; si Google bloquea peticiones, la búsqueda puede fallar.
 - No hagas scraping agresivo; el script respeta pausas cortas entre peticiones.
 - Revisa el archivo HTML generado antes de abrir enlaces desconocidos.

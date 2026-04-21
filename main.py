@@ -60,17 +60,51 @@ BLACKLIST = [
     "Médico", "Enfermero", "Abogado", "Recursos Humanos", "RRHH"
 ]
 
+# Palabras clave para detección de idioma (Heurística simple)
+SPANISH_STOPWORDS = {
+    'de', 'la', 'el', 'en', 'y', 'a', 'que', 'los', 'se', 'del', 'las', 'un', 'con', 'no', 'una', 
+    'su', 'para', 'es', 'al', 'lo', 'como', 'más', 'pero', 'sus', 'le', 'ya', 'o', 'este', 'sí', 
+    'porque', 'esta', 'entre', 'cuando', 'muy', 'sin', 'sobre', 'también', 'me', 'hasta', 'hay', 
+    'donde', 'quien', 'desde', 'todo', 'nos', 'durante', 'todos', 'uno', 'les', 'ni', 'vacante',
+    'requerimientos', 'conocimientos', 'manejo', 'experiencia', 'postular', 'postulación'
+}
+
+ENGLISH_STOPWORDS = {
+    'the', 'of', 'and', 'a', 'to', 'in', 'is', 'you', 'that', 'it', 'he', 'was', 'for', 'on', 
+    'are', 'as', 'with', 'his', 'they', 'at', 'be', 'this', 'have', 'from', 'or', 'one', 'had', 
+    'by', 'word', 'but', 'not', 'what', 'all', 'were', 'we', 'when', 'your', 'can', 'said', 
+    'there', 'use', 'an', 'each', 'which', 'she', 'do', 'how', 'their', 'if', 'will', 'job',
+    'requirements', 'skills', 'experience', 'apply'
+}
+
 SEEN_FILE = "seen_jobs.txt"
 
 LOCATION_CHILE = "Chile"
 # ---------------------------------
 
-def is_relevant(title: str) -> bool:
+def is_spanish_content(text: str) -> bool:
+    """
+    Heurística para determinar si un texto está en español.
+    Compara la frecuencia de palabras comunes en español vs inglés.
+    """
+    words = re.findall(r'\b\w+\b', text.lower())
+    if not words:
+        return False
+    
+    es_count = sum(1 for w in words if w in SPANISH_STOPWORDS)
+    en_count = sum(1 for w in words if w in ENGLISH_STOPWORDS)
+    
+    # Si hay una clara mayoría de español o presencia de palabras clave ES, aceptamos.
+    # Damos un pequeño margen al español por ser el objetivo.
+    return es_count >= en_count or es_count > 0
+
+def is_relevant(title: str, desc: str = "") -> bool:
     """
     Verifica si el puesto es relevante:
     1. No debe tener palabras de la blacklist.
     2. Debe tener al menos una palabra de TI.
     3. Debe tener al menos una palabra de nivel (Junior/Trainee/Analista).
+    4. Debe estar en español o ser para hispanohablantes.
     """
     title_lower = title.lower()
     
@@ -98,6 +132,13 @@ def is_relevant(title: str) -> bool:
     # 3. Verificar si es nivel inicial
     has_level = any(level.lower() in title_lower for level in WHITELIST_LEVEL)
     if not has_level:
+        return False
+
+    # 4. Filtro de Idioma (Nuevo)
+    # Se aplica al título y opcionalmente a la descripción
+    content_to_check = f"{title} {desc}"
+    if not is_spanish_content(content_to_check):
+        logger.info(f"Descartado por idioma: {title}")
         return False
             
     return True
@@ -166,6 +207,8 @@ def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int
             
             if title_tag and link_tag:
                 title = title_tag.get_text(strip=True)
+                # LinkedIn guest search doesn't usually give description in the landing, 
+                # but we can pass the title for the language check.
                 if not is_relevant(title):
                     continue
                 
@@ -208,8 +251,8 @@ HTML_TEMPLATE = """
 </head>
 <body>
   <div class="container">
-    <h1>🚀 Reporte TI Junior / Trainee</h1>
-    <div class="meta">Generado: {{ generated_at }} | Ubicaciones: Chile & Remoto Internacional</div>
+    <h1>🚀 Reporte TI Junior / Trainee (Español)</h1>
+    <div class="meta">Generado: {{ generated_at }} | Ubicaciones: Chile, Latam & España</div>
     {% if offers %}
       {% for o in offers %}
         <div class="job">
@@ -274,7 +317,7 @@ def main():
     offers = []
     for url in found_urls:
         meta = fetch_metadata(url)
-        if is_relevant(meta["title"]):
+        if is_relevant(meta["title"], meta["desc"]):
             # Intentar extraer empresa del título o URL para sitios que no son LinkedIn
             title_parts = meta["title"].split(" at ")
             if len(title_parts) < 2:
@@ -304,17 +347,22 @@ def main():
         offers.extend(fetch_linkedin_jobs(combo, location="Chile", hours=24))
         time.sleep(2)
 
-    # --- PASO 3: LinkedIn Remoto Internacional ---
+    # --- PASO 3: LinkedIn Remoto Internacional (Español) ---
+    # Buscamos en regiones de habla hispana para asegurar relevancia
+    regiones_es = ["Latin America", "Spain", "Mexico", "Argentina", "Colombia"]
     combos_remote = [
-        ["Junior", "Remote", "Software"],
-        ["Trainee", "Remote", "Developer"],
-        ["Junior", "Backend"],
-        ["Junior", "Frontend"],
-        ["Data", "Junior", "Remote"]
+        ["Junior", "Remoto", "Software"],
+        ["Trainee", "Remoto", "Desarrollador"],
+        ["Junior", "Remoto", "Informática"],
+        ["Analista", "Sistemas", "Remoto"],
+        ["Programador", "Junior"]
     ]
-    for combo in combos_remote:
-        offers.extend(fetch_linkedin_jobs(combo, location="Worldwide", hours=24))
-        time.sleep(2)
+    
+    for loc_es in regiones_es:
+        for combo in combos_remote:
+            logger.info("Scrapeando LinkedIn Remoto: %s en %s", combo, loc_es)
+            offers.extend(fetch_linkedin_jobs(combo, location=loc_es, hours=24))
+            time.sleep(2)
 
     seen_keys = load_seen()
     new_offers = []

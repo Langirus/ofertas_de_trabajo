@@ -1,6 +1,7 @@
 name: Job Search Daily
 
-on:
+  push:
+    branches: [ main ]
   schedule:
     # Runs every hour
     - cron: '0 * * * *'

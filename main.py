@@ -174,7 +174,9 @@ def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int
                 
                 offers.append({
                     "url": link,
-                    "title": f"[{location}] {title} @ {company}",
+                    "title": title,
+                    "company": company,
+                    "location": location,
                     "desc": f"Publicado recientemente en {location}."
                 })
         except Exception:
@@ -212,8 +214,8 @@ HTML_TEMPLATE = """
       {% for o in offers %}
         <div class="job">
           <div>
-            <a href="{{ o.url }}" target="_blank" rel="noopener">{{ o.title }}</a>
-            {% if "Remote" in o.title or "Remoto" in o.title %}
+            <a href="{{ o.url }}" target="_blank" rel="noopener">{{ o.display_title }}</a>
+            {% if "Remote" in o.display_title or "Remoto" in o.display_title %}
               <span class="badge badge-remote">Remoto</span>
             {% endif %}
           </div>
@@ -240,6 +242,15 @@ def save_seen(urls):
         for url in sorted(urls):
             f.write(url + "\n")
 
+def generate_key(offer):
+    # Genera una clave única basada en título y empresa para evitar duplicados de diferentes fuentes
+    title = offer.get("title", "").lower()
+    company = offer.get("company", "n/a").lower()
+    # Limpiar caracteres especiales y espacios extras
+    clean_title = re.sub(r'[^a-z0-9]', '', title)
+    clean_company = re.sub(r'[^a-z0-9]', '', company)
+    return f"{clean_title}|{clean_company}"
+
 def main():
     logger.info("--- Iniciando Búsqueda TI Multisector ---")
     
@@ -264,6 +275,19 @@ def main():
     for url in found_urls:
         meta = fetch_metadata(url)
         if is_relevant(meta["title"]):
+            # Intentar extraer empresa del título o URL para sitios que no son LinkedIn
+            title_parts = meta["title"].split(" at ")
+            if len(title_parts) < 2:
+                title_parts = meta["title"].split(" @ ")
+            
+            company = "N/A"
+            if len(title_parts) >= 2:
+                company = title_parts[-1].strip()
+            elif "lever.co" in url:
+                company = url.split("lever.co/")[1].split("/")[0]
+            
+            meta["company"] = company
+            meta["location"] = "Mundial"
             offers.append(meta)
         time.sleep(1)
 
@@ -292,19 +316,29 @@ def main():
         offers.extend(fetch_linkedin_jobs(combo, location="Worldwide", hours=24))
         time.sleep(2)
 
-    seen_urls = load_seen()
+    seen_keys = load_seen()
     new_offers = []
     
     for o in offers:
-        if o["url"] not in seen_urls:
+        key = generate_key(o)
+        if key not in seen_keys:
             new_offers.append(o)
-            seen_urls.add(o["url"])
+            seen_keys.add(key)
+            # También guardamos la URL como clave técnica por si acaso
+            seen_keys.add(o["url"])
 
     logger.info("Total encontradas: %d | Nuevas para enviar: %d", len(offers), len(new_offers))
 
     if not new_offers:
         logger.info("No hay ofertas nuevas. Fin del proceso.")
         return
+
+    # Formatear títulos para el HTML final
+    for o in new_offers:
+        if "location" in o and "company" in o:
+            o["display_title"] = f"[{o['location']}] {o['title']} @ {o['company']}"
+        else:
+            o["display_title"] = o["title"]
 
     html = Template(HTML_TEMPLATE).render(
         offers=new_offers, 
@@ -320,7 +354,7 @@ def main():
     else:
         subject = f"[JobSearch] {len(new_offers)} Ofertas Nuevas - {datetime.utcnow().strftime('%Y-%m-%d')}"
         send_email_safe(html, subject)
-        save_seen(seen_urls)
+        save_seen(seen_keys)
 
 def send_email_safe(html_body: str, subject: str):
     sender = os.environ.get("EMAIL_SENDER")

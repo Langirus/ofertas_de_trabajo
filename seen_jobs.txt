@@ -17,6 +17,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-computaci%C3%B3n-e-inform%C3%A1tica-at-ardum-ingenier%C3%ADa-spa-4401654193
 https://co.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bairesdev-4403616214
 https://de.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403633853
+https://de.linkedin.com/jobs/view/junior-data-analyst-at-prime-seafood-imports-inc-4403924362
 https://de.linkedin.com/jobs/view/junior-frontend-developer-react-m-f-x-at-progyny-inc-4404562149
 https://de.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404048401
 https://de.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404031924
@@ -42,6 +43,8 @@ https://ro.linkedin.com/jobs/view/junior-frontend-engineer-internship-at-adswizz
 https://sg.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404038578
 https://uk.linkedin.com/jobs/view/junior-data-analyst-%E2%80%93-remote-at-vita-cv-4404056104
 https://uk.linkedin.com/jobs/view/junior-data-engineer-at-smart-communications-4401640506
+https://uk.linkedin.com/jobs/view/junior-software-engineer-at-hyra-4404544921
+https://uk.linkedin.com/jobs/view/junior-software-engineer-at-trust-in-soda-4403637465
 https://vn.linkedin.com/jobs/view/junior-data-analytics-specialist-ho-chi-minh-city-vietnam-remote-working-at-l-e-k-consulting-4395009482
 https://www.linkedin.com/jobs/view/entry-level-engineer-developer-at-rovisys-4302548932
 https://www.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404031963
@@ -52,6 +55,7 @@ juniorbackendengineerinternship|adswizz
 juniordataanalist|erasmustalent
 juniordataanalystremote|vitacv
 juniordataanalyst|jhcconsulting
+juniordataanalyst|primeseafoodimportsinc
 juniordataanalyst|tantumpay
 juniordataanalyticsspecialisthochiminhcityvietnamremoteworking|lekconsulting
 juniordataengineer|smartcommunications
@@ -63,7 +67,9 @@ juniorfrontendengineer|radiantsecurity
 juniorjavadeveloper|scoutit
 juniormernstackdeveloper|scoutit
 juniorpythondeveloper|joveoai
+juniorsoftwareengineer|hyra
 juniorsoftwareengineer|joveoai
+juniorsoftwareengineer|trustinsoda
 juniorwebfrontenddeveloper|joinrs
 practicanteprofesionaldecomputacineinformtica|ardumingenieraspa
 prcticaprofesionalit|metlenenergymetals

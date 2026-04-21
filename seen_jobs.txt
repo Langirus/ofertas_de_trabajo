@@ -1,7 +1,9 @@
 analistadeciberseguridadjunior|hfsolutions
 analistadesoportedeaplicacionesproduccindynamicsazuresql|kibernum
+analistadesoportesapfimmfm|kibernum
 dataengineerjuniorremotework|bairesdev
 entrylevelengineerdeveloper|rovisys
+entrylevelsoftwaredeveloperremote|jobletai
 https://ae.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404040591
 https://ae.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404047462
 https://ar.linkedin.com/jobs/view/junior-software-developer-remote-at-joblet-ai-4404581816
@@ -10,6 +12,7 @@ https://at.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-44036465
 https://au.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404043515
 https://au.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404037629
 https://br.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4403663180
+https://br.linkedin.com/jobs/view/entry-level-software-developer-remote-at-joblet-ai-4404589821
 https://br.linkedin.com/jobs/view/junior-frontend-engineer-at-radiant-security-4372917733
 https://ca.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404040590
 https://ca.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404054254
@@ -17,6 +20,7 @@ https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-44036368
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403663095
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-hf-solutions-4404392452
 https://cl.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-producci%C3%B3n-%E2%80%93-dynamics-azure-sql-at-kibernum-4401941948
+https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182
 https://cl.linkedin.com/jobs/view/ingeniero-a-cash-management-junior-at-confidential-4398488424
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-metals-4403634101
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-computaci%C3%B3n-e-inform%C3%A1tica-at-ardum-ingenier%C3%ADa-spa-4401654193
@@ -27,6 +31,7 @@ https://de.linkedin.com/jobs/view/junior-frontend-developer-react-m-f-x-at-progy
 https://de.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404048401
 https://de.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404031924
 https://es.linkedin.com/jobs/view/junior-frontend-engineer-at-glovo-4403939948
+https://fr.linkedin.com/jobs/view/junior-data-analyst-at-prime-authority-4404814894
 https://fr.linkedin.com/jobs/view/junior-data-analyst-at-singapore-space-summit-4401934393
 https://il.linkedin.com/jobs/view/junior-full-stack-developer-at-unilink-ltd-4404560546
 https://in.linkedin.com/jobs/view/junior-front-end-developer-intern-at-infrabyte-consulting-4404325526
@@ -69,6 +74,7 @@ juniordataanalist|erasmustalent
 juniordataanalystremote|vitacv
 juniordataanalyst|csc
 juniordataanalyst|jhcconsulting
+juniordataanalyst|primeauthority
 juniordataanalyst|primeseafoodimportsinc
 juniordataanalyst|singaporespacesummit
 juniordataanalyst|tantumpay

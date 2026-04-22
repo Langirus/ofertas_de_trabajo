@@ -1,4 +1,6 @@
 analistadeciberseguridadjunior|hfsolutions
+analistadedatos|siigroupchile
+analistadesistemas|novasisllc
 analistadesoportedeaplicacionesproduccindynamicsazuresql|kibernum
 analistadesoporteparati|experischile
 analistadesoportesapfimmfm|kibernum
@@ -20,6 +22,8 @@ https://ca.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-440405425
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403636857
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403663095
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-hf-solutions-4404392452
+https://cl.linkedin.com/jobs/view/analista-de-datos-%F0%9F%9A%80-at-sii-group-chile-4405431453
+https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4405417420
 https://cl.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-producci%C3%B3n-%E2%80%93-dynamics-azure-sql-at-kibernum-4401941948
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4404845106
 https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182
@@ -29,6 +33,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-programador-inform%C3%A1tico-at-constructora-3l-4404871675
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-salfacorp-4404893105
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-cic-4402804362
+https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-proyectos-y-nuevas-tecnolog%C3%ADas-desarrollo-at-ranco-cherries-4405425321
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-computaci%C3%B3n-e-inform%C3%A1tica-at-ardum-ingenier%C3%ADa-spa-4401654193
 https://co.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bairesdev-4403616214
 https://de.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403633853
@@ -111,6 +116,7 @@ juniorsoftwareengineer|trustinsoda
 juniorwebfrontenddeveloper|joinrs
 latambasedcontractoragiledatabusinessanalyst|infinitelambda
 practicanteprofesionaldecomputacineinformtica|ardumingenieraspa
+practicantereadeproyectosynuevastecnologasdesarrollo|rancocherries
 prcticaprofesionalit|metlenenergymetals
 prcticaprofesionalprogramadorinformtico|constructora3l
 prcticaprofesionalti|salfacorp

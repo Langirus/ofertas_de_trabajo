@@ -1,5 +1,6 @@
 analistadeciberseguridadjunior|hfsolutions
 analistadedatos|siigroupchile
+analistadesistemasdeti|experischile
 analistadesistemas|novasisllc
 analistadesoportedeaplicacionesproduccindynamicsazuresql|kibernum
 analistadesoporteparati|experischile
@@ -24,6 +25,7 @@ https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-44036630
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-hf-solutions-4404392452
 https://cl.linkedin.com/jobs/view/analista-de-datos-%F0%9F%9A%80-at-sii-group-chile-4405431453
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4405417420
+https://cl.linkedin.com/jobs/view/analista-de-sistemas-de-ti-at-experis-chile-4405440851
 https://cl.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-producci%C3%B3n-%E2%80%93-dynamics-azure-sql-at-kibernum-4401941948
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4404845106
 https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182

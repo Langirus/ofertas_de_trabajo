@@ -35,6 +35,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-cash-management-junior-at-confiden
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-jobs-ai-4405844396
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4405654061
 https://cl.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4405631979
+https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-at-sezzle-4271076854
 https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-jobs-ai-4405836520
 https://cl.linkedin.com/jobs/view/latam-based-contractor-agile-data-business-analyst-at-infinite-lambda-4405402083
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-metals-4403634101
@@ -120,6 +121,7 @@ juniorshopifyfrontenddeveloper|nooma
 juniorsoftwaredeveloperremote|jobletai
 juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing
+juniorsoftwareengineerchile|sezzle
 juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
 juniorsoftwareengineer|hyra

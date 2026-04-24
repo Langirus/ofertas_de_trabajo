@@ -44,6 +44,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-salfacorp-4404
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-cic-4402804362
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-proyectos-y-nuevas-tecnolog%C3%ADas-desarrollo-at-ranco-cherries-4405425321
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-computaci%C3%B3n-e-inform%C3%A1tica-at-ardum-ingenier%C3%ADa-spa-4401654193
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-junior-at-getronics-4403267126
 https://co.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bairesdev-4403616214
 https://de.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403633853
 https://de.linkedin.com/jobs/view/junior-data-analyst-at-prime-seafood-imports-inc-4403924362
@@ -137,3 +138,4 @@ prcticaprofesionalti|salfacorp
 prcticati|cic
 programadorajuniorphpvuejs|getronics
 programadorasoftwarejunior|grupoviarium
+tcnicodesoportejunior|getronics

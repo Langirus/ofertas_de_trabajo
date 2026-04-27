@@ -1,5 +1,6 @@
 analistadeciberseguridadjunior|hfsolutions
 analistadedatos|siigroupchile
+analistadesarrollador|valio
 analistadesistemasdeti|experischile
 analistadesistemas|novasisllc
 analistadesoportedeaplicacionesproduccindynamicsazuresql|kibernum
@@ -31,6 +32,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-de-aplicaciones-producci%C
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4404845106
 https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4405020792
+https://cl.linkedin.com/jobs/view/analista-desarrollador-at-valio-4407430804
 https://cl.linkedin.com/jobs/view/ingeniero-a-cash-management-junior-at-confidential-4398488424
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-jobs-ai-4405844396
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4405654061

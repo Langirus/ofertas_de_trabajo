@@ -7,6 +7,7 @@ analistadesoportedeaplicacionesproduccindynamicsazuresql|kibernum
 analistadesoporteparati|experischile
 analistadesoportesapfimmfm|kibernum
 analistadesoporteycontinuidadoperativa|apiuxtech
+analistajuniortisapr3|ithuntersinternational
 dataengineerjuniorremotework|bairesdev
 entrylevelengineerdeveloper|rovisys
 entrylevelsoftwaredeveloperremote|jobletai
@@ -33,6 +34,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4
 https://cl.linkedin.com/jobs/view/analista-de-soporte-sap-%E2%80%93-fi-mm-fm-at-kibernum-4401961182
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4405020792
 https://cl.linkedin.com/jobs/view/analista-desarrollador-at-valio-4407430804
+https://cl.linkedin.com/jobs/view/analista-junior-ti-sap-r3-at-it-hunter-4406235437
 https://cl.linkedin.com/jobs/view/ingeniero-a-cash-management-junior-at-confidential-4398488424
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-jobs-ai-4405844396
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4405654061
@@ -45,6 +47,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-programador-inform%C
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-salfacorp-4404893105
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-cic-4402804362
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-proyectos-y-nuevas-tecnolog%C3%ADas-desarrollo-at-ranco-cherries-4405425321
+https://cl.linkedin.com/jobs/view/practicante-de-infraestructura-ti-at-experis-4407512311
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-computaci%C3%B3n-e-inform%C3%A1tica-at-ardum-ingenier%C3%ADa-spa-4401654193
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-junior-at-getronics-4403267126
 https://co.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bairesdev-4403616214
@@ -132,6 +135,7 @@ juniorsoftwareengineer|joveoai
 juniorsoftwareengineer|trustinsoda
 juniorwebfrontenddeveloper|joinrs
 latambasedcontractoragiledatabusinessanalyst|infinitelambda
+practicantedeinfraestructurati|experis
 practicanteprofesionaldecomputacineinformtica|ardumingenieraspa
 practicantereadeproyectosynuevastecnologasdesarrollo|rancocherries
 prcticaprofesionalit|metlenenergymetals

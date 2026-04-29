@@ -1,0 +1,53 @@
+PERFIL PROFESIONAL - Fernando Ernesto Rabanal Osorio
+=====================================================
+Ubicación: Santiago, Región Metropolitana, Chile
+Contacto: +569 40127261 | fernando.rabanal1999@gmail.com
+
+RESUMEN
+-------
+Ingeniero Civil en Computación e Informática recién titulado (Universidad Central de Chile, 2025).
+Experiencia en desarrollo de aplicaciones móviles Android con Kotlin e integración de IA generativa
+mediante la API Gemini. Especialista en soluciones cloud serverless con Firebase y gestión de proyectos
+ágiles (Scrum-Kanban). Destaco por liderazgo, pensamiento crítico y capacidad para convertir
+necesidades de negocio en productos tecnológicos que mejoran la experiencia de usuario.
+
+EXPERIENCIA PROFESIONAL
+-----------------------
+1. Coordinador Eléctrico Nacional — Practicante Área de Tecnología (Enero–Abril 2025)
+   - Desarrollé un sistema en Python que integra la API ChatGPT para validación automática de documentos administrativos.
+   - Documenté el flujo de datos y capacité a analistas, facilitando la adopción de la herramienta.
+
+2. Arcos Dorados (McDonald's) — Gerente de Turno Nivel 1 (2018–2024)
+   - Coordiné turnos de hasta 25 colaboradores, superando metas de ventas en 12% mensual.
+   - Capacité personal en protocolos de servicio. Implementé dashboard de inventario en Excel.
+
+3. WaveServices — Practicante Soporte IT (Enero–Marzo 2023)
+   - Diagnóstico y resolución de incidentes hardware/software respetando SLA < 24h.
+   - Automatización de scripts de respaldo en Windows Server.
+
+4. Banco Santander — Practicante Técnico Contabilidad (Nov 2016–Mar 2017)
+
+EDUCACIÓN
+---------
+- Ingeniería Civil en Computación e Informática, Universidad Central de Chile (2018–2025)
+- Técnico Medio en Contabilidad, Instituto Superior de Comercio Eduardo Frei Montalva (2013–2016)
+
+HABILIDADES TÉCNICAS
+--------------------
+Lenguajes: Kotlin, Python, Java, SQL, HTML, CSS, JavaScript
+Herramientas: Android Studio, Firebase, Gemini API, Mapbox, Git, Android SDK
+Frameworks: Scrum, Kanban
+Ofimática: Excel, Word, PowerPoint, Project (intermedio), Power BI
+IA/Cloud: Integración APIs de IA (Gemini, ChatGPT), Firebase (serverless, NoSQL)
+
+IDIOMAS
+-------
+Español: Nativo
+Inglés: Intermedio
+
+QUÉ BUSCO
+---------
+- Cargo: Junior, Trainee, Analista o Practicante en área de TI
+- Áreas preferidas: Desarrollo de Software (móvil/web/backend), Inteligencia Artificial, Soporte TI, Datos
+- Modalidad: Presencial en Chile o Remoto en cualquier país hispanohablante
+- Nivel de entrada: Primer empleo formal como Ingeniero / Junior Developer

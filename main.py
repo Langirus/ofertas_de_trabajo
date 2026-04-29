@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
-import argparse
 import time
 import logging
-import itertools
 from datetime import datetime
 from typing import List, Dict
 
@@ -23,6 +21,8 @@ import smtplib
 import ssl
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+
+from groq_scorer import build_groq_client, load_cv_profile, score_job_with_ai, MIN_SCORE_THRESHOLD
 
 # Configuración de logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
@@ -245,42 +245,92 @@ HTML_TEMPLATE = """
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Reporte de Ofertas TI Junior</title>
+  <title>Reporte de Ofertas TI Junior — Match IA</title>
   <style>
-    body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:#f0f2f5; color:#1c1e21; line-height:1.6;}
-    .container{max-width:800px;margin:20px auto;background:#fff;padding:30px;border-radius:12px;box-shadow:0 10px 25px rgba(0,0,0,0.05)}
-    h1{color:#003566; margin-bottom:10px; font-size:24px}
-    .meta{color:#65676b;font-size:14px;margin-bottom:20px; border-bottom:1px solid #ebedf0; padding-bottom:15px}
-    .job{padding:15px;border-radius:10px;border:1px solid #e4e6eb;margin-bottom:15px; transition: 0.2s}
-    .job:hover{border-color:#003566; background:#f8f9fa}
-    .job a{color:#003566;text-decoration:none;font-weight:bold; font-size:18px}
-    .job a:hover{text-decoration:underline}
-    .desc{color:#4b4f56;margin-top:8px;font-size:14px}
-    .badge{display:inline-block; padding:2px 8px; border-radius:4px; font-size:11px; font-weight:bold; text-transform:uppercase; margin-left:5px}
-    .badge-remote{background:#dcfce7; color:#166534}
-    footer{color:#bcc0c4;font-size:12px;margin-top:30px; text-align:center}
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+    *{box-sizing:border-box; margin:0; padding:0;}
+    body{font-family:'Inter',sans-serif; background:#0f1117; color:#e2e8f0; line-height:1.6; padding:20px;}
+    .container{max-width:820px; margin:0 auto;}
+    .header{background:linear-gradient(135deg,#1e3a5f,#0d2137); border-radius:16px; padding:28px 30px; margin-bottom:24px; border:1px solid #1e3a5f;}
+    .header h1{font-size:22px; font-weight:700; color:#e2e8f0; margin-bottom:6px;}
+    .header .meta{font-size:13px; color:#64748b;}
+    .stats{display:flex; gap:12px; margin-bottom:24px; flex-wrap:wrap;}
+    .stat{background:#1a1f2e; border-radius:10px; padding:14px 20px; flex:1; min-width:140px; border:1px solid #1e293b; text-align:center;}
+    .stat .num{font-size:26px; font-weight:700; line-height:1;}
+    .stat .lbl{font-size:11px; color:#64748b; margin-top:4px; text-transform:uppercase; letter-spacing:.5px;}
+    .num-alto{color:#4ade80;} .num-medio{color:#facc15;} .num-bajo{color:#f87171;} .num-total{color:#60a5fa;}
+    .job{background:#1a1f2e; border-radius:12px; border:1px solid #1e293b; padding:18px 20px; margin-bottom:14px; transition:.2s;}
+    .job:hover{border-color:#3b82f6; background:#1e2538;}
+    .job-header{display:flex; align-items:flex-start; justify-content:space-between; gap:12px; margin-bottom:8px;}
+    .job-title a{color:#93c5fd; text-decoration:none; font-weight:600; font-size:16px; line-height:1.3;}
+    .job-title a:hover{color:#60a5fa; text-decoration:underline;}
+    .job-meta{font-size:12px; color:#64748b; margin-top:3px;}
+    .score-box{display:flex; flex-direction:column; align-items:center; min-width:64px;}
+    .score-num{font-size:22px; font-weight:700; line-height:1;}
+    .score-lbl{font-size:10px; text-transform:uppercase; letter-spacing:.5px; margin-top:2px;}
+    .alto .score-num, .alto .score-lbl{color:#4ade80;}
+    .medio .score-num, .medio .score-lbl{color:#facc15;}
+    .bajo .score-num, .bajo .score-lbl{color:#f87171;}
+    .score-bar-bg{height:4px; background:#2d3748; border-radius:2px; margin-top:5px; width:64px;}
+    .score-bar{height:4px; border-radius:2px;}
+    .alto .score-bar{background:#4ade80;} .medio .score-bar{background:#facc15;} .bajo .score-bar{background:#f87171;}
+    .ai-reason{font-size:13px; color:#94a3b8; margin-top:6px; font-style:italic; padding-left:10px; border-left:2px solid #334155;}
+    .badges{display:flex; gap:6px; flex-wrap:wrap; margin-top:8px;}
+    .badge{display:inline-block; padding:2px 8px; border-radius:4px; font-size:10px; font-weight:600; text-transform:uppercase; letter-spacing:.5px;}
+    .badge-alto{background:rgba(74,222,128,.15); color:#4ade80; border:1px solid rgba(74,222,128,.3);}
+    .badge-medio{background:rgba(250,204,21,.15); color:#facc15; border:1px solid rgba(250,204,21,.3);}
+    .badge-bajo{background:rgba(248,113,113,.15); color:#f87171; border:1px solid rgba(248,113,113,.3);}
+    .badge-remote{background:rgba(96,165,250,.15); color:#60a5fa; border:1px solid rgba(96,165,250,.3);}
+    .empty{text-align:center; color:#64748b; padding:40px; background:#1a1f2e; border-radius:12px;}
+    footer{text-align:center; color:#475569; font-size:12px; margin-top:30px; padding:20px;}
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>🚀 Reporte TI Junior / Trainee (Español)</h1>
-    <div class="meta">Generado: {{ generated_at }} | Ubicaciones: Chile, Latam & España</div>
+    <div class="header">
+      <h1>🤖 Reporte TI Junior — Evaluado por IA</h1>
+      <div class="meta">Generado: {{ generated_at }} · Perfil: Fernando Rabanal · Modelo: Llama 3.3 70B (Groq)</div>
+    </div>
+
+    {% set alto = offers | selectattr('ai_fit_level', 'equalto', 'Alto') | list %}
+    {% set medio = offers | selectattr('ai_fit_level', 'equalto', 'Medio') | list %}
+    {% set bajo = offers | selectattr('ai_fit_level', 'equalto', 'Bajo') | list %}
+
+    <div class="stats">
+      <div class="stat"><div class="num num-total">{{ offers | length }}</div><div class="lbl">Total</div></div>
+      <div class="stat"><div class="num num-alto">{{ alto | length }}</div><div class="lbl">Match Alto</div></div>
+      <div class="stat"><div class="num num-medio">{{ medio | length }}</div><div class="lbl">Match Medio</div></div>
+      <div class="stat"><div class="num num-bajo">{{ bajo | length }}</div><div class="lbl">Match Bajo</div></div>
+    </div>
+
     {% if offers %}
       {% for o in offers %}
-        <div class="job">
-          <div>
-            <a href="{{ o.url }}" target="_blank" rel="noopener">{{ o.display_title }}</a>
-            {% if "Remote" in o.display_title or "Remoto" in o.display_title %}
-              <span class="badge badge-remote">Remoto</span>
-            {% endif %}
+        {% set fit = o.ai_fit_level | lower %}
+        <div class="job {{ fit }}">
+          <div class="job-header">
+            <div class="job-title">
+              <a href="{{ o.url }}" target="_blank" rel="noopener">{{ o.title }}</a>
+              <div class="job-meta">{{ o.company }} · {{ o.location }}</div>
+              <div class="badges">
+                <span class="badge badge-{{ fit }}">Match {{ o.ai_fit_level }}</span>
+                {% if 'remoto' in o.display_title | lower or 'remote' in o.display_title | lower %}
+                  <span class="badge badge-remote">Remoto</span>
+                {% endif %}
+              </div>
+            </div>
+            <div class="score-box">
+              <div class="score-num">{{ o.ai_score }}%</div>
+              <div class="score-lbl">Match</div>
+              <div class="score-bar-bg"><div class="score-bar" style="width:{{ o.ai_score }}%"></div></div>
+            </div>
           </div>
-          <div class="desc">{{ o.desc }}</div>
+          <div class="ai-reason">💡 {{ o.ai_reason }}</div>
         </div>
       {% endfor %}
     {% else %}
-      <p>No se encontraron ofertas nuevas que cumplan con los filtros.</p>
+      <div class="empty">😴 No se encontraron ofertas nuevas que cumplan con los filtros.</div>
     {% endif %}
-    <footer>Este reporte se genera periódicamente de forma automática.</footer>
+    <footer>Reporte generado automáticamente · Powered by Groq + Llama 3.3 70B</footer>
   </div>
 </body>
 </html>
@@ -384,13 +434,12 @@ def main():
 
     seen_keys = load_seen()
     new_offers = []
-    
+
     for o in offers:
         key = generate_key(o)
         if key not in seen_keys:
             new_offers.append(o)
             seen_keys.add(key)
-            # También guardamos la URL como clave técnica por si acaso
             seen_keys.add(o["url"])
 
     logger.info("Total encontradas: %d | Nuevas para enviar: %d", len(offers), len(new_offers))
@@ -399,26 +448,61 @@ def main():
         logger.info("No hay ofertas nuevas. Fin del proceso.")
         return
 
-    # Formatear títulos para el HTML final
-    for o in new_offers:
+    # --- PASO 4: Evaluación IA con Groq ---
+    groq_client = build_groq_client()
+    cv_profile = load_cv_profile()
+
+    if groq_client and cv_profile:
+        logger.info("Evaluando %d ofertas con Groq AI...", len(new_offers))
+        for i, o in enumerate(new_offers):
+            logger.info("  [%d/%d] Evaluando: %s", i + 1, len(new_offers), o.get("title", "?"))
+            result = score_job_with_ai(o, cv_profile, groq_client)
+            o["ai_score"] = result["score"]
+            o["ai_reason"] = result["reason"]
+            o["ai_fit_level"] = result["fit_level"]
+            time.sleep(0.5)  # Respetar rate limits de Groq
+    else:
+        logger.warning("Groq AI no disponible. Asignando score neutro a todas las ofertas.")
+        for o in new_offers:
+            o["ai_score"] = 50
+            o["ai_reason"] = "Evaluación IA no disponible."
+            o["ai_fit_level"] = "Medio"
+
+    # Filtrar ofertas con score muy bajo
+    scored_offers = [o for o in new_offers if o["ai_score"] >= MIN_SCORE_THRESHOLD]
+    discarded = len(new_offers) - len(scored_offers)
+    if discarded > 0:
+        logger.info("Descartadas por score IA bajo (%d%%): %d ofertas", MIN_SCORE_THRESHOLD, discarded)
+
+    if not scored_offers:
+        logger.info("Ninguna oferta supera el umbral de relevancia IA. Fin del proceso.")
+        return
+
+    # Ordenar por score descendente
+    scored_offers.sort(key=lambda x: x["ai_score"], reverse=True)
+
+    # Formatear display_title
+    for o in scored_offers:
         if "location" in o and "company" in o:
             o["display_title"] = f"[{o['location']}] {o['title']} @ {o['company']}"
         else:
-            o["display_title"] = o["title"]
+            o["display_title"] = o.get("title", "Sin título")
 
     html = Template(HTML_TEMPLATE).render(
-        offers=new_offers, 
+        offers=scored_offers,
         generated_at=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     )
-    
+
     dry_run = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
     if dry_run:
         filename = f"report_preview_{datetime.utcnow().strftime('%Y%H%M%SZ')}.html"
         with open(filename, "w", encoding="utf-8") as f:
             f.write(html)
-        logger.info("DRY_RUN: Reporte guardado en %s (Nuevas: %d)", filename, len(new_offers))
+        logger.info("DRY_RUN: Reporte guardado en %s (%d ofertas, score >= %d%%)",
+                    filename, len(scored_offers), MIN_SCORE_THRESHOLD)
     else:
-        subject = f"[JobSearch] {len(new_offers)} Ofertas Nuevas - {datetime.utcnow().strftime('%Y-%m-%d')}"
+        alto_count = sum(1 for o in scored_offers if o["ai_fit_level"] == "Alto")
+        subject = f"[JobSearch] {len(scored_offers)} Ofertas · {alto_count} Match Alto — {datetime.utcnow().strftime('%Y-%m-%d')}"
         send_email_safe(html, subject)
         save_seen(seen_keys)
 

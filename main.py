@@ -3,8 +3,11 @@ import os
 import sys
 import time
 import logging
-from datetime import datetime
-from typing import List, Dict
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import List, Dict, Optional
 
 import re
 import requests
@@ -24,18 +27,26 @@ from email.mime.text import MIMEText
 
 from groq_scorer import build_groq_client, load_cv_profile, score_job_with_ai, MIN_SCORE_THRESHOLD
 
-# Configuración de logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
 
-# --- CONFIGURACIÓN DE TU PERFIL ---
+# --- CONFIGURACIÓN ---
 SITES = [
-    "lever.co",
-    "greenhouse.io",
-    "airavirtual.com",
-    "getonboard.com",
-    "empleospublicos.cl",
+    "lever.co", "greenhouse.io", "airavirtual.com", "getonboard.com",
+    "empleospublicos.cl", "laborum.cl", "computrabajo.cl", "bumeran.cl",
+    "infojobs.net", "tecnoempleo.com", "trabajando.com",
 ]
+
+# Alerta inmediata: ofertas publicadas hace menos de X minutos con score >= Y
+FRESH_THRESHOLD_MINUTES = 90
+FRESH_MIN_SCORE = 65
+MAX_WORKERS = 8  # Hilos paralelos para scraping
+REQ_TIMEOUT = 10
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+}
 
 # Áreas de TI (Whitelist 1)
 WHITELIST_TI = [
@@ -239,6 +250,181 @@ def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int
             
     return offers
 
+
+# ── Nuevos scrapers ────────────────────────────────────────────────────────────
+
+def fetch_remoteok_jobs() -> List[Dict]:
+    """RemoteOK: RSS público sin bloqueos, incluye fecha de publicación."""
+    urls = [
+        "https://remoteok.com/remote-junior-dev-jobs.rss",
+        "https://remoteok.com/remote-python-jobs.rss",
+    ]
+    offers = []
+    for feed_url in urls:
+        try:
+            resp = requests.get(feed_url, headers=HEADERS, timeout=REQ_TIMEOUT)
+            root = ET.fromstring(resp.content)
+            for item in root.findall(".//item"):
+                title = item.findtext("title", "").strip()
+                link  = item.findtext("link",  "").strip()
+                desc  = BeautifulSoup(item.findtext("description", ""), "html.parser").get_text()[:300]
+                pub   = item.findtext("pubDate", "")
+                mins  = None
+                if pub:
+                    try:
+                        dt   = parsedate_to_datetime(pub)
+                        mins = int((datetime.now(timezone.utc) - dt).total_seconds() / 60)
+                    except Exception:
+                        pass
+                if link and is_relevant(title, desc, "Internacional"):
+                    offers.append({"url": link, "title": title, "company": "RemoteOK",
+                                   "location": "Remoto", "desc": desc,
+                                   "published_minutes": mins})
+        except Exception as e:
+            logger.warning("RemoteOK RSS error (%s): %s", feed_url, e)
+    return offers
+
+
+def fetch_getonboard_jobs() -> List[Dict]:
+    """GetOnBoard: API pública oficial con fechas exactas de publicación."""
+    offers = []
+    for page in range(1, 3):
+        try:
+            url = (f"https://www.getonbrd.com/api/v0/categories/programming/jobs"
+                   f"?per_page=20&page={page}&published=true")
+            resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+            resp.raise_for_status()
+            for job in resp.json().get("data", []):
+                attrs   = job.get("attributes", {})
+                title   = attrs.get("title", "")
+                comp    = (attrs.get("company") or {})
+                company = (comp.get("data") or {}).get("attributes", {}).get("name", "N/A")
+                remote  = attrs.get("remote", False)
+                loc     = "Remoto" if remote else "Chile"
+                desc    = BeautifulSoup(attrs.get("description", ""), "html.parser").get_text()[:300]
+                jid     = job.get("id", "")
+                jurl    = f"https://www.getonbrd.com/jobs/{jid}"
+                mins    = None
+                pub_at  = attrs.get("published_at") or attrs.get("updated_at")
+                if pub_at:
+                    try:
+                        dt   = datetime.fromisoformat(pub_at.replace("Z", "+00:00"))
+                        mins = int((datetime.now(timezone.utc) - dt).total_seconds() / 60)
+                    except Exception:
+                        pass
+                if is_relevant(title, desc, loc):
+                    offers.append({"url": jurl, "title": title, "company": company,
+                                   "location": loc, "desc": desc,
+                                   "published_minutes": mins})
+        except Exception as e:
+            logger.warning("GetOnBoard API error (page %d): %s", page, e)
+    return offers
+
+
+def fetch_torre_jobs() -> List[Dict]:
+    """Torre.ai: API pública para Latam, enfocada en perfiles tech."""
+    offers = []
+    queries = [
+        {"skill": "python", "career-stages": ["early"]},
+        {"skill": "javascript", "career-stages": ["early"]},
+        {"skill": "kotlin", "career-stages": ["early"]},
+    ]
+    for body in queries:
+        try:
+            body["remote"] = True
+            body["size"]   = 15
+            resp = requests.post("https://torre.ai/api/opportunities/_search",
+                                 json=body, headers=HEADERS, timeout=REQ_TIMEOUT)
+            for item in resp.json().get("results", []):
+                opp     = item.get("opportunity", item)
+                title   = opp.get("objective", "")
+                orgs    = opp.get("organizations") or [{}]
+                company = orgs[0].get("name", "N/A") if orgs else "N/A"
+                slug    = opp.get("id", "")
+                jurl    = f"https://torre.ai/opportunities/{slug}"
+                if is_relevant(title, "", "Internacional"):
+                    offers.append({"url": jurl, "title": title, "company": company,
+                                   "location": "Remoto Latam", "desc": f"Torre.ai – Remoto",
+                                   "published_minutes": None})
+        except Exception as e:
+            logger.warning("Torre.ai error: %s", e)
+    return offers
+
+
+def fetch_all_offers() -> List[Dict]:
+    """Ejecuta todos los scrapers en paralelo y devuelve la lista combinada."""
+    combos_chile = [
+        ["Junior", "Software"], ["Trainee", "Informática"],
+        ["Soporte", "TI"],      ["Analista", "Sistemas"],
+        ["Práctica", "Python"], ["Junior", "IT"],
+    ]
+    combos_remote = [
+        ["Junior", "Remoto", "Desarrollador"],
+        ["Trainee", "Remoto", "Sistemas"],
+        ["Programador", "Junior"],
+    ]
+    regiones = ["Latin America", "Spain", "Mexico", "Argentina"]
+
+    tasks: List[tuple] = []
+    # LinkedIn Chile
+    for c in combos_chile:
+        tasks.append(("LI-Chile",  fetch_linkedin_jobs, (c, "Chile", 2, False)))
+    # LinkedIn Remoto (reducido a 3 regiones × 3 combos)
+    for loc in regiones:
+        for c in combos_remote:
+            tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 2, True)))
+    # Fuentes nuevas
+    tasks.append(("RemoteOK",  fetch_remoteok_jobs,  ()))
+    tasks.append(("GetOnBoard", fetch_getonboard_jobs, ()))
+    tasks.append(("Torre.ai",  fetch_torre_jobs,      ()))
+    # Google ATS (en hilo aparte para no bloquear)
+    tasks.append(("Google-ATS", _fetch_google_ats,   ()))
+
+    all_offers: List[Dict] = []
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        fmap = {ex.submit(fn, *args): name for name, fn, args in tasks}
+        for fut in as_completed(fmap):
+            name = fmap[fut]
+            try:
+                results = fut.result()
+                if results:
+                    logger.info("  ✓ %-12s %2d ofertas", name, len(results))
+                    all_offers.extend(results)
+            except Exception as e:
+                logger.warning("  ✗ %-12s %s", name, e)
+    return all_offers
+
+
+def _fetch_google_ats() -> List[Dict]:
+    """Búsqueda Google site: en portales ATS (ejecutado en un solo hilo)."""
+    if gsearch is None:
+        return []
+    offers = []
+    seen_urls: set = set()
+    queries = []
+    for site in SITES:
+        for level in ["Junior", "Trainee"]:
+            queries.append(f"site:{site} {level} (Informática OR Sistemas OR TI OR Python OR Desarrollador)")
+    for q in queries:
+        try:
+            for url in gsearch(q, num_results=3, lang="es"):
+                if url and url not in seen_urls:
+                    seen_urls.add(url)
+                    meta = fetch_metadata(url)
+                    gloc = "Internacional"
+                    if "chile" in meta["title"].lower() or "chile" in url.lower():
+                        gloc = "Chile"
+                    if is_relevant(meta["title"], meta["desc"], gloc):
+                        parts   = meta["title"].split(" at ")
+                        company = parts[-1].strip() if len(parts) >= 2 else "N/A"
+                        offers.append({**meta, "company": company,
+                                       "location": "Mundial", "published_minutes": None})
+            time.sleep(1.5)
+        except Exception as e:
+            logger.warning("Google ATS error: %s", e)
+    return offers
+
+
 HTML_TEMPLATE = """
 <!doctype html>
 <html lang="es">
@@ -356,179 +542,182 @@ def generate_key(offer):
     clean_company = re.sub(r'[^a-z0-9]', '', company)
     return f"{clean_title}|{clean_company}"
 
+ALERT_TEMPLATE = """<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<title>🚨 Alerta Empleo Reciente</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+  body{font-family:'Inter',sans-serif;background:#0a0f1e;color:#e2e8f0;padding:20px;}
+  .wrap{max-width:700px;margin:0 auto;}
+  .banner{background:linear-gradient(135deg,#7c3aed,#4f46e5);border-radius:14px;padding:24px 28px;margin-bottom:20px;}
+  .banner h1{font-size:20px;font-weight:700;margin-bottom:4px;}
+  .banner p{font-size:13px;color:#c4b5fd;}
+  .job{background:#13192b;border:1px solid #312e81;border-radius:11px;padding:16px 18px;margin-bottom:12px;}
+  .job a{color:#a5b4fc;font-weight:600;font-size:15px;text-decoration:none;}
+  .job a:hover{text-decoration:underline;}
+  .meta{font-size:12px;color:#6366f1;margin-top:4px;}
+  .score{font-size:18px;font-weight:700;color:#4ade80;float:right;}
+  .reason{font-size:13px;color:#94a3b8;margin-top:8px;font-style:italic;}
+  footer{text-align:center;color:#4a5568;font-size:11px;margin-top:24px;}
+</style></head><body><div class="wrap">
+  <div class="banner">
+    <h1>🚨 Oferta(s) recién publicada(s) con alto match</h1>
+    <p>{{ offers|length }} empleo(s) publicado(s) en los últimos {{ threshold }} minutos · {{ generated_at }}</p>
+  </div>
+  {% for o in offers %}
+  <div class="job">
+    <span class="score">{{ o.ai_score }}%</span>
+    <a href="{{ o.url }}" target="_blank">{{ o.title }}</a>
+    <div class="meta">{{ o.company }} · {{ o.location }}
+      {% if o.published_minutes is not none %} · hace {{ o.published_minutes }} min{% endif %}
+    </div>
+    <div class="reason">💡 {{ o.ai_reason }}</div>
+  </div>
+  {% endfor %}
+  <footer>Alerta automática · Powered by Groq + Llama 3.3 70B</footer>
+</div></body></html>"""
+
+
+def score_offers_parallel(offers: List[Dict], cv_profile: str, groq_client) -> None:
+    """Evalúa todas las ofertas con Groq AI usando hasta 3 hilos paralelos."""
+    if not groq_client or not cv_profile:
+        for o in offers:
+            o.update({"ai_score": 50, "ai_reason": "IA no disponible.", "ai_fit_level": "Medio"})
+        return
+
+    def _score_one(offer):
+        result = score_job_with_ai(offer, cv_profile, groq_client)
+        offer.update({"ai_score": result["score"],
+                      "ai_reason": result["reason"],
+                      "ai_fit_level": result["fit_level"]})
+
+    logger.info("Evaluando %d ofertas con Groq AI (paralelo)...", len(offers))
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        futures = {ex.submit(_score_one, o): o.get("title", "?") for o in offers}
+        done = 0
+        for fut in as_completed(futures):
+            done += 1
+            try:
+                fut.result()
+            except Exception as e:
+                logger.warning("Error scoring '%s': %s", futures[fut], e)
+            if done % 5 == 0:
+                logger.info("  Scored %d/%d", done, len(offers))
+
+
+def load_seen():
+    if not os.path.exists(SEEN_FILE):
+        return set()
+    with open(SEEN_FILE, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
+
+def save_seen(keys):
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
+        for k in sorted(keys):
+            f.write(k + "\n")
+
+def generate_key(offer):
+    title   = re.sub(r'[^a-z0-9]', '', offer.get("title",   "").lower())
+    company = re.sub(r'[^a-z0-9]', '', offer.get("company", "n/a").lower())
+    return f"{title}|{company}"
+
+
 def main():
-    logger.info("--- Iniciando Búsqueda TI Multisector ---")
-    
-    # --- PASO 1: Búsqueda en Google (Portales ATS) ---
-    queries = []
-    for site in SITES:
-        for level in ["Junior", "Trainee"]:
-            queries.append(f"site:{site} {level} (Informática OR Sistemas OR TI)")
+    logger.info("=== Iniciando búsqueda TI (paralela, %d fuentes) ===", MAX_WORKERS)
 
-    found_urls = []
-    seen = set()
-    for q in queries:
-        logger.info("Buscando Google: %s", q)
-        results = try_search(q, max_results=3)
-        for url in results:
-            if url and url not in seen:
-                seen.add(url)
-                found_urls.append(url)
-        time.sleep(2)
+    # ── 1. Scraping paralelo de todas las fuentes ──────────────────────────────
+    all_raw = fetch_all_offers()
+    logger.info("Total bruto: %d ofertas", len(all_raw))
 
-    offers = []
-    for url in found_urls:
-        meta = fetch_metadata(url)
-        # For Google results, we treat location as "Internacional" to enforce remote rules
-        # unless we find "Chile" in the title or URL.
-        google_loc = "Internacional"
-        if "chile" in meta["title"].lower() or "chile" in url.lower():
-            google_loc = "Chile"
-            
-        if is_relevant(meta["title"], meta["desc"], location=google_loc):
-            # Intentar extraer empresa del título o URL para sitios que no son LinkedIn
-            title_parts = meta["title"].split(" at ")
-            if len(title_parts) < 2:
-                title_parts = meta["title"].split(" @ ")
-            
-            company = "N/A"
-            if len(title_parts) >= 2:
-                company = title_parts[-1].strip()
-            elif "lever.co" in url:
-                company = url.split("lever.co/")[1].split("/")[0]
-            
-            meta["company"] = company
-            meta["location"] = "Mundial"
-            offers.append(meta)
-        time.sleep(1)
-
-    # --- PASO 2: LinkedIn Chile ---
-    combos_chile = [
-        ["Junior", "Software"],
-        ["Trainee", "Informática"],
-        ["Soporte", "TI"],
-        ["Analista", "Sistemas"],
-        ["Práctica", "Programador"],
-        ["Junior", "IT"]
-    ]
-    for combo in combos_chile:
-        offers.extend(fetch_linkedin_jobs(combo, location="Chile", hours=24))
-        time.sleep(2)
-
-    # --- PASO 3: LinkedIn Remoto Internacional (Español) ---
-    # Buscamos en regiones de habla hispana para asegurar relevancia
-    regiones_es = ["Latin America", "Spain", "Mexico", "Argentina", "Colombia"]
-    combos_remote = [
-        ["Junior", "Remoto", "Software"],
-        ["Trainee", "Remoto", "Desarrollador"],
-        ["Junior", "Remoto", "Informática"],
-        ["Analista", "Sistemas", "Remoto"],
-        ["Programador", "Junior"]
-    ]
-    
-    for loc_es in regiones_es:
-        for combo in combos_remote:
-            logger.info("Scrapeando LinkedIn Remoto: %s en %s", combo, loc_es)
-            offers.extend(fetch_linkedin_jobs(combo, location=loc_es, hours=24, remote_only=True))
-            time.sleep(2)
-
+    # ── 2. Deduplicar contra historial ─────────────────────────────────────────
     seen_keys = load_seen()
-    new_offers = []
-
-    for o in offers:
+    new_offers: List[Dict] = []
+    for o in all_raw:
         key = generate_key(o)
         if key not in seen_keys:
             new_offers.append(o)
             seen_keys.add(key)
-            seen_keys.add(o["url"])
+            seen_keys.add(o.get("url", ""))
 
-    logger.info("Total encontradas: %d | Nuevas para enviar: %d", len(offers), len(new_offers))
-
+    logger.info("Nuevas (no vistas antes): %d", len(new_offers))
     if not new_offers:
-        logger.info("No hay ofertas nuevas. Fin del proceso.")
+        logger.info("Nada nuevo. Fin.")
         return
 
-    # --- PASO 4: Evaluación IA con Groq ---
+    # ── 3. Scoring IA paralelo ─────────────────────────────────────────────────
     groq_client = build_groq_client()
-    cv_profile = load_cv_profile()
+    cv_profile  = load_cv_profile()
+    score_offers_parallel(new_offers, cv_profile, groq_client)
 
-    if groq_client and cv_profile:
-        logger.info("Evaluando %d ofertas con Groq AI...", len(new_offers))
-        for i, o in enumerate(new_offers):
-            logger.info("  [%d/%d] Evaluando: %s", i + 1, len(new_offers), o.get("title", "?"))
-            result = score_job_with_ai(o, cv_profile, groq_client)
-            o["ai_score"] = result["score"]
-            o["ai_reason"] = result["reason"]
-            o["ai_fit_level"] = result["fit_level"]
-            time.sleep(0.5)  # Respetar rate limits de Groq
-    else:
-        logger.warning("Groq AI no disponible. Asignando score neutro a todas las ofertas.")
-        for o in new_offers:
-            o["ai_score"] = 50
-            o["ai_reason"] = "Evaluación IA no disponible."
-            o["ai_fit_level"] = "Medio"
+    # ── 4. Filtrar por score mínimo y ordenar ──────────────────────────────────
+    scored = [o for o in new_offers if o.get("ai_score", 0) >= MIN_SCORE_THRESHOLD]
+    scored.sort(key=lambda x: x.get("ai_score", 0), reverse=True)
+    logger.info("Aprobadas por IA (score>=%d%%): %d", MIN_SCORE_THRESHOLD, len(scored))
 
-    # Filtrar ofertas con score muy bajo
-    scored_offers = [o for o in new_offers if o["ai_score"] >= MIN_SCORE_THRESHOLD]
-    discarded = len(new_offers) - len(scored_offers)
-    if discarded > 0:
-        logger.info("Descartadas por score IA bajo (%d%%): %d ofertas", MIN_SCORE_THRESHOLD, discarded)
-
-    if not scored_offers:
-        logger.info("Ninguna oferta supera el umbral de relevancia IA. Fin del proceso.")
+    if not scored:
+        logger.info("Ninguna oferta aprobada por IA. Fin.")
         return
-
-    # Ordenar por score descendente
-    scored_offers.sort(key=lambda x: x["ai_score"], reverse=True)
 
     # Formatear display_title
-    for o in scored_offers:
-        if "location" in o and "company" in o:
-            o["display_title"] = f"[{o['location']}] {o['title']} @ {o['company']}"
+    for o in scored:
+        o["display_title"] = f"[{o.get('location','?')}] {o.get('title','')} @ {o.get('company','N/A')}"
+
+    now_str   = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    dry_run   = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
+
+    # ── 5. Alerta inmediata si hay ofertas muy recientes con buen score ─────────
+    fresh = [o for o in scored
+             if o.get("published_minutes") is not None
+             and o["published_minutes"] <= FRESH_THRESHOLD_MINUTES
+             and o.get("ai_score", 0) >= FRESH_MIN_SCORE]
+    if fresh:
+        logger.info("🚨 %d oferta(s) reciente(s) con score>=%d%%. Enviando alerta inmediata.", len(fresh), FRESH_MIN_SCORE)
+        alert_html = Template(ALERT_TEMPLATE).render(
+            offers=fresh, generated_at=now_str, threshold=FRESH_THRESHOLD_MINUTES)
+        alert_subject = f"🚨 {len(fresh)} empleo(s) recién publicado(s) con match alto – {now_str[:10]}"
+        if dry_run:
+            with open("alert_preview.html", "w", encoding="utf-8") as f:
+                f.write(alert_html)
+            logger.info("DRY_RUN: Alerta guardada en alert_preview.html")
         else:
-            o["display_title"] = o.get("title", "Sin título")
+            send_email_safe(alert_html, alert_subject)
 
-    html = Template(HTML_TEMPLATE).render(
-        offers=scored_offers,
-        generated_at=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    )
+    # ── 6. Reporte regular ─────────────────────────────────────────────────────
+    alto_count = sum(1 for o in scored if o.get("ai_fit_level") == "Alto")
+    html = Template(HTML_TEMPLATE).render(offers=scored, generated_at=now_str)
+    subject = f"[JobSearch] {len(scored)} ofertas · {alto_count} Match Alto – {now_str[:10]}"
 
-    dry_run = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
     if dry_run:
-        filename = f"report_preview_{datetime.utcnow().strftime('%Y%H%M%SZ')}.html"
+        filename = f"report_preview_{datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}.html"
         with open(filename, "w", encoding="utf-8") as f:
             f.write(html)
-        logger.info("DRY_RUN: Reporte guardado en %s (%d ofertas, score >= %d%%)",
-                    filename, len(scored_offers), MIN_SCORE_THRESHOLD)
+        logger.info("DRY_RUN: Reporte guardado en %s", filename)
     else:
-        alto_count = sum(1 for o in scored_offers if o["ai_fit_level"] == "Alto")
-        subject = f"[JobSearch] {len(scored_offers)} Ofertas · {alto_count} Match Alto — {datetime.utcnow().strftime('%Y-%m-%d')}"
         send_email_safe(html, subject)
         save_seen(seen_keys)
 
+
 def send_email_safe(html_body: str, subject: str):
-    sender = os.environ.get("EMAIL_SENDER")
+    sender   = os.environ.get("EMAIL_SENDER")
     password = os.environ.get("EMAIL_PASSWORD")
     receiver = os.environ.get("EMAIL_RECEIVER")
-
     if not all([sender, password, receiver]):
-        logger.error("Credenciales de email faltantes. No se envía correo.")
+        logger.error("Credenciales de email faltantes.")
         return
-
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
-    msg["From"] = sender
-    msg["To"] = receiver
+    msg["From"]    = sender
+    msg["To"]      = receiver
     msg.attach(MIMEText(html_body, "html"))
-
     try:
-        context = ssl.create_default_context()
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=context) as server:
-            server.login(sender, password)
-            server.sendmail(sender, receiver, msg.as_string())
-        logger.info("Email enviado correctamente.")
+        ctx = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ctx) as srv:
+            srv.login(sender, password)
+            srv.sendmail(sender, receiver, msg.as_string())
+        logger.info("Email enviado: %s", subject[:60])
     except Exception as e:
         logger.error("Error enviando email: %s", e)
+
 
 if __name__ == "__main__":
     main()

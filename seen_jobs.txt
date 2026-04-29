@@ -1,3 +1,4 @@
+alumnoenprcticadeingenierainformtica|loteradeconcepcin
 analistadeciberseguridadjunior|hfsolutions
 analistadedatos|siigroupchile
 analistadesarrollador|valio
@@ -8,6 +9,7 @@ analistadesoporteparati|experischile
 analistadesoportesapfimmfm|kibernum
 analistadesoporteycontinuidadoperativa|apiuxtech
 analistajuniortisapr3|ithuntersinternational
+analistaprogramadorapx100remoto|metrica
 dataengineerjuniorremotework|bairesdev
 ejecutivoajuniorsoftwaredegestin|maxxa
 entrylevelengineerdeveloper|rovisys
@@ -26,6 +28,7 @@ https://ca.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404040590
 https://ca.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404054254
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403636857
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403663095
+https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-de-ingenier%C3%ADa-inform%C3%A1tica-at-loter%C3%ADa-de-concepci%C3%B3n-4406095316
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-hf-solutions-4404392452
 https://cl.linkedin.com/jobs/view/analista-de-datos-%F0%9F%9A%80-at-sii-group-chile-4405431453
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4405417420
@@ -58,6 +61,7 @@ https://de.linkedin.com/jobs/view/junior-data-analyst-at-prime-seafood-imports-i
 https://de.linkedin.com/jobs/view/junior-frontend-developer-react-m-f-x-at-progyny-inc-4404562149
 https://de.linkedin.com/jobs/view/junior-python-developer-at-joveo-ai-4404048401
 https://de.linkedin.com/jobs/view/junior-software-engineer-at-joveo-ai-4404031924
+https://es.linkedin.com/jobs/view/analista-programador-apx-100%25-remoto-at-metrica-4407023126
 https://es.linkedin.com/jobs/view/junior-developer-at-cacesa-tech-logistics-4404804429
 https://es.linkedin.com/jobs/view/junior-frontend-engineer-at-glovo-4403939948
 https://es.linkedin.com/jobs/view/programador-a-junior-php-vue-js-at-getronics-4390038119

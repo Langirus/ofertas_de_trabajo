@@ -179,19 +179,15 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
         if black.lower() in title_lower:
             return False
 
-    # 2. Verificar si es de TI (word boundary para términos cortos)
-    has_ti = False
-    for ti in WHITELIST_TI:
-        ti_l = ti.lower()
-        if len(ti_l) <= 3:
-            if re.search(rf"\b{re.escape(ti_l)}\b", title_lower):
-                has_ti = True
-                break
-        elif ti_l in title_lower:
-            has_ti = True
-            break
-    if not has_ti:
-        logger.info("Descartado por no ser TI: %s", title)
+    # 2. Verificar si es de TI
+    has_ti = any(ti.lower() in combined for ti in WHITELIST_TI)
+    
+    # Si es un portal de empleo conocido de Chile, somos más flexibles con la palabra TI
+    known_portals = ["chiletrabajos", "computrabajo", "laborum", "firstjob", "indeed", "getonbrd", "trabajando"]
+    is_known_portal = any(p in combined or p in location.lower() for p in known_portals)
+
+    if not has_ti and not is_known_portal:
+        logger.info("❌ Descartado por no ser TI: %s", title)
         return False
 
     # 3. Verificar si es nivel inicial (en título O descripción)
@@ -639,10 +635,11 @@ def fetch_all_offers() -> List[Dict]:
     tasks.append(("Torre.ai",       fetch_torre_jobs,         ()))
     tasks.append(("WWR",            fetch_wwr_jobs,           ()))
     
-    # Google dedicado solo para Indeed Chile (para forzar su aparición)
-    tasks.append(("Google-Indeed", _fetch_google_indeed,    ()))
     # Google general Chile
     tasks.append(("Google-Chile",  _fetch_google_ats,       ()))
+    
+    # DuckDuckGo como túnel de emergencia para Chiletrabajos e Indeed
+    tasks.append(("DDG-Chile",     _fetch_via_duckduckgo,   ()))
 
     all_offers: List[Dict] = []
     logger.info("Lanzando %d tareas de scraping en paralelo...", len(tasks))
@@ -675,6 +672,36 @@ def _fetch_google_indeed() -> List[Dict]:
             if is_relevant(meta["title"], meta["desc"], "Chile"):
                 offers.append({**meta, "company": "Indeed", "location": "Chile", "published_minutes": None})
     except Exception: pass
+    return offers
+
+def _fetch_via_duckduckgo() -> List[Dict]:
+    """Usa DuckDuckGo Lite para encontrar ofertas sin ser bloqueado."""
+    offers = []
+    queries = [
+        "site:chiletrabajos.cl junior informatica",
+        "site:cl.indeed.com junior informatica"
+    ]
+    for q in queries:
+        try:
+            url = f"https://duckduckgo.com/html/?q={q.replace(' ', '+')}"
+            resp = requests.get(url, headers=get_headers(), timeout=REQ_TIMEOUT)
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.content, "html.parser")
+                # En DDG Lite los resultados son enlaces en 'result__a'
+                links = soup.select(".result__a")
+                for link in links[:10]:
+                    title = link.get_text(strip=True)
+                    jurl  = link["href"]
+                    # Limpieza de redirección de DDG si fuera necesario
+                    if "duckduckgo.com/l/?uddg=" in jurl:
+                        import urllib.parse
+                        parsed = urllib.parse.urlparse(jurl)
+                        jurl = urllib.parse.parse_qs(parsed.query).get('uddg', [jurl])[0]
+                    
+                    if is_relevant(title, "", "Chile"):
+                        offers.append({"url": jurl, "title": title, "company": "Portal Chile", "location": "Chile", "desc": "Encontrado vía DDG", "published_minutes": None})
+        except Exception as e:
+            logger.warning("DDG error: %s", e)
     return offers
 
 def _fetch_google_ats() -> List[Dict]:

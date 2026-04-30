@@ -70,10 +70,20 @@ WHITELIST_LEVEL = [
 
 # Blacklist: Filtros para descartar Senior o áreas ajenas
 BLACKLIST = [
-    "Senior", "Sr", "Lead", "Principal", "Jefe", "Director", "Manager", "Expert", 
-    "Civil", "Viales", "Construcción", "Hidráulica", "Minas", "Minería", "BIM", 
+    "Senior", "Sr.", "Lead", "Principal", "Jefe", "Director", "Manager", "Expert",
+    "Experto", "Especialista", "Arquitecto de", "Tech Lead", "Staff", "Head of",
+    "Civil", "Viales", "Construcción", "Hidráulica", "Minas", "Minería", "BIM",
     "Arquitecto", "Comercial", "Ventas", "Psicólogo", "Contador", "Social", "Veterinario",
-    "Médico", "Enfermero", "Abogado", "Recursos Humanos", "RRHH"
+    "Médico", "Enfermero", "Abogado", "Recursos Humanos", "RRHH",
+]
+
+# Patrones regex para detectar requisitos de experiencia excesiva en descripciones
+EXP_BLACKLIST_PATTERNS = [
+    r'\b([2-9]|1[0-9])\+?\s*(?:años?|years?|yrs?)\s*(?:de\s*)?(?:experiencia|experience)\b',
+    r'(?:experiencia|experience)\s*(?:de\s*|m[ií]nima?\s*de\s*)?([2-9]|1[0-9])\+?\s*(?:años?|years?)\b',
+    r'(?:m[ií]nimo|minimo|minimum|at\s+least|m[ií]nima)\s*(?:de\s*)?([2-9]|1[0-9])\s*(?:años?|years?)\b',
+    r'\b([2-9]|1[0-9])\+\s*years?\b',
+    r'\b([2-9]|1[0-9])\s*a[ñn]os?\s+de\s+exp\b',
 ]
 
 # Palabras clave para detección de idioma (Heurística simple)
@@ -120,55 +130,59 @@ def is_spanish_content(text: str) -> bool:
 def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     """
     Verifica si el puesto es relevante:
-    1. No debe tener palabras de la blacklist.
+    1. No debe tener palabras de la blacklist en el título.
     2. Debe tener al menos una palabra de TI.
     3. Debe tener al menos una palabra de nivel (Junior/Trainee/Analista).
     4. Debe estar en español o ser para hispanohablantes.
     5. Si NO es en Chile, debe ser Remoto.
+    6. No debe requerir 2+ años de experiencia en la descripción.
     """
     title_lower = title.lower()
-    desc_lower = desc.lower()
-    
-    # 1. Filtro Blacklist (Exclusión total)
+    desc_lower  = desc.lower()
+
+    # 1. Filtro Blacklist en título
     for black in BLACKLIST:
         if black.lower() in title_lower:
             return False
-            
-    # 2. Verificar si es de TI (con coincidencia de palabra completa para términos cortos)
+
+    # 2. Verificar si es de TI (word boundary para términos cortos)
     has_ti = False
     for ti in WHITELIST_TI:
         ti_l = ti.lower()
         if len(ti_l) <= 3:
-            # Word boundary check for short terms like "TI", "IT", "QA"
             if re.search(rf"\b{re.escape(ti_l)}\b", title_lower):
                 has_ti = True
                 break
         elif ti_l in title_lower:
             has_ti = True
             break
-            
     if not has_ti:
         return False
-        
+
     # 3. Verificar si es nivel inicial
     has_level = any(level.lower() in title_lower for level in WHITELIST_LEVEL)
     if not has_level:
         return False
 
     # 4. Filtro de Idioma
-    content_to_check = f"{title} {desc}"
-    if not is_spanish_content(content_to_check):
-        logger.info(f"Descartado por idioma: {title}")
+    if not is_spanish_content(f"{title} {desc}"):
+        logger.info("Descartado por idioma: %s", title)
         return False
 
     # 5. Si no es Chile, DEBE ser remoto
     if location.lower() != "chile":
         remote_keywords = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "en cualquier lugar"]
-        is_remote = any(kw in title_lower or kw in desc_lower for kw in remote_keywords)
-        if not is_remote:
-            logger.info(f"Descartado por no ser remoto fuera de Chile ({location}): {title}")
+        if not any(kw in title_lower or kw in desc_lower for kw in remote_keywords):
+            logger.info("Descartado por no ser remoto fuera de Chile (%s): %s", location, title)
             return False
-            
+
+    # 6. Filtro de experiencia excesiva (2+ años) en la descripción
+    if desc_lower:
+        for pat in EXP_BLACKLIST_PATTERNS:
+            if re.search(pat, desc_lower, re.IGNORECASE):
+                logger.info("Descartado por experiencia excesiva: %s", title)
+                return False
+
     return True
 
 def try_search(query: str, max_results: int = 5) -> List[str]:
@@ -228,35 +242,58 @@ def fetch_linkedin_jobs(keywords: List[str], location: str = "Chile", hours: int
 
     soup = BeautifulSoup(resp.text, "html.parser")
     job_cards = soup.find_all("li")
-    
-    offers = []
+
+    candidates = []
     for card in job_cards:
         try:
-            title_tag = card.find("h3", class_="base-search-card__title")
+            title_tag   = card.find("h3", class_="base-search-card__title")
             company_tag = card.find("h4", class_="base-search-card__subtitle")
-            link_tag = card.find("a", class_="base-card__full-link")
-            
+            link_tag    = card.find("a",  class_="base-card__full-link")
             if title_tag and link_tag:
-                title = title_tag.get_text(strip=True)
-                
-                # Check relevance with location context
-                if not is_relevant(title, location=location):
-                    continue
-                
+                title   = title_tag.get_text(strip=True)
                 company = company_tag.get_text(strip=True) if company_tag else "N/A"
-                link = link_tag["href"].split("?")[0]
-                
-                offers.append({
-                    "url": link,
-                    "title": title,
-                    "company": company,
-                    "location": location,
-                    "desc": f"Publicado recientemente en {location}."
-                })
+                link    = link_tag["href"].split("?")[0]
+                # Filtro rápido de título antes de pedir la descripción
+                if is_relevant(title, location=location):
+                    candidates.append({"url": link, "title": title, "company": company})
         except Exception:
             continue
-            
+
+    # Intenta obtener descripción real de LinkedIn para aplicar filtro de experiencia
+    offers = []
+    for c in candidates:
+        desc = _fetch_linkedin_desc(c["url"])
+        if is_relevant(c["title"], desc, location):
+            offers.append({
+                "url":      c["url"],
+                "title":    c["title"],
+                "company":  c["company"],
+                "location": location,
+                "desc":     desc if desc else f"Oferta en {location} · LinkedIn.",
+            })
     return offers
+
+
+def _fetch_linkedin_desc(url: str) -> str:
+    """
+    Intenta obtener el texto de la descripción de una oferta de LinkedIn.
+    Retorna string vacío si falla (LinkedIn bloquea frecuentemente).
+    """
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=8)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.text, "html.parser")
+            # Selector principal de descripción en LinkedIn público
+            div = soup.find("div", class_="show-more-less-html__markup")
+            if div:
+                return div.get_text(separator=" ", strip=True)[:600]
+            # Fallback: meta description
+            meta = soup.find("meta", attrs={"name": "description"})
+            if meta and meta.get("content"):
+                return meta["content"][:600]
+    except Exception:
+        pass
+    return ""
 
 
 # ── Nuevos scrapers ────────────────────────────────────────────────────────────

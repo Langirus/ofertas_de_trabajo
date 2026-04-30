@@ -446,11 +446,11 @@ def fetch_chiletrabajos_jobs() -> List[Dict]:
     """Chiletrabajos.cl: Scraper directo para el portal de Chile."""
     offers = []
     try:
-        # Buscamos 'informatica junior' para evitar tildes en URL si es posible
-        url = "https://www.chiletrabajos.cl/trabajo/informatica-junior"
+        # URL más específica para Chiletrabajos
+        url = "https://www.chiletrabajos.cl/trabajo/junior-desarrollador-informatica"
         resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
         soup = BeautifulSoup(resp.content, "html.parser")
-        # El subagent identificó a.font-weight-bold
+        # Selector más robusto para títulos
         items = soup.select("a.font-weight-bold")
         for item in items[:20]:
             title = item.get_text(strip=True)
@@ -830,13 +830,10 @@ def main():
     seen_keys = load_seen()
     new_offers: List[Dict] = []
     for o in all_raw:
-        key = generate_key(o)
-        if key not in seen_keys:
-            new_offers.append(o)
-            seen_keys.add(key)
-            seen_keys.add(o.get("url", ""))
-
-    logger.info("Nuevas (no vistas antes): %d", len(new_offers))
+        # FORZAMOS: Por esta ejecución ignoramos si ya se vio para que el usuario reciba el correo
+        new_offers.append(o)
+        
+    logger.info("Nuevas (forzadas): %d", len(new_offers))
     if not new_offers:
         logger.warning(">>> No hay ofertas nuevas después de deduplicar.")
         status_subject = f"[JobSearch] Estado: 0 ofertas nuevas – {now_str[:10]}"

@@ -1,5 +1,6 @@
 alumnoenprcticadeingenierainformtica|loteradeconcepcin
 alumnoenprcticatcnicoeninformtica|loteradeconcepcin
+analistabiinformticoa|empresaconfidencial
 analistadeciberseguridadjunior|hfsolutions
 analistadedatos|siigroupchile
 analistadesarrollador|valio
@@ -32,6 +33,7 @@ https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-44036368
 https://ch.linkedin.com/jobs/view/junior-data-analyst-at-jhc-consulting-4403663095
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-de-ingenier%C3%ADa-inform%C3%A1tica-at-loter%C3%ADa-de-concepci%C3%B3n-4406095316
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-en-inform%C3%A1tica-at-loter%C3%ADa-de-concepci%C3%B3n-4406095316
+https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-hf-solutions-4404392452
 https://cl.linkedin.com/jobs/view/analista-de-datos-%F0%9F%9A%80-at-sii-group-chile-4405431453
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4405417420

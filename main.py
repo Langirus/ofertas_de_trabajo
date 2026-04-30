@@ -645,6 +645,24 @@ def fetch_all_offers() -> List[Dict]:
                     all_offers.extend(results)
             except Exception as e:
                 logger.error("  ✗ %-12s: Error: %s", name, e)
+
+    # --- INYECCIÓN DE PRUEBA (DIAGNÓSTICO) ---
+    all_offers.append({
+        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-software-3825664",
+        "title": "TEST: Desarrollador Junior de Software", "company": "Lokilabs SPA",
+        "location": "Chile", "desc": "Oferta real inyectada para prueba", "published_minutes": None
+    })
+    all_offers.append({
+        "url": "https://cl.indeed.com/viewjob?jk=109386927520e8e5",
+        "title": "TEST: Data Scientist (Junior - Mid Level)", "company": "Indeed Test",
+        "location": "Chile", "desc": "Oferta real inyectada para prueba", "published_minutes": None
+    })
+    all_offers.append({
+        "url": "https://cl.indeed.com/viewjob?jk=ed262a9e0001e6ab",
+        "title": "TEST: Analista junior/servicio Batch", "company": "Indeed Test 2",
+        "location": "Chile", "desc": "Oferta real inyectada para prueba", "published_minutes": None
+    })
+    # -----------------------------------------
     
     return all_offers
 

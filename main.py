@@ -86,11 +86,11 @@ BLACKLIST = [
 
 # Patrones regex para detectar requisitos de experiencia excesiva en descripciones
 EXP_BLACKLIST_PATTERNS = [
-    r'\b([2-9]|1[0-9])\+?\s*(?:años?|years?|yrs?)\s*(?:de\s*)?(?:experiencia|experience)\b',
-    r'(?:experiencia|experience)\s*(?:de\s*|m[ií]nima?\s*de\s*)?([2-9]|1[0-9])\+?\s*(?:años?|years?)\b',
-    r'(?:m[ií]nimo|minimo|minimum|at\s+least|m[ií]nima)\s*(?:de\s*)?([2-9]|1[0-9])\s*(?:años?|years?)\b',
-    r'\b([2-9]|1[0-9])\+\s*years?\b',
-    r'\b([2-9]|1[0-9])\s*a[ñn]os?\s+de\s+exp\b',
+    r'\b([2-9]|1[0-9])\+?\s*(?:años?|years?|yrs?|a[ñn]os?)\b', # 2+ años, 3 años, etc.
+    r'(?:experiencia|experience|exp)\s*(?:de\s*|m[ií]nima?\s*de\s*)?\+?\s*([2-9]|1[0-9])\b', # exp min 2
+    r'\b([2-9]|1[0-9])\s*(?:years?|yrs?|años?)\s*(?:of\s*)?exp\b',
+    r'\b(2|3|4|5|two|three|four|five)\s*(?:years?|años?)\s*(?:required|experience)\b',
+    r'al\s*menos\s*([2-9]|1[0-9])\s*años?\b',
 ]
 
 # Patrones regex para descartar ofertas que exijan inglés avanzado/bilingue
@@ -207,8 +207,16 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     # 5. Filtro de experiencia excesiva (2+ años) en título O descripción
     for pat in EXP_BLACKLIST_PATTERNS:
         if re.search(pat, combined, re.IGNORECASE):
-            logger.info("Descartado por experiencia excesiva: %s", title)
+            logger.info("❌ Descartado por experiencia (>1 año): %s", title)
             return False
+
+    # 6. Si es LinkedIn y NO tiene descripción, ser extra precavidos
+    if "linkedin" in location.lower() or "linkedin" in title_lower:
+        if not desc_lower or len(desc_lower) < 50:
+            # Si no hay descripción para validar, descartamos si el título no es 100% Junior
+            if not any(level.lower() in title_lower for level in ["junior", "trainee", "practicante", "pasante"]):
+                logger.info("❌ LinkedIn sin descripción y título no explícito: %s", title)
+                return False
 
     # 6. Filtro de inglés avanzado/bilingue requerido
     for pat in ENGLISH_REQ_PATTERNS:
@@ -798,7 +806,21 @@ def main():
     logger.info("=== Iniciando búsqueda TI (paralela, %d fuentes) ===", MAX_WORKERS)
 
     # ── 1. Scraping paralelo de todas las fuentes ──────────────────────────────
+    # Diagnóstico IA inicial
+    api_key = os.environ.get("GROQ_API_KEY")
+    if not api_key:
+        logger.error("!!! ERROR CRÍTICO: GROQ_API_KEY no configurada en GitHub Secrets !!!")
+    
     all_raw = fetch_all_offers()
+    
+    # Limitar LinkedIn para dar espacio a otros portales
+    li_offers = [o for o in all_raw if "linkedin" in o.get("url", "").lower()]
+    other_offers = [o for o in all_raw if "linkedin" not in o.get("url", "").lower()]
+    
+    logger.info("LinkedIn encontró %d, Otros portales: %d", len(li_offers), len(other_offers))
+    # Nos quedamos solo con las 10 mejores/primeras de LinkedIn
+    all_raw = other_offers + li_offers[:10]
+    
     now_str   = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     dry_run   = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
 

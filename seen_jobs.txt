@@ -9,6 +9,7 @@ dataanalystpythonremotework|bairesdev
 dataanalyst|groupesii
 databaseanalystoracle|entelgy
 dataintelligenceanalyst|retargetinglatam
+devinterndataengineer|pullpo
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 https://br.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4408786101
@@ -23,10 +24,12 @@ https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4408576344
 https://cl.linkedin.com/jobs/view/data-analyst-python-remote-work-at-bairesdev-4407028756
 https://cl.linkedin.com/jobs/view/data-base-analyst-oracle-at-entelgy-4408548129
 https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-retargeting-latam-4406499349
+https://cl.linkedin.com/jobs/view/dev-intern-data-engineer-at-pullpo-4406711403
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409025639
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-jobs-ai-4409035374
 https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-jobs-ai-4409036386
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingeniero-mec%C3%A1nico-o-carreras-afines-at-skc-insumos-grupo-sigdo-koppers-4408751929
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-base-de-datos-contratos-at-colbun-s-a-4408546762
 https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-agentes-de-ia-%E2%80%93-planning-at-falabella-4408725668
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 juniorsoftwaredeveloperremote|jobsai
@@ -34,3 +37,4 @@ juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
 practicantededesarrollodeagentesdeiaplanning|falabella
 prcticaingenieromecnicoocarrerasafines|skcinsumosgruposigdokoppers
+prcticaprofesionalbasededatoscontratos|colbunsa

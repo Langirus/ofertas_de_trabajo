@@ -780,6 +780,9 @@ def main():
 
     # ── 1. Scraping paralelo de todas las fuentes ──────────────────────────────
     all_raw = fetch_all_offers()
+    now_str   = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    dry_run   = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
+
     logger.info("Total bruto: %d ofertas", len(all_raw))
 
     # ── 2. Deduplicar contra historial ─────────────────────────────────────────
@@ -794,7 +797,11 @@ def main():
 
     logger.info("Nuevas (no vistas antes): %d", len(new_offers))
     if not new_offers:
-        logger.warning(">>> No hay ofertas nuevas después de deduplicar. Fin.")
+        logger.warning(">>> No hay ofertas nuevas después de deduplicar.")
+        status_subject = f"[JobSearch] Estado: 0 ofertas nuevas – {now_str[:10]}"
+        status_body = f"<h2>Estado de la búsqueda</h2><p>El script se ejecutó correctamente pero no encontró ofertas nuevas en los portales rastreados.</p><p>Esto puede ser porque no hay vacantes Junior hoy o porque los portales están bloqueando el rastreo.</p><p>Generado a las: {now_str}</p>"
+        if not dry_run:
+            send_email_safe(status_body, status_subject)
         return
 
     # ── 3. Scoring IA paralelo ─────────────────────────────────────────────────
@@ -809,15 +816,16 @@ def main():
     logger.info("Aprobadas por IA (score>=%d%%): %d", MIN_SCORE_THRESHOLD, len(scored))
 
     if not scored:
-        logger.warning(">>> Ninguna oferta aprobada por IA (todas bajo score %d). Fin.", MIN_SCORE_THRESHOLD)
+        logger.warning(">>> Ninguna oferta aprobada por IA (todas bajo score %d).", MIN_SCORE_THRESHOLD)
+        status_subject = f"[JobSearch] Estado: {len(new_offers)} encontradas, 0 aprobadas – {now_str[:10]}"
+        status_body = f"<h2>Estado de la búsqueda</h2><p>Se encontraron {len(new_offers)} ofertas potenciales, pero ninguna superó el filtro de calidad de la IA.</p><p>Generado a las: {now_str}</p>"
+        if not dry_run:
+            send_email_safe(status_body, status_subject)
         return
 
     # Formatear display_title
     for o in scored:
         o["display_title"] = f"[{o.get('location','?')}] {o.get('title','')} @ {o.get('company','N/A')}"
-
-    now_str   = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    dry_run   = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
 
     # ── 5. Alerta inmediata si hay ofertas muy recientes con buen score ─────────
     fresh = [o for o in scored

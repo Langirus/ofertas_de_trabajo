@@ -33,8 +33,9 @@ logger = logging.getLogger(__name__)
 # --- CONFIGURACIÓN ---
 SITES = [
     "lever.co", "greenhouse.io", "airavirtual.com", "getonboard.com",
-    "empleospublicos.cl", "laborum.cl", "computrabajo.cl", "bumeran.cl",
-    "infojobs.net", "tecnoempleo.com", "trabajando.com",
+    "firstjob.me", "chiletrabajos.cl", "laborum.cl", "computrabajo.cl",
+    "infojobs.net", "tecnoempleo.com", "trabajando.com", "weworkremotely.com",
+    "remote.co", "startup.jobs", "nodesk.co", "remotive.com"
 ]
 
 # Alerta inmediata: ofertas publicadas hace menos de X minutos con score >= Y
@@ -382,6 +383,35 @@ def fetch_getonboard_jobs() -> List[Dict]:
     return offers
 
 
+def fetch_wwr_jobs() -> List[Dict]:
+    """WeWorkRemotely: Una de las fuentes más grandes de remoto real."""
+    offers = []
+    try:
+        # Buscamos en la categoría de Programación
+        url = "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+        resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+        soup = BeautifulSoup(resp.content, "xml")
+        items = soup.find_all("item")
+        for item in items[:15]:
+            title = item.title.text
+            jurl  = item.link.text
+            # WWR suele poner "Company: Title" o similar
+            company = "N/A"
+            if " at " in title:
+                title, company = title.split(" at ", 1)
+            elif ":" in title:
+                company, title = title.split(":", 1)
+            
+            desc = item.description.text[:300]
+            if is_relevant(title, desc, "Remoto"):
+                offers.append({
+                    "url": jurl, "title": title.strip(), "company": company.strip(),
+                    "location": "Remoto WWR", "desc": desc, "published_minutes": None
+                })
+    except Exception as e:
+        logger.warning("WWR error: %s", e)
+    return offers
+
 def fetch_torre_jobs() -> List[Dict]:
     """Torre.ai: API pública para Latam, enfocada en perfiles tech."""
     offers = []
@@ -440,13 +470,14 @@ def fetch_all_offers() -> List[Dict]:
         for c in combos_remote:
             tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 24, True)))
     
-    # Fuentes alternativas (más específicas para no ser filtradas)
-    tasks.append(("RemoteOK",  fetch_remoteok_jobs,  ()))
+    # Fuentes alternativas
+    tasks.append(("RemoteOK",   fetch_remoteok_jobs,  ()))
     tasks.append(("GetOnBoard", fetch_getonboard_jobs, ()))
-    tasks.append(("Torre.ai",  fetch_torre_jobs,      ()))
+    tasks.append(("Torre.ai",   fetch_torre_jobs,      ()))
+    tasks.append(("WWR",        fetch_wwr_jobs,        ()))
     
     # Google ATS
-    tasks.append(("Google-ATS", _fetch_google_ats,   ()))
+    tasks.append(("Google-ATS", _fetch_google_ats,     ()))
 
     all_offers: List[Dict] = []
     logger.info("Lanzando %d tareas de scraping en paralelo...", len(tasks))
@@ -468,30 +499,36 @@ def fetch_all_offers() -> List[Dict]:
 
 
 def _fetch_google_ats() -> List[Dict]:
-    """Búsqueda Google site: en portales ATS (ejecutado en un solo hilo)."""
+    """Búsqueda Google site: optimizada con OR para cubrir más portales rápido."""
     if gsearch is None:
         return []
     offers = []
     seen_urls: set = set()
+    
+    # Agrupamos sitios de 4 en 4 para no hacer la query gigante pero ser eficientes
+    site_groups = [SITES[i:i+4] for i in range(0, len(SITES), 4)]
     queries = []
-    for site in SITES:
-        for level in ["Junior", "Trainee"]:
-            queries.append(f"site:{site} {level} (Informática OR Sistemas OR TI OR Python OR Desarrollador)")
+    for group in site_groups:
+        sites_query = " OR ".join([f"site:{s}" for s in group])
+        for level in ["Junior", "Trainee", "Pasante"]:
+            queries.append(f"({sites_query}) {level} (Informática OR Python OR Desarrollador OR Developer)")
+
     for q in queries:
         try:
-            for url in gsearch(q, num_results=3, lang="es"):
+            logger.info("Google Search: %s", q)
+            for url in gsearch(q, num_results=5, lang="es"):
                 if url and url not in seen_urls:
                     seen_urls.add(url)
                     meta = fetch_metadata(url)
-                    gloc = "Internacional"
-                    if "chile" in meta["title"].lower() or "chile" in url.lower():
-                        gloc = "Chile"
+                    # Heurística de ubicación básica por URL
+                    gloc = "Chile" if any(x in url.lower() for x in [".cl", "chile"]) else "Internacional"
+                    
                     if is_relevant(meta["title"], meta["desc"], gloc):
                         parts   = meta["title"].split(" at ")
                         company = parts[-1].strip() if len(parts) >= 2 else "N/A"
                         offers.append({**meta, "company": company,
-                                       "location": "Mundial", "published_minutes": None})
-            time.sleep(1.5)
+                                       "location": gloc, "published_minutes": None})
+            time.sleep(2) # Evitar baneo de Google
         except Exception as e:
             logger.warning("Google ATS error: %s", e)
     return offers

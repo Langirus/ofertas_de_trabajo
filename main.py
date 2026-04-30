@@ -50,17 +50,22 @@ HEADERS = {
 
 # Áreas de TI (Whitelist 1)
 WHITELIST_TI = [
-    "Informática", "TI", "IT", "Sistemas", "Software", "Programador", "Desarrollador", 
-    "Developer", "Computación", "Soporte", "Redes", "Ciberseguridad", "Datos", "Data", 
+    "Informática", "TI", "IT", "Sistemas", "Software", "Programador", "Desarrollador",
+    "Developer", "Computación", "Soporte", "Redes", "Ciberseguridad", "Datos", "Data",
     "Cloud", "Infraestructura", "QA", "Testing", "Informático", "Telecomunicaciones",
     "Web", "Frontend", "Backend", "Fullstack", "Java", "Python", "Javascript", "React",
-    "Node", "SQL", "Base de datos", "Ingeniero", "Ingeniería", "Tecnología"
+    "Node", "SQL", "Base de datos", "Ingeniero", "Ingeniería", "Tecnología",
+    # IA / GenAI / ML
+    "IA", "AI", "Inteligencia Artificial", "Machine Learning", "ML", "LLM",
+    "GenAI", "Generative", "Gemini", "ChatGPT", "OpenAI", "Deep Learning",
+    "Data Science", "Analista de Datos", "Automatización", "DevOps", "Kotlin", "Android",
 ]
 
 # Niveles Junior/Trainee (Whitelist 2)
 WHITELIST_LEVEL = [
-    "Junior", "Trainee", "Práctica", "Practicante", "Entry Level", "Sin experiencia", 
-    "Analista", "Egresado", "Recién graduado", "Nivel inicial", "Analyst", "Jr"
+    "Junior", "Trainee", "Práctica", "Practicante", "Entry Level", "Sin experiencia",
+    "Analista", "Egresado", "Recién graduado", "Nivel inicial", "Analyst", "Jr",
+    "Asistente", "Pasante", "Becario", "Aprendiz", "Intern", "Graduate", "Auxiliar",
 ]
 
 # Blacklist: Filtros para descartar Senior o áreas ajenas
@@ -95,19 +100,22 @@ LOCATION_CHILE = "Chile"
 
 def is_spanish_content(text: str) -> bool:
     """
-    Heurística para determinar si un texto está en español.
-    Compara la frecuencia de palabras comunes en español vs inglés.
+    Heurística relajada: acepta si hay ALGUNA palabra española,
+    o si no hay evidencia clara de inglés (títulos técnicos suelen mezclar).
     """
     words = re.findall(r'\b\w+\b', text.lower())
     if not words:
-        return False
-    
+        return True  # sin texto = no descartar
+
     es_count = sum(1 for w in words if w in SPANISH_STOPWORDS)
     en_count = sum(1 for w in words if w in ENGLISH_STOPWORDS)
-    
-    # Si hay una clara mayoría de español o presencia de palabras clave ES, aceptamos.
-    # Damos un pequeño margen al español por ser el objetivo.
-    return es_count >= en_count or es_count > 0
+
+    # Aceptar si hay alguna palabra española, o si no hay mayoría clara de inglés
+    if es_count > 0:
+        return True
+    if en_count == 0:
+        return True  # título técnico puro (ej: "Junior Python Developer") → aceptar
+    return False
 
 def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     """
@@ -354,25 +362,37 @@ def fetch_torre_jobs() -> List[Dict]:
 def fetch_all_offers() -> List[Dict]:
     """Ejecuta todos los scrapers en paralelo y devuelve la lista combinada."""
     combos_chile = [
-        ["Junior", "Software"], ["Trainee", "Informática"],
-        ["Soporte", "TI"],      ["Analista", "Sistemas"],
-        ["Práctica", "Python"], ["Junior", "IT"],
+        ["Junior", "Software"],        ["Trainee", "Informática"],
+        ["Soporte", "TI"],              ["Analista", "Sistemas"],
+        ["Práctica", "Python"],         ["Junior", "IT"],
+        ["Junior", "Python"],           ["Junior", "Desarrollador"],
+        ["Asistente", "TI"],            ["Junior", "Datos"],
+        ["Junior", "IA"],               ["Trainee", "IT"],
+        ["Junior", "Backend"],          ["Junior", "Frontend"],
+        ["Junior", "Automatización"],   ["Práctica", "Informática"],
+        ["Asistente", "Informática"],   ["Junior", "Data"],
+        ["Practicante", "Sistemas"],    ["Junior", "Android"],
     ]
     combos_remote = [
         ["Junior", "Remoto", "Desarrollador"],
         ["Trainee", "Remoto", "Sistemas"],
         ["Programador", "Junior"],
+        ["Junior", "Python"],
+        ["Junior", "Desarrollador"],
+        ["Junior", "IA"],
+        ["Junior", "Machine Learning"],
+        ["Junior", "Data"],
     ]
-    regiones = ["Latin America", "Spain", "Mexico", "Argentina"]
+    regiones = ["Latin America", "Spain", "Mexico", "Argentina", "Colombia", "Chile"]
 
     tasks: List[tuple] = []
-    # LinkedIn Chile
+    # LinkedIn Chile — ventana de 24h
     for c in combos_chile:
-        tasks.append(("LI-Chile",  fetch_linkedin_jobs, (c, "Chile", 2, False)))
-    # LinkedIn Remoto (reducido a 3 regiones × 3 combos)
+        tasks.append(("LI-Chile",  fetch_linkedin_jobs, (c, "Chile", 24, False)))
+    # LinkedIn Remoto — ventana de 24h
     for loc in regiones:
         for c in combos_remote:
-            tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 2, True)))
+            tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 24, True)))
     # Fuentes nuevas
     tasks.append(("RemoteOK",  fetch_remoteok_jobs,  ()))
     tasks.append(("GetOnBoard", fetch_getonboard_jobs, ()))

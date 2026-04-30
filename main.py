@@ -443,27 +443,41 @@ def fetch_firstjob_jobs() -> List[Dict]:
     return offers
 
 def fetch_chiletrabajos_jobs() -> List[Dict]:
-    """Chiletrabajos.cl: Scraper directo usando su motor de búsqueda."""
+    """Chiletrabajos.cl: Intento vía RSS y Búsqueda directa."""
     offers = []
+    # Primero intentamos RSS que es más estable para bots
     try:
-        # Buscamos directamente con términos de búsqueda
-        url = "https://www.chiletrabajos.cl/buscar?s=informatica+junior"
-        resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
-        soup = BeautifulSoup(resp.content, "html.parser")
-        # En el buscador, las ofertas tienen clase 'job-item' o enlaces destacados
-        items = soup.select("a.font-weight-bold") or soup.select(".job-item a")
-        for item in items[:20]:
-            title = item.get_text(strip=True)
-            jurl  = item["href"]
-            if not jurl.startswith("http"):
-                jurl = "https://www.chiletrabajos.cl" + jurl
-            if is_relevant(title, "", "Chile"):
-                offers.append({
-                    "url": jurl, "title": title, "company": "Chiletrabajos",
-                    "location": "Chile", "desc": "Oferta en Chiletrabajos.cl", "published_minutes": None
-                })
+        rss_url = "https://www.chiletrabajos.cl/rss/ofertas"
+        resp = requests.get(rss_url, headers=HEADERS, timeout=REQ_TIMEOUT)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.content, "xml")
+            items = soup.find_all("item")
+            for item in items[:30]:
+                title = item.title.text if item.title else ""
+                jurl  = item.link.text if item.link else ""
+                if is_relevant(title, "", "Chile"):
+                    offers.append({
+                        "url": jurl, "title": title, "company": "Chiletrabajos (RSS)",
+                        "location": "Chile", "desc": "Oferta vía RSS", "published_minutes": None
+                    })
     except Exception as e:
-        logger.warning("Chiletrabajos error: %s", e)
+        logger.warning("Chiletrabajos RSS error: %s", e)
+    
+    # Si RSS no dio nada, intentamos búsqueda directa
+    if not offers:
+        try:
+            url = "https://www.chiletrabajos.cl/buscar?s=informatica+junior"
+            resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+            logger.info("Chiletrabajos Directo Status: %d", resp.status_code)
+            soup = BeautifulSoup(resp.content, "html.parser")
+            items = soup.select("a.font-weight-bold") or soup.select(".job-item a")
+            for item in items[:15]:
+                title = item.get_text(strip=True)
+                jurl  = item["href"]
+                if not jurl.startswith("http"): jurl = "https://www.chiletrabajos.cl" + jurl
+                if is_relevant(title, "", "Chile"):
+                    offers.append({"url": jurl, "title": title, "company": "Chiletrabajos", "location": "Chile", "desc": "Búsqueda directa", "published_minutes": None})
+        except Exception: pass
     return offers
 
 def fetch_computrabajo_jobs() -> List[Dict]:
@@ -611,8 +625,10 @@ def fetch_all_offers() -> List[Dict]:
     tasks.append(("Torre.ai",       fetch_torre_jobs,         ()))
     tasks.append(("WWR",            fetch_wwr_jobs,           ()))
     
-    # Google ATS (Reducido a 1 query muy amplia para no ser bloqueados)
-    tasks.append(("Google-Chile", _fetch_google_ats,    ()))
+    # Google dedicado solo para Indeed Chile (para forzar su aparición)
+    tasks.append(("Google-Indeed", _fetch_google_indeed,    ()))
+    # Google general Chile
+    tasks.append(("Google-Chile",  _fetch_google_ats,       ()))
 
     all_offers: List[Dict] = []
     logger.info("Lanzando %d tareas de scraping en paralelo...", len(tasks))
@@ -632,6 +648,20 @@ def fetch_all_offers() -> List[Dict]:
     
     return all_offers
 
+
+def _fetch_google_indeed() -> List[Dict]:
+    """Búsqueda Google dedicada exclusivamente para Indeed Chile."""
+    if gsearch is None: return []
+    offers = []
+    q = "site:cl.indeed.com (Junior OR Trainee) Informática Python"
+    try:
+        results = list(gsearch(q, num_results=10, lang="es"))
+        for url in results:
+            meta = fetch_metadata(url)
+            if is_relevant(meta["title"], meta["desc"], "Chile"):
+                offers.append({**meta, "company": "Indeed", "location": "Chile", "published_minutes": None})
+    except Exception: pass
+    return offers
 
 def _fetch_google_ats() -> List[Dict]:
     """Búsqueda Google de emergencia con un solo barrido amplio."""

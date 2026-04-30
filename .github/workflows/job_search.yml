@@ -27,6 +27,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Diagnostico de entorno
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          echo "=== Verificando entorno ==="
+          python -c "import os; k=os.environ.get('GROQ_API_KEY',''); print(f'GROQ_API_KEY presente: {bool(k)} (len={len(k)})')"
+          python -c "import os; print('cv_profile.txt existe:', os.path.exists('cv_profile.txt'))"
+          python -c "from groq import Groq; print('Libreria groq: OK')"
+
       - name: Run job search script
         env:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}

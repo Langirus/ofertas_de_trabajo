@@ -132,10 +132,10 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     Verifica si el puesto es relevante:
     1. No debe tener palabras de la blacklist en el título.
     2. Debe tener al menos una palabra de TI.
-    3. Debe tener al menos una palabra de nivel (Junior/Trainee/Analista).
-    4. Debe estar en español o ser para hispanohablantes.
-    5. Si NO es en Chile, debe ser Remoto.
-    6. No debe requerir 2+ años de experiencia en la descripción.
+    3. Debe tener al menos una palabra de nivel (Junior/Trainee/Asistente...).
+    4. Si NO es en Chile, debe ser Remoto.
+    5. No debe requerir 2+ años de experiencia (en título o descripción).
+    NOTA: El filtro de idioma se eliminó — confiamos en TI + nivel para precisar.
     """
     title_lower = title.lower()
     desc_lower  = desc.lower()
@@ -160,28 +160,22 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
         return False
 
     # 3. Verificar si es nivel inicial
-    has_level = any(level.lower() in title_lower for level in WHITELIST_LEVEL)
-    if not has_level:
+    if not any(level.lower() in title_lower for level in WHITELIST_LEVEL):
         return False
 
-    # 4. Filtro de Idioma
-    if not is_spanish_content(f"{title} {desc}"):
-        logger.info("Descartado por idioma: %s", title)
-        return False
-
-    # 5. Si no es Chile, DEBE ser remoto
+    # 4. Si no es Chile, DEBE ser remoto
     if location.lower() != "chile":
-        remote_keywords = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "en cualquier lugar"]
+        remote_keywords = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "latam"]
         if not any(kw in title_lower or kw in desc_lower for kw in remote_keywords):
-            logger.info("Descartado por no ser remoto fuera de Chile (%s): %s", location, title)
+            logger.info("Descartado (no remoto, no Chile): %s", title)
             return False
 
-    # 6. Filtro de experiencia excesiva (2+ años) en la descripción
-    if desc_lower:
-        for pat in EXP_BLACKLIST_PATTERNS:
-            if re.search(pat, desc_lower, re.IGNORECASE):
-                logger.info("Descartado por experiencia excesiva: %s", title)
-                return False
+    # 5. Filtro de experiencia excesiva (2+ años) en título O descripción
+    combined = f"{title_lower} {desc_lower}"
+    for pat in EXP_BLACKLIST_PATTERNS:
+        if re.search(pat, combined, re.IGNORECASE):
+            logger.info("Descartado por experiencia excesiva: %s", title)
+            return False
 
     return True
 

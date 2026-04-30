@@ -21,10 +21,15 @@ MIN_SCORE_THRESHOLD = 30  # Descartar ofertas con score inferior a este valor
 def load_cv_profile() -> str:
     """Carga el perfil del CV desde cv_profile.txt."""
     if not os.path.exists(CV_PROFILE_FILE):
-        logger.warning("No se encontró cv_profile.txt. La evaluación IA no estará disponible.")
+        logger.error("ERROR CRITICO: No se encontró %s en el directorio de trabajo: %s",
+                     CV_PROFILE_FILE, os.getcwd())
         return ""
-    with open(CV_PROFILE_FILE, "r", encoding="utf-8") as f:
-        return f.read().strip()
+    content = open(CV_PROFILE_FILE, "r", encoding="utf-8").read().strip()
+    if content:
+        logger.info("CV cargado correctamente (%d caracteres).", len(content))
+    else:
+        logger.error("ERROR: %s existe pero está vacío.", CV_PROFILE_FILE)
+    return content
 
 
 def score_job_with_ai(offer: Dict[str, str], cv_profile: str, client) -> Dict:
@@ -116,15 +121,19 @@ def _parse_simple_response(raw: str) -> Dict:
 def build_groq_client():
     """
     Construye y retorna el cliente de Groq.
-    Retorna None si la API key no está configurada (degradación elegante).
+    Retorna None si la API key no está configurada.
     """
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = os.environ.get("GROQ_API_KEY", "")
     if not api_key:
-        logger.warning("GROQ_API_KEY no encontrada. El scoring IA estará desactivado.")
+        logger.error("GROQ_API_KEY no encontrada en variables de entorno. "
+                     "Configura el secret en GitHub Actions Settings > Secrets.")
         return None
+    logger.info("GROQ_API_KEY detectada (longitud: %d). Inicializando cliente...", len(api_key))
     try:
         from groq import Groq
-        return Groq(api_key=api_key)
+        client = Groq(api_key=api_key)
+        logger.info("Cliente Groq inicializado correctamente.")
+        return client
     except ImportError:
         logger.error("Librería 'groq' no instalada. Ejecuta: pip install groq")
         return None

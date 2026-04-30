@@ -59,10 +59,12 @@ WHITELIST_TI = [
     "Cloud", "Infraestructura", "QA", "Testing", "Informático", "Telecomunicaciones",
     "Web", "Frontend", "Backend", "Fullstack", "Java", "Python", "Javascript", "React",
     "Node", "SQL", "Base de datos", "Ingeniero", "Ingeniería", "Tecnología",
-    # IA / GenAI / ML
-    "IA", "AI", "Inteligencia Artificial", "Machine Learning", "ML", "LLM",
-    "GenAI", "Generative", "Gemini", "ChatGPT", "OpenAI", "Deep Learning",
-    "Data Science", "Analista de Datos", "Automatización", "DevOps", "Kotlin", "Android",
+    "Software", "Informática", "Sistemas", "Python", "IT", "Desarrollador", "Developer",
+    "Programador", "Data", "IA", "AI", "Backend", "Frontend", "Fullstack", "Web",
+    "Soporte", "TI", "Informático", "Computación", "Redes", "Infraestructura", "Cloud",
+    "QA", "Testing", "Automatización", "Analista", "Seguridad", "Ciberseguridad",
+    "Machine Learning", "DevOps", "Base de Datos", "DBA", "Mobile", "Android", "iOS",
+    "Java", "React", "Node", "Angular", "Vue", "PHP", "SQL", "Mantenimiento", "Digital"
 ]
 
 # Niveles Junior/Trainee (Whitelist 2)
@@ -70,6 +72,7 @@ WHITELIST_LEVEL = [
     "Junior", "Trainee", "Práctica", "Practicante", "Entry Level", "Sin experiencia",
     "Analista", "Egresado", "Recién graduado", "Nivel inicial", "Analyst", "Jr",
     "Asistente", "Pasante", "Becario", "Aprendiz", "Intern", "Graduate", "Auxiliar",
+    "Soporte", "Técnico"
 ]
 
 # Blacklist: Filtros para descartar Senior o áreas ajenas
@@ -104,7 +107,7 @@ ENGLISH_REQ_PATTERNS = [
 
 # Palabras clave para detección de idioma (Heurística simple)
 SPANISH_STOPWORDS = {
-    'de', 'la', 'el', 'en', 'y', 'a', 'que', 'los', 'se', 'del', 'las', 'un', 'con', 'no', 'una', 
+    'de', 'la', 'el', 'el', 'en', 'y', 'a', 'que', 'los', 'se', 'del', 'las', 'un', 'con', 'no', 'una', 
     'su', 'para', 'es', 'al', 'lo', 'como', 'más', 'pero', 'sus', 'le', 'ya', 'o', 'este', 'sí', 
     'porque', 'esta', 'entre', 'cuando', 'muy', 'sin', 'sobre', 'también', 'me', 'hasta', 'hay', 
     'donde', 'quien', 'desde', 'todo', 'nos', 'durante', 'todos', 'uno', 'les', 'ni', 'vacante',
@@ -174,7 +177,7 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
             has_ti = True
             break
     if not has_ti:
-        logger.debug("Descartado por no ser TI: %s", title)
+        logger.info("Descartado por no ser TI: %s", title)
         return False
 
     # 3. Verificar si es nivel inicial (en título O descripción)
@@ -184,10 +187,11 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     
     # Si viene de un portal de empleo conocido, somos más flexibles con el nivel
     known_portals = ["chiletrabajos", "computrabajo", "laborum", "firstjob", "indeed", "getonbrd", "trabajando"]
+    combined = f"{title_lower} {desc_lower}"
     is_known_portal = any(p in title_lower or p in desc_lower or p in location.lower() or p in combined for p in known_portals)
 
     if not has_level and not is_known_portal:
-        logger.debug("Descartado por falta de nivel: %s", title)
+        logger.info("Descartado por falta de nivel: %s", title)
         return False
 
     # 4. Si no es Chile, DEBE ser remoto
@@ -201,7 +205,6 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
                 return False
 
     # 5. Filtro de experiencia excesiva (2+ años) en título O descripción
-    combined = f"{title_lower} {desc_lower}"
     for pat in EXP_BLACKLIST_PATTERNS:
         if re.search(pat, combined, re.IGNORECASE):
             logger.info("Descartado por experiencia excesiva: %s", title)
@@ -410,18 +413,16 @@ def fetch_firstjob_jobs() -> List[Dict]:
     """FirstJob.me: Portal líder para Juniors y Prácticas en Chile."""
     offers = []
     try:
-        # Buscamos por la categoría de Tecnología
         url = "https://firstjob.me/ofertas-de-trabajo?keywords=junior&category=tecnologia"
         resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
         soup = BeautifulSoup(resp.content, "html.parser")
-        # FirstJob usa cards con clase 'job-card' o similar
-        cards = soup.select(".card-job") or soup.select(".job-card")
-        for card in cards[:15]:
-            title_tag = card.select_one(".title") or card.select_one("h3")
-            link_tag  = card.select_one("a")
-            if title_tag and link_tag:
+        # El subagent identificó a[href^="/oferta/"] y h6 interno
+        cards = soup.select('a[href^="/oferta/"]')
+        for card in cards[:20]:
+            title_tag = card.find("h6")
+            if title_tag:
                 title = title_tag.get_text(strip=True)
-                jurl  = link_tag["href"]
+                jurl  = card["href"]
                 if not jurl.startswith("http"):
                     jurl = "https://firstjob.me" + jurl
                 if is_relevant(title, "", "Chile"):
@@ -437,22 +438,20 @@ def fetch_chiletrabajos_jobs() -> List[Dict]:
     """Chiletrabajos.cl: Scraper directo para el portal de Chile."""
     offers = []
     try:
-        url = "https://www.chiletrabajos.cl/trabajo/junior-informatica"
+        # Buscamos 'informatica junior' para evitar tildes en URL si es posible
+        url = "https://www.chiletrabajos.cl/trabajo/informatica-junior"
         resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
         soup = BeautifulSoup(resp.content, "html.parser")
-        # Buscamos los bloques de ofertas
-        items = soup.select(".job-item") or soup.select(".item")
-        for item in items[:15]:
-            title_tag = item.select_one("h2") or item.select_one("h3")
-            link_tag  = item.select_one("a")
-            if title_tag and link_tag:
-                title = title_tag.get_text(strip=True)
-                jurl  = link_tag["href"]
-                if is_relevant(title, "", "Chile"):
-                    offers.append({
-                        "url": jurl, "title": title, "company": "Chiletrabajos",
-                        "location": "Chile", "desc": "Oferta en Chiletrabajos.cl", "published_minutes": None
-                    })
+        # El subagent identificó a.font-weight-bold
+        items = soup.select("a.font-weight-bold")
+        for item in items[:20]:
+            title = item.get_text(strip=True)
+            jurl  = item["href"]
+            if is_relevant(title, "", "Chile"):
+                offers.append({
+                    "url": jurl, "title": title, "company": "Chiletrabajos",
+                    "location": "Chile", "desc": "Oferta en Chiletrabajos.cl", "published_minutes": None
+                })
     except Exception as e:
         logger.warning("Chiletrabajos error: %s", e)
     return offers

@@ -51,6 +51,7 @@ https://cl.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-q
 https://cl.linkedin.com/jobs/view/junior-software-engineer-chile-at-sezzle-4271076854
 https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-jobs-ai-4405836520
 https://cl.linkedin.com/jobs/view/latam-based-contractor-agile-data-business-analyst-at-infinite-lambda-4405402083
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingeniero-mec%C3%A1nico-o-carreras-afines-at-skc-insumos-grupo-sigdo-koppers-4408751929
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-it-at-metlen-energy-metals-4403634101
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-programador-inform%C3%A1tico-at-constructora-3l-4404871675
@@ -149,6 +150,7 @@ latambasedcontractoragiledatabusinessanalyst|infinitelambda
 practicantedeinfraestructurati|experis
 practicanteprofesionaldecomputacineinformtica|ardumingenieraspa
 practicantereadeproyectosynuevastecnologasdesarrollo|rancocherries
+prcticaingenieromecnicoocarrerasafines|skcinsumosgruposigdokoppers
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 prcticaprofesionalit|metlenenergymetals
 prcticaprofesionalprogramadorinformtico|constructora3l

@@ -443,18 +443,20 @@ def fetch_firstjob_jobs() -> List[Dict]:
     return offers
 
 def fetch_chiletrabajos_jobs() -> List[Dict]:
-    """Chiletrabajos.cl: Scraper directo para el portal de Chile."""
+    """Chiletrabajos.cl: Scraper directo usando su motor de búsqueda."""
     offers = []
     try:
-        # URL más específica para Chiletrabajos
-        url = "https://www.chiletrabajos.cl/trabajo/junior-desarrollador-informatica"
+        # Buscamos directamente con términos de búsqueda
+        url = "https://www.chiletrabajos.cl/buscar?s=informatica+junior"
         resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
         soup = BeautifulSoup(resp.content, "html.parser")
-        # Selector más robusto para títulos
-        items = soup.select("a.font-weight-bold")
+        # En el buscador, las ofertas tienen clase 'job-item' o enlaces destacados
+        items = soup.select("a.font-weight-bold") or soup.select(".job-item a")
         for item in items[:20]:
             title = item.get_text(strip=True)
             jurl  = item["href"]
+            if not jurl.startswith("http"):
+                jurl = "https://www.chiletrabajos.cl" + jurl
             if is_relevant(title, "", "Chile"):
                 offers.append({
                     "url": jurl, "title": title, "company": "Chiletrabajos",
@@ -462,6 +464,28 @@ def fetch_chiletrabajos_jobs() -> List[Dict]:
                 })
     except Exception as e:
         logger.warning("Chiletrabajos error: %s", e)
+    return offers
+
+def fetch_computrabajo_jobs() -> List[Dict]:
+    """Computrabajo Chile: Intento de scraper directo."""
+    offers = []
+    try:
+        url = "https://cl.computrabajo.com/ofertas-de-trabajo/?q=junior+informatica"
+        # Computrabajo es muy estricto, usamos headers pesados
+        resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.content, "html.parser")
+            items = soup.select("article a.js-o-link")
+            for item in items[:15]:
+                title = item.get_text(strip=True)
+                jurl  = "https://cl.computrabajo.com" + item["href"]
+                if is_relevant(title, "", "Chile"):
+                    offers.append({
+                        "url": jurl, "title": title, "company": "Computrabajo",
+                        "location": "Chile", "desc": "Oferta en Computrabajo.cl", "published_minutes": None
+                    })
+    except Exception as e:
+        logger.warning("Computrabajo error: %s", e)
     return offers
 
 def fetch_wwr_jobs() -> List[Dict]:
@@ -552,12 +576,13 @@ def fetch_all_offers() -> List[Dict]:
             tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 24, True)))
     
     # Fuentes alternativas y Portales Directos de Chile
-    tasks.append(("FirstJob",    fetch_firstjob_jobs,   ()))
-    tasks.append(("Chiletrabajos", fetch_chiletrabajos_jobs, ()))
-    tasks.append(("RemoteOK",    fetch_remoteok_jobs,   ()))
-    tasks.append(("GetOnBoard",  fetch_getonboard_jobs, ()))
-    tasks.append(("Torre.ai",    fetch_torre_jobs,       ()))
-    tasks.append(("WWR",         fetch_wwr_jobs,         ()))
+    tasks.append(("FirstJob",       fetch_firstjob_jobs,      ()))
+    tasks.append(("Chiletrabajos",  fetch_chiletrabajos_jobs, ()))
+    tasks.append(("Computrabajo",   fetch_computrabajo_jobs,  ()))
+    tasks.append(("RemoteOK",       fetch_remoteok_jobs,      ()))
+    tasks.append(("GetOnBoard",     fetch_getonboard_jobs,    ()))
+    tasks.append(("Torre.ai",       fetch_torre_jobs,         ()))
+    tasks.append(("WWR",            fetch_wwr_jobs,           ()))
     
     # Google ATS (Reducido a 1 query muy amplia para no ser bloqueados)
     tasks.append(("Google-Chile", _fetch_google_ats,    ()))

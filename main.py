@@ -47,10 +47,24 @@ FRESH_MIN_SCORE = 65
 MAX_WORKERS = 8  # Hilos paralelos para scraping
 REQ_TIMEOUT = 10
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-}
+import random
+
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1",
+    "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+]
+
+def get_headers():
+    h = {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Referer": "https://www.google.com/"
+    }
+    return h
 
 # Áreas de TI (Whitelist 1)
 WHITELIST_TI = [
@@ -466,8 +480,8 @@ def fetch_chiletrabajos_jobs() -> List[Dict]:
     # Si RSS no dio nada, intentamos búsqueda directa
     if not offers:
         try:
-            url = "https://www.chiletrabajos.cl/buscar?s=informatica+junior"
-            resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+            url = "https://www.chiletrabajos.cl/busqueda?q=informatica+junior"
+            resp = requests.get(url, headers=get_headers(), timeout=REQ_TIMEOUT)
             logger.info("Chiletrabajos Directo Status: %d", resp.status_code)
             soup = BeautifulSoup(resp.content, "html.parser")
             items = soup.select("a.font-weight-bold") or soup.select(".job-item a")
@@ -632,7 +646,7 @@ def fetch_all_offers() -> List[Dict]:
 
     all_offers: List[Dict] = []
     logger.info("Lanzando %d tareas de scraping en paralelo...", len(tasks))
-    
+
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
         fmap = {ex.submit(fn, *args): name for name, fn, args in tasks}
         for fut in as_completed(fmap):
@@ -645,24 +659,6 @@ def fetch_all_offers() -> List[Dict]:
                     all_offers.extend(results)
             except Exception as e:
                 logger.error("  ✗ %-12s: Error: %s", name, e)
-
-    # --- INYECCIÓN DE PRUEBA (DIAGNÓSTICO) ---
-    all_offers.append({
-        "url": "https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-software-3825664",
-        "title": "TEST: Desarrollador Junior de Software", "company": "Lokilabs SPA",
-        "location": "Chile", "desc": "Oferta real inyectada para prueba", "published_minutes": None
-    })
-    all_offers.append({
-        "url": "https://cl.indeed.com/viewjob?jk=109386927520e8e5",
-        "title": "TEST: Data Scientist (Junior - Mid Level)", "company": "Indeed Test",
-        "location": "Chile", "desc": "Oferta real inyectada para prueba", "published_minutes": None
-    })
-    all_offers.append({
-        "url": "https://cl.indeed.com/viewjob?jk=ed262a9e0001e6ab",
-        "title": "TEST: Analista junior/servicio Batch", "company": "Indeed Test 2",
-        "location": "Chile", "desc": "Oferta real inyectada para prueba", "published_minutes": None
-    })
-    # -----------------------------------------
     
     return all_offers
 

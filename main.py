@@ -38,7 +38,7 @@ SITES = [
     "lever.co", "greenhouse.io", "airavirtual.com", "getonboard.com",
     "firstjob.me", "chiletrabajos.cl", "laborum.cl", "computrabajo.cl",
     "infojobs.net", "tecnoempleo.com", "trabajando.com", "weworkremotely.com",
-    "remote.co", "startup.jobs", "nodesk.co", "remotive.com"
+    "remote.co", "startup.jobs", "nodesk.co", "remotive.com", "indeed.cl", "indeed.com"
 ]
 
 # Alerta inmediata: ofertas publicadas hace menos de X minutos con score >= Y
@@ -222,7 +222,12 @@ def try_search(query: str, max_results: int = 5) -> List[str]:
         return []
 
 def fetch_metadata(url: str) -> Dict[str, str]:
-    headers = {"User-Agent": "Mozilla/5.0"}
+    # User-agent más realista para evitar bloqueos básicos
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3",
+    }
     title = url.split("/")[-1].replace("-", " ").replace("_", " ")
     desc = "Sin descripción disponible."
     
@@ -232,9 +237,11 @@ def fetch_metadata(url: str) -> Dict[str, str]:
             soup = BeautifulSoup(resp.text, "html.parser")
             if soup.title:
                 title = soup.title.string.strip()
-            meta_desc = soup.find("meta", attrs={"name": "description"})
+            # Intentar capturar descripción de meta tags comunes
+            meta_desc = (soup.find("meta", attrs={"name": "description"}) or 
+                         soup.find("meta", attrs={"property": "og:description"}))
             if meta_desc and meta_desc.get("content"):
-                desc = meta_desc["content"][:300] + "..."
+                desc = meta_desc["content"][:400].strip()
     except Exception:
         pass
         
@@ -359,36 +366,39 @@ def fetch_remoteok_jobs() -> List[Dict]:
 def fetch_getonboard_jobs() -> List[Dict]:
     """GetOnBoard: API pública oficial con fechas exactas de publicación."""
     offers = []
-    for page in range(1, 3):
-        try:
-            url = (f"https://www.getonbrd.com/api/v0/categories/programming/jobs"
-                   f"?per_page=20&page={page}&published=true")
-            resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
-            resp.raise_for_status()
-            for job in resp.json().get("data", []):
-                attrs   = job.get("attributes", {})
-                title   = attrs.get("title", "")
-                comp    = (attrs.get("company") or {})
-                company = (comp.get("data") or {}).get("attributes", {}).get("name", "N/A")
-                remote  = attrs.get("remote", False)
-                loc     = "Remoto" if remote else "Chile"
-                desc    = BeautifulSoup(attrs.get("description", ""), "html.parser").get_text()[:300]
-                jid     = job.get("id", "")
-                jurl    = f"https://www.getonbrd.com/jobs/{jid}"
-                mins    = None
-                pub_at  = attrs.get("published_at") or attrs.get("updated_at")
-                if pub_at:
-                    try:
-                        dt   = datetime.fromisoformat(pub_at.replace("Z", "+00:00"))
-                        mins = int((datetime.now(timezone.utc) - dt).total_seconds() / 60)
-                    except Exception:
-                        pass
-                if is_relevant(title, desc, loc):
-                    offers.append({"url": jurl, "title": title, "company": company,
-                                   "location": loc, "desc": desc,
-                                   "published_minutes": mins})
-        except Exception as e:
-            logger.warning("GetOnBoard API error (page %d): %s", page, e)
+    # Buscamos en múltiples categorías para no perder nada de TI
+    categories = ["programming", "data-science-analytics", "mobile-development", "sysadmin-devops-qa"]
+    for cat in categories:
+        for page in range(1, 2):
+            try:
+                url = (f"https://www.getonbrd.com/api/v0/categories/{cat}/jobs"
+                       f"?per_page=20&page={page}&published=true")
+                resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+                resp.raise_for_status()
+                for job in resp.json().get("data", []):
+                    attrs   = job.get("attributes", {})
+                    title   = attrs.get("title", "")
+                    comp    = (attrs.get("company") or {})
+                    company = (comp.get("data") or {}).get("attributes", {}).get("name", "N/A")
+                    remote  = attrs.get("remote", False)
+                    loc     = "Remoto" if remote else "Chile"
+                    desc    = BeautifulSoup(attrs.get("description", ""), "html.parser").get_text()[:300]
+                    jid     = job.get("id", "")
+                    jurl    = f"https://www.getonbrd.com/jobs/{jid}"
+                    mins    = None
+                    pub_at  = attrs.get("published_at") or attrs.get("updated_at")
+                    if pub_at:
+                        try:
+                            dt   = datetime.fromisoformat(pub_at.replace("Z", "+00:00"))
+                            mins = int((datetime.now(timezone.utc) - dt).total_seconds() / 60)
+                        except Exception:
+                            pass
+                    if is_relevant(title, desc, loc):
+                        offers.append({"url": jurl, "title": title, "company": company,
+                                       "location": loc, "desc": desc,
+                                       "published_minutes": mins})
+            except Exception as e:
+                logger.warning("GetOnBoard API error (cat %s, page %d): %s", cat, page, e)
     return offers
 
 
@@ -508,36 +518,55 @@ def fetch_all_offers() -> List[Dict]:
 
 
 def _fetch_google_ats() -> List[Dict]:
-    """Búsqueda Google site: optimizada con OR para cubrir más portales rápido."""
+    """Búsqueda Google site: optimizada por regiones y portales clave."""
     if gsearch is None:
         return []
     offers = []
     seen_urls: set = set()
     
-    # Agrupamos sitios de 4 en 4 para no hacer la query gigante pero ser eficientes
-    site_groups = [SITES[i:i+4] for i in range(0, len(SITES), 4)]
-    queries = []
-    for group in site_groups:
-        sites_query = " OR ".join([f"site:{s}" for s in group])
-        for level in ["Junior", "Trainee", "Pasante"]:
-            queries.append(f"({sites_query}) {level} (Informática OR Python OR Desarrollador OR Developer)")
+    # 1. Búsquedas dedicadas a Chile para asegurar portales locales
+    chile_portals = ["firstjob.me", "chiletrabajos.cl", "laborum.cl", "computrabajo.cl", "trabajando.com", "indeed.cl"]
+    chile_query = " OR ".join([f"site:{s}" for s in chile_portals])
+    
+    # 2. Búsquedas globales ATS y Remoto
+    global_portals = ["lever.co", "greenhouse.io", "airavirtual.com", "weworkremotely.com", "startup.jobs", "remote.co", "indeed.com"]
+    global_query = " OR ".join([f"site:{s}" for s in global_portals])
+
+    queries = [
+        # Foco Chile
+        f"({chile_query}) (Junior OR Trainee OR Pasante OR Practicante) (Python OR TI OR Desarrollador OR Informática)",
+        f"site:getonbrd.com Chile (Junior OR Trainee)",
+        # Foco Global
+        f"({global_query}) (Junior OR Trainee) (Python OR Developer OR Software OR AI)",
+    ]
 
     for q in queries:
         try:
             logger.info("Google Search: %s", q)
-            for url in gsearch(q, num_results=5, lang="es"):
+            # Pedimos más resultados (10) para asegurar que barremos bien
+            for url in gsearch(q, num_results=10, lang="es"):
                 if url and url not in seen_urls:
+                    # Evitar URLs de login o genéricas
+                    if any(x in url.lower() for x in ["/login", "/signup", "/register", "/company"]):
+                        continue
+                        
                     seen_urls.add(url)
                     meta = fetch_metadata(url)
-                    # Heurística de ubicación básica por URL
-                    gloc = "Chile" if any(x in url.lower() for x in [".cl", "chile"]) else "Internacional"
+                    
+                    # Ubicación heurística
+                    gloc = "Chile" if any(x in url.lower() for x in [".cl", "chile", "firstjob"]) else "Internacional"
                     
                     if is_relevant(meta["title"], meta["desc"], gloc):
-                        parts   = meta["title"].split(" at ")
-                        company = parts[-1].strip() if len(parts) >= 2 else "N/A"
+                        # Limpieza de nombre de empresa en título de Google
+                        parts   = meta["title"].split(" - ")
+                        company = parts[1].strip() if len(parts) >= 2 else "N/A"
+                        if company == "N/A":
+                            parts = meta["title"].split(" | ")
+                            company = parts[1].strip() if len(parts) >= 2 else "N/A"
+
                         offers.append({**meta, "company": company,
                                        "location": gloc, "published_minutes": None})
-            time.sleep(2) # Evitar baneo de Google
+            time.sleep(3) # Más cautelosos con Google
         except Exception as e:
             logger.warning("Google ATS error: %s", e)
     return offers

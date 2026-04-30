@@ -86,6 +86,18 @@ EXP_BLACKLIST_PATTERNS = [
     r'\b([2-9]|1[0-9])\s*a[ñn]os?\s+de\s+exp\b',
 ]
 
+# Patrones regex para descartar ofertas que exijan inglés avanzado/bilingue
+ENGLISH_REQ_PATTERNS = [
+    r'ingl[eé]s\s*(?:avanzado|fluido|bilingue|bil[ií]ng[uü]e|nativo|c1|c2|nivel\s*alto)',
+    r'english\s*(?:advanced|fluent|bilingual|native|proficiency|c1|c2|required|mandatory)',
+    r'bilingual\s*(?:spanish|español)',
+    r'fluent\s+in\s+english',
+    r'english\s+(?:is\s+)?(?:required|mandatory|a\s+must)',
+    r'must\s+(?:be\s+)?(?:fluent|proficient)\s+in\s+english',
+    r'\bbilingue\b',
+    r'\bbilinguals?\b',
+]
+
 # Palabras clave para detección de idioma (Heurística simple)
 SPANISH_STOPWORDS = {
     'de', 'la', 'el', 'en', 'y', 'a', 'que', 'los', 'se', 'del', 'las', 'un', 'con', 'no', 'una', 
@@ -133,12 +145,13 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     1. No debe tener palabras de la blacklist en el título.
     2. Debe tener al menos una palabra de TI.
     3. Debe tener al menos una palabra de nivel (Junior/Trainee/Asistente...).
-    4. Si NO es en Chile, debe ser Remoto.
-    5. No debe requerir 2+ años de experiencia (en título o descripción).
-    NOTA: El filtro de idioma se eliminó — confiamos en TI + nivel para precisar.
+    4. Si NO es en Chile NI en ubicación remota, debe mencionar 'remote'/'remoto'.
+    5. No debe requerir 2+ años de experiencia.
+    6. No debe exigir inglés avanzado/bilingue.
     """
     title_lower = title.lower()
     desc_lower  = desc.lower()
+    loc_lower   = location.lower()
 
     # 1. Filtro Blacklist en título
     for black in BLACKLIST:
@@ -164,17 +177,26 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
         return False
 
     # 4. Si no es Chile, DEBE ser remoto
-    if location.lower() != "chile":
-        remote_keywords = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "latam"]
-        if not any(kw in title_lower or kw in desc_lower for kw in remote_keywords):
-            logger.info("Descartado (no remoto, no Chile): %s", title)
-            return False
+    #    (acepta si el campo location YA dice remoto/remote/latam, o si el título/desc lo menciona)
+    if loc_lower != "chile":
+        loc_is_remote = any(kw in loc_lower for kw in ["remoto", "remote", "latam", "mundial"])
+        if not loc_is_remote:
+            remote_kw = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "latam"]
+            if not any(kw in title_lower or kw in desc_lower for kw in remote_kw):
+                logger.info("Descartado (no remoto, no Chile): %s", title)
+                return False
 
     # 5. Filtro de experiencia excesiva (2+ años) en título O descripción
     combined = f"{title_lower} {desc_lower}"
     for pat in EXP_BLACKLIST_PATTERNS:
         if re.search(pat, combined, re.IGNORECASE):
             logger.info("Descartado por experiencia excesiva: %s", title)
+            return False
+
+    # 6. Filtro de inglés avanzado/bilingue requerido
+    for pat in ENGLISH_REQ_PATTERNS:
+        if re.search(pat, combined, re.IGNORECASE):
+            logger.info("Descartado por inglés avanzado requerido: %s", title)
             return False
 
     return True
@@ -424,25 +446,31 @@ def fetch_all_offers() -> List[Dict]:
     for loc in regiones:
         for c in combos_remote:
             tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 24, True)))
-    # Fuentes nuevas
+    
+    # Fuentes alternativas (más específicas para no ser filtradas)
     tasks.append(("RemoteOK",  fetch_remoteok_jobs,  ()))
     tasks.append(("GetOnBoard", fetch_getonboard_jobs, ()))
     tasks.append(("Torre.ai",  fetch_torre_jobs,      ()))
-    # Google ATS (en hilo aparte para no bloquear)
+    
+    # Google ATS
     tasks.append(("Google-ATS", _fetch_google_ats,   ()))
 
     all_offers: List[Dict] = []
+    logger.info("Lanzando %d tareas de scraping en paralelo...", len(tasks))
+    
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
         fmap = {ex.submit(fn, *args): name for name, fn, args in tasks}
         for fut in as_completed(fmap):
             name = fmap[fut]
             try:
                 results = fut.result()
+                count = len(results) if results else 0
+                logger.info("  ✓ %-12s: %d ofertas encontradas", name, count)
                 if results:
-                    logger.info("  ✓ %-12s %2d ofertas", name, len(results))
                     all_offers.extend(results)
             except Exception as e:
-                logger.warning("  ✗ %-12s %s", name, e)
+                logger.error("  ✗ %-12s: Error: %s", name, e)
+    
     return all_offers
 
 

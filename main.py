@@ -488,6 +488,32 @@ def fetch_computrabajo_jobs() -> List[Dict]:
         logger.warning("Computrabajo error: %s", e)
     return offers
 
+def fetch_indeed_jobs() -> List[Dict]:
+    """Indeed Chile: Scraper directo usando selectores de 2025."""
+    offers = []
+    try:
+        url = "https://cl.indeed.com/jobs?q=junior+informatica&l=Chile&sort=date"
+        resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+        # Si Indeed nos bloquea (403), lo intentamos por Google (ya está en Google-Chile)
+        if resp.status_code == 200:
+            soup = BeautifulSoup(resp.content, "html.parser")
+            # Selectores identificados por el subagent
+            cards = soup.select(".job_seen_beacon")
+            for card in cards[:10]:
+                title_tag = card.select_one("h2.jobTitle")
+                link_tag  = card.select_one("a.jcs-JobTitle")
+                if title_tag and link_tag:
+                    title = title_tag.get_text(strip=True)
+                    jurl  = "https://cl.indeed.com" + link_tag["href"]
+                    if is_relevant(title, "", "Chile"):
+                        offers.append({
+                            "url": jurl, "title": title, "company": "Indeed",
+                            "location": "Chile", "desc": "Oferta en Indeed Chile", "published_minutes": None
+                        })
+    except Exception as e:
+        logger.warning("Indeed error: %s", e)
+    return offers
+
 def fetch_wwr_jobs() -> List[Dict]:
     """WeWorkRemotely: Una de las fuentes más grandes de remoto real."""
     offers = []
@@ -579,6 +605,7 @@ def fetch_all_offers() -> List[Dict]:
     tasks.append(("FirstJob",       fetch_firstjob_jobs,      ()))
     tasks.append(("Chiletrabajos",  fetch_chiletrabajos_jobs, ()))
     tasks.append(("Computrabajo",   fetch_computrabajo_jobs,  ()))
+    tasks.append(("Indeed",         fetch_indeed_jobs,        ()))
     tasks.append(("RemoteOK",       fetch_remoteok_jobs,      ()))
     tasks.append(("GetOnBoard",     fetch_getonboard_jobs,    ()))
     tasks.append(("Torre.ai",       fetch_torre_jobs,         ()))

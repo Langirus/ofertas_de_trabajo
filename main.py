@@ -179,11 +179,11 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     # 4. Si no es Chile, DEBE ser remoto
     #    (acepta si el campo location YA dice remoto/remote/latam, o si el título/desc lo menciona)
     if loc_lower != "chile":
-        loc_is_remote = any(kw in loc_lower for kw in ["remoto", "remote", "latam", "mundial"])
+        loc_is_remote = any(kw in loc_lower for kw in ["remoto", "remote", "latam", "mundial", "internacional", "anywhere"])
         if not loc_is_remote:
-            remote_kw = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "latam"]
+            remote_kw = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "latam", "mundial", "distancia"]
             if not any(kw in title_lower or kw in desc_lower for kw in remote_kw):
-                logger.info("Descartado (no remoto, no Chile): %s", title)
+                logger.info("Descartado (no remoto, no Chile): %s | Loc: %s", title, location)
                 return False
 
     # 5. Filtro de experiencia excesiva (2+ años) en título O descripción
@@ -414,29 +414,22 @@ def fetch_torre_jobs() -> List[Dict]:
 
 def fetch_all_offers() -> List[Dict]:
     """Ejecuta todos los scrapers en paralelo y devuelve la lista combinada."""
+    # Agrupamos keywords para hacer menos peticiones y evitar bloqueos de LinkedIn
     combos_chile = [
-        ["Junior", "Software"],        ["Trainee", "Informática"],
-        ["Soporte", "TI"],              ["Analista", "Sistemas"],
-        ["Práctica", "Python"],         ["Junior", "IT"],
-        ["Junior", "Python"],           ["Junior", "Desarrollador"],
-        ["Asistente", "TI"],            ["Junior", "Datos"],
-        ["Junior", "IA"],               ["Trainee", "IT"],
-        ["Junior", "Backend"],          ["Junior", "Frontend"],
-        ["Junior", "Automatización"],   ["Práctica", "Informática"],
-        ["Asistente", "Informática"],   ["Junior", "Data"],
-        ["Practicante", "Sistemas"],    ["Junior", "Android"],
+        ["Junior", "Software", "Chile"],
+        ["Trainee", "Informática", "Chile"],
+        ["Asistente", "TI", "Chile"],
+        ["Práctica", "Programador", "Chile"],
+        ["Analista", "Sistemas", "Chile"],
+        ["IA", "Junior", "Chile"]
     ]
     combos_remote = [
-        ["Junior", "Remoto", "Desarrollador"],
+        ["Junior", "Remote", "Developer"],
         ["Trainee", "Remoto", "Sistemas"],
-        ["Programador", "Junior"],
-        ["Junior", "Python"],
-        ["Junior", "Desarrollador"],
-        ["Junior", "IA"],
-        ["Junior", "Machine Learning"],
-        ["Junior", "Data"],
+        ["Python", "Junior", "Remote"],
+        ["AI", "Junior", "Remote"]
     ]
-    regiones = ["Latin America", "Spain", "Mexico", "Argentina", "Colombia", "Chile"]
+    regiones = ["Latin America", "Spain", "Mexico"] # Reducido para evitar bloqueos
 
     tasks: List[tuple] = []
     # LinkedIn Chile — ventana de 24h
@@ -720,7 +713,7 @@ def main():
 
     logger.info("Nuevas (no vistas antes): %d", len(new_offers))
     if not new_offers:
-        logger.info("Nada nuevo. Fin.")
+        logger.warning(">>> No hay ofertas nuevas después de deduplicar. Fin.")
         return
 
     # ── 3. Scoring IA paralelo ─────────────────────────────────────────────────
@@ -731,10 +724,11 @@ def main():
     # ── 4. Filtrar por score mínimo y ordenar ──────────────────────────────────
     scored = [o for o in new_offers if o.get("ai_score", 0) >= MIN_SCORE_THRESHOLD]
     scored.sort(key=lambda x: x.get("ai_score", 0), reverse=True)
+    
     logger.info("Aprobadas por IA (score>=%d%%): %d", MIN_SCORE_THRESHOLD, len(scored))
 
     if not scored:
-        logger.info("Ninguna oferta aprobada por IA. Fin.")
+        logger.warning(">>> Ninguna oferta aprobada por IA (todas bajo score %d). Fin.", MIN_SCORE_THRESHOLD)
         return
 
     # Formatear display_title
@@ -755,9 +749,7 @@ def main():
             offers=fresh, generated_at=now_str, threshold=FRESH_THRESHOLD_MINUTES)
         alert_subject = f"🚨 {len(fresh)} empleo(s) recién publicado(s) con match alto – {now_str[:10]}"
         if dry_run:
-            with open("alert_preview.html", "w", encoding="utf-8") as f:
-                f.write(alert_html)
-            logger.info("DRY_RUN: Alerta guardada en alert_preview.html")
+            logger.info("DRY_RUN: Alerta omitida.")
         else:
             send_email_safe(alert_html, alert_subject)
 
@@ -767,11 +759,9 @@ def main():
     subject = f"[JobSearch] {len(scored)} ofertas · {alto_count} Match Alto – {now_str[:10]}"
 
     if dry_run:
-        filename = f"report_preview_{datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}.html"
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(html)
-        logger.info("DRY_RUN: Reporte guardado en %s", filename)
+        logger.info("DRY_RUN: Reporte omitido.")
     else:
+        logger.info("Intentando enviar correo final con %d ofertas...", len(scored))
         send_email_safe(html, subject)
         save_seen(seen_keys)
 

@@ -25,7 +25,10 @@ import ssl
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from groq_scorer import build_groq_client, load_cv_profile, score_job_with_ai, MIN_SCORE_THRESHOLD
+from groq_scorer import build_groq_client, load_cv_profile, score_job_with_ai
+
+MAX_SCORE_THRESHOLD = 95 # No usado realmente para filtro
+MIN_SCORE_THRESHOLD = 20 # Bajamos el umbral para que pase casi todo a revisión manual
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
@@ -171,10 +174,16 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
             has_ti = True
             break
     if not has_ti:
+        logger.debug("Descartado por no ser TI: %s", title)
         return False
 
-    # 3. Verificar si es nivel inicial
-    if not any(level.lower() in title_lower for level in WHITELIST_LEVEL):
+    # 3. Verificar si es nivel inicial (en título O descripción)
+    has_level = any(level.lower() in title_lower for level in WHITELIST_LEVEL)
+    if not has_level and desc_lower:
+        has_level = any(level.lower() in desc_lower for level in WHITELIST_LEVEL)
+    
+    if not has_level:
+        logger.debug("Descartado por falta de nivel: %s", title)
         return False
 
     # 4. Si no es Chile, DEBE ser remoto

@@ -406,6 +406,57 @@ def fetch_getonboard_jobs() -> List[Dict]:
     return offers
 
 
+def fetch_firstjob_jobs() -> List[Dict]:
+    """FirstJob.me: Portal líder para Juniors y Prácticas en Chile."""
+    offers = []
+    try:
+        # Buscamos por la categoría de Tecnología
+        url = "https://firstjob.me/ofertas-de-trabajo?keywords=junior&category=tecnologia"
+        resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+        soup = BeautifulSoup(resp.content, "html.parser")
+        # FirstJob usa cards con clase 'job-card' o similar
+        cards = soup.select(".card-job") or soup.select(".job-card")
+        for card in cards[:15]:
+            title_tag = card.select_one(".title") or card.select_one("h3")
+            link_tag  = card.select_one("a")
+            if title_tag and link_tag:
+                title = title_tag.get_text(strip=True)
+                jurl  = link_tag["href"]
+                if not jurl.startswith("http"):
+                    jurl = "https://firstjob.me" + jurl
+                if is_relevant(title, "", "Chile"):
+                    offers.append({
+                        "url": jurl, "title": title, "company": "FirstJob",
+                        "location": "Chile", "desc": "Oferta en FirstJob.me", "published_minutes": None
+                    })
+    except Exception as e:
+        logger.warning("FirstJob error: %s", e)
+    return offers
+
+def fetch_chiletrabajos_jobs() -> List[Dict]:
+    """Chiletrabajos.cl: Scraper directo para el portal de Chile."""
+    offers = []
+    try:
+        url = "https://www.chiletrabajos.cl/trabajo/junior-informatica"
+        resp = requests.get(url, headers=HEADERS, timeout=REQ_TIMEOUT)
+        soup = BeautifulSoup(resp.content, "html.parser")
+        # Buscamos los bloques de ofertas
+        items = soup.select(".job-item") or soup.select(".item")
+        for item in items[:15]:
+            title_tag = item.select_one("h2") or item.select_one("h3")
+            link_tag  = item.select_one("a")
+            if title_tag and link_tag:
+                title = title_tag.get_text(strip=True)
+                jurl  = link_tag["href"]
+                if is_relevant(title, "", "Chile"):
+                    offers.append({
+                        "url": jurl, "title": title, "company": "Chiletrabajos",
+                        "location": "Chile", "desc": "Oferta en Chiletrabajos.cl", "published_minutes": None
+                    })
+    except Exception as e:
+        logger.warning("Chiletrabajos error: %s", e)
+    return offers
+
 def fetch_wwr_jobs() -> List[Dict]:
     """WeWorkRemotely: Una de las fuentes más grandes de remoto real."""
     offers = []
@@ -493,14 +544,16 @@ def fetch_all_offers() -> List[Dict]:
         for c in combos_remote:
             tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 24, True)))
     
-    # Fuentes alternativas
-    tasks.append(("RemoteOK",   fetch_remoteok_jobs,  ()))
-    tasks.append(("GetOnBoard", fetch_getonboard_jobs, ()))
-    tasks.append(("Torre.ai",   fetch_torre_jobs,      ()))
-    tasks.append(("WWR",        fetch_wwr_jobs,        ()))
+    # Fuentes alternativas y Portales Directos de Chile
+    tasks.append(("FirstJob",    fetch_firstjob_jobs,   ()))
+    tasks.append(("Chiletrabajos", fetch_chiletrabajos_jobs, ()))
+    tasks.append(("RemoteOK",    fetch_remoteok_jobs,   ()))
+    tasks.append(("GetOnBoard",  fetch_getonboard_jobs, ()))
+    tasks.append(("Torre.ai",    fetch_torre_jobs,       ()))
+    tasks.append(("WWR",         fetch_wwr_jobs,         ()))
     
-    # Google ATS
-    tasks.append(("Google-ATS", _fetch_google_ats,     ()))
+    # Google ATS (Reducido a 1 query muy amplia para no ser bloqueados)
+    tasks.append(("Google-Chile", _fetch_google_ats,    ()))
 
     all_offers: List[Dict] = []
     logger.info("Lanzando %d tareas de scraping en paralelo...", len(tasks))
@@ -522,59 +575,26 @@ def fetch_all_offers() -> List[Dict]:
 
 
 def _fetch_google_ats() -> List[Dict]:
-    """Búsqueda Google site: optimizada con consultas individuales para portales clave."""
+    """Búsqueda Google de emergencia con un solo barrido amplio."""
     if gsearch is None:
         return []
     offers = []
     seen_urls: set = set()
     
-    # Definimos los portales más importantes para el usuario
-    priority_sites = [
-        "chiletrabajos.cl", "computrabajo.cl", "firstjob.me", 
-        "indeed.cl", "laborum.cl", "trabajando.com",
-        "lever.co", "greenhouse.io"
-    ]
-    
-    queries = []
-    for site in priority_sites:
-        # Una query simple por sitio para evitar que Google se confunda con ORs complejos
-        queries.append(f"site:{site} (Junior OR Trainee OR Asistente OR Practicante) (Python OR TI OR Desarrollador)")
+    # Una sola consulta potente para no activar el baneo de Google
+    q = "site:computrabajo.cl OR site:laborum.cl OR site:indeed.cl Junior Informática Python"
 
-    for q in queries:
-        try:
-            logger.info(">>> Google Search: %s", q)
-            # Buscamos en Google
-            results = list(gsearch(q, num_results=8, lang="es"))
-            logger.info("    Encontradas %d URLs potenciales", len(results))
-            
-            for url in results:
-                if url and url not in seen_urls:
-                    # Filtro básico de URL para evitar basura
-                    if any(x in url.lower() for x in ["/login", "/signup", "/register", "/jobs/index", "/empleos-en-"]):
-                        continue
-                        
-                    seen_urls.add(url)
-                    logger.info("    Analizando: %s", url)
-                    meta = fetch_metadata(url)
-                    
-                    gloc = "Chile" if any(x in url.lower() for x in [".cl", "chile", "firstjob"]) else "Internacional"
-                    
-                    if is_relevant(meta["title"], meta["desc"], gloc):
-                        # Limpieza de nombre de empresa
-                        title_clean = meta["title"].split(" - ")[0].split(" | ")[0].strip()
-                        company = "N/A"
-                        for sep in [" - ", " | ", " en ", " at "]:
-                            if sep in meta["title"]:
-                                company = meta["title"].split(sep)[1].strip()
-                                break
-
-                        offers.append({
-                            "url": url, "title": title_clean, "company": company,
-                            "location": gloc, "desc": meta["desc"], "published_minutes": None
-                        })
-            time.sleep(4) # Pausa generosa para no ser bloqueados por Google
-        except Exception as e:
-            logger.warning("Google ATS error: %s", e)
+    try:
+        logger.info(">>> Google Search Emergencia: %s", q)
+        results = list(gsearch(q, num_results=15, lang="es"))
+        for url in results:
+            if url and url not in seen_urls:
+                seen_urls.add(url)
+                meta = fetch_metadata(url)
+                if is_relevant(meta["title"], meta["desc"], "Chile"):
+                    offers.append({**meta, "company": "Portal Empleo", "location": "Chile", "published_minutes": None})
+    except Exception as e:
+        logger.warning("Google Emergencia error: %s", e)
     return offers
 
 

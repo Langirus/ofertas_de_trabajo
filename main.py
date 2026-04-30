@@ -182,7 +182,11 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     if not has_level and desc_lower:
         has_level = any(level.lower() in desc_lower for level in WHITELIST_LEVEL)
     
-    if not has_level:
+    # Si viene de un portal de empleo conocido, somos más flexibles con el nivel
+    known_portals = ["chiletrabajos", "computrabajo", "laborum", "firstjob", "indeed", "getonbrd", "trabajando"]
+    is_known_portal = any(p in title_lower or p in desc_lower or p in location.lower() or p in combined for p in known_portals)
+
+    if not has_level and not is_known_portal:
         logger.debug("Descartado por falta de nivel: %s", title)
         return False
 
@@ -518,55 +522,57 @@ def fetch_all_offers() -> List[Dict]:
 
 
 def _fetch_google_ats() -> List[Dict]:
-    """Búsqueda Google site: optimizada por regiones y portales clave."""
+    """Búsqueda Google site: optimizada con consultas individuales para portales clave."""
     if gsearch is None:
         return []
     offers = []
     seen_urls: set = set()
     
-    # 1. Búsquedas dedicadas a Chile para asegurar portales locales
-    chile_portals = ["firstjob.me", "chiletrabajos.cl", "laborum.cl", "computrabajo.cl", "trabajando.com", "indeed.cl"]
-    chile_query = " OR ".join([f"site:{s}" for s in chile_portals])
-    
-    # 2. Búsquedas globales ATS y Remoto
-    global_portals = ["lever.co", "greenhouse.io", "airavirtual.com", "weworkremotely.com", "startup.jobs", "remote.co", "indeed.com"]
-    global_query = " OR ".join([f"site:{s}" for s in global_portals])
-
-    queries = [
-        # Foco Chile
-        f"({chile_query}) (Junior OR Trainee OR Pasante OR Practicante) (Python OR TI OR Desarrollador OR Informática)",
-        f"site:getonbrd.com Chile (Junior OR Trainee)",
-        # Foco Global
-        f"({global_query}) (Junior OR Trainee) (Python OR Developer OR Software OR AI)",
+    # Definimos los portales más importantes para el usuario
+    priority_sites = [
+        "chiletrabajos.cl", "computrabajo.cl", "firstjob.me", 
+        "indeed.cl", "laborum.cl", "trabajando.com",
+        "lever.co", "greenhouse.io"
     ]
+    
+    queries = []
+    for site in priority_sites:
+        # Una query simple por sitio para evitar que Google se confunda con ORs complejos
+        queries.append(f"site:{site} (Junior OR Trainee OR Asistente OR Practicante) (Python OR TI OR Desarrollador)")
 
     for q in queries:
         try:
-            logger.info("Google Search: %s", q)
-            # Pedimos más resultados (10) para asegurar que barremos bien
-            for url in gsearch(q, num_results=10, lang="es"):
+            logger.info(">>> Google Search: %s", q)
+            # Buscamos en Google
+            results = list(gsearch(q, num_results=8, lang="es"))
+            logger.info("    Encontradas %d URLs potenciales", len(results))
+            
+            for url in results:
                 if url and url not in seen_urls:
-                    # Evitar URLs de login o genéricas
-                    if any(x in url.lower() for x in ["/login", "/signup", "/register", "/company"]):
+                    # Filtro básico de URL para evitar basura
+                    if any(x in url.lower() for x in ["/login", "/signup", "/register", "/jobs/index", "/empleos-en-"]):
                         continue
                         
                     seen_urls.add(url)
+                    logger.info("    Analizando: %s", url)
                     meta = fetch_metadata(url)
                     
-                    # Ubicación heurística
                     gloc = "Chile" if any(x in url.lower() for x in [".cl", "chile", "firstjob"]) else "Internacional"
                     
                     if is_relevant(meta["title"], meta["desc"], gloc):
-                        # Limpieza de nombre de empresa en título de Google
-                        parts   = meta["title"].split(" - ")
-                        company = parts[1].strip() if len(parts) >= 2 else "N/A"
-                        if company == "N/A":
-                            parts = meta["title"].split(" | ")
-                            company = parts[1].strip() if len(parts) >= 2 else "N/A"
+                        # Limpieza de nombre de empresa
+                        title_clean = meta["title"].split(" - ")[0].split(" | ")[0].strip()
+                        company = "N/A"
+                        for sep in [" - ", " | ", " en ", " at "]:
+                            if sep in meta["title"]:
+                                company = meta["title"].split(sep)[1].strip()
+                                break
 
-                        offers.append({**meta, "company": company,
-                                       "location": gloc, "published_minutes": None})
-            time.sleep(3) # Más cautelosos con Google
+                        offers.append({
+                            "url": url, "title": title_clean, "company": company,
+                            "location": gloc, "desc": meta["desc"], "published_minutes": None
+                        })
+            time.sleep(4) # Pausa generosa para no ser bloqueados por Google
         except Exception as e:
             logger.warning("Google ATS error: %s", e)
     return offers

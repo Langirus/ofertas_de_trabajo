@@ -173,6 +173,7 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     title_lower = title.lower()
     desc_lower  = desc.lower()
     loc_lower   = location.lower()
+    combined    = f"{title_lower} {desc_lower}"
 
     # 1. Filtro Blacklist en título
     for black in BLACKLIST:
@@ -196,10 +197,6 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
         has_level = any(level.lower() in desc_lower for level in WHITELIST_LEVEL)
     
     # Si viene de un portal de empleo conocido, somos más flexibles con el nivel
-    known_portals = ["chiletrabajos", "computrabajo", "laborum", "firstjob", "indeed", "getonbrd", "trabajando"]
-    combined = f"{title_lower} {desc_lower}"
-    is_known_portal = any(p in title_lower or p in desc_lower or p in location.lower() or p in combined for p in known_portals)
-
     if not has_level and not is_known_portal:
         logger.info("Descartado por falta de nivel: %s", title)
         return False

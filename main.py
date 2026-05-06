@@ -66,6 +66,8 @@ def get_headers():
     }
     return h
 
+HEADERS = get_headers()
+
 # Áreas de TI (Whitelist 1)
 WHITELIST_TI = [
     "Informática", "TI", "IT", "Sistemas", "Software", "Programador", "Desarrollador",
@@ -616,11 +618,11 @@ def fetch_all_offers() -> List[Dict]:
     tasks: List[tuple] = []
     # LinkedIn Chile — ventana de 24h
     for c in combos_chile:
-        tasks.append(("LI-Chile",  fetch_linkedin_jobs, (c, "Chile", 24, False)))
+        tasks.append(("LI-Chile",  fetch_linkedin_jobs, (c, "Chile", 6, False)))
     # LinkedIn Remoto — ventana de 24h
     for loc in regiones:
         for c in combos_remote:
-            tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 24, True)))
+            tasks.append(("LI-Remoto", fetch_linkedin_jobs, (c, loc, 6, True)))
     
     # Fuentes alternativas y Portales Directos de Chile
     tasks.append(("FirstJob",       fetch_firstjob_jobs,      ()))
@@ -828,18 +830,31 @@ def load_seen():
     with open(SEEN_FILE, "r", encoding="utf-8") as f:
         return set(line.strip() for line in f if line.strip())
 
-def save_seen(urls):
+def save_seen(keys):
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        for url in sorted(urls):
-            f.write(url + "\n")
+        for k in sorted(keys):
+            f.write(k + "\n")
 
 def generate_key(offer):
     # Genera una clave única basada en título y empresa para evitar duplicados de diferentes fuentes
     title = offer.get("title", "").lower()
     company = offer.get("company", "n/a").lower()
-    # Limpiar caracteres especiales y espacios extras
-    clean_title = re.sub(r'[^a-z0-9]', '', title)
+    
+    # 1. Limpiar empresa: remover ruidos comunes (spa, sa, chile, etc)
+    company = re.sub(r'\b(spa|s\.a|sa|limitada|ltd|chile|latam|cl)\b', '', company)
     clean_company = re.sub(r'[^a-z0-9]', '', company)
+    if not clean_company: clean_company = "na"
+    
+    # 2. Limpiar título: remover ruidos, tokenizar y ORDENAR para ser insensible al orden
+    # Removemos puntuación
+    title = re.sub(r'[^a-z0-9 ]', ' ', title)
+    # Tokenizamos y filtramos palabras muy cortas (excepto 'ti', 'it', 'ia', 'ai')
+    tokens = title.split()
+    tokens = [t for t in tokens if len(t) > 2 or t in ["ti", "it", "ia", "ai", "jr"]]
+    # Ordenamos los tokens para que "Junior Python" == "Python Junior"
+    tokens.sort()
+    clean_title = "".join(tokens)
+    
     return f"{clean_title}|{clean_company}"
 
 ALERT_TEMPLATE = """<!doctype html>
@@ -905,21 +920,6 @@ def score_offers_parallel(offers: List[Dict], cv_profile: str, groq_client) -> N
                 logger.info("  Scored %d/%d", done, len(offers))
 
 
-def load_seen():
-    if not os.path.exists(SEEN_FILE):
-        return set()
-    with open(SEEN_FILE, "r", encoding="utf-8") as f:
-        return set(line.strip() for line in f if line.strip())
-
-def save_seen(keys):
-    with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        for k in sorted(keys):
-            f.write(k + "\n")
-
-def generate_key(offer):
-    title   = re.sub(r'[^a-z0-9]', '', offer.get("title",   "").lower())
-    company = re.sub(r'[^a-z0-9]', '', offer.get("company", "n/a").lower())
-    return f"{title}|{company}"
 
 
 def main():
@@ -941,25 +941,43 @@ def main():
     # Nos quedamos solo con las 10 mejores/primeras de LinkedIn
     all_raw = other_offers + li_offers[:10]
     
-    now_str   = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    now_str   = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     dry_run   = os.environ.get("DRY_RUN") == "1" or "--dry-run" in sys.argv
 
     logger.info("Total bruto: %d ofertas", len(all_raw))
 
-    # ── 2. Deduplicar contra historial ─────────────────────────────────────────
-    seen_keys = load_seen()
+    # ── 2. Deduplicar contra historial y entre sí ─────────────────────────────
+    seen_history = load_seen()
     new_offers: List[Dict] = []
+    
+    # Usamos sets temporales para deduplicar dentro de la misma ejecución
+    current_run_keys = set()
+    current_run_urls = set()
+
     for o in all_raw:
-        # FORZAMOS: Por esta ejecución ignoramos si ya se vio para que el usuario reciba el correo
+        url = o.get("url", "").split("?")[0] # Normalizar URL básica
+        key = generate_key(o)
+        
+        # Si ya se vio en ejecuciones pasadas, ignorar
+        if url in seen_history or key in seen_history:
+            continue
+            
+        # Si ya apareció en esta misma ejecución (por otro portal), ignorar
+        if key in current_run_keys or url in current_run_urls:
+            continue
+            
+        current_run_keys.add(key)
+        current_run_urls.add(url)
         new_offers.append(o)
         
-    logger.info("Nuevas (forzadas): %d", len(new_offers))
+    logger.info("Nuevas tras deduplicar: %d", len(new_offers))
     if not new_offers:
         logger.warning(">>> No hay ofertas nuevas después de deduplicar.")
         status_subject = f"[JobSearch] Estado: 0 ofertas nuevas – {now_str[:10]}"
         status_body = f"<h2>Estado de la búsqueda</h2><p>El script se ejecutó correctamente pero no encontró ofertas nuevas en los portales rastreados.</p><p>Esto puede ser porque no hay vacantes Junior hoy o porque los portales están bloqueando el rastreo.</p><p>Generado a las: {now_str}</p>"
         if not dry_run:
             send_email_safe(status_body, status_subject)
+        # Aquí sí retornamos porque no hay nada nuevo que guardar
         return
 
     # ── 3. Scoring IA paralelo ─────────────────────────────────────────────────
@@ -979,7 +997,7 @@ def main():
         status_body = f"<h2>Estado de la búsqueda</h2><p>Se encontraron {len(new_offers)} ofertas potenciales, pero ninguna superó el filtro de calidad de la IA.</p><p>Generado a las: {now_str}</p>"
         if not dry_run:
             send_email_safe(status_body, status_subject)
-        return
+        # NO RETORNAMOS, para que al final se guarde el historial de lo que ya procesamos
 
     # Formatear display_title
     for o in scored:
@@ -995,22 +1013,26 @@ def main():
         alert_html = Template(ALERT_TEMPLATE).render(
             offers=fresh, generated_at=now_str, threshold=FRESH_THRESHOLD_MINUTES)
         alert_subject = f"🚨 {len(fresh)} empleo(s) recién publicado(s) con match alto – {now_str[:10]}"
-        if dry_run:
-            logger.info("DRY_RUN: Alerta omitida.")
-        else:
+        if not dry_run:
             send_email_safe(alert_html, alert_subject)
 
-    # ── 6. Reporte regular ─────────────────────────────────────────────────────
-    alto_count = sum(1 for o in scored if o.get("ai_fit_level") == "Alto")
-    html = Template(HTML_TEMPLATE).render(offers=scored, generated_at=now_str)
-    subject = f"[JobSearch] {len(scored)} ofertas · {alto_count} Match Alto – {now_str[:10]}"
+    if scored:
+        alto_count = sum(1 for o in scored if o.get("ai_fit_level") == "Alto")
+        html = Template(HTML_TEMPLATE).render(offers=scored, generated_at=now_str)
+        subject = f"[JobSearch] {len(scored)} ofertas · {alto_count} Match Alto – {now_str[:10]}"
 
-    if dry_run:
-        logger.info("DRY_RUN: Reporte omitido.")
-    else:
-        logger.info("Intentando enviar correo final con %d ofertas...", len(scored))
-        send_email_safe(html, subject)
-        save_seen(seen_keys)
+        if not dry_run:
+            logger.info("Intentando enviar correo final con %d ofertas...", len(scored))
+            send_email_safe(html, subject)
+        
+    # ── 7. Guardar historial SIEMPRE (incluso si no pasaron el score) ──────────
+    # Así no volvemos a procesar ni a ver lo que ya descartamos o procesamos hoy
+    for o in new_offers:
+        seen_history.add(o.get("url", "").split("?")[0])
+        seen_history.add(generate_key(o))
+    
+    save_seen(seen_history)
+    logger.info("Historial actualizado (%d nuevas llaves/urls) y guardado.", len(new_offers) * 2)
 
 
 def send_email_safe(html_body: str, subject: str):

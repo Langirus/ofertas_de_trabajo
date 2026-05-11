@@ -83,12 +83,18 @@ WHITELIST_TI = [
     "Java", "React", "Node", "Angular", "Vue", "PHP", "SQL", "Mantenimiento", "Digital"
 ]
 
-# Niveles Junior/Trainee (Whitelist 2)
+# Niveles Junior/Trainee (Whitelist 2) — SOLO roles de entrada EXPLÍCITOS
 WHITELIST_LEVEL = [
     "Junior", "Trainee", "Práctica", "Practicante", "Entry Level", "Sin experiencia",
-    "Analista", "Egresado", "Recién graduado", "Nivel inicial", "Analyst", "Jr",
-    "Asistente", "Pasante", "Becario", "Aprendiz", "Intern", "Graduate", "Auxiliar",
-    "Soporte", "Técnico"
+    "Egresado", "Recién graduado", "Nivel inicial", "Jr",
+    "Pasante", "Becario", "Aprendiz", "Intern", "Graduate",
+    # "Analista" / "Asistente" / "Técnico" / "Soporte" sueltos son demasiado amplios,
+    # se mantienen SOLO si el título también contiene una keyword TI.
+]
+
+# Niveles que SÍ pasan si el título ya tiene una keyword TI fuerte
+WHITELIST_LEVEL_WITH_TI = [
+    "Analista", "Analyst", "Asistente", "Auxiliar", "Soporte", "Técnico"
 ]
 
 # Blacklist: Filtros para descartar Senior o áreas ajenas
@@ -98,6 +104,10 @@ BLACKLIST = [
     "Civil", "Viales", "Construcción", "Hidráulica", "Minas", "Minería", "BIM",
     "Arquitecto", "Comercial", "Ventas", "Psicólogo", "Contador", "Social", "Veterinario",
     "Médico", "Enfermero", "Abogado", "Recursos Humanos", "RRHH",
+    # Categorías claramente NO-TI que generaban falsos positivos
+    "Bodega", "Lavador", "Imprenta", "Cotizador", "Electricista", "Mecánico",
+    "Secretaria", "Recepcionista", "Cajero", "Operario", "Cocinero", "Mesero",
+    "Licitaciones", "Contabilidad", "Deposito", "Logística", "Operaciones generales",
 ]
 
 # Patrones regex para detectar requisitos de experiencia excesiva en descripciones
@@ -162,12 +172,17 @@ def is_spanish_content(text: str) -> bool:
         return True  # título técnico puro (ej: "Junior Python Developer") → aceptar
     return False
 
+# Máximo días de antigüedad permitidos para considerar una oferta (filtro de frescura)
+MAX_OFFER_AGE_DAYS = 7
+MAX_OFFER_AGE_MINUTES = MAX_OFFER_AGE_DAYS * 24 * 60  # 10080 minutos
+
 def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     """
     Verifica si el puesto es relevante:
     1. No debe tener palabras de la blacklist en el título.
-    2. Debe tener al menos una palabra de TI.
-    3. Debe tener al menos una palabra de nivel (Junior/Trainee/Asistente...).
+    2. Debe tener al menos una keyword de TI (en título principalmente).
+    3. Debe tener al menos una keyword de nivel inicial en título.
+       (Analista/Técnico/Soporte se aceptan SOLO si hay TI en el título).
     4. Si NO es en Chile NI en ubicación remota, debe mencionar 'remote'/'remoto'.
     5. No debe requerir 2+ años de experiencia.
     6. No debe exigir inglés avanzado/bilingue.
@@ -177,60 +192,57 @@ def is_relevant(title: str, desc: str = "", location: str = "Chile") -> bool:
     loc_lower   = location.lower()
     combined    = f"{title_lower} {desc_lower}"
 
-    # 1. Filtro Blacklist en título
+    # 1. Filtro Blacklist en título (detectar categorías no TI / Senior)
     for black in BLACKLIST:
         if black.lower() in title_lower:
+            logger.info("❌ Blacklist '%s': %s", black, title)
             return False
 
-    # 2. Verificar si es de TI
-    has_ti = any(ti.lower() in combined for ti in WHITELIST_TI)
-    
-    # Si es un portal de empleo conocido de Chile, somos más flexibles con la palabra TI
-    known_portals = ["chiletrabajos", "computrabajo", "laborum", "firstjob", "indeed", "getonbrd", "trabajando"]
-    is_known_portal = any(p in combined or p in location.lower() for p in known_portals)
+    # 2. Verificar si el TÍTULO tiene keyword TI (requerido para casi todos)
+    has_ti_title = any(ti.lower() in title_lower for ti in WHITELIST_TI)
+    has_ti_desc  = any(ti.lower() in desc_lower  for ti in WHITELIST_TI)
 
-    if not has_ti and not is_known_portal:
-        logger.info("❌ Descartado por no ser TI: %s", title)
+    if not has_ti_title and not has_ti_desc:
+        logger.info("❌ Sin TI en título ni desc: %s", title)
         return False
 
-    # 3. Verificar si es nivel inicial (en título O descripción)
-    has_level = any(level.lower() in title_lower for level in WHITELIST_LEVEL)
+    # 3. Verificar nivel (Junior/Trainee explícito en el título)
+    has_level_explicit = any(level.lower() in title_lower for level in WHITELIST_LEVEL)
+    
+    # Nivel secundario: Analista/Técnico/Soporte — solo válidos si el título TAMBIÉN tiene TI
+    has_level_secondary = has_ti_title and any(
+        level.lower() in title_lower for level in WHITELIST_LEVEL_WITH_TI
+    )
+    
+    has_level = has_level_explicit or has_level_secondary
+    
+    # Último recurso: buscar nivel en descripción (solo si no se encontró en título)
     if not has_level and desc_lower:
         has_level = any(level.lower() in desc_lower for level in WHITELIST_LEVEL)
     
-    # Si viene de un portal de empleo conocido, somos más flexibles con el nivel
-    if not has_level and not is_known_portal:
-        logger.info("Descartado por falta de nivel: %s", title)
+    if not has_level:
+        logger.info("❌ Sin nivel junior en título: %s", title)
         return False
 
     # 4. Si no es Chile, DEBE ser remoto
-    #    (acepta si el campo location YA dice remoto/remote/latam, o si el título/desc lo menciona)
-    if loc_lower != "chile":
+    if loc_lower not in ("chile", "remoto", "remoto latam", "remoto wwr"):
         loc_is_remote = any(kw in loc_lower for kw in ["remoto", "remote", "latam", "mundial", "internacional", "anywhere"])
         if not loc_is_remote:
             remote_kw = ["remote", "remoto", "teletrabajo", "home office", "anywhere", "latam", "mundial", "distancia"]
             if not any(kw in title_lower or kw in desc_lower for kw in remote_kw):
-                logger.info("Descartado (no remoto, no Chile): %s | Loc: %s", title, location)
+                logger.info("❌ No remoto, no Chile: %s | Loc: %s", title, location)
                 return False
 
-    # 5. Filtro de experiencia excesiva (2+ años) en título O descripción
+    # 5. Filtro de experiencia excesiva (2+ años)
     for pat in EXP_BLACKLIST_PATTERNS:
         if re.search(pat, combined, re.IGNORECASE):
-            logger.info("❌ Descartado por experiencia (>1 año): %s", title)
+            logger.info("❌ Experiencia excesiva: %s", title)
             return False
-
-    # 6. Si es LinkedIn y NO tiene descripción, ser extra precavidos
-    if "linkedin" in location.lower() or "linkedin" in title_lower:
-        if not desc_lower or len(desc_lower) < 50:
-            # Si no hay descripción para validar, descartamos si el título no es 100% Junior
-            if not any(level.lower() in title_lower for level in ["junior", "trainee", "practicante", "pasante"]):
-                logger.info("❌ LinkedIn sin descripción y título no explícito: %s", title)
-                return False
 
     # 6. Filtro de inglés avanzado/bilingue requerido
     for pat in ENGLISH_REQ_PATTERNS:
         if re.search(pat, combined, re.IGNORECASE):
-            logger.info("Descartado por inglés avanzado requerido: %s", title)
+            logger.info("❌ Inglés avanzado requerido: %s", title)
             return False
 
     return True
@@ -835,24 +847,57 @@ def save_seen(keys):
         for k in sorted(keys):
             f.write(k + "\n")
 
+def normalize_url(url: str) -> str:
+    """
+    Normaliza una URL eliminando parámetros de tracking y fragmentos (#lc=, ?trk=, etc.).
+    Así la misma oferta en Computrabajo con distinto #lc= se reconoce como duplicado.
+    """
+    # Eliminar fragment (#lc=..., #utm=..., etc.)
+    url = url.split("#")[0]
+    # Eliminar query strings de tracking comunes (trk, ref, source, etc.)
+    # pero conservar parámetros funcionales de identificación si los hay
+    tracking_params = {"trk", "ref", "source", "refId", "trackingId", "origin",
+                       "utm_source", "utm_medium", "utm_campaign", "refcode"}
+    try:
+        from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+        parsed = urlparse(url)
+        qs = {k: v for k, v in parse_qs(parsed.query).items() if k not in tracking_params}
+        clean_query = urlencode(qs, doseq=True)
+        url = urlunparse(parsed._replace(query=clean_query))
+    except Exception:
+        pass
+    return url.rstrip("/")
+
+
 def generate_key(offer):
-    # Genera una clave única basada en título y empresa para evitar duplicados de diferentes fuentes
+    """
+    Genera una clave de deduplicación robusta basada en título normalizado + empresa.
+    Insensible a: orden de palabras, mayúsculas, acentos, puntuación y stopwords.
+    """
     title = offer.get("title", "").lower()
     company = offer.get("company", "n/a").lower()
     
-    # 1. Limpiar empresa: remover ruidos comunes (spa, sa, chile, etc)
-    company = re.sub(r'\b(spa|s\.a|sa|limitada|ltd|chile|latam|cl)\b', '', company)
-    clean_company = re.sub(r'[^a-z0-9]', '', company)
-    if not clean_company: clean_company = "na"
+    # Normalizar empresa: remover ruidos legales y regionales
+    company = re.sub(r'\b(spa|s\.a\.|s\.a|sa|limitada|ltda|ltd|chile|latam|cl|inc|corp|llc)\b', '', company)
+    clean_company = re.sub(r'[^a-z0-9]', '', company).strip()
+    if not clean_company or clean_company in ("na", "n"):
+        clean_company = "na"
     
-    # 2. Limpiar título: remover ruidos, tokenizar y ORDENAR para ser insensible al orden
-    # Removemos puntuación
+    # Normalizar título: quitar acentos, puntuación, tokenizar y ORDENAR
+    import unicodedata
+    title = unicodedata.normalize('NFKD', title)
+    title = ''.join(c for c in title if not unicodedata.combining(c))  # quitar acentos
     title = re.sub(r'[^a-z0-9 ]', ' ', title)
-    # Tokenizamos y filtramos palabras muy cortas (excepto 'ti', 'it', 'ia', 'ai')
+    
+    # Stopwords de título para evitar que variaciones sin sentido sean diferentes
+    stopwords = {'de', 'en', 'para', 'con', 'el', 'la', 'los', 'las', 'y', 'a',
+                 'o', 'del', 'al', 'por', 'un', 'una', 'es', 'se', 'su', 'que',
+                 'this', 'the', 'and', 'for', 'at', 'in', 'of', 'to', 'a', 'an'}
     tokens = title.split()
-    tokens = [t for t in tokens if len(t) > 2 or t in ["ti", "it", "ia", "ai", "jr"]]
-    # Ordenamos los tokens para que "Junior Python" == "Python Junior"
-    tokens.sort()
+    tokens = [t for t in tokens
+              if (len(t) > 2 or t in {"ti", "it", "ia", "ai", "jr", "qa", "bi"})
+              and t not in stopwords]
+    tokens.sort()  # orden insensible a variaciones de redacción
     clean_title = "".join(tokens)
     
     return f"{clean_title}|{clean_company}"
@@ -946,16 +991,25 @@ def main():
 
     logger.info("Total bruto: %d ofertas", len(all_raw))
 
-    # ── 2. Deduplicar contra historial y entre sí ─────────────────────────────
+    # ── 2. Filtro de antigüedad + Deduplicar contra historial y entre sí ────────
     seen_history = load_seen()
     new_offers: List[Dict] = []
     
-    # Usamos sets temporales para deduplicar dentro de la misma ejecución
+    # Sets temporales para deduplicar dentro de la misma ejecución
     current_run_keys = set()
     current_run_urls = set()
+    skipped_old = 0
 
     for o in all_raw:
-        url = o.get("url", "").split("?")[0] # Normalizar URL básica
+        # Filtro de antigüedad: descartar ofertas publicadas hace más de MAX_OFFER_AGE_DAYS días
+        pub_mins = o.get("published_minutes")
+        if pub_mins is not None and pub_mins > MAX_OFFER_AGE_MINUTES:
+            skipped_old += 1
+            logger.info("⏰ Descartada por antigua (%d días): %s",
+                        pub_mins // 1440, o.get('title', '?'))
+            continue
+
+        url = normalize_url(o.get("url", ""))  # Normalización robusta de URL
         key = generate_key(o)
         
         # Si ya se vio en ejecuciones pasadas, ignorar
@@ -967,10 +1021,12 @@ def main():
             continue
             
         current_run_keys.add(key)
-        current_run_urls.add(url)
+        if url:
+            current_run_urls.add(url)
         new_offers.append(o)
         
-    logger.info("Nuevas tras deduplicar: %d", len(new_offers))
+    logger.info("Nuevas tras deduplicar: %d (descartadas por antiguas: %d)",
+                len(new_offers), skipped_old)
     if not new_offers:
         logger.warning(">>> No hay ofertas nuevas después de deduplicar.")
         status_subject = f"[JobSearch] Estado: 0 ofertas nuevas – {now_str[:10]}"
@@ -1028,8 +1084,17 @@ def main():
     # ── 7. Guardar historial SIEMPRE (incluso si no pasaron el score) ──────────
     # Así no volvemos a procesar ni a ver lo que ya descartamos o procesamos hoy
     for o in new_offers:
-        seen_history.add(o.get("url", "").split("?")[0])
+        norm_url = normalize_url(o.get("url", ""))
+        if norm_url:
+            seen_history.add(norm_url)
         seen_history.add(generate_key(o))
+    
+    # Limpiar claves antiguas de URLs con parámetros (solo en historial previo)
+    # Mantener máximo 2000 entradas para no crecer indefinidamente
+    if len(seen_history) > 2000:
+        # Conservar las más recientes (aproximación: mantener las alfabéticamente últimas)
+        seen_history = set(sorted(seen_history)[-2000:])
+        logger.info("Historial podado a 2000 entradas.")
     
     save_seen(seen_history)
     logger.info("Historial actualizado (%d nuevas llaves/urls) y guardado.", len(new_offers) * 2)

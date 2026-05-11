@@ -65,6 +65,7 @@ bigdataengineer|remoteok
 businessanalystdigitalanalyticsbi|na
 canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
+cerrillosinformaticojuniornuevosregiontrabajos|portal
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
@@ -101,6 +102,7 @@ digitaleseasynegociospractica|cencosud
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 engineerjuniorremotesoftware|quikhirestaffing
+engineerpythonremotesoftware|quikhirestaffing
 engineerreliabilitysite|remoteok
 engineersoftware|remoteok
 entrylevelsoftwaredeveloperremote|jobsai
@@ -120,6 +122,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-junior-modalidad-en-sitio-en-santiago-providencia-5F46F54DF59E1D3D61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
+https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
 https://cl.indeed.com/q-analista-junior-informatico-empleos.html
 https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
@@ -172,6 +175,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
+https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512
 https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296

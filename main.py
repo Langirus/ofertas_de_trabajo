@@ -94,7 +94,8 @@ WHITELIST_LEVEL = [
 
 # Niveles que SÍ pasan si el título ya tiene una keyword TI fuerte
 WHITELIST_LEVEL_WITH_TI = [
-    "Analista", "Analyst", "Asistente", "Auxiliar", "Soporte", "Técnico"
+    "Analista", "Analyst", "Asistente", "Auxiliar", "Soporte", "Técnico",
+    "Ingeniero", "Engineer",  # sin seniority explícito + TI en título es válido
 ]
 
 # Blacklist: Filtros para descartar Senior o áreas ajenas

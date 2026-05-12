@@ -28,6 +28,7 @@ aiqualityanalystremote|jobsai
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analistaarquitecturadatos|na
 analistaautomatizaciondatos|na
+analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaayudamesa|computrabajo
 analistabackoffice|acl
 analistabiinformticoa|empresaconfidencial
@@ -132,6 +133,7 @@ engineerfullstackremote|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineerintermediosoftware|na
 engineerjavaremotescalasoftware|heretechnologies
+engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
 engineerreliabilitysite|remoteok
@@ -203,6 +205,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cenco
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
+https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
@@ -259,6 +262,7 @@ https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
+https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817

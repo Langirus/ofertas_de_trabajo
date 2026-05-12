@@ -1,6 +1,7 @@
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2025eneroindeedinformaticajuniornuevostrabajos|portal
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
+2026abrildesarrolladorindeedjuniornuevostrabajos|portal
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
@@ -89,6 +90,7 @@ cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
+controlgestioningeniero|chiletrabajos
 controlingenieroplanificacion|chiletrabajos
 dataanalyst3|remoteok
 dataanalystii|remoteok
@@ -103,6 +105,7 @@ dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
 datosencargadoinformaticajuniorprocesamiento|portal
 datosingeniero|na
+desarrolladorjavajuniorremototrabajo|bairesdev
 desarrollofullpracticantestack|chiletrabajos
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
@@ -124,6 +127,7 @@ engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
 engineerreliabilitysite|remoteok
 engineersoftware|remoteok
+engineersolutions|na
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
@@ -149,6 +153,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logi
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
 https://cl.indeed.com/q-analista-junior-informatico-empleos.html
 https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
+https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
@@ -194,6 +199,7 @@ https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-44129
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
+https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
@@ -248,6 +254,7 @@ https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al
 https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamiento-de-datos-y-ciberseguridad-3727290
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
+https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
@@ -277,6 +284,7 @@ https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-ic
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
+https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941

@@ -110,6 +110,7 @@ desarrollofullpracticantestack|chiletrabajos
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
 developerentrylevelremotesoftware|hirefeed
+developerjavascriptjuniorremotework|bairesdev
 developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
@@ -122,6 +123,7 @@ encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 engineerfrontendremote|quikhirestaffing
 engineerfullstackremote|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
+engineerintermediosoftware|na
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
@@ -284,8 +286,10 @@ https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-ic
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
+https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
+https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003

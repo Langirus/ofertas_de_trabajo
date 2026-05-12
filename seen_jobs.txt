@@ -30,6 +30,7 @@ analistabiinformticoa|empresaconfidencial
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistadatosencuestasestudios|na
+analistadatosoperaciones|na
 analistadedatosfinancieros|acl
 analistadepositofranco|swissport
 analistadesistemasporreemplazo|cencosudscotiabank
@@ -70,6 +71,7 @@ chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
+chiletrabajosinformaticaingenierosantiago|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
@@ -77,6 +79,7 @@ ciberseguridadjunior|computrabajo
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
+computacionalingenierovision|computrabajo
 dataanalyst3|remoteok
 dataanalystii|remoteok
 dataanalystremote|quikhirestaffing
@@ -101,6 +104,7 @@ devopsengineer|na
 digitaleseasynegociospractica|cencosud
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
+engineerfrontendremote|quikhirestaffing
 engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
 engineerreliabilitysite|remoteok
@@ -119,6 +123,8 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-ana
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-B5D26C462836A1B861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraesctructura-y-ciberseguridad-junior-en-santiago-centro-FA9907183776377761373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-vision-computacional-en-santiago-las-condes-43328A2787348D6361373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyectos-santiago-centro-en-santiago-centro-692AEF089461AB9C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-junior-modalidad-en-sitio-en-santiago-providencia-5F46F54DF59E1D3D61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
@@ -168,6 +174,7 @@ https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
+https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
@@ -211,11 +218,13 @@ https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-impre
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
 https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al-menos-1-ano-de-experiencia-1437119
+https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
+https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6
 https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
@@ -243,6 +252,7 @@ https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at
 informaticajuniortelecomunicacionestrabajos|portal
 informaticoingenieropracticante|occimiano
 informjuniormodalidadsitiosoportetico|computrabajo
+ingenieroproyectos|computrabajo
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo

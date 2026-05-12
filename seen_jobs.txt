@@ -82,6 +82,7 @@ ciberseguridadjunior|computrabajo
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
+compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 dataanalyst3|remoteok
 dataanalystii|remoteok
@@ -150,6 +151,7 @@ https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
+https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371

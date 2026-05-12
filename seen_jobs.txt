@@ -1,3 +1,4 @@
+100analistachiletrabajosjuniorqaremototesting|portal
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2025eneroindeedinformaticajuniornuevostrabajos|portal
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
@@ -12,6 +13,7 @@ administradorcontratoindefinidojuniorpresencialsistemas|portal
 administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
+administrativoadquisicionesantofagastaasistente|chiletrabajos
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
@@ -31,7 +33,9 @@ analistabackoffice|acl
 analistabiinformticoa|empresaconfidencial
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
+analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacontrolgerenciagestiontecnica|johnsoncontrols
+analistacontrolgestionsistemas|agencynetwork
 analistadatosencuestasestudios|na
 analistadatosoperaciones|na
 analistadedatosfinancieros|acl
@@ -44,9 +48,11 @@ analistainfraestructurajronsite|ecosistemas
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
 analistamotoryparametra|bancofalabella
+analistaoperacionalsistemassoporte|ikea
 analistaoperaciones|banchileinversiones
 analistaotec|unitedpipelinesystems
 analistaprogramacion|experis
+analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaqasr|na
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
@@ -118,6 +124,7 @@ developmentengineerjuniorremotesoftwaretestwork|bairesdev
 devopsengineertools|na
 devopsengineer|na
 digitaleseasynegociospractica|cencosud
+electricidadingenierotecnico|chiletrabajos
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 engineerfrontendremote|quikhirestaffing
@@ -169,19 +176,23 @@ https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
+https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-evoluci%C3%B3n-tecnologica-at-banco-de-chile-4408546723
+https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n-at-agency-network-4413722871
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
+https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
+https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
@@ -248,6 +259,8 @@ https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
+https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
@@ -260,6 +273,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
+https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago

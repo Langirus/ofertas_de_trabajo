@@ -54,6 +54,8 @@ analystdata|remoteok
 analyticsengineer|remoteok
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
+applicationsengineermexicoonlyremotesqlsupportweb|varicent
+asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 automationengineergtm|remoteok
@@ -92,6 +94,7 @@ dataengineer|remoteok
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
 datosingeniero|na
+desarrollofullpracticantestack|chiletrabajos
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
 developerentrylevelremotesoftware|hirefeed
@@ -105,15 +108,18 @@ digitaleseasynegociospractica|cencosud
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 engineerfrontendremote|quikhirestaffing
+engineerfullstackremote|turing
 engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
 engineerreliabilitysite|remoteok
 engineersoftware|remoteok
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
+estudiantejuniorofertasprogramadorrelacionadastrainee|portal
 excellenceinstoretrainee|beiersdorf
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
+https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-aws-juniorcontrato-indefinidosantiago-centro-en-santiago-centro-D09E0E8C1BB4E31C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-infraestructura-aws-juniorcontrato-indefinido-en-santiago-centro-EEDD3302077479ED61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistema-juniorcontrato-indefinido-presencial-en-santiago-centro-07D60762639D8EA061373E686DCF3405
@@ -183,6 +189,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
+https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512
 https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296
@@ -207,6 +214,7 @@ https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-112993
 https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240
 https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
+https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
 https://www.chiletrabajos.cl/trabajo/3661542
 https://www.chiletrabajos.cl/trabajo/3833346
@@ -218,7 +226,9 @@ https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-impre
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
 https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al-menos-1-ano-de-experiencia-1437119
+https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
+https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e

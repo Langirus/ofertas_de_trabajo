@@ -49,6 +49,7 @@ analistatcnicoaplicacinmypass|airbookspa
 analista|na
 analystanalyticsbusinessdigital|na
 analystassociatechiletrabajosjuniornivelprogrammer|portal
+analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataremote|hirefeed
 analystdata|remoteok
 analyticsengineer|remoteok
@@ -93,6 +94,7 @@ dataengineer|na
 dataengineer|remoteok
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
+datosencargadoinformaticajuniorprocesamiento|portal
 datosingeniero|na
 desarrollofullpracticantestack|chiletrabajos
 developerengineeringplatformprogramatrainee|na
@@ -109,6 +111,8 @@ encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 engineerfrontendremote|quikhirestaffing
 engineerfullstackremote|turing
+engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
+engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
 engineerreliabilitysite|remoteok
@@ -189,7 +193,9 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
+https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
+https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512
 https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296
@@ -226,6 +232,7 @@ https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-impre
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
 https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al-menos-1-ano-de-experiencia-1437119
+https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamiento-de-datos-y-ciberseguridad-3727290
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
@@ -259,6 +266,7 @@ https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
+https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 informaticajuniortelecomunicacionestrabajos|portal
 informaticoingenieropracticante|occimiano
 informjuniormodalidadsitiosoportetico|computrabajo

@@ -60,6 +60,7 @@ analistasitiosoporte|softwareone
 analistatcnicoaplicacinmypass|airbookspa
 analista|na
 analystanalyticsbusinessdigital|na
+analystappsdevintmdjavanetprogrammer|citi
 analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataremote|hirefeed
@@ -69,6 +70,7 @@ analyticsengineer|remoteok
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
+artificialingenierointeligencia|negociosia
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
@@ -114,9 +116,11 @@ datosencargadoinformaticajuniorprocesamiento|portal
 datosingeniero|na
 desarrolladorjavajuniorremototrabajo|bairesdev
 desarrollofullpracticantestack|chiletrabajos
+desarrolloingeniero|larrainvial
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
 developerentrylevelremotesoftware|hirefeed
+developerinternalsoftware|pluttoycs22
 developerjavascriptjuniorremotework|bairesdev
 developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
@@ -128,9 +132,11 @@ digitaleseasynegociospractica|cencosud
 electricidadingenierotecnico|chiletrabajos
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
+encuentrajuniornuevasofertasprogramadorpythonreact|portal
 engineerfrontendremote|quikhirestaffing
 engineerfullstackremote|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
+engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|hired
@@ -172,6 +178,7 @@ https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metr
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
+https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
@@ -196,14 +203,19 @@ https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-fala
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
+https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
+https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
+https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
+https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
+https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833

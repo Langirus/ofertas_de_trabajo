@@ -39,6 +39,7 @@ analistabiinformticoa|empresaconfidencial
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
+analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
@@ -94,6 +95,7 @@ careerearlyengineersoftwaresystemswarfighter|remoteok
 cerrillosinformaticojuniornuevosregiontrabajos|portal
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
+chileencuentrainformaticojuniornuevasofertassantiago|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
 chiletrabajosinformaticaingenierosantiago|portal
@@ -150,6 +152,7 @@ engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|quikhirestaffing
 engineerpythonremotesoftware|quikhirestaffing
+engineerqa|na
 engineerreliabilitysite|remoteok
 engineersoftware|remoteok
 engineersolutions|na
@@ -183,6 +186,7 @@ https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c90
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
+https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
@@ -213,6 +217,7 @@ https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-44099427
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
+https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
@@ -333,6 +338,7 @@ https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
+https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote

@@ -5,6 +5,7 @@
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
+2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
@@ -46,6 +47,7 @@ analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
+analistacuentaspagar|viaconchaytoro
 analistadatosencuestasestudios|na
 analistadatosoperaciones|na
 analistadedatosfinancieros|acl
@@ -60,6 +62,7 @@ analistainformacionintermediojuniorseguridad|portal
 analistainfraestructurajronsite|ecosistemas
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
+analistamonitoreonocoperador|na
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
 analistaoperacionalsistemassoporte|ikea
@@ -71,6 +74,7 @@ analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaqasr|na
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
+analistasoporte|bkserviciosfinancieros
 analistatcnicoaplicacinmypass|airbookspa
 analista|na
 analystanalyticsbusinessdigital|na
@@ -207,6 +211,7 @@ https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
+https://cl.indeed.com/q-qa-software-junior-empleos.html
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
@@ -215,6 +220,7 @@ https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%AD
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
+https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
@@ -229,6 +235,7 @@ https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-siste
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-evoluci%C3%B3n-tecnologica-at-banco-de-chile-4408546723
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n-at-agency-network-4413722871
+https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
 https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
@@ -347,6 +354,7 @@ https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-s
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
+https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6
 https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506

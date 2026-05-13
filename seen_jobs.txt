@@ -28,6 +28,7 @@ aideployedengineerforwardinference|remoteok
 aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiqualityanalystremote|jobsai
+alumnologisticopracticatecnico|cydingeniera
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analistaarquitecturadatos|na
 analistaautomatizaciondatos|na
@@ -77,6 +78,7 @@ analyticsengineer|remoteok
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
+aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 artificialingenierointeligencia|negociosia
 asistentebuscaestudiojuridicosantiago|chiletrabajos
@@ -123,6 +125,7 @@ dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
 datosencargadoinformaticajuniorprocesamiento|portal
 datosingeniero|na
+dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 desarrolladorjavajuniorremototrabajo|bairesdev
 desarrollofullpracticantestack|chiletrabajos
 desarrolloingeniero|larrainvial
@@ -197,6 +200,7 @@ https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=65
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
+https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
@@ -235,7 +239,9 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cenco
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
+https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
+https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698

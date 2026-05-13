@@ -10,6 +10,7 @@
 accessengineeridentitysoftware|remoteok
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
 administradorawscontratoindefinidoinfraestructurajunior|computrabajo
+administradorawscontratoindefinidojuniorsistemasti|portal
 administradorcontratoindefinidojuniorpresencialsistemas|portal
 administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
@@ -47,6 +48,7 @@ analistadedatosfinancieros|acl
 analistadepositofranco|swissport
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
+analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistaiayautomatizacin|fullfunnel
 analistaindeedjuniornuevosprogramadortrabajos|portal
 analistainfraestructurajronsite|ecosistemas
@@ -163,6 +165,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrado
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-infraestructura-aws-juniorcontrato-indefinido-en-santiago-centro-EEDD3302077479ED61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistema-juniorcontrato-indefinido-presencial-en-santiago-centro-07D60762639D8EA061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistemas-junior-aws-contrato-indefinido-en-santiago-centro-EE3A5EDD34B2B63A61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
@@ -284,6 +287,7 @@ https://www.chiletrabajos.cl/relacionadas/3190640
 https://www.chiletrabajos.cl/trabajo/3661542
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
+https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582

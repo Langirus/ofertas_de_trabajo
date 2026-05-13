@@ -6,6 +6,7 @@
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
 3190640informaticoingenierojuniorofertasrelacionadas|portal
+44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 accessengineeridentitysoftware|remoteok
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
@@ -53,13 +54,16 @@ analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistaiayautomatizacin|fullfunnel
+analistaincorporacionrdt|reddealimentos
 analistaindeedjuniornuevosprogramadortrabajos|portal
 analistainformacionintermediojuniorseguridad|portal
 analistainfraestructurajronsite|ecosistemas
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
+analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
 analistaoperacionalsistemassoporte|ikea
+analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
 analistaotec|unitedpipelinesystems
 analistaprogramacion|experis
@@ -115,6 +119,7 @@ compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 controlgestioningeniero|chiletrabajos
 controlingenieroplanificacion|chiletrabajos
+coyhaiqueredestecnico|gocar
 dataanalyst3|remoteok
 dataanalystii|remoteok
 dataanalystremote|quikhirestaffing
@@ -145,6 +150,7 @@ developmentengineerjuniorremotesoftwaretestwork|bairesdev
 devopsengineertools|na
 devopsengineer|na
 digitaleseasynegociospractica|cencosud
+egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenierotecnico|chiletrabajos
 empleosinformaticoingeniero|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
@@ -212,7 +218,10 @@ https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
+https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
+https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
@@ -247,9 +256,13 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
+https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
+https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
@@ -324,6 +337,7 @@ https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiag
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
+https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
@@ -378,7 +392,9 @@ juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
 lidersoportetecnico|na
+practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 productdataanalyst|remoteok
+providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
 soporte|bechtelcorporation

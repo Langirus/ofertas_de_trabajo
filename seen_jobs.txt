@@ -29,6 +29,7 @@ aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiqualityanalystremote|jobsai
 alumnologisticopracticatecnico|cydingeniera
+americaengineergolanglatinlevelmidremote|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analistaarquitecturadatos|na
 analistaautomatizaciondatos|na
@@ -53,6 +54,7 @@ analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodec
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistaiayautomatizacin|fullfunnel
 analistaindeedjuniornuevosprogramadortrabajos|portal
+analistainformacionintermediojuniorseguridad|portal
 analistainfraestructurajronsite|ecosistemas
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
@@ -84,6 +86,7 @@ artificialingenierointeligencia|negociosia
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
+asistentefalabellafullhrsmartimevinavisual|falabella
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
@@ -118,6 +121,7 @@ dataanalystremote|quikhirestaffing
 dataanalyst|remoteok
 dataengineergovernance|remoteok
 dataengineeringintern|remoteok
+dataengineerjunior|yellowipe
 dataengineerplatformrevenue|remoteok
 dataengineer|na
 dataengineer|remoteok
@@ -200,6 +204,7 @@ https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=65
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
+https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
@@ -229,12 +234,16 @@ https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
+https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
+https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
+https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
+https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
@@ -353,6 +362,7 @@ https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-ba
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
+iaingenieroinnovacion|movizzon
 informaticajuniortelecomunicacionestrabajos|portal
 informaticoingenieropracticante|occimiano
 informjuniormodalidadsitiosoportetico|computrabajo

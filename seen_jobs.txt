@@ -51,6 +51,7 @@ analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
 analistacuentaspagar|viaconchaytoro
 analistadatosencuestasestudios|na
+analistadatosfarmaciajr|iqvialaboratories
 analistadatosoperaciones|na
 analistadedatosfinancieros|acl
 analistadepositofranco|swissport
@@ -105,6 +106,7 @@ automationengineerpythonqa|na
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
 backendchileingenierojuniormetropolitanaregionsantiago|portal
+backenddesarrolladorjuniornetremoto|towasoftware
 bigdataengineer|remoteok
 businessanalystdigitalanalyticsbi|na
 canadaengineersecurity|remoteok
@@ -227,6 +229,7 @@ https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
+https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
@@ -289,6 +292,7 @@ https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-44129
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
+https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275

@@ -21,6 +21,7 @@ administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
 administrativoadquisicionesantofagastaasistente|chiletrabajos
+administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
@@ -49,6 +50,7 @@ analistaayudamesa|computrabajo
 analistabackoffice|acl
 analistabiinformticoa|empresaconfidencial
 analistachiletrabajosdatosjuniorsantiago|portal
+analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
@@ -63,6 +65,7 @@ analistadedatosfinancieros|acl
 analistadepositofranco|swissport
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
+analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistagestionmodelo|veltis
 analistaiayautomatizacin|fullfunnel
@@ -115,6 +118,7 @@ asistentefalabellafullhrsmartimevinavisual|falabella
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
+awsdatadatalakeengineer|na
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
 backendchileingenierojuniormetropolitanaregionsantiago|portal
@@ -269,6 +273,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financiero
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
 https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
+https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
@@ -375,6 +380,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrat
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
+https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
@@ -390,6 +396,7 @@ https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiag
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
+https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
@@ -408,6 +415,7 @@ https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bc-tecnologia-s
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevideo-santiago-f207
 https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-remote
+https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago

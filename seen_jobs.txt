@@ -34,6 +34,7 @@ alumnologisticopracticatecnico|cydingeniera
 americaengineergolanglatinlevelmidremote|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analistaarquitecturadatos|na
+analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizaciondatos|na
 analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaautomatizacionoperaciones|larrainvial
@@ -62,6 +63,7 @@ analistainformacionintermediojuniorseguridad|portal
 analistainfraestructurajronsite|ecosistemas
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
+analistalicitacion|aramark
 analistamonitoreonocoperador|na
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
@@ -225,6 +227,7 @@ https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
+https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
@@ -331,6 +334,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-con
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
+https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817

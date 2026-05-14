@@ -30,6 +30,8 @@ aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
 aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
+aiengineerremotetraining|quikhirestaffing
+aiengineerremote|hirefeed
 aiqualityanalystremote|jobsai
 alumnologisticopracticatecnico|cydingeniera
 americaengineergolanglatinlevelmidremote|fullstack
@@ -175,6 +177,7 @@ engineerintermediosoftware|na
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|quikhirestaffing
+engineerlearningmachineremote|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
 engineerqa|na
 engineerreliabilitysite|remoteok
@@ -312,6 +315,9 @@ https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
+https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
+https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
+https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512
 https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296
 https://remoteOK.com/remote-jobs/remote-big-data-engineer-oowlish-technology-1130275

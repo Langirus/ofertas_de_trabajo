@@ -1,5 +1,6 @@
 100analistachiletrabajosjuniorqaremototesting|portal
 100coderedatadatabricksengineerproyectoremoto|itpartner
+18992026analistarepuestos|finning
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2025eneroindeedinformaticajuniornuevostrabajos|portal
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
@@ -74,6 +75,7 @@ analistaotec|unitedpipelinesystems
 analistaprogramacion|experis
 analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaqasr|na
+analistarepuestos|finning
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
 analistasoporte|bkserviciosfinancieros
@@ -233,6 +235,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
+https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
@@ -266,6 +269,7 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
+https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750

@@ -36,6 +36,7 @@ aiqualityanalystremote|jobsai
 alumnologisticopracticatecnico|cydingeniera
 americaengineergolanglatinlevelmidremote|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
+analistaanodefinidonominatermino|gallagher
 analistaarquitecturadatos|na
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizaciondatos|na
@@ -69,6 +70,7 @@ analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
 analistamejorasparticipesunidad|banchileinversiones
+analistamejoras|banchileinversiones
 analistamonitoreonocoperador|na
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
@@ -78,6 +80,7 @@ analistaoperaciones|banchileinversiones
 analistaotec|unitedpipelinesystems
 analistaprogramacion|experis
 analistaproveedoresreempalzo|constructoragonzlezgarca
+analistaproyectos|bancode
 analistaqasr|na
 analistarepuestos|finning
 analistasistemas|novasisllc
@@ -181,6 +184,7 @@ engineerjuniorremotesoftware|quikhirestaffing
 engineerlearningmachineremote|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
 engineerqa|na
+engineerreliabilitysitesre|infosys
 engineerreliabilitysite|remoteok
 engineersoftware|remoteok
 engineersolutions|na
@@ -240,10 +244,12 @@ https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-a
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
+https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
+https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
@@ -257,6 +263,7 @@ https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-44099427
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
+https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
@@ -280,9 +287,11 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-des
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
+https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
+https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
@@ -422,6 +431,7 @@ juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
 lidersoportetecnico|na
+lissoporte|owlteamsolutions
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 productdataanalyst|remoteok

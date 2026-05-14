@@ -85,6 +85,7 @@ analista|na
 analystanalyticsbusinessdigital|na
 analystappsdevintmdjavanetprogrammer|citi
 analystassociatechiletrabajosjuniornivelprogrammer|portal
+analystcybersecurityjuniorremote|crossinghurdles
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataremote|hirefeed
 analystdata|remoteok
@@ -281,6 +282,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
+https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698

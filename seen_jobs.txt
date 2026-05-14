@@ -10,6 +10,7 @@
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
+5x2asistentefalabellafullnorteplazatimevisual|falabella
 accessengineeridentitysoftware|remoteok
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
 administradorawscontratoindefinidoinfraestructurajunior|computrabajo
@@ -26,6 +27,7 @@ aianalystclientdataengagement|kraken
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
 aiautomationengineer|na
+aicontratoengineerindefinido|tataconsultancyservices
 aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
 aiengineerremotesoftware|hirefeed
@@ -182,6 +184,7 @@ engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|quikhirestaffing
 engineerlearningmachineremote|hirefeed
+engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
 engineerqa|na
 engineerreliabilitysitesre|infosys
@@ -231,6 +234,7 @@ https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
+https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
@@ -273,6 +277,7 @@ https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
+https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
@@ -414,6 +419,7 @@ https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remo
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
+https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 iaingenieroinnovacion|movizzon
 informaticajuniortelecomunicacionestrabajos|portal

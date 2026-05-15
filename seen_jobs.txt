@@ -62,6 +62,7 @@ analistabiinformticoa|empresaconfidencial
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
+analistachiletrabajosprogramadorsantiagosoftware|portal
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
@@ -84,6 +85,7 @@ analistaflexitremuneraciones|falabella
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistagestionmodelo|veltis
+analistagtm|claro
 analistaiayautomatizacin|fullfunnel
 analistaincorporacionrdt|reddealimentos
 analistaindeedjuniornuevosprogramadortrabajos|portal
@@ -211,6 +213,7 @@ developmentengineerjuniorremotesoftwaretestwork|bairesdev
 devopsengineertools|na
 devopsengineer|na
 devopsingeniero|tsoft
+devopsintern|usada
 digitaleseasynegociospractica|cencosud
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenierotecnico|chiletrabajos
@@ -320,6 +323,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
+https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
@@ -430,6 +434,7 @@ https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-112993
 https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240
 https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
+https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
@@ -468,6 +473,7 @@ https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
+https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930

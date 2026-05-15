@@ -29,7 +29,9 @@ administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 agentaiengineerremote|hirefeed
+agfanalistaproductivosoporte|banchileinversiones
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
+agileanalistaitproyectos|siigsa
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
 aianalystqualityremote|hired
@@ -67,6 +69,7 @@ analistacontableempresaindustrial|chiletrabajos
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
+analistacrossselling|autofin
 analistacuentaspagar|viaconchaytoro
 analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
@@ -104,6 +107,7 @@ analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaproyectos|bancode
 analistaqasr|na
 analistaqa|na
+analistaremuneraciones|smartcfo
 analistarepuestos|finning
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
@@ -130,6 +134,7 @@ applicationengineerremotespainsupport|hbxgroup
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 areabasedatospracticanteti|globaltalent
 artificialingenierointeligencia|negociosia
+asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
@@ -138,6 +143,7 @@ asistentelogistica|chiletrabajos
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
+auxiliarchofer|chiletrabajos
 awsdatadatalakeengineer|na
 awsingenieroplataformas|na
 backdesarrolladorendmesesnetproyecto|na
@@ -283,6 +289,7 @@ https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
+https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
@@ -296,6 +303,8 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-441063
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
+https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
+https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
@@ -320,8 +329,10 @@ https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
+https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
+https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
@@ -438,6 +449,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
+https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
 https://www.chiletrabajos.cl/trabajo/desarrollador-aplicaciones-web-junior-1389638

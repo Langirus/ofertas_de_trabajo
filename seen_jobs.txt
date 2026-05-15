@@ -60,6 +60,7 @@ analistaautomatizacionoperaciones|larrainvial
 analistaayudamesa|computrabajo
 analistabackoffice|acl
 analistabiinformticoa|empresaconfidencial
+analistacapitaltrabajo|abbott
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
@@ -205,6 +206,7 @@ desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
 desarrolladorjavajuniorremototrabajo|bairesdev
 desarrollofullpracticantestack|chiletrabajos
 desarrolloingeniero|larrainvial
+desarrolloingeniero|na
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
 developerentrylevelremotesoftware|hirefeed
@@ -294,6 +296,7 @@ https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consul
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
+https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
@@ -509,6 +512,7 @@ https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
 https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
+https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago

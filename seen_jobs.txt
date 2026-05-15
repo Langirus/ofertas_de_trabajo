@@ -63,6 +63,7 @@ analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
 analistacontableempresaindustrial|chiletrabajos
+analistacontinuidadoperativasoporte|apiuxtech
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
 analistacuentaspagar|viaconchaytoro
@@ -96,10 +97,12 @@ analistaoperacionalsistemassoporte|ikea
 analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
 analistaotec|unitedpipelinesystems
+analistapossistemas|farmaciasahumada
 analistaprogramacion|experis
 analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaproyectos|bancode
 analistaqasr|na
+analistaqa|na
 analistarepuestos|finning
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
@@ -174,6 +177,7 @@ dataanalyst|remoteok
 dataengineergovernance|remoteok
 dataengineeringintern|remoteok
 dataengineerjunior|yellowipe
+dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
 dataengineer|na
 dataengineer|remoteok
@@ -294,12 +298,14 @@ https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
+https://cl.linkedin.com/jobs/view/analista-de-sistemas-pos-at-farmacias-ahumada-4415063732
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-ev-tecnologica-at-banco-de-chile-4405046159
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-evoluci%C3%B3n-tecnologica-at-banco-de-chile-4408546723
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n-at-agency-network-4413722871
 https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
 https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
+https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
@@ -455,6 +461,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santi
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
+https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6
 https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
@@ -464,6 +471,7 @@ https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-r
 https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
+https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago

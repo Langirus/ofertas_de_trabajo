@@ -6,6 +6,7 @@
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
+2026backendindeedjuniormayonuevostrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 27408analystdataproduct|cit
 3190640informaticoingenierojuniorofertasrelacionadas|portal
@@ -21,6 +22,7 @@ administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
 administrativoadquisicionesantofagastaasistente|chiletrabajos
+administrativoareaasistentecapacitacion|freeportmcmoran
 administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
@@ -67,6 +69,7 @@ analistadepositofranco|swissport
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistafinanciamiento|blanco
+analistaflexitremuneraciones|falabella
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistagestionmodelo|veltis
@@ -145,6 +148,7 @@ ciberseguridadjunior|computrabajo
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
+cloudopsecuadorengineerremote|connecttechtalent
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 consultorficojuniormodalidadpresencialproyectosap|portal
@@ -193,6 +197,7 @@ engineerfullstackremote|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
+engineeriosmachbankmobilesoftware|machbank
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|quikhirestaffing
@@ -231,6 +236,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logi
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
 https://cl.indeed.com/q-analista-junior-informatico-empleos.html
 https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
+https://cl.indeed.com/q-backend-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
@@ -268,6 +274,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-441063
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
+https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
@@ -290,6 +297,7 @@ https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
+https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
@@ -311,6 +319,7 @@ https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
+https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
@@ -323,6 +332,7 @@ https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-a
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
+https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198

@@ -7,6 +7,7 @@
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
+2026abrilinformaticajuniornuevosseguridadtrabajos|portal
 2026backendindeedjuniormayonuevostrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 27408analystdataproduct|cit
@@ -63,6 +64,7 @@ analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
+analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
@@ -113,9 +115,11 @@ analistaremuneraciones|smartcfo
 analistarepuestos|finning
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
+analistasoporteti|novelty8
 analistasoporte|bkserviciosfinancieros
 analistatcnicoaplicacinmypass|airbookspa
 analista|na
+analiticaanalystbusinessdigitaljuniorproducto|computrabajo
 analystanalyticsbusinessdigital|na
 analystappsdevintmdjavanetprogrammer|citi
 analystassociatechiletrabajosjuniornivelprogrammer|portal
@@ -256,6 +260,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-B5D26C462836A1B861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraesctructura-y-ciberseguridad-junior-en-santiago-centro-FA9907183776377761373E686DCF3405
@@ -280,6 +285,7 @@ https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
 https://cl.indeed.com/q-qa-software-junior-empleos.html
+https://cl.indeed.com/q-seguridad-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
@@ -291,6 +297,7 @@ https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-conf
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
+https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
@@ -320,6 +327,7 @@ https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n
 https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
 https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
+https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930

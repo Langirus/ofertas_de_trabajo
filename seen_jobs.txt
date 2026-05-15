@@ -24,11 +24,14 @@ administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
 administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
+administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
+agentaiengineerremote|hirefeed
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
+aianalystqualityremote|hired
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
 aiautomationengineer|na
@@ -59,6 +62,7 @@ analistachiletrabajosjuniorsantiagoti|portal
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
+analistacontableempresaindustrial|chiletrabajos
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
 analistacuentaspagar|viaconchaytoro
@@ -67,6 +71,7 @@ analistadatosfarmaciajr|iqvialaboratories
 analistadatosoperaciones|na
 analistadedatosfinancieros|acl
 analistadepositofranco|swissport
+analistadesarrollomantenimientosistemassistemastecnologica|bancode
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistafinanciamiento|blanco
@@ -112,10 +117,12 @@ analystdata|remoteok
 analystlogistic|vantive
 analystqualityremotesoftware|hired
 analyticsengineer|remoteok
+androidchiefengineer|epamsystems
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
+applicationengineerremotespainsupport|hbxgroup
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 areabasedatospracticanteti|globaltalent
 artificialingenierointeligencia|negociosia
@@ -123,6 +130,7 @@ asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentefalabellafullhrsmartimevinavisual|falabella
+asistentelogistica|chiletrabajos
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
@@ -189,6 +197,7 @@ developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
 devopsengineertools|na
 devopsengineer|na
+devopsingeniero|tsoft
 digitaleseasynegociospractica|cencosud
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenierotecnico|chiletrabajos
@@ -212,6 +221,7 @@ engineerqa|na
 engineerreliabilitysitesre|infosys
 engineerreliabilitysite|remoteok
 engineerremotesoftware|crossinghurdles
+engineersecurity|audienceview
 engineersoftware|remoteok
 engineersolutions|na
 entrylevelsoftwaredeveloperremote|jobsai
@@ -284,6 +294,7 @@ https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
+https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-ev-tecnologica-at-banco-de-chile-4405046159
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-evoluci%C3%B3n-tecnologica-at-banco-de-chile-4408546723
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n-at-agency-network-4413722871
 https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
@@ -307,10 +318,12 @@ https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
+https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
+https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
@@ -322,6 +335,7 @@ https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-glob
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
+https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
@@ -340,8 +354,10 @@ https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-r
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4415012837
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
+https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
+https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
@@ -402,13 +418,16 @@ https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
+https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
+https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
 https://www.chiletrabajos.cl/trabajo/desarrollador-aplicaciones-web-junior-1389638
@@ -461,6 +480,7 @@ https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
+https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675

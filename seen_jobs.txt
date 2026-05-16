@@ -59,6 +59,7 @@ analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaautomatizacionoperaciones|larrainvial
 analistaayudamesa|computrabajo
 analistabackoffice|acl
+analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabiinformticoa|empresaconfidencial
 analistacapitaltrabajo|abbott
 analistachiletrabajosdatosjuniorsantiago|portal
@@ -127,6 +128,7 @@ analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
 analystcybersecurityjuniorremote|crossinghurdles
 analystdatamexicoonlyremotesupporttechnical|varicent
+analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hirefeed
 analystdata|remoteok
 analystlogistic|vantive
@@ -293,6 +295,7 @@ https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
+https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
@@ -392,6 +395,7 @@ https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-te
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
+https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198

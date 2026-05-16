@@ -169,6 +169,7 @@ backendchileingenierojuniormetropolitanaregionsantiago|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 bigdataengineer|remoteok
+buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
 canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
@@ -511,6 +512,7 @@ https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-full-stack-con-experiencia-javascript-hibrido-3777820
 https://www.chiletrabajos.cl/trabajo/e391-ingeniero-ambiental-con-manejo-de-norma-iso-14001-copiapo-3836570
 https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamiento-de-datos-y-ciberseguridad-3727290
+https://www.chiletrabajos.cl/trabajo/estamos-en-busca-de-practicantes-en-marketing-digital-3837338
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
 https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399

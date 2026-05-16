@@ -228,6 +228,7 @@ developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
+devopsengineerremote|hirefeed
 devopsengineertools|na
 devopsengineer|na
 devopsingeniero|tsoft
@@ -420,6 +421,7 @@ https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
+https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689

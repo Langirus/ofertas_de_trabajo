@@ -152,6 +152,7 @@ asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentefalabellafullhrsmartimevinavisual|falabella
 asistentelogistica|chiletrabajos
+associateengineerremotesoftware|hirefeed
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
@@ -179,6 +180,7 @@ chiletrabajosdevelopergrupohuntingjuniorsantiago|portal
 chiletrabajosinformaticaingenierosantiago|portal
 chiletrabajosinformaticaingjuniorsantiago|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
+chiletrabajosingenierojuniorpreventasantiago|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
@@ -202,6 +204,7 @@ dataengineeringintern|remoteok
 dataengineerjunior|yellowipe
 dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
+dataengineerremote|hirefeed
 dataengineer|na
 dataengineer|remoteok
 dataprocessanalyst|na
@@ -408,8 +411,10 @@ https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
+https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
+https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
@@ -494,6 +499,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
+https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090

@@ -17,6 +17,7 @@
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
 accessengineeridentitysoftware|remoteok
+accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
 activosgestormantenimientotecnico|chiletrabajos
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
 administradorawscontratoindefinidoinfraestructurajunior|computrabajo
@@ -62,6 +63,7 @@ analistaautomatizacionoperaciones|larrainvial
 analistaayudamesa|computrabajo
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
+analistabatchjuniorservicio|computrabajo
 analistabiinformticoa|empresaconfidencial
 analistacapitaltrabajo|abbott
 analistachiletrabajosdatosjuniorsantiago|portal
@@ -271,6 +273,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrado
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
@@ -549,6 +552,7 @@ https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remo
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
+https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 iaingenieroinnovacion|movizzon

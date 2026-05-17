@@ -187,6 +187,7 @@ chaindatapracticaprofesionalstrategysupplytrainee|sodimac
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chileencuentrainformaticojuniornuevasofertassantiago|portal
+chileengineersoftware|sezzle
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
 chiletrabajosdesarrolladorjuniorsantiago|portal
@@ -206,6 +207,7 @@ cloudopsecuadorengineerremote|connecttechtalent
 colombiaengineerjuniorremotesoftware|mixrank
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
+consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 controlgestioningeniero|chiletrabajos
 controlingenieroplanificacion|chiletrabajos
@@ -416,6 +418,7 @@ https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
+https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
@@ -423,6 +426,7 @@ https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418

@@ -68,6 +68,7 @@ analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
 analistabiinformticoa|empresaconfidencial
 analistacapitaltrabajo|abbott
+analistacertificaciones|agenciadeaduanasstein
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
@@ -323,6 +324,7 @@ https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-44155810
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
+https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114

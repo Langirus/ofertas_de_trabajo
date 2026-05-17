@@ -56,6 +56,7 @@ ambientale391ingenieromanejo|chiletrabajos
 americaengineergolanglatinlevelmidremote|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analistaanodefinidonominatermino|gallagher
+analistaaprovisionamientomesesproyecto|chiletrabajos
 analistaarquitecturadatos|na
 analistaartificialautomatizacioninteligencia|afpplanvital
 analistaautomatizacionchiletrabajosdatosjunior|portal
@@ -495,6 +496,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-i
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
+https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915

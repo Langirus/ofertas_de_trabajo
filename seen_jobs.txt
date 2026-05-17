@@ -32,6 +32,7 @@ administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 agentaiengineerremote|hirefeed
+agenticdeployedengineerforwardplatform|remoteok
 agfanalistaproductivosoporte|banchileinversiones
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 agileanalistaitproyectos|siigsa
@@ -239,6 +240,7 @@ developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
 devopsengineerremote|hirefeed
 devopsengineertools|na
+devopsengineer|confidential
 devopsengineer|na
 devopsingeniero|tsoft
 devopsintern|usada
@@ -474,6 +476,7 @@ https://remoteOK.com/remote-jobs/remote-data-engineering-intern-refinedscience-1
 https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365
 https://remoteOK.com/remote-jobs/remote-data-science-intern-pricing-analytics-gametime-united-1130279
 https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565
+https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-ai-inference-red-hat-inc-1129504
 https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114
 https://remoteOK.com/remote-jobs/remote-junior-data-engineer-satelligence-1129831
@@ -484,6 +487,7 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreo
 https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
+https://weworkremotely.com/remote-jobs/confidential-devops-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2

@@ -54,6 +54,7 @@ aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremote|hirefeed
 aiqualityanalystremote|jobsai
+altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
 alumnologisticopracticatecnico|cydingeniera
 ambientale391ingenieromanejo|chiletrabajos
 americaengineergolanglatinlevelmidremote|fullstack
@@ -433,6 +434,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
+https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338

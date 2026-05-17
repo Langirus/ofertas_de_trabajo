@@ -154,6 +154,7 @@ applicationengineerremotespainsupport|hbxgroup
 applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 areabasedatospracticanteti|globaltalent
+argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
 asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
@@ -174,6 +175,7 @@ backendchileingenierojuniormetropolitanaregionsantiago|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 bigdataengineer|remoteok
+brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
 canadaengineerlatamsoftware|opensesame
@@ -201,6 +203,7 @@ cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
 cloudopsecuadorengineerremote|connecttechtalent
+colombiaengineerjuniorremotesoftware|mixrank
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 consultorficojuniormodalidadpresencialproyectosap|portal
@@ -281,6 +284,8 @@ excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
+https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
+https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-aws-juniorcontrato-indefinidosantiago-centro-en-santiago-centro-D09E0E8C1BB4E31C61373E686DCF3405
@@ -425,6 +430,7 @@ https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-rem
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
+https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4415012837
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357

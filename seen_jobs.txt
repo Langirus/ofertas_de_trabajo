@@ -260,6 +260,7 @@ engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
 engineeriosmachbankmobilesoftware|machbank
 engineerjavaremotescalasoftware|heretechnologies
+engineerjuniormexicoremotesoftware|mixrank
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|quikhirestaffing
 engineerlearningmachineremote|hirefeed
@@ -272,6 +273,7 @@ engineerremotesoftware|crossinghurdles
 engineersecurity|audienceview
 engineersoftware|remoteok
 engineersolutions|na
+engineersremotesoftware|quikhirestaffing
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
@@ -280,6 +282,7 @@ experienciafullstackjavascriptjuniorprogramadorremoto|portal
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
+https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-aws-juniorcontrato-indefinidosantiago-centro-en-santiago-centro-D09E0E8C1BB4E31C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-infraestructura-aws-juniorcontrato-indefinido-en-santiago-centro-EEDD3302077479ED61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistema-juniorcontrato-indefinido-presencial-en-santiago-centro-07D60762639D8EA061373E686DCF3405
@@ -454,6 +457,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
+https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395

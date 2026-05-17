@@ -141,6 +141,7 @@ analystcybersecurityjuniorremote|crossinghurdles
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hirefeed
+analystdataremote|quikhirestaffing
 analystdata|remoteok
 analystlogistic|vantive
 analystqualityremotesoftware|hired
@@ -267,6 +268,7 @@ engineeriosmachbankmobilesoftware|machbank
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniormexicoremotesoftware|mixrank
 engineerjuniorremotesoftware|hired
+engineerjuniorremotesoftware|hirefeed
 engineerjuniorremotesoftware|quikhirestaffing
 engineerlearningmachineremote|hirefeed
 engineerpythonremotesoftware|hirefeed
@@ -287,6 +289,8 @@ experienciafullstackjavascriptjuniorprogramadorremoto|portal
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
+https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
+https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725

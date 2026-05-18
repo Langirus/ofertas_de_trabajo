@@ -253,7 +253,9 @@ developmentengineerjuniorremotesoftwaretestwork|bairesdev
 devopsengineerremote|hirefeed
 devopsengineertools|na
 devopsengineer|confidential
+devopsengineer|directsourcingsolutions
 devopsengineer|na
+devopsengineer|worlddatalab
 devopsingeniero|tsoft
 devopsintern|usada
 digitaleseasynegociospractica|cencosud
@@ -517,8 +519,10 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
 https://weworkremotely.com/remote-jobs/confidential-devops-engineer
+https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
+https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640

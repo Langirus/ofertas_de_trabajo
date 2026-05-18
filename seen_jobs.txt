@@ -232,11 +232,13 @@ dataengineer|remoteok
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
 datosencargadoinformaticajuniorprocesamiento|portal
+datosingenieriapractica|viaconchaytoro
 datosingeniero|na
 dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorjavajuniorremototrabajo|bairesdev
+desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrollofullpracticantestack|chiletrabajos
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
@@ -419,6 +421,7 @@ https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
@@ -468,6 +471,7 @@ https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
+https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
@@ -571,6 +575,7 @@ https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experienci
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
+https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago
@@ -615,6 +620,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-expe
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 iaingenieroinnovacion|movizzon
+incendiojuniorsistemastecnico|chiletrabajos
 informaticajuniortelecomunicacionestrabajos|portal
 informaticoingenieropracticante|occimiano
 informjuniormodalidadsitiosoportetico|computrabajo

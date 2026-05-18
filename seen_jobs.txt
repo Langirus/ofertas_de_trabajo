@@ -39,6 +39,7 @@ agfanalistaproductivosoporte|banchileinversiones
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 agileanalistaitproyectos|siigsa
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
+ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
 aianalystgenerativeremotespanish|crossinghurdles
 aianalystqualityremote|hired
@@ -163,6 +164,7 @@ asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentefalabellafullhrsmartimevinavisual|falabella
+asistentefalabellahrsvaldiviavisual|falabella
 asistentelogistica|chiletrabajos
 associateengineerremotesoftware|hirefeed
 automationengineergtm|remoteok
@@ -323,6 +325,7 @@ https://cl.indeed.com/q-backend-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
+https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
@@ -400,6 +403,7 @@ https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innov
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
+https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960

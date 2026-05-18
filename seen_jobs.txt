@@ -55,6 +55,7 @@ aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremote|hirefeed
 aiqualityanalystremote|jobsai
+allianceanalystpartnershipsaas|rindegastos
 altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
 alumnologisticopracticatecnico|cydingeniera
 ambientale391ingenieromanejo|chiletrabajos
@@ -73,6 +74,7 @@ analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
 analistabiinformticoa|empresaconfidencial
+analistabpo|evertec
 analistacapitaltrabajo|abbott
 analistacertificaciones|agenciadeaduanasstein
 analistachiletrabajosdatosjuniorsantiago|portal
@@ -184,6 +186,7 @@ backdeveloperend|na
 backendchileingenierojuniormetropolitanaregionsantiago|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
+backendengineersoftware|grupofalabella
 bigdataengineer|remoteok
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
@@ -255,6 +258,7 @@ desarrolloplanificacionpracticante|sodimac
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
 developerentrylevelremotesoftware|hirefeed
+developerfulljuniorstack|ironsidefitness
 developerinternalsoftware|pluttoycs22
 developerjavascriptjuniorremotework|bairesdev
 developerjuniorremotesoftware|hired
@@ -357,9 +361,11 @@ https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
+https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
+https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
@@ -424,12 +430,15 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
+https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
+https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
+https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
@@ -649,6 +658,7 @@ informaticoingenieropracticante|occimiano
 informjuniormodalidadsitiosoportetico|computrabajo
 ingenierojuniorsoporteti|experis
 ingenieroproyectos|computrabajo
+ingenierosoftware|thecne
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo

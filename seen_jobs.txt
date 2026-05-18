@@ -98,6 +98,7 @@ analistadepositofranco|swissport
 analistadesarrollomantenimientosistemassistemastecnologica|bancode
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
+analistafacturacion|soho
 analistafinanciamiento|blanco
 analistaflexitremuneraciones|falabella
 analistaforestal|freyaconsulting
@@ -149,6 +150,7 @@ analystdata|remoteok
 analystit|grupofalabella
 analystlogistic|vantive
 analystqualityremotesoftware|hired
+analyticsdatadataengineerengineertrainee|na
 analyticsengineer|remoteok
 androidchiefengineer|epamsystems
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
@@ -227,6 +229,7 @@ dataanalystremote|quikhirestaffing
 dataanalyst|remoteok
 dataengineergovernance|remoteok
 dataengineeringintern|remoteok
+dataengineerjuniorremotework|bairesdev
 dataengineerjunior|yellowipe
 dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
@@ -242,6 +245,7 @@ dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorjavajuniorremototrabajo|bairesdev
+desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrollofullpracticantestack|chiletrabajos
 desarrolloingeniero|larrainvial
@@ -260,6 +264,7 @@ devopsengineerremote|hirefeed
 devopsengineertools|na
 devopsengineer|confidential
 devopsengineer|directsourcingsolutions
+devopsengineer|hrtx
 devopsengineer|na
 devopsengineer|worlddatalab
 devopsingeniero|tsoft
@@ -365,6 +370,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
+https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
@@ -418,6 +424,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-pl
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
+https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
@@ -478,6 +485,7 @@ https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
+https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
@@ -534,6 +542,7 @@ https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
 https://weworkremotely.com/remote-jobs/confidential-devops-engineer
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
+https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
@@ -601,6 +610,7 @@ https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevi
 https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote

@@ -132,6 +132,7 @@ analistaremuneraciones|smartcfo
 analistarepuestos|finning
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
+analistasoporteti|contac
 analistasoporteti|novelty8
 analistasoporte|bkserviciosfinancieros
 analistatcnicoaplicacinmypass|airbookspa
@@ -396,6 +397,7 @@ https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n
 https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
 https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
+https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-contac-4412834636
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715

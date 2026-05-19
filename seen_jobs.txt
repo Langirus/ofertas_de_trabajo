@@ -74,8 +74,10 @@ analistaayudamesa|computrabajo
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
+analistabeneficios|empresassb
 analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
+analistacalidadgestion|chiletrabajos
 analistacapitaltrabajo|abbott
 analistacertificaciones|agenciadeaduanasstein
 analistachiletrabajosdatosjuniorsantiago|portal
@@ -108,12 +110,14 @@ analistaflexitremuneraciones|falabella
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistagestionmodelo|veltis
+analistagestionpersonas|chileanrentacar
 analistagtm|claro
 analistaiayautomatizacin|fullfunnel
 analistaincorporacionrdt|reddealimentos
 analistaindeedjuniornuevosprogramadortrabajos|portal
 analistainformacionintermediojuniorseguridad|portal
 analistainfraestructurajronsite|ecosistemas
+analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
@@ -139,6 +143,7 @@ analistasitiosoporte|softwareone
 analistasoporteti|contac
 analistasoporteti|novelty8
 analistasoporte|bkserviciosfinancieros
+analistasuscripcion|rentanacionalsegurosgenerales
 analistatcnicoaplicacinmypass|airbookspa
 analista|na
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
@@ -166,6 +171,7 @@ applicationengineerremotespainsupport|hbxgroup
 applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 areabasedatospracticanteti|globaltalent
+areapracticanteriesgo|capitalexpress
 argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
 asistemteinformaticosoporte|innovex
@@ -191,6 +197,7 @@ backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineersoftware|grupofalabella
 bigdataengineer|remoteok
+bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
@@ -198,6 +205,7 @@ canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
 centercostanerafalabellamjtseguridadtrainee|falabella
+centrodatostecnico|amazonwebservicesaws
 cerrillosinformaticojuniornuevosregiontrabajos|portal
 chaindatapracticaprofesionalstrategysupplytrainee|sodimac
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
@@ -208,6 +216,7 @@ chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
 chiletrabajosdesarrolladorjuniorsantiago|portal
 chiletrabajosdevelopergrupohuntingjuniorsantiago|portal
+chiletrabajosinformaticaingenierojuniorprogramador|portal
 chiletrabajosinformaticaingenierosantiago|portal
 chiletrabajosinformaticaingjuniorsantiago|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
@@ -216,6 +225,7 @@ ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
 ciberseguridadjunior|computrabajo
+clouddevopsengineergcp|na
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
@@ -338,6 +348,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-vision-computacional-en-santiago-las-condes-43328A2787348D6361373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyectos-santiago-centro-en-santiago-centro-692AEF089461AB9C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-monitorieo-junior-en-santiago-centro-A6D42AD79227CDC661373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-junior-modalidad-en-sitio-en-santiago-providencia-5F46F54DF59E1D3D61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tica-junior
@@ -374,6 +385,7 @@ https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
+https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
@@ -392,6 +404,7 @@ https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
@@ -412,9 +425,11 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-contac-4412834636
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
+https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
+https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
@@ -443,6 +458,7 @@ https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
+https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
@@ -458,7 +474,10 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-44
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
+https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
@@ -474,12 +493,14 @@ https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
+https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
@@ -566,6 +587,7 @@ https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
+https://www.chiletrabajos.cl/trabajo/3244677
 https://www.chiletrabajos.cl/trabajo/3661542
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880
@@ -575,6 +597,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrat
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
+https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
@@ -625,6 +648,7 @@ https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bc-tecnologia-santiago-6212
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevideo-santiago-f207
+https://www.getonbrd.com/jobs/cloud-devops-engineer-gcp-lisit-santiago
 https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
@@ -666,15 +690,18 @@ incendiojuniorsistemastecnico|chiletrabajos
 informaticajuniortelecomunicacionestrabajos|portal
 informaticoingenieropracticante|occimiano
 informjuniormodalidadsitiosoportetico|computrabajo
+ingenierointegracion|taglermaq
 ingenierojuniorsoporteti|experis
 ingenieroproyectos|computrabajo
 ingenierosoftware|thecne
+ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo
 juniormidaivideoartistfullremotecostarica|everai
 juniormidaivideoartistfullremotemexico|everai
 juniormidaivideoartistfullremotespain|everai
+juniormonitorieooperador|computrabajo
 juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
@@ -685,6 +712,7 @@ logisticapracticatalcahuano|rosen
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 productdataanalyst|remoteok
+professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
 soporte|bechtelcorporation

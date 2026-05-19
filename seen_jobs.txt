@@ -45,6 +45,7 @@ aianalystgenerativeremotespanish|crossinghurdles
 aianalystqualityremote|hired
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
+aiautomationengineerqa|na
 aiautomationengineer|na
 aicontratoengineerindefinido|tataconsultancyservices
 aidatadataengineerplatformqualityworkflows|na
@@ -102,6 +103,7 @@ analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistafacturacion|soho
 analistafinanciamiento|blanco
+analistafinancierasoperaciones|ripley
 analistaflexitremuneraciones|falabella
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
@@ -180,6 +182,7 @@ automationengineerjavaqa|na
 automationengineerpythonqa|na
 auxiliarchofer|chiletrabajos
 awsdatadatalakeengineer|na
+awsdatosingeniero|na
 awsingenieroplataformas|na
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
@@ -265,6 +268,7 @@ developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
+developmentengineersoftware|na
 devopsengineerremote|hirefeed
 devopsengineertools|na
 devopsengineer|confidential
@@ -387,6 +391,7 @@ https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-serv
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
@@ -608,6 +613,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimien
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
+https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
@@ -633,6 +639,7 @@ https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-s
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
@@ -642,6 +649,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
+https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626

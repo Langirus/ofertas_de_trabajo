@@ -85,6 +85,7 @@ analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
+analistacombustible|lavel
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
@@ -181,6 +182,7 @@ asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentefalabellafullhrsmartimevinavisual|falabella
 asistentefalabellahrsvaldiviavisual|falabella
+asistentegarantiasmaipusucursalvespucio|salfarent
 asistentegerenciaingenieriatecnico|copec
 asistentelogistica|chiletrabajos
 associateengineerremotesoftware|hirefeed
@@ -195,6 +197,7 @@ awsingenieroplataformas|na
 ayudamesasantiagosoporte|grupoavanza
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
+backendbrazildataengineerengineerplatformremote|georgiateksystems
 backendchileingenierojuniormetropolitanaregionsantiago|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
@@ -236,6 +239,7 @@ cloudopsecuadorengineerremote|connecttechtalent
 colombiaengineerjuniorremotesoftware|mixrank
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
+computacionalpracticaprofesionalserviciotecnico|bitumix
 consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
@@ -332,6 +336,7 @@ fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
+https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
@@ -393,6 +398,7 @@ https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
+https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415679762
@@ -453,6 +459,7 @@ https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innov
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
+https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
@@ -480,6 +487,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-44
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509

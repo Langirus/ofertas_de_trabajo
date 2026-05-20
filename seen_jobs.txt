@@ -92,6 +92,7 @@ analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
+analistacontablecruzpalmillasanta|chiletrabajos
 analistacontableempresaindustrial|chiletrabajos
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontrolgerenciagestiontecnica|johnsoncontrols
@@ -107,6 +108,7 @@ analistadepositofranco|swissport
 analistadesarrollomantenimientosistemassistemastecnologica|bancode
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
+analistadinerolavadoprevencion|bancofalabella
 analistafacturacion|soho
 analistafinanciamiento|blanco
 analistafinancierasoperaciones|ripley
@@ -136,6 +138,7 @@ analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
 analistaotec|unitedpipelinesystems
 analistapossistemas|farmaciasahumada
+analistapresupuestos|sefutec
 analistaprogramacion|experis
 analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaproyectos|bancode
@@ -189,6 +192,7 @@ asistentefalabellahrsvaldiviavisual|falabella
 asistentegarantiasmaipusucursalvespucio|salfarent
 asistentegerenciaingenieriatecnico|copec
 asistentelogistica|chiletrabajos
+asistenteti|computrabajo
 associateengineerremotesoftware|hirefeed
 automationengineergtm|remoteok
 automationengineerjavaqa|na
@@ -207,6 +211,7 @@ backendchileingenierojuniormetropolitanaregionsantiago|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineersoftware|grupofalabella
+bancarioingenierosectorsre|na
 bigdataengineer|remoteok
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
 brazilengineerjuniorremotesoftware|mixrank
@@ -263,6 +268,7 @@ dataengineerjuniorremotework|bairesdev
 dataengineerjunior|yellowipe
 dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
+dataengineerremotespain|lifebit
 dataengineerremote|hirefeed
 dataengineer|na
 dataengineer|remoteok
@@ -355,6 +361,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
@@ -425,6 +432,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-441063
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
+https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
@@ -458,6 +466,7 @@ https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
+https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
@@ -536,6 +545,7 @@ https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-te
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
+https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
@@ -621,6 +631,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-i
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
+https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
@@ -694,6 +705,7 @@ https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santi
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
+https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200

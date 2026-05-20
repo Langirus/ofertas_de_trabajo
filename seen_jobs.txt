@@ -57,6 +57,7 @@ aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremote|hirefeed
+aiengineersoftware|naya
 aiqualityanalystremote|jobsai
 allianceanalystpartnershipsaas|rindegastos
 altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
@@ -94,6 +95,7 @@ analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
 analistacontablecruzpalmillasanta|chiletrabajos
 analistacontableempresaindustrial|chiletrabajos
+analistacontable|saam
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
@@ -131,6 +133,7 @@ analistalicitacion|aramark
 analistamejorasparticipesunidad|banchileinversiones
 analistamejoras|banchileinversiones
 analistamonitoreonocoperador|na
+analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
 analistaoperacionalsistemassoporte|ikea
@@ -246,6 +249,8 @@ cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
 cloudopsecuadorengineerremote|connecttechtalent
+cloudprogrampublicsapseidortrainee|seidor
+cmsdesarrolladorpracticaprofesionalsoportetecnicoweb|enexum
 colombiaengineerjuniorremotesoftware|mixrank
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
@@ -254,6 +259,7 @@ consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
 controlgestioningeniero|chiletrabajos
+controlgestionpracticante|airlines
 controlingenieroplanificacion|chiletrabajos
 coreengineeriosproductsoftware|speechify
 cosasinternetpracticas|bwhale
@@ -401,6 +407,7 @@ https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
+https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
@@ -408,6 +415,7 @@ https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
+https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
@@ -426,6 +434,7 @@ https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
+https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
@@ -504,6 +513,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
@@ -511,6 +521,8 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operado
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
+https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
+https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
@@ -530,6 +542,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
+https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
@@ -753,6 +766,7 @@ juniorsoftwareengineerremote|quikhirestaffing
 lidersoportetecnico|na
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
+negociospracticanteprocesos|nttdata
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 productdataanalyst|remoteok

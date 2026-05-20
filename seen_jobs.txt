@@ -293,6 +293,7 @@ developerentrylevelremotesoftware|hirefeed
 developerfulljuniorstack|ironsidefitness
 developerinternalsoftware|pluttoycs22
 developerjavascriptjuniorremotework|bairesdev
+developerjuniorpythonremotework|indistaffingservices
 developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
@@ -578,6 +579,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
+https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084

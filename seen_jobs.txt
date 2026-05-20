@@ -64,6 +64,7 @@ alumnologisticopracticatecnico|cydingeniera
 ambientale391ingenieromanejo|chiletrabajos
 americaengineergolanglatinlevelmidremote|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
+analisisanalistaestategico|cencosud
 analistaanodefinidonominatermino|gallagher
 analistaaprovisionamientomesesproyecto|chiletrabajos
 analistaarquitecturadatos|na
@@ -162,6 +163,7 @@ analystdataremote|quikhirestaffing
 analystdata|remoteok
 analystit|grupofalabella
 analystlogistic|vantive
+analystoperationsales|mondelzinternational
 analystqualityremotesoftware|hired
 analyticsdatadataengineerengineertrainee|na
 analyticsengineer|remoteok
@@ -190,6 +192,7 @@ associateengineerremotesoftware|hirefeed
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
+automationengineerqa|na
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
 awsdatadatalakeengineer|na
@@ -307,6 +310,7 @@ encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
 engineerfrontendremote|quikhirestaffing
+engineerfullsoftwarestack|na
 engineerfullstackremote|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineerintermediatesoftware|equifax
@@ -390,6 +394,7 @@ https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-a
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
+https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
@@ -498,6 +503,7 @@ https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-oc
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
+https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
@@ -679,6 +685,7 @@ https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
 https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-south-america-remote
+https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a444
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
@@ -689,6 +696,7 @@ https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
+https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago

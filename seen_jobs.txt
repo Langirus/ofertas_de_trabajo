@@ -11,6 +11,7 @@
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
 2026abrilinformaticajuniornuevosseguridadtrabajos|portal
 2026backendindeedjuniormayonuevostrabajos|portal
+2026cloudindeedjuniormayonuevostrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 27408analystdataproduct|cit
@@ -386,6 +387,7 @@ https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%
 https://cl.indeed.com/q-analista-junior-informatico-empleos.html
 https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
 https://cl.indeed.com/q-backend-junior-empleos.html
+https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html

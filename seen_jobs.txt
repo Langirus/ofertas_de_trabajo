@@ -12,6 +12,7 @@
 2026abrilinformaticajuniornuevosseguridadtrabajos|portal
 2026backendindeedjuniormayonuevostrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
+20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 27408analystdataproduct|cit
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
@@ -530,6 +531,7 @@ https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%8
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
+https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917

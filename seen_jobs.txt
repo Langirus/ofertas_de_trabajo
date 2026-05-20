@@ -111,6 +111,7 @@ analistafacturacion|soho
 analistafinanciamiento|blanco
 analistafinancierasoperaciones|ripley
 analistaflexitremuneraciones|falabella
+analistaflota|finning
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistagestionmodelo|veltis
@@ -413,6 +414,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-labo
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
+https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533

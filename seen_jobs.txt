@@ -35,6 +35,7 @@ administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
 administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
+administrativoasistenteatencionorientacion|chiletrabajos
 administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
@@ -139,6 +140,7 @@ analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
 analistamejorasparticipesunidad|banchileinversiones
 analistamejoras|banchileinversiones
+analistamineriatecnico|sandvik
 analistamonitoreonocoperador|na
 analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
@@ -146,6 +148,7 @@ analistamotoryparametra|bancofalabella
 analistaoperacionalsistemassoporte|ikea
 analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
+analistaoperaciones|mailamericas
 analistaotec|unitedpipelinesystems
 analistapossistemas|farmaciasahumada
 analistapresupuestos|sefutec
@@ -157,6 +160,7 @@ analistaqasr|na
 analistaqa|na
 analistaremuneraciones|smartcfo
 analistarepuestos|finning
+analistariesgos|bancode
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
 analistasoporteti|contac
@@ -206,6 +210,7 @@ asistentegerenciaingenieriatecnico|copec
 asistentelogistica|chiletrabajos
 asistenteti|computrabajo
 associateengineerremotesoftware|hirefeed
+associateengineer|principal
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
@@ -464,6 +469,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-44120
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
+https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
@@ -495,8 +501,10 @@ https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
+https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
+https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
@@ -508,6 +516,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
+https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
@@ -678,6 +687,7 @@ https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
@@ -711,6 +721,7 @@ https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
+https://www.chiletrabajos.cl/trabajo/tecnico-soporte-informatico-en-terreno-iv-region-ovalle-3839770
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
@@ -769,6 +780,7 @@ implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
 informaticajuniortelecomunicacionestrabajos|portal
 informaticoingenieropracticante|occimiano
+informaticosoportetecnicoterreno|chiletrabajos
 informjuniormodalidadsitiosoportetico|computrabajo
 ingenierointegracion|taglermaq
 ingenierojuniorsoporteti|experis

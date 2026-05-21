@@ -19,6 +19,7 @@
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
+7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 accessengineeridentitysoftware|remoteok
 accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
 activosgestormantenimientotecnico|chiletrabajos
@@ -92,6 +93,7 @@ analistachiletrabajosprogramadorsantiagosoftware|portal
 analistacombustible|lavel
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
+analistacondesestudiospresencial|smuunimarcm10alviysuper10
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
 analistacontablecruzpalmillasanta|chiletrabajos
@@ -202,6 +204,7 @@ automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineerpythonqa|na
 automationengineerqa|na
+automatizacionpracticaprocesosprofesional|volta
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
 awsdatadatalakeengineer|na
@@ -438,6 +441,7 @@ https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
+https://cl.linkedin.com/jobs/view/analista-de-monitoreo-y-condiciones-equipos-mina-turno-7x7-santiago-at-vantaz-group-4416344416
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
@@ -467,6 +471,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
+https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
@@ -514,6 +519,7 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214

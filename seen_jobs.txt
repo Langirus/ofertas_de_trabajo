@@ -2,6 +2,7 @@
 100analistachiletrabajosjuniorqaremototesting|portal
 100backendengineer|comparisch
 100coderedatadatabricksengineerproyectoremoto|itpartner
+100enfoqueengineerfrontendreactremoto|bcncgroup
 18992026analistarepuestos|finning
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2024comempleoempleosindeedinformaticajuliojunior|portal
@@ -63,9 +64,11 @@ aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremote|hirefeed
+aiengineerremote|sezzle
 aiengineersoftware|naya
 aiqualityanalystremote|jobsai
 allianceanalystpartnershipsaas|rindegastos
+altoatencionautoserviciocajascondesfalabellahoraslunesprobadoresseguridadtraineeviernes|falabella
 altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
 alumnologisticopracticatecnico|cydingeniera
 ambientale391ingenieromanejo|chiletrabajos
@@ -199,6 +202,7 @@ areabasedatospracticanteti|globaltalent
 areapracticanteriesgo|capitalexpress
 argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
+aseoauxiliarcocina|chiletrabajos
 asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
@@ -271,6 +275,7 @@ colombiaengineerjuniorremotesoftware|mixrank
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
+comunicacionesinterninternaspracticante|dhlglobalforwarding
 consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
@@ -312,6 +317,7 @@ desarrolloplanificacionpracticante|sodimac
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
 developerentrylevelremotesoftware|hirefeed
+developerfbsfullstackjrmidnetremote|capgemini
 developerfulljuniorstack|ironsidefitness
 developerinternalsoftware|pluttoycs22
 developerjavascriptjuniorremotework|bairesdev
@@ -524,6 +530,7 @@ https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-43
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
+https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
@@ -574,6 +581,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
+https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
@@ -592,10 +600,12 @@ https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-h
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
+https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
+https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
@@ -613,6 +623,7 @@ https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
+https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
@@ -691,6 +702,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-at
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052

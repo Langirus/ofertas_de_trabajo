@@ -198,6 +198,7 @@ analyticsdatadataengineerengineertrainee|na
 analyticsengineer|remoteok
 androidchiefengineer|epamsystems
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
+antofagastachiletrabajosgordaitjuniorsierra|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
@@ -209,6 +210,7 @@ areapracticanteriesgo|capitalexpress
 argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
 aseoauxiliarcocina|chiletrabajos
+aseoauxiliares|chiletrabajos
 asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistenteconculoslavadorlicenciaveh|chiletrabajos
@@ -732,6 +734,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
+https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
@@ -750,6 +753,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-in
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
+https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377

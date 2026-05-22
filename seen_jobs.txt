@@ -117,6 +117,7 @@ analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
+analistacuentaspagar|grupofalabella
 analistacuentaspagar|viaconchaytoro
 analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
@@ -281,6 +282,7 @@ chiletrabajosinformaticaingenierosantiago|portal
 chiletrabajosinformaticaingjuniorsantiago|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
 chiletrabajosingenierojuniorpreventasantiago|portal
+ciberseguridadcontratoindefingenierojunior|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
@@ -477,6 +479,7 @@ https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
+https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
@@ -777,6 +780,7 @@ https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamien
 https://www.chiletrabajos.cl/trabajo/estamos-en-busca-de-practicantes-en-marketing-digital-3837338
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
 https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994

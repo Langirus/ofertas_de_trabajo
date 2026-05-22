@@ -280,6 +280,7 @@ clouddevopsengineergcp|na
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
+cloudengineerlevelmulti|na
 cloudopsecuadorengineerremote|connecttechtalent
 cloudprogrampublicsapseidortrainee|seidor
 cmsdesarrolladorpracticaprofesionalsoportetecnicoweb|enexum
@@ -352,6 +353,7 @@ devopsengineer|worlddatalab
 devopsingeniero|na
 devopsingeniero|tsoft
 devopsintern|usada
+devopsremototecnico|getronics
 devops|na
 digitaleseasynegociospractica|cencosud
 ediingenieroremotosoluciones|experienceitsolutions
@@ -637,6 +639,7 @@ https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
@@ -807,6 +810,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
+https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote

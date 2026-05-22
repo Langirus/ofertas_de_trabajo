@@ -381,6 +381,7 @@ engineersecurity|audienceview
 engineersoftware|remoteok
 engineersolutions|na
 engineersremotesoftware|quikhirestaffing
+engineertesting|enertisapplus
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
@@ -602,6 +603,7 @@ https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-s
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077

@@ -3,6 +3,7 @@
 100backendengineer|comparisch
 100coderedatadatabricksengineerproyectoremoto|itpartner
 100enfoqueengineerfrontendreactremoto|bcncgroup
+1092ingenierorefsoftware|acl
 18992026analistarepuestos|finning
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2024comempleoempleosindeedinformaticajuliojunior|portal
@@ -99,6 +100,7 @@ analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
+analistacmdbjunior|ktihunter
 analistacombustible|lavel
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
@@ -133,6 +135,7 @@ analistaflexitremuneraciones|falabella
 analistaflota|finning
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
+analistagestionincidentesmonitoreoti|elitsoft
 analistagestionmodelo|veltis
 analistagestionpersonas|chileanrentacar
 analistagtm|claro
@@ -140,6 +143,7 @@ analistaiayautomatizacin|fullfunnel
 analistaincorporacionrdt|reddealimentos
 analistaindeedjuniornuevosprogramadortrabajos|portal
 analistainformacionintermediojuniorseguridad|portal
+analistainformacionseguridad|bancofalabella
 analistainfraestructurajronsite|ecosistemas
 analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
 analistainteligencianegocios|sercomed
@@ -153,6 +157,7 @@ analistamonitoreonocoperador|na
 analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
+analistaopenshiftvirtualization|delmartechnologygroup
 analistaoperacionalsistemassoporte|ikea
 analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
@@ -167,9 +172,11 @@ analistaproyectos|abbott
 analistaproyectos|bancode
 analistaqasr|na
 analistaqa|na
+analistaremuneraciones|chiletrabajos
 analistaremuneraciones|smartcfo
 analistarepuestos|finning
 analistariesgos|bancode
+analistascapitalhcmhumanmanagementtecnologia|deloitte
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
 analistasoporteti|contac
@@ -198,6 +205,8 @@ analystqualityremotesoftware|hired
 analyticsdatadataengineerengineertrainee|na
 analyticsengineer|remoteok
 androidchiefengineer|epamsystems
+anexoarturoaseoauxiliar|chiletrabajos
+angularingenieronetsoftware|ithuntersinternational
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastachiletrabajosgordaitjuniorsierra|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
@@ -362,6 +371,7 @@ electricidadingenierotecnico|chiletrabajos
 empleosinformaticoingeniero|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
+encuentrainformaticanuevasofertaspracticaprofesional|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
 engineerfrontendremote|quikhirestaffing
 engineerfullsoftwarestack|na
@@ -384,6 +394,7 @@ engineerreliabilitysitesre|infosys
 engineerreliabilitysite|remoteok
 engineerremotesoftware|crossinghurdles
 engineersecurity|audienceview
+engineersoftware|na
 engineersoftware|remoteok
 engineersolutions|na
 engineersremotesoftware|quikhirestaffing
@@ -443,6 +454,7 @@ https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
+https://cl.indeed.com/q-pr%C3%A1ctica-profesional-inform%C3%A1tica-empleos.html?vjk=eea6aa121eb2023c
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
 https://cl.indeed.com/q-qa-software-junior-empleos.html
 https://cl.indeed.com/q-seguridad-inform%C3%A1tica-junior-empleos.html
@@ -480,6 +492,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-440671937
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
@@ -502,6 +515,7 @@ https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
+https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
@@ -524,11 +538,13 @@ https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-r
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
+https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
 https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
+https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
@@ -537,6 +553,7 @@ https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-441
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
+https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
@@ -564,6 +581,8 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
+https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
+https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
@@ -730,6 +749,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-38390
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
+https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
@@ -740,6 +760,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-at
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
@@ -822,6 +843,7 @@ https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
+https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912

@@ -140,6 +140,7 @@ analistaindeedjuniornuevosprogramadortrabajos|portal
 analistainformacionintermediojuniorseguridad|portal
 analistainfraestructurajronsite|ecosistemas
 analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
+analistainteligencianegocios|sercomed
 analistajuniorpmo|computrabajo
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
@@ -219,6 +220,7 @@ associateengineerremotesoftware|hirefeed
 associateengineer|principal
 automationengineergtm|remoteok
 automationengineerjavaqa|na
+automationengineerproqa|kraken
 automationengineerpythonqa|na
 automationengineerqa|na
 automatizacionpracticaprocesosprofesional|volta
@@ -330,6 +332,7 @@ developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
 developmentengineersoftware|na
+developmentjuniorrepresentativesales|ef
 devopsengineerremote|hirefeed
 devopsengineertools|na
 devopsengineer|confidential
@@ -342,6 +345,7 @@ devopsingeniero|tsoft
 devopsintern|usada
 devops|na
 digitaleseasynegociospractica|cencosud
+ediingenieroremotosoluciones|experienceitsolutions
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenierotecnico|chiletrabajos
 empleosinformaticoingeniero|portal
@@ -361,6 +365,7 @@ engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|hirefeed
 engineerjuniorremotesoftware|quikhirestaffing
 engineerlearningmachineremote|hirefeed
+engineerlearningmachine|adipa
 engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
 engineerqa|na
@@ -461,6 +466,7 @@ https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-441281597
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
+https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
@@ -549,7 +555,9 @@ https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
+https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
+https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
@@ -569,6 +577,7 @@ https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-dat
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
+https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
@@ -609,6 +618,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-44173157
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
+https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740

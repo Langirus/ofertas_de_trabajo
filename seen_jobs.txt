@@ -43,6 +43,7 @@ administrativeentrylevelprofessional|remoteok
 administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
 administrativoasistenteatencionorientacion|chiletrabajos
+administrativoasistenteoperaciones|cortevaagriscience
 administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
@@ -110,6 +111,7 @@ analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
 analistacmdbjunior|ktihunter
+analistacobranzasoporte|bancofalabella
 analistacombustible|lavel
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
@@ -347,6 +349,7 @@ datosingeniero|na
 dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
+desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
@@ -394,6 +397,7 @@ encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineerfrontendremote|quikhirestaffing
 engineerfullsoftwarestack|na
+engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
 engineergolangremotesoftware|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
@@ -577,6 +581,7 @@ https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
+https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
@@ -585,6 +590,7 @@ https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-man
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
+https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
@@ -618,6 +624,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
+https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
@@ -630,6 +637,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
@@ -695,6 +703,7 @@ https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
+https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
@@ -906,6 +915,7 @@ informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano
 informaticosoportetecnicoterreno|chiletrabajos
 informjuniormodalidadsitiosoportetico|computrabajo
+infraestructurainversionespractica|principal
 ingenierointegracion|taglermaq
 ingenierojuniorsoporteti|experis
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede

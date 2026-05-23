@@ -384,6 +384,7 @@ eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineerfrontendremote|quikhirestaffing
 engineerfullsoftwarestack|na
 engineerfullstackremote|turing
+engineergolangremotesoftware|turing
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
@@ -400,6 +401,7 @@ engineerpythonremotesoftware|quikhirestaffing
 engineerqa|na
 engineerreliabilitysitesre|infosys
 engineerreliabilitysite|remoteok
+engineerremoterustsoftware|turing
 engineerremotesoftware|crossinghurdles
 engineersecurity|audienceview
 engineersoftware|na
@@ -704,6 +706,8 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexi
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
+https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
+https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-hired-4414900606

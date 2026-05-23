@@ -61,6 +61,7 @@ aiappliedengineereurope|remoteok
 aiautomationdeveloperjuniorrpa|accenture
 aiautomationengineerqa|na
 aiautomationengineer|na
+aichiefengineer|epamsystems
 aicontratoengineerindefinido|tataconsultancyservices
 aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
@@ -144,6 +145,7 @@ analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistagestionincidentesmonitoreoti|elitsoft
 analistagestionmodelo|veltis
 analistagestionpersonas|chileanrentacar
+analistagestionsantiago|santander
 analistagtm|claro
 analistaiayautomatizacin|fullfunnel
 analistaincorporacionrdt|reddealimentos
@@ -549,6 +551,7 @@ https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
+https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
@@ -583,6 +586,7 @@ https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%AD
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
+https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183

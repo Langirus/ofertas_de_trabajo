@@ -47,6 +47,7 @@ administrativoasistenteoperaciones|cortevaagriscience
 administrativoasistente|casanovagroup
 administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
+administrativosoporteti|na
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 agentaiengineerremote|hirefeed
 agenticamericaengineerlatinpythonremote|fullstack
@@ -106,6 +107,7 @@ analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
 analistacalidadgestion|chiletrabajos
 analistacapitaltrabajo|abbott
+analistacasacontinuamatrizmejoraredsalud|empresassb
 analistacertificaciones|agenciadeaduanasstein
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
@@ -221,6 +223,7 @@ analystlogistic|vantive
 analystoperationsales|mondelzinternational
 analystqualityremotesoftware|hired
 analyticsdatadataengineerengineertrainee|na
+analyticsdataengineeringpracticante|falabella
 analyticsengineer|remoteok
 androidchiefengineer|epamsystems
 anexoarturoaseoauxiliar|chiletrabajos
@@ -495,6 +498,7 @@ https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg8
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
+https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
@@ -577,6 +581,7 @@ https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosiste
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
+https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662
 https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
 https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
@@ -657,6 +662,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwh
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
+https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030

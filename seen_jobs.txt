@@ -15,6 +15,7 @@
 2026abrilinformaticajuniornuevosseguridadtrabajos|portal
 2026backendindeedjuniormayonuevostrabajos|portal
 2026cloudindeedjuniormayonuevostrabajos|portal
+2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 27408analystdataproduct|cit
@@ -53,6 +54,7 @@ agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computra
 agileanalistaitproyectos|siigsa
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
+ahoraencuentrainformaticoingenieronuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
 aianalystgenerativeremotespanish|crossinghurdles
 aianalystqualityremote|hired
@@ -232,6 +234,7 @@ aseoauxiliares|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
+asistentecapacitacion|ey
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentefalabellafullhrsmartimevinavisual|falabella
@@ -288,6 +291,7 @@ chiletrabajosdevelopergrupohuntingjuniorsantiago|portal
 chiletrabajosinformaticaingenierojuniorprogramador|portal
 chiletrabajosinformaticaingenierosantiago|portal
 chiletrabajosinformaticaingjuniorsantiago|portal
+chiletrabajosinformaticajuniorsantiagotecnico|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
 chiletrabajosingenierojuniorpreventasantiago|portal
 ciberseguridadcontratoindefingenierojunior|portal
@@ -416,6 +420,7 @@ engineertesting|enertisapplus
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
+estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 fullstackcloudplatformengineeriot|na
@@ -468,9 +473,11 @@ https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metr
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
+https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=59afeb7fb4c8d132
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/q-pr%C3%A1ctica-profesional-inform%C3%A1tica-empleos.html?vjk=eea6aa121eb2023c
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
+https://cl.indeed.com/q-python-junior-empleos.html?vjk=c0eed6929d9f1d80
 https://cl.indeed.com/q-qa-software-junior-empleos.html
 https://cl.indeed.com/q-seguridad-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
@@ -577,6 +584,7 @@ https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innov
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
+https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-4398835193
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
@@ -592,6 +600,7 @@ https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-43
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
+https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
@@ -632,6 +641,7 @@ https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airl
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
+https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
@@ -822,6 +832,7 @@ https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experienci
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
+https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
@@ -910,6 +921,7 @@ juniorsoftwareengineerremote|quikhirestaffing
 lidersoportetecnico|na
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
+marketingmesespracticantetrade|mondelzinternational
 negociospracticanteprocesos|nttdata
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum

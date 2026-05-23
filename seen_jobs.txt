@@ -89,6 +89,7 @@ analisisanalistaestategico|cencosud
 analistaanodefinidonominatermino|gallagher
 analistaaprovisionamientomesesproyecto|chiletrabajos
 analistaarquitecturadatos|na
+analistaartificialautomatizacioninteligenciajunior|portal
 analistaartificialautomatizacioninteligencia|afpplanvital
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizaciondatos|na
@@ -158,6 +159,7 @@ analistainfraestructurajronsite|ecosistemas
 analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
 analistainteligencianegocios|sercomed
 analistajuniorpmo|computrabajo
+analistalegal|apexgroup
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
 analistamejorasparticipesunidad|banchileinversiones
@@ -202,6 +204,7 @@ analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystbancabusinessingenieronextgenteletrabajo|ingenierojob
 analystbusinessit|gmfinancial
 analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
+analystcoreopsdata|sumup
 analystcybersecurityjuniorremote|crossinghurdles
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataqualityremotespanish|crossinghurdles
@@ -563,6 +566,7 @@ https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
+https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
 https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
@@ -597,6 +601,7 @@ https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
+https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
@@ -776,6 +781,7 @@ https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
 https://www.chiletrabajos.cl/trabajo/3244677
 https://www.chiletrabajos.cl/trabajo/3661542
+https://www.chiletrabajos.cl/trabajo/3804158
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701

@@ -18,6 +18,7 @@
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 27408analystdataproduct|cit
 3190640informaticoingenierojuniorofertasrelacionadas|portal
+42hrs5x2falabellafullplazaseguridadtimetraineevespucio|falabella
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
@@ -35,6 +36,8 @@ administradorcontratoindefinidojuniorpresencialsistemas|portal
 administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
+administrativeampentrylevelofficeoperationsprofessionalsupport|remoteok
+administrativeentrylevelprofessional|remoteok
 administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
 administrativoasistenteatencionorientacion|chiletrabajos
@@ -74,6 +77,7 @@ altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
 alumnologisticopracticatecnico|cydingeniera
 alumnopracticatic|enjoydigital
 ambientale391ingenieromanejo|chiletrabajos
+americaazuredataengineerlatinremote|bluelight
 americaengineergolanglatinlevelmidremote|fullstack
 americaengineerlatinphpremotesoftware|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
@@ -231,6 +235,7 @@ asistentefalabellafullhrsmartimevinavisual|falabella
 asistentefalabellahrsvaldiviavisual|falabella
 asistentegarantiasmaipusucursalvespucio|salfarent
 asistentegerenciaingenieriatecnico|copec
+asistentegerencia|mallplaza
 asistentelogistica|chiletrabajos
 asistenteti|computrabajo
 associateengineerremotesoftware|hirefeed
@@ -375,6 +380,7 @@ encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrainformaticanuevasofertaspracticaprofesional|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
+eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineerfrontendremote|quikhirestaffing
 engineerfullsoftwarestack|na
 engineerfullstackremote|turing
@@ -564,6 +570,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capac
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
+https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
@@ -588,6 +595,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
+https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
@@ -597,6 +605,7 @@ https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
@@ -634,6 +643,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
+https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
@@ -718,6 +728,8 @@ https://remoteOK.com/remote-jobs/remote-data-engineering-intern-refinedscience-1
 https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365
 https://remoteOK.com/remote-jobs/remote-data-science-intern-pricing-analytics-gametime-united-1130279
 https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565
+https://remoteOK.com/remote-jobs/remote-entry-level-administrative-professional-operations-amp-office-support-pulsemedia-apac-1131855
+https://remoteOK.com/remote-jobs/remote-entry-level-administrative-professional-pulsemedia-apac-1131847
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-ai-inference-red-hat-inc-1129504
 https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114
@@ -727,6 +739,7 @@ https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1
 https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-1129936
 https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240
 https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
+https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
@@ -860,6 +873,7 @@ iaingenieroinnovacion|movizzon
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
 informaticajuniortelecomunicacionestrabajos|portal
+informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano
 informaticosoportetecnicoterreno|chiletrabajos
 informjuniormodalidadsitiosoportetico|computrabajo

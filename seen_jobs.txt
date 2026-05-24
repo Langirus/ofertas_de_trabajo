@@ -313,6 +313,7 @@ ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
 ciberseguridadjunior|computrabajo
+clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
 cloudengineerazureiot|na
 cloudengineerforiot|na
@@ -333,6 +334,7 @@ consultoriapracticantestecnologia|deloitte
 controlgestioningeniero|chiletrabajos
 controlgestionpracticante|airlines
 controlingenieroplanificacion|chiletrabajos
+controlingenieroproyecto|ghd
 coreengineeriosproductsoftware|speechify
 cosasinternetpracticas|bwhale
 coyhaiqueredestecnico|gocar
@@ -630,6 +632,7 @@ https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitnes
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
+https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
@@ -921,6 +924,7 @@ https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
+https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675

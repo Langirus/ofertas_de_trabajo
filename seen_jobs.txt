@@ -70,7 +70,9 @@ aiautomationdeveloperjuniorrpa|accenture
 aiautomationengineerqa|na
 aiautomationengineer|na
 aichiefengineer|epamsystems
+aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aicontratoengineerindefinido|tataconsultancyservices
+aicostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
 aiengineerfreelanceremote|hirefeed
@@ -331,6 +333,7 @@ cloudengineersecurity|remoteok
 cloudopsecuadorengineerremote|connecttechtalent
 cloudprogrampublicsapseidortrainee|seidor
 cmsdesarrolladorpracticaprofesionalsoportetecnicoweb|enexum
+collectionsintern|gmfinancial
 colombiaengineerjuniorremotesoftware|mixrank
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
@@ -653,6 +656,7 @@ https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
+https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
@@ -740,9 +744,11 @@ https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-a
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
+https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417817037
 https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4415012837
+https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633

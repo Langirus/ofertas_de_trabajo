@@ -44,6 +44,7 @@ administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
 administrativoasistenteatencionorientacion|chiletrabajos
 administrativoasistenteoperaciones|cortevaagriscience
+administrativoasistentetesla|peoplematch
 administrativoasistente|casanovagroup
 administrativoasistente|chiletrabajos
 administrativojunior|chiletrabajos
@@ -231,6 +232,7 @@ angularingenieronetsoftware|ithuntersinternational
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastachiletrabajosgordaitjuniorsierra|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
+antofagastasoportetecnicoterreno|bctecnologa
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationengineerremotespainsupport|hbxgroup
@@ -600,6 +602,7 @@ https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-man
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
+https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
@@ -683,6 +686,7 @@ https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-mesa-de-ayuda-santiago-at-grupo-avanza-4416945891
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
+https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663

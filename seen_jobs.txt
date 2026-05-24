@@ -222,6 +222,7 @@ analystdataremote|quikhirestaffing
 analystdata|remoteok
 analystit|grupofalabella
 analystlogistic|vantive
+analystmathematical|remoteok
 analystoperationsales|mondelzinternational
 analystqualityremotesoftware|hired
 analyticsdatadataengineerengineertrainee|na
@@ -249,6 +250,7 @@ asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistentecapacitacion|ey
+asistentecentrosentretenimientolidermarketingretail|validatetalentai
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentefalabellafullhrsmartimevinavisual|falabella
@@ -416,6 +418,7 @@ engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
 engineeriosmachbankmobilesoftware|machbank
+engineeritsupport|emblamedical
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniormexicoremotesoftware|mixrank
 engineerjuniorremotesoftware|hired
@@ -616,6 +619,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-fala
 https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-4398835193
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
+https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
@@ -651,6 +655,7 @@ https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-44129
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
+https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
@@ -793,6 +798,7 @@ https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platfo
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-ai-inference-red-hat-inc-1129504
 https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114
 https://remoteOK.com/remote-jobs/remote-junior-data-engineer-satelligence-1129831
+https://remoteOK.com/remote-jobs/remote-mathematical-analyst-crossing-hurdles-1131858
 https://remoteOK.com/remote-jobs/remote-product-data-analyst-big-health-1130055
 https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860
 https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-1129936

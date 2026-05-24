@@ -221,6 +221,7 @@ analystcoreopsdata|sumup
 analystcybersecurityjuniorremote|crossinghurdles
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataqualityremotespanish|crossinghurdles
+analystdataremote|hired
 analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
 analystdata|remoteok
@@ -373,6 +374,7 @@ desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
+desarrolladorjuniorweb|computrabajo
 desarrollofullpracticantestack|chiletrabajos
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
@@ -488,6 +490,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-web-junior-en-santiago-centro-EF1705FC7465859261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarror-backend-plsql-juniorllado-en-santiago-las-condes-BBA509586A017A3161373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-B5D26C462836A1B861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraesctructura-y-ciberseguridad-junior-en-santiago-centro-FA9907183776377761373E686DCF3405
@@ -737,6 +740,7 @@ https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-a
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
+https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4415012837
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357

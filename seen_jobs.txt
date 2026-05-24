@@ -26,6 +26,7 @@
 5x2asistentefalabellafullnorteplazatimevisual|falabella
 5x2falabellahrsindependenciamjtseguridadtrainee|falabella
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
+abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
 abuseanalystdatafraudwaste|remoteok
 accessengineeridentitysoftware|remoteok
 accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
@@ -167,6 +168,7 @@ analistagestionpersonas|chileanrentacar
 analistagestionsantiago|santander
 analistagtm|claro
 analistaiayautomatizacin|fullfunnel
+analistaincidentesnivelpoolsoctalent|babel
 analistaincorporacionrdt|reddealimentos
 analistaindeedjuniornuevosprogramadortrabajos|portal
 analistainformacionintermediojuniorseguridad|portal
@@ -394,6 +396,7 @@ developerentrylevelremotesoftware|hirefeed
 developerfbsfullstackjrmidnetremote|capgemini
 developerfulljuniorstack|ironsidefitness
 developerinternalsoftware|pluttoycs22
+developerinternsoftware|remoteok
 developerjavascriptjuniorremotework|bairesdev
 developerjuniorpythonremotework|indistaffingservices
 developerjuniorremotesoftware|hired
@@ -575,6 +578,7 @@ https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-441281597
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
+https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
@@ -662,6 +666,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-pl
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
+https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
@@ -859,6 +864,7 @@ https://remoteOK.com/remote-jobs/remote-sdet-intern-prophecy-1129977
 https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860
 https://remoteOK.com/remote-jobs/remote-security-engineer-permitflow-1130241
 https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-1129936
+https://remoteOK.com/remote-jobs/remote-software-developer-intern-refinedscience-1129793
 https://remoteOK.com/remote-jobs/remote-software-development-engineer-test-brazil-platform-science-1130073
 https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240
 https://remoteOK.com/remote-jobs/remote-software-engineer-intern-anduril-industries-1129984

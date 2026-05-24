@@ -24,6 +24,7 @@
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
+5x2falabellahrsindependenciamjtseguridadtrainee|falabella
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 abuseanalystdatafraudwaste|remoteok
 accessengineeridentitysoftware|remoteok
@@ -32,6 +33,7 @@ accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
 activosalternativosanalista|banchileinversiones
 activosgestormantenimientotecnico|chiletrabajos
 admanalisisangolapoyocdcinformacionjornadamcamediatecnico|ciudaddelnio
+administracionalumnopractica|petricioindustrial
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
 administradorawscontratoindefinidoinfraestructurajunior|computrabajo
 administradorawscontratoindefinidojuniorsistemasti|portal
@@ -48,6 +50,7 @@ administrativoasistenteoperaciones|cortevaagriscience
 administrativoasistentetesla|peoplematch
 administrativoasistente|casanovagroup
 administrativoasistente|chiletrabajos
+administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
@@ -293,6 +296,7 @@ backendengineersoftware|grupofalabella
 bancarioingenierosectorsre|na
 bigdataengineer|remoteok
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
+brazildevelopmentengineersoftwaretest|remoteok
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
@@ -300,6 +304,7 @@ canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
 cctvseguridadsistemastecnico|chiletrabajos
+centercostanerafalabellahrsseguridadtrainee|falabella
 centercostanerafalabellamjtseguridadtrainee|falabella
 centrodatostecnico|amazonwebservicesaws
 cerrillosinformaticojuniornuevosregiontrabajos|portal
@@ -404,6 +409,7 @@ devopsengineer|clovirtualfashion
 devopsengineer|confidential
 devopsengineer|directsourcingsolutions
 devopsengineer|hrtx
+devopsengineer|interoplabs
 devopsengineer|na
 devopsengineer|remoteok
 devopsengineer|worlddatalab
@@ -415,6 +421,7 @@ devops|na
 digitaleseasynegociospractica|cencosud
 ediingenieroremotosoluciones|experienceitsolutions
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
+electricidadingenieropractica|ciac
 electricidadingenierotecnico|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
 empleosinformaticoingeniero|portal
@@ -434,6 +441,7 @@ engineergradinfrastructurenewproductionsoftware|remoteok
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
+engineerinternsoftware|remoteok
 engineeriosmachbankmobilesoftware|machbank
 engineeritsupport|emblamedical
 engineerjavaremotescalasoftware|heretechnologies
@@ -532,11 +540,13 @@ https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
+https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petricio-industrial-s-a-4418906036
 https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
+https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-administraci%C3%B3n-at-petricio-industrial-s-a-4418698080
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
 https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
@@ -693,6 +703,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
@@ -736,8 +747,10 @@ https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-sei
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
+https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-30-hrs-5x2-falabella-independencia-at-falabella-4388597070
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
+https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
@@ -842,10 +855,13 @@ https://remoteOK.com/remote-jobs/remote-mid-level-devops-engineer-ci-cd-optimiza
 https://remoteOK.com/remote-jobs/remote-operations-engineer-kuala-lumpur-xsolla-1131075
 https://remoteOK.com/remote-jobs/remote-product-data-analyst-big-health-1130055
 https://remoteOK.com/remote-jobs/remote-qa-engineer-mex-digital-fze-1130438
+https://remoteOK.com/remote-jobs/remote-sdet-intern-prophecy-1129977
 https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860
 https://remoteOK.com/remote-jobs/remote-security-engineer-permitflow-1130241
 https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-1129936
+https://remoteOK.com/remote-jobs/remote-software-development-engineer-test-brazil-platform-science-1130073
 https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240
+https://remoteOK.com/remote-jobs/remote-software-engineer-intern-anduril-industries-1129984
 https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
 https://remoteOK.com/remote-jobs/remote-software-engineer-new-grad-production-infrastructure-palantir-technologies-1130763
 https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626
@@ -858,6 +874,7 @@ https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
 https://weworkremotely.com/remote-jobs/confidential-devops-engineer
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
+https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
@@ -1001,6 +1018,7 @@ ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
+internsdet|remoteok
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo

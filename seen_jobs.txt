@@ -66,6 +66,7 @@ agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computra
 agileanalistaitproyectos|siigsa
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
+ahoraencuentrainformaticanuevasofertaspostulatetrainee|portal
 ahoraencuentrainformaticoingenieronuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
 aianalystgenerativeremotespanish|crossinghurdles
@@ -255,6 +256,7 @@ anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastachiletrabajosgordaitjuniorsierra|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 antofagastasoportetecnicoterreno|bctecnologa
+anywhereengineermexicopythonremote|capgeminiengineering
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationengineerremotespainsupport|hbxgroup
@@ -334,6 +336,7 @@ chiletrabajosinformaticaingjuniorsantiago|portal
 chiletrabajosinformaticajuniorsantiagotecnico|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
 chiletrabajosingenierojuniorpreventasantiago|portal
+chiletrabajosingenierojuniorsantiagosistemas|portal
 ciberseguridadcontratoindefingenierojunior|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
@@ -539,6 +542,7 @@ https://cl.indeed.com/q-backend-junior-empleos.html
 https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
@@ -843,6 +847,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-j
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
+https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
@@ -964,6 +969,7 @@ https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994

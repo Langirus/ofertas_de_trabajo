@@ -47,6 +47,7 @@ administrativeentrylevelprofessional|remoteok
 administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
 administrativoasistenteatencionorientacion|chiletrabajos
+administrativoasistentefreelanceproyectos|chiletrabajos
 administrativoasistenteoperaciones|cortevaagriscience
 administrativoasistentetesla|peoplematch
 administrativoasistente|casanovagroup
@@ -84,6 +85,7 @@ aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremote|hirefeed
+aiengineerremote|lumenalta
 aiengineerremote|sezzle
 aiengineersoftware|naya
 aiqualityanalystremote|jobsai
@@ -107,6 +109,7 @@ analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizaciondatos|na
 analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaautomatizacionoperaciones|larrainvial
+analistaayudacontableerpmesa|sonda
 analistaayudamesa|computrabajo
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
@@ -342,6 +345,7 @@ cloudprogrampublicsapseidortrainee|seidor
 cmsdesarrolladorpracticaprofesionalsoportetecnicoweb|enexum
 collectionsintern|gmfinancial
 colombiaengineerjuniorremotesoftware|mixrank
+comercioexteriorpracticaprofesional|skcinsumosgruposigdokoppers
 compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
@@ -351,6 +355,7 @@ consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
 consultoriapracticantestecnologia|deloitte
 controlgestioningeniero|chiletrabajos
+controlgestioninventariospracticaprofesional|copec
 controlgestionpracticante|airlines
 controlingenieroplanificacion|chiletrabajos
 controlingenieroproyecto|ghd
@@ -480,6 +485,7 @@ estudiantejuniorofertasprogramadorrelacionadastrainee|portal
 estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
+finanzaspracticaprofesionalsubgerencia|copec
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 geotecnicomonitoreosupervisor|chiletrabajos
@@ -585,6 +591,7 @@ https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercom
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
+https://cl.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-erp-contable-at-sonda-4418937258
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-y-condiciones-equipos-mina-turno-7x7-santiago-at-vantaz-group-4416344416
@@ -711,10 +718,13 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-44
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
@@ -785,6 +795,7 @@ https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-ci
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
+https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
@@ -909,6 +920,7 @@ https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/asesor-tecnico-herramientas-rubro-ferretero-santiago-3837786
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-freelance-teletrabajo-3840060
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817

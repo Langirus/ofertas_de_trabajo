@@ -42,6 +42,7 @@ administradorcontratoindefinidojuniorpresencialsistemas|portal
 administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
+administrativaasistente|chiletrabajos
 administrativeampentrylevelofficeoperationsprofessionalsupport|remoteok
 administrativeentrylevelprofessional|remoteok
 administrativoadquisicionesantofagastaasistente|chiletrabajos
@@ -157,6 +158,7 @@ analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
+analistaemision|empresaconfidencial
 analistafacturacion|soho
 analistafinanciamiento|blanco
 analistafinancierasoperaciones|ripley
@@ -215,6 +217,7 @@ analistascapitalhcmhumanmanagementtecnologia|deloitte
 analistasistemas|novasisllc
 analistasitiosoporte|softwareone
 analistasoporteti|contac
+analistasoporteti|experis
 analistasoporteti|novelty8
 analistasoporte|bkserviciosfinancieros
 analistasuscripcion|rentanacionalsegurosgenerales
@@ -375,6 +378,7 @@ dataengineerplatformrevenue|remoteok
 dataengineerremotespain|lifebit
 dataengineerremote|hirefeed
 dataengineer|na
+dataengineer|qibit
 dataengineer|remoteok
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
@@ -391,6 +395,7 @@ desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
 desarrollofullpracticantestack|chiletrabajos
+desarrolloingenierosoftware|loteradeconcepcin
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
 desarrolloplanificacionpracticante|sodimac
@@ -438,6 +443,7 @@ encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrainformaticanuevasofertaspracticaprofesional|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
+engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendremote|quikhirestaffing
 engineerfulljuniormidsoftwarestack|remoteok
 engineerfullsoftwarestack|na
@@ -494,6 +500,7 @@ https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-arge
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
 https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-contas-j%C3%BAnior-remoto-at-dadosfera-4417483163
+https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
@@ -581,6 +588,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
+https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
@@ -623,6 +631,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financiero
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
 https://cl.linkedin.com/jobs/view/analista-de-soporte-operacional-y-sistemas-at-ikea-4413726027
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-contac-4412834636
+https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4418940806
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
@@ -681,6 +690,7 @@ https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
+https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
@@ -689,6 +699,7 @@ https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-intern
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
+https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
@@ -755,6 +766,7 @@ https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-s
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
@@ -919,6 +931,7 @@ https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/asesor-tecnico-herramientas-rubro-ferretero-santiago-3837786
+https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3840630
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-freelance-teletrabajo-3840060
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
@@ -1053,6 +1066,7 @@ juniorsoftwareengineerremote|quikhirestaffing
 lidersoportetecnico|na
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
+mantenimientotecnico|carlsjr
 marketingmesespracticantetrade|mondelzinternational
 negociospracticanteprocesos|nttdata
 practicaprevencionprofesionalriesgos|chiletrabajos

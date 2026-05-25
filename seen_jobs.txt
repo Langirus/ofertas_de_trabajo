@@ -398,6 +398,7 @@ datosingeniero|na
 dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 deployeddevopsengineerforward|remoteok
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
+desarrolladorfullstackjunior|computrabajo
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
@@ -528,6 +529,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-junior-en-talcahuano-1B9ECB2937331ED261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-web-junior-en-santiago-centro-EF1705FC7465859261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarror-backend-plsql-juniorllado-en-santiago-las-condes-BBA509586A017A3161373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-B5D26C462836A1B861373E686DCF3405

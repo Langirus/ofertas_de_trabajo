@@ -456,6 +456,7 @@ engineerkualalumpuroperations|remoteok
 engineerlearningmachineremote|hirefeed
 engineerlearningmachine|adipa
 engineerlearningmachine|remoteok
+engineerlevelmidsoftware|na
 engineerplatformsoftware|remoteok
 engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
@@ -987,6 +988,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
+https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago

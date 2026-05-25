@@ -169,12 +169,14 @@ analistaflota|finning
 analistafondos|apexgroup
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
+analistagestionincidentesjuniorresolucion|acl
 analistagestionincidentesmonitoreoti|elitsoft
 analistagestionmodelo|veltis
 analistagestionpersonas|chileanrentacar
 analistagestionsantiago|santander
 analistagtm|claro
 analistaiayautomatizacin|fullfunnel
+analistaimplementadorproyectos|generahrdigital
 analistaincidentesnivelpoolsoctalent|babel
 analistaincorporacionrdt|reddealimentos
 analistaindeedjuniornuevosprogramadortrabajos|portal
@@ -218,6 +220,7 @@ analistarepuestos|finning
 analistariesgos|bancode
 analistascapitalhcmhumanmanagementtecnologia|deloitte
 analistasistemas|novasisllc
+analistasistemas|teckresourceslimited
 analistasitiosoporte|softwareone
 analistasoporteti|contac
 analistasoporteti|experis
@@ -287,6 +290,7 @@ associateengineerremotesoftware|hirefeed
 associateengineer|principal
 automationengineergtm|remoteok
 automationengineerjavaqa|na
+automationengineermicrosoftplatformpower|na
 automationengineerproqa|kraken
 automationengineerpythonqa|na
 automationengineerqa|na
@@ -600,6 +604,7 @@ https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-441281597
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
@@ -651,6 +656,7 @@ https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-r
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
+https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-hr-digital-4418972190
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
@@ -666,6 +672,7 @@ https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-a
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
+https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
@@ -1025,6 +1032,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
+https://www.getonbrd.com/jobs/microsoft-power-platform-automation-engineer-dartmoor-analytics-remote
 https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote

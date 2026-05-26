@@ -99,7 +99,9 @@ altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
 alumnologisticopracticatecnico|cydingeniera
 alumnopracticatic|enjoydigital
 ambientale391ingenieromanejo|chiletrabajos
+ambienteasistentemediooperativosustentabilidad|pgic
 americaazuredataengineerlatinremote|bluelight
+americadjangoengineerlatinpythonremotesoftware|fullstack
 americaengineergolanglatinlevelmidremote|fullstack
 americaengineerlatinphpremotesoftware|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
@@ -148,12 +150,14 @@ analistacontinuidadoperativasoporte|apiuxtech
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
+analistacontrolgestionti|hitss
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
 analistacuentaspagar|grupofalabella
 analistacuentaspagar|viaconchaytoro
 analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
+analistadatosjunior|siigroup
 analistadatosoperaciones|na
 analistadedatosfinancieros|acl
 analistadepositofranco|swissport
@@ -162,6 +166,7 @@ analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
+analistadineromesa|bancode
 analistaemision|empresaconfidencial
 analistafacturacion|soho
 analistafinanciamiento|blanco
@@ -279,6 +284,7 @@ asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asistemteinformaticosoporte|innovex
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistentecapacitacion|ey
+asistentecarlinformaticajrjunior|computrabajo
 asistentecentrosentretenimientolidermarketingretail|validatetalentai
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
@@ -347,6 +353,7 @@ chiletrabajosingenierojuniorpreventasantiago|portal
 chiletrabajosingenierojuniorsantiagosistemas|portal
 ciberseguridadcontratoindefingenierojunior|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
+ciberseguridadgrcingenierojunior|computrabajo
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
 ciberseguridadjunior|computrabajo
@@ -460,6 +467,7 @@ encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrainformaticanuevasofertaspracticaprofesional|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
+engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
 engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendremote|quikhirestaffing
 engineerfulljuniormidsoftwarestack|remoteok
@@ -533,6 +541,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
@@ -542,6 +551,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollado
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarror-backend-plsql-juniorllado-en-santiago-las-condes-BBA509586A017A3161373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-B5D26C462836A1B861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraesctructura-y-ciberseguridad-junior-en-santiago-centro-FA9907183776377761373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-junior-de-ciberseguridad-grc-en-santiago-las-condes-9D7BC575BEF5CDFC61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-vision-computacional-en-santiago-las-condes-43328A2787348D6361373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyectos-santiago-centro-en-santiago-centro-692AEF089461AB9C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
@@ -595,6 +605,7 @@ https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
+https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
@@ -609,6 +620,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
+https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
@@ -673,6 +685,7 @@ https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662
 https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
+https://cl.linkedin.com/jobs/view/analista-mesa-de-dinero-at-banco-de-chile-4407638659
 https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
@@ -706,6 +719,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
+https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
 https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
@@ -836,6 +850,7 @@ https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
+https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
@@ -858,6 +873,7 @@ https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
+https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
@@ -932,6 +948,7 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-113
 https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
+https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/clo-virtual-fashion-devops-engineer
 https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
@@ -1087,6 +1104,7 @@ ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
+internoperationsremote|edp
 internsdet|remoteok
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal

@@ -18,6 +18,7 @@
 2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
+25hrsaraucoasistenteclienteikeaparquerotativoservicio|ikea
 27408analystdataproduct|cit
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 42hrs5x2falabellafullplazaseguridadtimetraineevespucio|falabella
@@ -199,6 +200,7 @@ analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
 analistanega3ciosoffshorepleno|remoteok
+analistanetqaserversql|unbc
 analistaopenshiftvirtualization|delmartechnologygroup
 analistaoperacionalsistemassoporte|ikea
 analistaoperacionesti|siigsa
@@ -390,6 +392,7 @@ dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
 dataengineerremotespain|lifebit
 dataengineerremote|hirefeed
+dataengineer|jobgether
 dataengineer|na
 dataengineer|qibit
 dataengineer|remoteok
@@ -474,6 +477,7 @@ engineeriosmachbankmobilesoftware|machbank
 engineeritsupport|emblamedical
 engineerjavaremotescalasoftware|heretechnologies
 engineerjuniormexicoremotesoftware|mixrank
+engineerjunioroperationstrading|pepperstone
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|hirefeed
 engineerjuniorremotesoftware|quikhirestaffing
@@ -678,6 +682,7 @@ https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-a
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
+https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
@@ -701,6 +706,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
+https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
@@ -711,6 +717,7 @@ https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
+https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
@@ -741,6 +748,7 @@ https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
+https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788

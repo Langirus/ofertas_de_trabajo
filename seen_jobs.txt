@@ -15,6 +15,7 @@
 2026abrilinformaticajuniornuevosseguridadtrabajos|portal
 2026backendindeedjuniormayonuevostrabajos|portal
 2026cloudindeedjuniormayonuevostrabajos|portal
+2026indeedinformaticajuniormayonuevostrabajos|portal
 2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
@@ -87,6 +88,7 @@ aiengineerfreelanceremote|hirefeed
 aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
+aiengineerremotework|bairesdev
 aiengineerremote|hirefeed
 aiengineerremote|lumenalta
 aiengineerremote|qima
@@ -274,6 +276,7 @@ aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationengineerremotespainsupport|hbxgroup
 applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
+araucoasistentefalabellahrsmaipuvisual|falabella
 areabasedatospracticanteti|globaltalent
 areapracticanteriesgo|capitalexpress
 argentinaengineerjuniorremotesoftware|mixrank
@@ -568,6 +571,7 @@ https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
+https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5d
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
@@ -717,6 +721,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
+https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
@@ -856,6 +861,7 @@ https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
+https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4418274323
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965

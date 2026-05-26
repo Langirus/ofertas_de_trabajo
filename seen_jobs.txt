@@ -153,6 +153,7 @@ analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
 analistacontrolgestionti|hitss
+analistacontrolgestionti|inge
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
 analistacuentaspagar|grupofalabella
@@ -206,6 +207,7 @@ analistamonitoreonocoperador|na
 analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
+analistanatalpagoprereemplazovalidacion|autofin
 analistanega3ciosoffshorepleno|remoteok
 analistanetqaserversql|unbc
 analistaopenshiftvirtualization|delmartechnologygroup
@@ -285,6 +287,7 @@ aseoauxiliarcocina|chiletrabajos
 aseoauxiliares|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asistemteinformaticosoporte|innovex
+asistenteauditoriacontrolinventarios|chiletrabajos
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistentecapacitacion|ey
 asistentecarlinformaticajrjunior|computrabajo
@@ -360,6 +363,7 @@ ciberseguridadgrcingenierojunior|computrabajo
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
 ciberseguridadjunior|computrabajo
+claseaelectricoingeniero|chiletrabajos
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
 cloudengineerazureiot|na
@@ -377,6 +381,7 @@ compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
 comunicacionesinterninternaspracticante|dhlglobalforwarding
+concepcioningenieroinspector|chiletrabajos
 consultantdataengineergcp|ey
 consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
@@ -517,6 +522,7 @@ engineertesting|enertisapplus
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
+estudiantepracticas|sicksensorintelligence
 estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
@@ -706,6 +712,8 @@ https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-441
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
+https://cl.linkedin.com/jobs/view/analista-ti-%E2%80%93-control-de-gesti%C3%B3n-at-inge%21-4419499896
+https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-natal-at-autofin-chile-4419509005
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
@@ -743,9 +751,11 @@ https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
+https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
@@ -800,6 +810,7 @@ https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%A
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
+https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
@@ -993,6 +1004,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-freelance-teletrabajo-3840060
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
+https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
@@ -1016,8 +1028,10 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contra
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
+https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
@@ -1108,6 +1122,7 @@ ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieroproyectos|computrabajo
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
+ingenierosoporte|gausscontrol
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
 internoperationsremote|edp
@@ -1135,4 +1150,5 @@ productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
+representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 soporte|bechtelcorporation

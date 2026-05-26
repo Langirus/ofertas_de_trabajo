@@ -114,6 +114,7 @@ analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaautomatizacionoperaciones|larrainvial
 analistaayudacontableerpmesa|sonda
 analistaayudamesa|computrabajo
+analistabackenddesenvolvedorenviojuniormelhorremoto|lwsa
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
@@ -192,6 +193,7 @@ analistalicitacion|aramark
 analistamejorasparticipesunidad|banchileinversiones
 analistamejoras|banchileinversiones
 analistamineriatecnico|sandvik
+analistamlopsremoto|vermontsolutions
 analistamonitoreonocoperador|na
 analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
@@ -363,6 +365,7 @@ compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
 comunicacionesinterninternaspracticante|dhlglobalforwarding
+consultantdataengineergcp|ey
 consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
@@ -514,6 +517,7 @@ https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-conta
 https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
+https://br.linkedin.com/jobs/view/melhor-envio-analista-desenvolvedor-backend-j%C3%BAnior-remoto-at-lwsa-4415231618
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725
@@ -708,6 +712,7 @@ https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-43
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
+https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
@@ -812,6 +817,7 @@ https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-te
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
+https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958

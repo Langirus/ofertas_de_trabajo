@@ -1,6 +1,7 @@
 000100aiengineerfulllearnwithremotestackusdyear|crossover
 100adfargentinaazuredatadataengineerfactoryremoto|talentconnect
 100analistachiletrabajosjuniorqaremototesting|portal
+100analystcetjuniormonitoringremoterisktimezone|bitfinex
 100backendengineer|comparisch
 100coderedatadatabricksengineerproyectoremoto|itpartner
 100enfoqueengineerfrontendreactremoto|bcncgroup
@@ -231,6 +232,7 @@ analistaproyectos|bancode
 analistaproyectos|falabella
 analistaqasr|na
 analistaqa|na
+analistareasegurossiniestros|marshrisk
 analistaremuneraciones|chiletrabajos
 analistaremuneraciones|smartcfo
 analistarepuestos|finning
@@ -472,6 +474,7 @@ digitaleseasynegociospractica|cencosud
 ediingenieroremotosoluciones|experienceitsolutions
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenieropractica|ciac
+electricidadingenieroservicios|chiletrabajos
 electricidadingenierotecnico|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
 electronicoinstrumentistajuniortecnico|chiletrabajos
@@ -673,6 +676,7 @@ https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
+https://cl.linkedin.com/jobs/view/analista-de-siniestros-de-reaseguros-at-marsh-risk-4419595403
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
@@ -876,6 +880,7 @@ https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
+https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
@@ -1041,6 +1046,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-in
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
+https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en-terreno-y-fabrica-3632041
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994

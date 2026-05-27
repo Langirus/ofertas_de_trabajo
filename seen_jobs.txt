@@ -104,6 +104,7 @@ aiqualityanalystremote|jobsai
 allianceanalystpartnershipsaas|rindegastos
 altoatencionautoserviciocajascondesfalabellahoraslunesprobadoresseguridadtraineeviernes|falabella
 altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
+alumnogastronomiapractica|chiletrabajos
 alumnologisticopracticatecnico|cydingeniera
 alumnopracticatic|enjoydigital
 ambientale391ingenieromanejo|chiletrabajos
@@ -504,6 +505,7 @@ engineerinternsoftware|remoteok
 engineeriosmachbankmobilesoftware|machbank
 engineeritsupport|emblamedical
 engineerjavaremotescalasoftware|heretechnologies
+engineerjavaremotesoftware|quikhirestaffing
 engineerjuniormexicoremotesoftware|mixrank
 engineerjunioroperationstrading|pepperstone
 engineerjuniorremotesoftware|hired
@@ -517,12 +519,15 @@ engineerlevelmidsoftware|na
 engineerplatformsoftware|remoteok
 engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
+engineerqaremote|hirefeed
+engineerqaremote|quikhirestaffing
 engineerqa|na
 engineerqa|remoteok
 engineerreliabilitysitesre|infosys
 engineerreliabilitysite|remoteok
 engineerremoterustsoftware|turing
 engineerremotesoftware|crossinghurdles
+engineerremotesoftware|hirefeed
 engineersecurity|audienceview
 engineersecurity|remoteok
 engineersoftware|na
@@ -552,8 +557,10 @@ https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/melhor-envio-analista-desenvolvedor-backend-j%C3%BAnior-remoto-at-lwsa-4415231618
+https://br.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419859364
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
+https://br.linkedin.com/jobs/view/software-engineer-%E2%80%93-remote-at-hire-feed-4419856471
 https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-aws-juniorcontrato-indefinidosantiago-centro-en-santiago-centro-D09E0E8C1BB4E31C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-infraestructura-aws-juniorcontrato-indefinido-en-santiago-centro-EEDD3302077479ED61373E686DCF3405
@@ -918,6 +925,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
+https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419872229
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
@@ -929,6 +937,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-s
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
+https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
@@ -1011,6 +1020,7 @@ https://www.chiletrabajos.cl/trabajo/3836880
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
+https://www.chiletrabajos.cl/trabajo/alumno-en-practica-de-gastronomia-3842008
 https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023

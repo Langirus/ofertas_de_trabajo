@@ -62,6 +62,7 @@ administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
+afpassociateengineer|afpcuprum
 agentaiengineerremote|hirefeed
 agenticamericaelixirengineerlatinremote|fullstack
 agenticamericaengineerlatinpythonremote|fullstack
@@ -263,6 +264,7 @@ analystdataremote|hired
 analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
 analystdata|remoteok
+analystdevelopersoftware|alsa
 analystit|grupofalabella
 analystlogistic|vantive
 analystmathematical|remoteok
@@ -320,6 +322,7 @@ automatizacionpracticaprocesosprofesional|volta
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
 awsdatadatalakeengineer|na
+awsdataengineer|accenture
 awsdatosingeniero|na
 awsdevopsengineer|epamsystems
 awsingenieroplataformas|na
@@ -536,6 +539,7 @@ estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 finanzaspracticaprofesionalsubgerencia|copec
+fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 geotecnicomonitoreosupervisor|chiletrabajos
@@ -748,6 +752,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-pl
 https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
 https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
+https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
@@ -759,6 +764,7 @@ https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
+https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
@@ -828,6 +834,7 @@ https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-inter
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
+https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
@@ -880,6 +887,7 @@ https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
+https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472

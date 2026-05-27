@@ -8,6 +8,7 @@
 18992026analistarepuestos|finning
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2024comempleoempleosindeedinformaticajuliojunior|portal
+2024informaticajuliojuniornuevosremototrabajos|portal
 2025eneroindeedinformaticajuniornuevostrabajos|portal
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
@@ -27,6 +28,7 @@
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
 5x2falabellahrsindependenciamjtseguridadtrainee|falabella
+719analistadatosjuniorley|acl
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
 abuseanalystdatafraudwaste|remoteok
@@ -68,6 +70,7 @@ agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computra
 agileanalistaitproyectos|siigsa
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
+ahoraencuentrainformaticanuevasofertaspostulatepracticas|portal
 ahoraencuentrainformaticanuevasofertaspostulatetrainee|portal
 ahoraencuentrainformaticoingenieronuevasofertaspostulate|portal
 aianalystclientdataengagement|kraken
@@ -93,6 +96,7 @@ aiengineerremote|hirefeed
 aiengineerremote|lumenalta
 aiengineerremote|qima
 aiengineerremote|sezzle
+aiengineerremoto|knowmadmood
 aiengineersoftware|naya
 aiqualityanalystremote|jobsai
 allianceanalystpartnershipsaas|rindegastos
@@ -447,6 +451,7 @@ developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
 developmentengineersoftware|na
 developmentjuniorrepresentativesales|ef
+devopsengineerjuniorremoto|vermontsolutions
 devopsengineerlevelmidoptimization|remoteok
 devopsengineerremote|hirefeed
 devopsengineertools|na
@@ -579,6 +584,7 @@ https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=c
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5d
+https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
@@ -589,6 +595,7 @@ https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=59afeb7fb4c8d132
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/q-pr%C3%A1ctica-profesional-inform%C3%A1tica-empleos.html?vjk=eea6aa121eb2023c
+https://cl.indeed.com/q-pr%C3%A1cticas-informatica-empleos.html?vjk=fa08ae24f10cbfd6
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
 https://cl.indeed.com/q-python-junior-empleos.html?vjk=c0eed6929d9f1d80
 https://cl.indeed.com/q-qa-software-junior-empleos.html
@@ -632,6 +639,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-441
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
+https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
@@ -855,6 +863,7 @@ https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-a
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
+https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
@@ -865,6 +874,7 @@ https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-a
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
+https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472

@@ -64,6 +64,7 @@ administrativosoporteti|na
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpassociateengineer|afpcuprum
 agentaiengineerremote|hirefeed
+agenticamericaantigravityengineergooglelatinremotesoftware|fullstack
 agenticamericaelixirengineerlatinremote|fullstack
 agenticamericaengineerlatinpythonremote|fullstack
 agenticdeployedengineerforwardplatform|remoteok
@@ -109,6 +110,7 @@ alumnologisticopracticatecnico|cydingeniera
 alumnopracticatic|enjoydigital
 ambientale391ingenieromanejo|chiletrabajos
 ambienteasistentemediooperativosustentabilidad|pgic
+americaangularengineerfulljavalatinremotestack|fullstack
 americaazuredataengineerlatinremote|bluelight
 americadjangoengineerlatinpythonremotesoftware|fullstack
 americaengineergolanglatinlevelmidremote|fullstack
@@ -156,6 +158,7 @@ analistacontableempresaindustrial|chiletrabajos
 analistacontable|chiletrabajos
 analistacontable|saam
 analistacontinuidadoperativasoporte|apiuxtech
+analistacontratosproveedores|grupofalabella
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionsistemas|agencynetwork
@@ -322,6 +325,7 @@ automationengineerqa|na
 automatizacionpracticaprocesosprofesional|volta
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
+auxiliarremotosoporte|energyza
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
 awsdatosingeniero|na
@@ -437,6 +441,7 @@ desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
 desarrollofullpracticantestack|chiletrabajos
+desarrolloinformaticopractica|getramgrupo
 desarrolloingenierosoftware|loteradeconcepcin
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
@@ -496,6 +501,7 @@ engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
 engineergenaisecurity|remoteok
+engineergenai|epamsystems
 engineergolangremotesoftware|turing
 engineergradinfrastructurenewproductionsoftware|remoteok
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
@@ -623,6 +629,7 @@ https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-unive
 https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petricio-industrial-s-a-4418906036
 https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
+https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
@@ -729,6 +736,7 @@ https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-a
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
+https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
@@ -778,6 +786,8 @@ https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitnes
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
+https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
+https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
@@ -808,6 +818,7 @@ https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
@@ -909,6 +920,7 @@ https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-440878391
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
+https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-4405289567
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754

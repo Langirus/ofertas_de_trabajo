@@ -1,5 +1,6 @@
 000100aiengineerfulllearnwithremotestackusdyear|crossover
 100adfargentinaazuredatadataengineerfactoryremoto|talentconnect
+100alertasanalistamonitoreoremoto|inpacttecnologasyprocesos
 100analistachiletrabajosjuniorqaremototesting|portal
 100analystcetjuniormonitoringremoterisktimezone|bitfinex
 100backendengineer|comparisch
@@ -109,6 +110,7 @@ alumnogastronomiapractica|chiletrabajos
 alumnologisticopracticatecnico|cydingeniera
 alumnopracticatic|enjoydigital
 ambientale391ingenieromanejo|chiletrabajos
+ambienteanalistamediopracticaprofesionalsostenibilidad|rqingeniera
 ambienteasistentemediooperativosustentabilidad|pgic
 americaangularengineerfulljavalatinremotestack|fullstack
 americaazuredataengineerlatinremote|bluelight
@@ -442,6 +444,7 @@ desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
 desarrollofullpracticantestack|chiletrabajos
 desarrolloinformaticopractica|getramgrupo
+desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
 desarrolloingenierosoftware|loteradeconcepcin
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
@@ -676,6 +679,7 @@ https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-ba
 https://cl.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-erp-contable-at-sonda-4418937258
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
+https://cl.linkedin.com/jobs/view/analista-de-monitoreo-de-alertas-100%25-remoto-at-inpact-tecnolog%C3%ADas-y-procesos-spa-4417249924
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-y-condiciones-equipos-mina-turno-7x7-santiago-at-vantaz-group-4416344416
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
@@ -824,6 +828,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
@@ -937,6 +942,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
+https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
 https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419872229
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543

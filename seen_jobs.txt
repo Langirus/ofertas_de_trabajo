@@ -138,6 +138,7 @@ analistabeneficios|empresassb
 analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
 analistacalidadgestion|chiletrabajos
+analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
 analistacencomallsmantenimiento|cencosud
@@ -255,6 +256,7 @@ analistasoporte|bkserviciosfinancieros
 analistasuscripcion|rentanacionalsegurosgenerales
 analistatcnicoaplicacinmypass|airbookspa
 analista|na
+analista|tauperforaciones
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
 analystanalyticsbusinessdigital|na
 analystappsdevintmdjavanetprogrammer|citi
@@ -641,6 +643,7 @@ https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%AD
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
 https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
+https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
@@ -652,6 +655,7 @@ https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
+https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
@@ -871,7 +875,9 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofag
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
@@ -1168,6 +1174,7 @@ informaticajuniortelecomunicacionestrabajos|portal
 informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano
 informaticosoportetecnicoterreno|chiletrabajos
+informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
 ingenierointegracion|taglermaq
@@ -1204,5 +1211,6 @@ productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
+redestecnico|prontopaga
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 soporte|bechtelcorporation

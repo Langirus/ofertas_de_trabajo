@@ -145,6 +145,7 @@ analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
 analistacencomallsmantenimiento|cencosud
+analistacencomallso2cprocesos|cencosud
 analistacertificaciones|agenciadeaduanasstein
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
@@ -367,6 +368,7 @@ chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chileencuentrainformaticojuniornuevasofertassantiago|portal
 chileengineersoftware|sezzle
+chileformacionpracticasprogramatalento|dhlglobalforwarding
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
 chiletrabajosdesarrolladorjuniorsantiago|portal
@@ -408,6 +410,7 @@ consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
 consultoriapracticantestecnologia|deloitte
+contratoindefindiojuniorprovidenciasoportetecnico|portal
 controlgestioningeniero|chiletrabajos
 controlgestioninventariospracticaprofesional|copec
 controlgestionpracticante|airlines
@@ -442,6 +445,7 @@ dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 deployeddevopsengineerforward|remoteok
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
 desarrolladorfullstackjunior|computrabajo
+desarrolladoriajuniorremoto|randstaddigitalespaa
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
@@ -519,6 +523,7 @@ engineerintermediosoftware|na
 engineerinternsoftware|remoteok
 engineeriosmachbankmobilesoftware|machbank
 engineeritsupport|emblamedical
+engineerjavamexicoremotescalasoftware|carolloengineers
 engineerjavaremotescalasoftware|heretechnologies
 engineerjavaremotesoftware|quikhirestaffing
 engineerjuniormexicoremotesoftware|mixrank
@@ -696,6 +701,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-riple
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
+https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencosud-s-a-4420239488
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
@@ -858,6 +864,7 @@ https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-oc
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
+https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
@@ -916,6 +923,7 @@ https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-telet
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
+https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
@@ -973,6 +981,7 @@ https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
+https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
 https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-hired-4414900606
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-funnelcake-4415587975
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
@@ -1045,6 +1054,7 @@ https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
 https://www.chiletrabajos.cl/trabajo/3244677
 https://www.chiletrabajos.cl/trabajo/3661542
+https://www.chiletrabajos.cl/trabajo/3753715
 https://www.chiletrabajos.cl/trabajo/3804158
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880

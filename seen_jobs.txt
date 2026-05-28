@@ -33,6 +33,7 @@
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
 5x2falabellahrsindependenciamjtseguridadtrainee|falabella
+6960analistacod|rqingeniera
 719analistadatosjuniorley|acl
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
@@ -218,6 +219,7 @@ analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
 analistainfraestructurati|empresaconfidencial
 analistainteligencianegocios|sercomed
 analistajuniorpmo|computrabajo
+analistajuniorqasantiago|portal
 analistalegal|apexgroup
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
@@ -327,10 +329,12 @@ asistentegerenciaingenieriatecnico|copec
 asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentelogistica|chiletrabajos
+asistenteprevencionriesgossantiago|plaenge
 asistenteti|computrabajo
 associatedeployedengineerforward|remoteok
 associateengineerremotesoftware|hirefeed
 associateengineer|principal
+australiaengineerfieldservice|remoteok
 automationengineergtm|remoteok
 automationengineerjavaqa|na
 automationengineermicrosoftplatformpower|na
@@ -354,6 +358,7 @@ backendchileingenierojuniormetropolitanaregionsantiago|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineersoftware|grupofalabella
+backendengineersoftware|haulmer
 backendengineersoftware|xepelin
 bancarioingenierosectorsre|na
 bigdataengineer|remoteok
@@ -432,6 +437,7 @@ dataanalyst3|remoteok
 dataanalystii|remoteok
 dataanalystremote|quikhirestaffing
 dataanalyst|remoteok
+datadeveloperetlintegratororacle|na
 dataengineergovernance|remoteok
 dataengineeringintern|remoteok
 dataengineerjuniorremotework|bairesdev
@@ -442,6 +448,7 @@ dataengineerremotespain|lifebit
 dataengineerremote|hirefeed
 dataengineer|jobgether
 dataengineer|na
+dataengineer|nttdataeurope
 dataengineer|qibit
 dataengineer|remoteok
 datajuniorscientist|confidential
@@ -511,6 +518,7 @@ electricidadingenieroservicios|chiletrabajos
 electricidadingenierotecnico|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
 electromecanicoferreterorubrosoportetecnico|chiletrabajos
+electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
 empleosinformaticoingeniero|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
@@ -520,6 +528,7 @@ encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
 engineerfrontendjuniorreactremotework|bairesdev
+engineerfrontendpaymentssoftware|kraken
 engineerfrontendremote|quikhirestaffing
 engineerfulljuniormidsoftwarestack|remoteok
 engineerfullsoftwarestack|na
@@ -669,6 +678,7 @@ https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
+https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%C3%ADa-4417660505
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
@@ -798,6 +808,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
+https://cl.linkedin.com/jobs/view/asistente-en-prevenci%C3%B3n-de-riesgos-santiago-at-plaenge-chile-4417668496
 https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
 https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
@@ -806,12 +817,14 @@ https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-43868851
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
+https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
+https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
@@ -892,6 +905,7 @@ https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
+https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
@@ -1006,6 +1020,7 @@ https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-funnelcake-4415587975
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
+https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
@@ -1030,6 +1045,7 @@ https://remoteOK.com/remote-jobs/remote-devops-engineer-infstones-1130436
 https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565
 https://remoteOK.com/remote-jobs/remote-entry-level-administrative-professional-operations-amp-office-support-pulsemedia-apac-1131855
 https://remoteOK.com/remote-jobs/remote-entry-level-administrative-professional-pulsemedia-apac-1131847
+https://remoteOK.com/remote-jobs/remote-field-service-engineer-australia-dexory-1132467
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-ai-inference-red-hat-inc-1129504
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-devops-parloa-1130194
@@ -1127,6 +1143,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
+https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en-terreno-y-fabrica-3632041
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
@@ -1172,6 +1189,7 @@ https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
+https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
 https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-south-america-remote

@@ -36,6 +36,7 @@
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
 abuseanalystdatafraudwaste|remoteok
+accessengineeridentitymanagementsoftware|remoteok
 accessengineeridentitysoftware|remoteok
 accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
 accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
@@ -164,6 +165,7 @@ analistacontablecruzpalmillasanta|chiletrabajos
 analistacontableempresaindustrial|chiletrabajos
 analistacontable|chiletrabajos
 analistacontable|saam
+analistacontinuacontrolgestionmejora|abbott
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontratosproveedores|grupofalabella
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
@@ -295,6 +297,7 @@ antofagastasoportetecnicoterreno|bctecnologa
 anywhereengineermexicopythonremote|capgeminiengineering
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
+applicationbackendengineermexicoremote|yelp
 applicationengineerremotespainsupport|hbxgroup
 applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
@@ -444,6 +447,7 @@ datosingeniero|na
 dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 deployeddevopsengineerforward|remoteok
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
+desarrolladorfullstackjunior|avostech
 desarrolladorfullstackjunior|computrabajo
 desarrolladoriajuniorremoto|randstaddigitalespaa
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
@@ -671,6 +675,7 @@ https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
+https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-mejora-continua-at-abbott-4417403608
 https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415679762
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
@@ -800,6 +805,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
+https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
@@ -945,6 +951,7 @@ https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
+https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-4405289567
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
@@ -1030,6 +1037,7 @@ https://remoteOK.com/remote-jobs/remote-security-engineer-permitflow-1130241
 https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-1129936
 https://remoteOK.com/remote-jobs/remote-software-developer-intern-refinedscience-1129793
 https://remoteOK.com/remote-jobs/remote-software-development-engineer-test-brazil-platform-science-1130073
+https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-management-zip-1129488
 https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240
 https://remoteOK.com/remote-jobs/remote-software-engineer-intern-anduril-industries-1129984
 https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403

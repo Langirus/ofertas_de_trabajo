@@ -6,6 +6,8 @@
 100backendengineer|comparisch
 100coderedatadatabricksengineerproyectoremoto|itpartner
 100enfoqueengineerfrontendreactremoto|bcncgroup
+100engineerjavaremotosoftware|knowmadmood
+100ingenierojavasoftwareteletrabajo|knowmadmood
 1092ingenierorefsoftware|acl
 18992026analistarepuestos|finning
 2023analistainformaticojuliojuniornuevostrabajos|portal
@@ -83,6 +85,7 @@ aianalystqualityremote|hired
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
 aiautomationdeveloperjuniorrpa|accenture
+aiautomationengineerfreelanceremote|guniaconsulting
 aiautomationengineerqa|na
 aiautomationengineer|na
 aichiefengineer|epamsystems
@@ -429,6 +432,7 @@ dataengineer|jobgether
 dataengineer|na
 dataengineer|qibit
 dataengineer|remoteok
+datajuniorscientist|confidential
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
 datosencargadoinformaticajuniorprocesamiento|portal
@@ -789,6 +793,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
+https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
@@ -914,12 +919,14 @@ https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-a
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
+https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
+https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
@@ -1158,6 +1165,7 @@ https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiag
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
+https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887

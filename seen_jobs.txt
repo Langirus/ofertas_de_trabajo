@@ -27,6 +27,7 @@
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 25hrsaraucoasistenteclienteikeaparquerotativoservicio|ikea
 27408analystdataproduct|cit
+290630engineerfrontendnextrefremotework|bairesdev
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 42hrs5x2falabellafullplazaseguridadtimetraineevespucio|falabella
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
@@ -82,6 +83,7 @@ ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
 ahoraencuentrainformaticanuevasofertaspostulatepracticas|portal
 ahoraencuentrainformaticanuevasofertaspostulatetrainee|portal
 ahoraencuentrainformaticoingenieronuevasofertaspostulate|portal
+aiaiamericaengineergenerativelatinremotesoftware|azumo
 aianalystclientdataengagement|kraken
 aianalystgenerativeremotespanish|crossinghurdles
 aianalystqualityremote|hired
@@ -193,6 +195,7 @@ analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
 analistaemision|empresaconfidencial
+analistafacturacion|chiletrabajos
 analistafacturacion|soho
 analistafinanciamiento|blanco
 analistafinancierasoperaciones|ripley
@@ -445,6 +448,7 @@ dataengineerjunior|yellowipe
 dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
 dataengineerremotespain|lifebit
+dataengineerremote|greencodesoftware
 dataengineerremote|hirefeed
 dataengineer|jobgether
 dataengineer|na
@@ -524,6 +528,7 @@ empleosinformaticoingeniero|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrainformaticanuevasofertaspracticaprofesional|portal
+encuentrainformaticanuevasofertaspracticasprofesional|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
@@ -560,6 +565,7 @@ engineerlevelmidsoftware|na
 engineerplatformsoftware|remoteok
 engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
+engineerpythonremotework|indistaffingservices
 engineerqaremote|hirefeed
 engineerqaremote|quikhirestaffing
 engineerqa|na
@@ -577,6 +583,7 @@ engineersolutions|na
 engineersolutions|remoteok
 engineersremotesoftware|quikhirestaffing
 engineertesting|enertisapplus
+entryfullgamegameplayhiringindiejuniorlevelmentorshipprogrammerremotestudiosystemstimetraining|salasgames
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
@@ -589,7 +596,9 @@ fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 geotecnicomonitoreosupervisor|chiletrabajos
+https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
+https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
@@ -651,6 +660,7 @@ https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=59afeb7fb4c8d132
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/q-pr%C3%A1ctica-profesional-inform%C3%A1tica-empleos.html?vjk=eea6aa121eb2023c
 https://cl.indeed.com/q-pr%C3%A1cticas-informatica-empleos.html?vjk=fa08ae24f10cbfd6
+https://cl.indeed.com/q-pr%C3%A1cticas-profesional-inform%C3%A1tica-empleos.html?vjk=652cc27229e840eb
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
 https://cl.indeed.com/q-python-junior-empleos.html?vjk=c0eed6929d9f1d80
 https://cl.indeed.com/q-qa-software-junior-empleos.html
@@ -997,6 +1007,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
+https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
 https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419872229
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
@@ -1104,6 +1115,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-383615
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
+https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
@@ -1221,11 +1233,13 @@ https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gu
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
+https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
+https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 iaingenieroinnovacion|movizzon

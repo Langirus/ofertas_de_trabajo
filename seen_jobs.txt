@@ -7,6 +7,7 @@
 100careercodingearlyengineerfocusjuniorproblemremotesoftwaresolvingspainstrongwithin|docplanner
 100coderedatadatabricksengineerproyectoremoto|itpartner
 100enfoqueengineerfrontendreactremoto|bcncgroup
+100engineerfullstackiajavareactteletrabajo|knowmadmood
 100engineerjavaremotosoftware|knowmadmood
 100ingenierojavasoftwareteletrabajo|knowmadmood
 1092ingenierorefsoftware|acl
@@ -128,6 +129,7 @@ americaazuredataengineerlatinremote|bluelight
 americadjangoengineerlatinpythonremotesoftware|fullstack
 americaengineergolanglatinlevelmidremote|fullstack
 americaengineerlatinphpremotesoftware|fullstack
+americaengineerlatinpythonremote|fullstack
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analisisanalistaestategico|cencosud
 analistaanalystbusinessdatosjunior|deloitte
@@ -203,6 +205,7 @@ analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
 analistaemision|empresaconfidencial
+analistaeventos|deloitte
 analistaeventos|johnsonjohnsoninnovativemedicine
 analistaeventos|mygwork
 analistafacturacion|chiletrabajos
@@ -375,6 +378,7 @@ awsdatosingeniero|na
 awsdevopsengineer|epamsystems
 awsingenieroplataformas|na
 ayudamesasantiagosoporte|grupoavanza
+azuredevopsengineeriii|rackspace
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
 backendbrazildataengineerengineerplatformremote|georgiateksystems
@@ -506,6 +510,7 @@ desarrolloingenierosoftware|loteradeconcepcin
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
 desarrolloplanificacionpracticante|sodimac
+designinternmarketing|openx
 developerendfrontjuniorreactremote|compassuol
 developerengineeringplatformprogramatrainee|na
 developerentrylevelremotesoftware|hired
@@ -745,6 +750,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-44
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
+https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
@@ -954,6 +960,7 @@ https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
+https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
@@ -974,6 +981,7 @@ https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-mesa-de-ayuda-santiago-at-grupo-avanza-4416945891
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
 https://cl.linkedin.com/jobs/view/soporte-sap-n1-at-genesys-4417645740
+https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-4417980714
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
@@ -1019,6 +1027,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-44173157
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
+https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
@@ -1148,6 +1157,8 @@ https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
+https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
+https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
@@ -1345,6 +1356,7 @@ juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
+juniorsoportetecnico|actis
 lidersoportetecnico|na
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen

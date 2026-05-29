@@ -71,6 +71,7 @@ administrativojunior|chiletrabajos
 administrativosoporteti|na
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpassociateengineer|afpcuprum
+agentaicolombiaengineerremote|fullstack
 agentaiengineerremote|hirefeed
 agenticamericaantigravityengineergooglelatinremotesoftware|fullstack
 agenticamericaelixirengineerlatinremote|fullstack
@@ -198,6 +199,7 @@ analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
 analistaemision|empresaconfidencial
 analistaeventos|johnsonjohnsoninnovativemedicine
+analistaeventos|mygwork
 analistafacturacion|chiletrabajos
 analistafacturacion|soho
 analistafinanciamiento|blanco
@@ -469,12 +471,14 @@ dataengineer|remoteok
 datajuniorscientist|confidential
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
+datascientist|na
 datosencargadoinformaticajuniorprocesamiento|portal
 datosingenieriapractica|viaconchaytoro
 datosingeniero|na
 dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
 deployeddevopsengineerforward|remoteok
 desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
+desarrolladorfullnetstack|na
 desarrolladorfullstackjunior|avostech
 desarrolladorfullstackjunior|computrabajo
 desarrolladoriajuniorremoto|randstaddigitalespaa
@@ -725,6 +729,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-44
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
+https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
@@ -968,6 +973,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-cent
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
+https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
 https://co.linkedin.com/jobs/view/ai-analyst-%E2%80%93-remote-latam-at-echez-group-4419314081
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
@@ -1227,7 +1233,9 @@ https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
+https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
+https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote

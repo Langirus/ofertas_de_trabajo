@@ -55,6 +55,7 @@ administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
 administrativaasistente|chiletrabajos
+administrativeadministrativoasistenteassistant|fugro
 administrativeampentrylevelofficeoperationsprofessionalsupport|remoteok
 administrativeentrylevelprofessional|remoteok
 administrativoadquisicionesantofagastaasistente|chiletrabajos
@@ -284,6 +285,7 @@ analystbusinessit|gmfinancial
 analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
 analystcoreopsdata|sumup
 analystcybersecurityjuniorremote|crossinghurdles
+analystdatamanagement|experianspanish
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hired
@@ -374,6 +376,7 @@ brazildevelopmentengineersoftwaretest|remoteok
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
+cabanasmontanaspracticaturismovalle|chiletrabajos
 canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
@@ -451,6 +454,7 @@ dataengineerjuniorremotework|bairesdev
 dataengineerjunior|yellowipe
 dataengineerocipythonspark|na
 dataengineerplatformrevenue|remoteok
+dataengineerpracticante|grupofalabella
 dataengineerremotespain|lifebit
 dataengineerremote|greencodesoftware
 dataengineerremote|hirefeed
@@ -675,6 +679,7 @@ https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg8
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
+https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
 https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petricio-industrial-s-a-4418906036
 https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
@@ -846,6 +851,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
+https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
@@ -906,6 +912,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwh
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
+https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
@@ -1175,6 +1182,7 @@ https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
+https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115

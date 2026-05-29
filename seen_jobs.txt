@@ -293,10 +293,12 @@ analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
 analystdata|remoteok
 analystdevelopersoftware|alsa
+analystinternationalpricing|commandlink
 analystit|grupofalabella
 analystlogistic|vantive
 analystmathematical|remoteok
 analystoperationsales|mondelzinternational
+analystpracticaproduct|principal
 analystqualityremotesoftware|hired
 analyticsdatadataengineerengineertrainee|na
 analyticsdataengineeringpracticante|falabella
@@ -320,6 +322,7 @@ areabasedatospracticanteti|globaltalent
 areapracticanteriesgo|capitalexpress
 argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
+artificialinteligenciapracticante|nttdata
 aseoauxiliarcocina|chiletrabajos
 aseoauxiliares|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
@@ -874,6 +877,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-44177898
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
+https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
@@ -881,9 +885,11 @@ https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-ex
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
+https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
+https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
@@ -897,6 +903,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
@@ -914,6 +921,7 @@ https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-glob
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
+https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
@@ -946,6 +954,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
@@ -1276,6 +1285,7 @@ ingenierointegracion|taglermaq
 ingenierojuniorsoporteti|experis
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieroproyectos|computrabajo
+ingenieroredessoporteterrenoti|nttdata
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoporte|gausscontrol
@@ -1283,12 +1293,14 @@ ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
 internoperationsremote|edp
 internsdet|remoteok
+jovenprofesionaltrainee|sacyr
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo
 juniormidaivideoartistfullremotecostarica|everai
 juniormidaivideoartistfullremotemexico|everai
 juniormidaivideoartistfullremotespain|everai
+juniormonitoreotecnico|nttdata
 juniormonitorieooperador|computrabajo
 juniorqa|na
 juniorsoftwaredeveloperremote|jobsai

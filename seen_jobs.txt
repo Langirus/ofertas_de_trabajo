@@ -206,6 +206,7 @@ analistaflota|finning
 analistafondos|apexgroup
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
+analistafreshfuncionalgraduatesmejorasprogramasistemas|sonda
 analistagestionincidentesjuniorresolucion|acl
 analistagestionincidentesmonitoreoti|elitsoft
 analistagestionmodelo|veltis
@@ -574,6 +575,7 @@ engineerqaremote|quikhirestaffing
 engineerqa|na
 engineerqa|remoteok
 engineerreliabilitysitesre|infosys
+engineerreliabilitysitesre|na
 engineerreliabilitysite|remoteok
 engineerremoterustsoftware|turing
 engineerremotesoftware|crossinghurdles
@@ -772,6 +774,7 @@ https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
+https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
@@ -1185,6 +1188,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-ala
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-soporte-informatico-en-terreno-iv-region-ovalle-3839770
+https://www.chiletrabajos.cl/trabajo/tecnico-trainee-prevencion-de-riesgos-3843652
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
@@ -1229,7 +1233,9 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
+https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
+https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
@@ -1276,6 +1282,7 @@ juniormidaivideoartistfullremotecostarica|everai
 juniormidaivideoartistfullremotemexico|everai
 juniormidaivideoartistfullremotespain|everai
 juniormonitorieooperador|computrabajo
+juniorqa|na
 juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
@@ -1288,6 +1295,7 @@ marketingmesespracticantetrade|mondelzinternational
 negociospracticanteprocesos|nttdata
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
+prevencionriesgostecnicotrainee|chiletrabajos
 productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa

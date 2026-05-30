@@ -73,6 +73,7 @@ administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
+afpanalistaassociateoperaciones|afpcuprum
 afpassociateengineer|afpcuprum
 agentaicolombiaengineerremote|fullstack
 agentaiengineerremote|hirefeed
@@ -121,6 +122,7 @@ aiengineerresearch|tether
 aiengineersoftware|naya
 aiqualityanalystremote|jobsai
 allianceanalystpartnershipsaas|rindegastos
+altoasistentecondesfalabellafullhrstimevisual|falabella
 altoatencionautoserviciocajascondesfalabellahoraslunesprobadoresseguridadtraineeviernes|falabella
 altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
 alumnogastronomiapractica|chiletrabajos
@@ -644,6 +646,7 @@ estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 finanzaspracticaprofesionalsubgerencia|copec
+fullingenierojuniorstack|apiuxtech
 fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
@@ -738,6 +741,7 @@ https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%AD
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
 https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
+https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cuprum-4390624992
 https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
@@ -889,6 +893,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-coleg
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
+https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-en-prevenci%C3%B3n-de-riesgos-santiago-at-plaenge-chile-4417668496
@@ -941,6 +946,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-d
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
+https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656

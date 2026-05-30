@@ -114,6 +114,7 @@ aiengineerremote|lumenalta
 aiengineerremote|qima
 aiengineerremote|sezzle
 aiengineerremoto|knowmadmood
+aiengineerresearch|tether
 aiengineersoftware|naya
 aiqualityanalystremote|jobsai
 allianceanalystpartnershipsaas|rindegastos
@@ -204,6 +205,7 @@ analistadepositofranco|swissport
 analistadesarrollomantenimientosistemassistemastecnologica|bancode
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
+analistadespliegueexplotacion|actis
 analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
@@ -345,6 +347,7 @@ artificialinteligenciapracticante|nttdata
 aseoauxiliarcocina|chiletrabajos
 aseoauxiliares|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
+asesorgruasmaritimassantiagotecnico|liebherrmining
 asistemteinformaticosoporte|innovex
 asistenteauditoriacontrolinventarios|chiletrabajos
 asistentebuscaestudiojuridicosantiago|chiletrabajos
@@ -511,6 +514,7 @@ desarrollofullpracticantestack|chiletrabajos
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
 desarrolloingenierosoftware|loteradeconcepcin
+desarrolloingeniero|actis
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
 desarrolloplanificacionpracticante|sodimac
@@ -755,6 +759,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-440671937
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
+https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
@@ -857,6 +862,7 @@ https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
+https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
@@ -905,6 +911,7 @@ https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-la
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
@@ -922,6 +929,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
+https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
@@ -1171,6 +1179,7 @@ https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
+https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+junior
@@ -1344,6 +1353,7 @@ ingenierointegracion|taglermaq
 ingenierojuniorsoporteti|experis
 ingenierojuniortrabajos|portal
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
+ingenieromultidisciplina|ghd
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata

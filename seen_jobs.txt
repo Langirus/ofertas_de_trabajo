@@ -45,6 +45,7 @@ accessengineeridentitysoftware|remoteok
 accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
 accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
 activosalternativosanalista|banchileinversiones
+activosciberseguridadingenieroprotecciontecnologicos|bancode
 activosgestormantenimientotecnico|chiletrabajos
 admanalisisangolapoyocdcinformacionjornadamcamediatecnico|ciudaddelnio
 administracionalumnopractica|petricioindustrial
@@ -67,6 +68,7 @@ administrativoasistenteoperaciones|cortevaagriscience
 administrativoasistentetesla|peoplematch
 administrativoasistente|casanovagroup
 administrativoasistente|chiletrabajos
+administrativoasistente|fundacinbostoneduca
 administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
@@ -105,6 +107,7 @@ aicostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
 aiengineerfreelanceremote|hirefeed
+aiengineerfullstack|reveleer
 aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
@@ -197,6 +200,7 @@ analistacuentaspagar|grupofalabella
 analistacuentaspagar|viaconchaytoro
 analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
+analistadatosinteligenciajunioroperaciones|portal
 analistadatosjunior|siigroup
 analistadatosoperaciones|na
 analistadatos|ecrgroup
@@ -349,6 +353,7 @@ aseoauxiliares|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asesorgruasmaritimassantiagotecnico|liebherrmining
 asistemteinformaticosoporte|innovex
+asistenteatencionbancacasamatrizpersonalsantiago|bancode
 asistenteauditoriacontrolinventarios|chiletrabajos
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistentecalidadchileinfraestructuraingenieriasacyrtalagante|sacyr
@@ -383,6 +388,7 @@ auxiliarremotosoporte|energyza
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
 awsdatosingeniero|na
+awsdevopsengineerjunior|softserve
 awsdevopsengineer|epamsystems
 awsingenieroplataformas|na
 ayudamesasantiagosoporte|grupoavanza
@@ -868,8 +874,10 @@ https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADti
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
+https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
+https://cl.linkedin.com/jobs/view/asistente-atenci%C3%B3n-banca-personal-%E2%80%93-casa-matriz-santiago-at-banco-de-chile-4411790106
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
@@ -918,6 +926,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
+https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
@@ -942,6 +951,7 @@ https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
+https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
@@ -1181,6 +1191,7 @@ https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
+https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
@@ -1207,6 +1218,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-me
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
+https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaciones-junior-3823250
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915

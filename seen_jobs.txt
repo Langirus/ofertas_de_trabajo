@@ -351,6 +351,7 @@ asesorgruasmaritimassantiagotecnico|liebherrmining
 asistemteinformaticosoporte|innovex
 asistenteauditoriacontrolinventarios|chiletrabajos
 asistentebuscaestudiojuridicosantiago|chiletrabajos
+asistentecalidadchileinfraestructuraingenieriasacyrtalagante|sacyr
 asistentecapacitacion|ey
 asistentecarlinformaticajrjunior|computrabajo
 asistentecentrosentretenimientolidermarketingretail|validatetalentai
@@ -469,6 +470,7 @@ controlingenieroproyecto|ghd
 coreengineeriosproductsoftware|speechify
 cosasinternetpracticas|bwhale
 coyhaiqueredestecnico|gocar
+customerremotosoportespecialistsupporttecnico|jbtmarel
 dataanalyst3|remoteok
 dataanalystii|remoteok
 dataanalystremote|quikhirestaffing
@@ -870,6 +872,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-cor
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
+https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
 https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-4398835193
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
@@ -893,6 +896,7 @@ https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
+https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754

@@ -126,6 +126,7 @@ ambienteanalistamediopracticaprofesionalsostenibilidad|rqingeniera
 ambienteasistentemediooperativosustentabilidad|pgic
 americaangularengineerfulljavalatinremotestack|fullstack
 americaazuredataengineerlatinremote|bluelight
+americadataengineerlatinremote|bluelight
 americadjangoengineerlatinpythonremotesoftware|fullstack
 americaengineergolanglatinlevelmidremote|fullstack
 americaengineerlatinphpremotesoftware|fullstack
@@ -634,6 +635,7 @@ geotecnicomonitoreosupervisor|chiletrabajos
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
+https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
@@ -1226,6 +1228,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en-terreno-y-fabrica-3632041
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
+https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
@@ -1333,6 +1336,7 @@ ingenierointegracion|taglermaq
 ingenierojuniorsoporteti|experis
 ingenierojuniortrabajos|portal
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
+ingenieroprevencionriesgos|chiletrabajos
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
 ingenierosoftware|sercomed

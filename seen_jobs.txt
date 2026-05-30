@@ -97,6 +97,7 @@ aiautomationdeveloperjuniorrpa|accenture
 aiautomationengineerfreelanceremote|guniaconsulting
 aiautomationengineerqa|na
 aiautomationengineer|na
+aiautomationengineer|wdgroup
 aichiefengineer|epamsystems
 aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aicontratoengineerindefinido|tataconsultancyservices
@@ -149,6 +150,7 @@ analistaautomatizacion|na
 analistaayudacontableerpmesa|sonda
 analistaayudamesa|computrabajo
 analistabackenddesenvolvedorenviojuniormelhorremoto|lwsa
+analistabackofficeproyectosriesgo|bancofalabella
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
@@ -311,6 +313,7 @@ analystdevelopersoftware|alsa
 analystinternationalpricing|commandlink
 analystit|grupofalabella
 analystlogistic|vantive
+analystmarketing|cabify
 analystmathematical|remoteok
 analystoperationsales|mondelzinternational
 analystpracticaproduct|principal
@@ -713,6 +716,7 @@ https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petrici
 https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
+https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
@@ -784,6 +788,7 @@ https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-falabella-4388376406
+https://cl.linkedin.com/jobs/view/analista-de-proyectos-backoffice-de-riesgo-at-banco-falabella-4421289216
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
@@ -929,12 +934,14 @@ https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
+https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a-4416901036
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
@@ -965,6 +972,7 @@ https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-e
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
+https://cl.linkedin.com/jobs/view/ratings-and-research-intern-at-passfort-a-moody-s-company-4418306472
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
@@ -1345,6 +1353,7 @@ ingenierosoporte|gausscontrol
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
 internoperationsremote|edp
+internratingsresearch|passfortamoodyscompany
 internsdet|remoteok
 jovenprofesionaltrainee|sacyr
 juniordataengineer|remoteok
@@ -1366,6 +1375,7 @@ lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
 mantenimientotecnico|carlsjr
 marketingmesespracticantetrade|mondelzinternational
+marketingpracticavopero|cencosud
 negociospracticanteprocesos|nttdata
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum

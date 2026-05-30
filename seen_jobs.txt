@@ -34,6 +34,7 @@
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
+5x2falabellafullhrsjornadapuenterotativoseguridadtimetrainee|falabella
 5x2falabellahrsindependenciamjtseguridadtrainee|falabella
 6960analistacod|rqingeniera
 719analistadatosjuniorley|acl
@@ -197,6 +198,7 @@ analistacontrolgestionjunior|isapreconsalud
 analistacontrolgestionsistemas|agencynetwork
 analistacontrolgestionti|hitss
 analistacontrolgestionti|inge
+analistacoordinaciontens|layner
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
 analistacuentaspagar|grupofalabella
@@ -222,6 +224,7 @@ analistaeventos|johnsonjohnsoninnovativemedicine
 analistaeventos|mygwork
 analistafacturacion|chiletrabajos
 analistafacturacion|soho
+analistafalabellagestionrealsegurostiempo|bancofalabella
 analistafijarenta|bancainversioneswealthmanagement
 analistafinanciamiento|blanco
 analistafinancierasoperaciones|ripley
@@ -408,10 +411,12 @@ backendengineersoftware|xepelin
 bancarioingenierosectorsre|na
 bigdataengineer|remoteok
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
+bpadesarrolladorpracticaprofesional|backspace
 brazildevelopmentengineersoftwaretest|remoteok
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
+businessengineerexperiencesoftware|codesignal
 cabanasmontanaspracticaturismovalle|chiletrabajos
 canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
@@ -588,6 +593,7 @@ engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
 engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendpaymentssoftware|kraken
 engineerfrontendremote|quikhirestaffing
+engineerfrontend|mobena
 engineerfulljuniormidsoftwarestack|remoteok
 engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
@@ -781,6 +787,7 @@ https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-441281597
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
@@ -978,6 +985,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-e
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
@@ -1029,6 +1037,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
+https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
@@ -1036,6 +1045,7 @@ https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-sei
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
+https://cl.linkedin.com/jobs/view/trainee-seguridad-jornada-full-time-44-hrs-5x2-rotativo-falabella-puente-at-falabella-4380601265
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-30-hrs-5x2-falabella-independencia-at-falabella-4388597070
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
@@ -1191,12 +1201,14 @@ https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/clo-virtual-fashion-devops-engineer
+https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1
 https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
 https://weworkremotely.com/remote-jobs/confidential-devops-engineer
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
+https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer

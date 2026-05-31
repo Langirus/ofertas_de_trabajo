@@ -49,6 +49,7 @@ activosalternativosanalista|banchileinversiones
 activosciberseguridadingenieroprotecciontecnologicos|bancode
 activosgestormantenimientotecnico|chiletrabajos
 admanalisisangolapoyocdcinformacionjornadamcamediatecnico|ciudaddelnio
+admindesigninternshipwebsite|mindfriendpro
 administativoasistentedental|chiletrabajos
 administracionalumnopractica|petricioindustrial
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
@@ -198,6 +199,7 @@ analistacontratosproveedores|grupofalabella
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionjunior|isapreconsalud
+analistacontrolgestionreportabilidad|pulsosalud
 analistacontrolgestionsistemas|agencynetwork
 analistacontrolgestionti|hitss
 analistacontrolgestionti|inge
@@ -371,6 +373,7 @@ asistentecarlinformaticajrjunior|computrabajo
 asistentecentrosentretenimientolidermarketingretail|validatetalentai
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
+asistentedigitalmarketing|sflconsulting
 asistentefalabellafullhrsmartimevinavisual|falabella
 asistentefalabellahrsvaldiviavisual|falabella
 asistentegarantiasmaipusucursalvespucio|salfarent
@@ -562,6 +565,7 @@ developmentengineerjuniorremotesoftwaretestwork|bairesdev
 developmentengineersoftware|na
 developmentjuniorrepresentativesales|ef
 devopsengineerjuniorremoto|vermontsolutions
+devopsengineerjunior|systabuildsoftwaregroup
 devopsengineerlevelmidoptimization|remoteok
 devopsengineerremote|hirefeed
 devopsengineertools|na
@@ -648,6 +652,7 @@ engineersecurity|audienceview
 engineersecurity|remoteok
 engineersoftware|na
 engineersoftware|remoteok
+engineersoftware|stickermule
 engineersoftware|xepelin
 engineersolutions|na
 engineersolutions|remoteok
@@ -667,6 +672,7 @@ fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 geotecnicomonitoreosupervisor|chiletrabajos
+gestioningenierotecnica|empresaconfidencial
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
@@ -828,6 +834,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-44120
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
+https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
@@ -916,6 +923,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-en-prevenci%C3%B3n-de-riesgos-santiago-at-plaenge-chile-4417668496
+https://cl.linkedin.com/jobs/view/asistente-marketing-digital-at-sfl-consulting-limitada-4421626981
 https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
 https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
@@ -950,6 +958,7 @@ https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
@@ -1229,12 +1238,15 @@ https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
+https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
+https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
+https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d

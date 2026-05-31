@@ -105,6 +105,7 @@ aiautomationengineer|na
 aiautomationengineer|wdgroup
 aichiefengineer|epamsystems
 aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
+aicontenteditorjuniorperformanceremotevideo|octo360
 aicontratoengineerindefinido|tataconsultancyservices
 aicostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aidatadataengineerplatformqualityworkflows|na
@@ -393,6 +394,7 @@ automationengineerqa|na
 automatizacionpracticaprocesosprofesional|volta
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
+auxiliarhrsparttecnicotime|chiletrabajos
 auxiliarremotosoporte|energyza
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
@@ -1076,6 +1078,7 @@ https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-a
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
+https://co.linkedin.com/jobs/view/junior-video-editor-ai-performance-content-%E2%80%94-remote-at-octo360-4418389422
 https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417817037
 https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
@@ -1306,6 +1309,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
+https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farmacia-maipu-3844418
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672

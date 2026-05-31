@@ -49,6 +49,7 @@ activosalternativosanalista|banchileinversiones
 activosciberseguridadingenieroprotecciontecnologicos|bancode
 activosgestormantenimientotecnico|chiletrabajos
 admanalisisangolapoyocdcinformacionjornadamcamediatecnico|ciudaddelnio
+administativoasistentedental|chiletrabajos
 administracionalumnopractica|petricioindustrial
 administradorawscentrocontratoindefinidojuniorsantiago|computrabajo
 administradorawscontratoindefinidoinfraestructurajunior|computrabajo
@@ -149,6 +150,7 @@ analistaaprovisionamientomesesproyecto|chiletrabajos
 analistaarquitecturadatos|na
 analistaartificialautomatizacioninteligenciajunior|portal
 analistaartificialautomatizacioninteligencia|afpplanvital
+analistaasuntosejecutivolatamregulatorios|layk
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizaciondatos|na
 analistaautomatizaciondatos|randstad
@@ -423,6 +425,7 @@ canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
 cctvseguridadsistemastecnico|chiletrabajos
+cencoexperienciamallspracticaproductoprofesionalsubgerencia|cencosud
 centercostanerafalabellahrsseguridadtrainee|falabella
 centercostanerafalabellamjtseguridadtrainee|falabella
 centrodatostecnico|amazonwebservicesaws
@@ -476,6 +479,7 @@ consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
 consultoriapracticantestecnologia|deloitte
+contenidoscreaciondigitaldisenopracticaprofesional|marketingpeople
 contratoindefindiojuniorprovidenciasoportetecnico|portal
 controlgestioningeniero|chiletrabajos
 controlgestioninventariospracticaprofesional|copec
@@ -839,6 +843,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-441204
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
+https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
@@ -984,6 +989,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cenco
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
@@ -992,6 +998,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cm
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
@@ -1253,6 +1260,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-f
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
+https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738

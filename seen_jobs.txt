@@ -958,6 +958,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-44
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
+https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
@@ -1049,6 +1050,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
@@ -1411,6 +1413,7 @@ ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
+ingenieroserviciotecnico|accuvision
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoporte|gausscontrol
@@ -1438,6 +1441,7 @@ lidersoportetecnico|na
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
 mantenimientotecnico|carlsjr
+mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
 negociospracticanteprocesos|nttdata

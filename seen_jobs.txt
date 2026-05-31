@@ -420,6 +420,7 @@ brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 businessanalystdigitalanalyticsbi|na
 businessengineerexperiencesoftware|codesignal
+businessinternationalpartnerproduction|krcher
 cabanasmontanaspracticaturismovalle|chiletrabajos
 canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
@@ -920,6 +921,7 @@ https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accentur
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
+https://cl.linkedin.com/jobs/view/business-partner-in-m-w-d-international-production-at-k%C3%A4rcher-4418360627
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544

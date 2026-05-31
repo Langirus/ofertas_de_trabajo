@@ -376,6 +376,7 @@ asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentelogistica|chiletrabajos
 asistenteprevencionriesgossantiago|plaenge
+asistentetesoreria|ludipek
 asistenteti|computrabajo
 associatedeployedengineerforward|remoteok
 associateengineerremotesoftware|hirefeed
@@ -898,6 +899,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
+https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-ludipek-4418353551
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252

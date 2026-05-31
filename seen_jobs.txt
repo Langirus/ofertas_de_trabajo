@@ -646,6 +646,7 @@ engineersecurity|audienceview
 engineersecurity|remoteok
 engineersoftware|na
 engineersoftware|remoteok
+engineersoftware|xepelin
 engineersolutions|na
 engineersolutions|remoteok
 engineersremotesoftware|quikhirestaffing
@@ -956,6 +957,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
+https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
@@ -1044,6 +1046,7 @@ https://cl.linkedin.com/jobs/view/soporte-sap-n1-at-genesys-4417645740
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-4417980714
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
+https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
@@ -1405,6 +1408,7 @@ ingenierojuniortrabajos|portal
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromultidisciplina|ghd
 ingenieroprevencionriesgos|chiletrabajos
+ingenieroprocesos|apiuxtech
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
 ingenierosoftware|sercomed

@@ -75,6 +75,7 @@ administrativoasistente|fundacinbostoneduca
 administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
+adquisicionesanalista|empresaconfidencial
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpanalistaassociateoperaciones|afpcuprum
 afpassociateengineer|afpcuprum
@@ -294,6 +295,7 @@ analistaqasr|na
 analistaqa|na
 analistareasegurossiniestros|marshrisk
 analistarecaudacion|clnicasachssalud
+analistareclutamientoseleccion|arcoprime
 analistaremuneraciones|chiletrabajos
 analistaremuneraciones|smartcfo
 analistarepuestos|finning
@@ -385,6 +387,7 @@ asistentelogistica|chiletrabajos
 asistenteprevencionriesgossantiago|plaenge
 asistentetesoreria|ludipek
 asistenteti|computrabajo
+associatebusinessdevelopmentgrowthjuniorlatam|bingx
 associatedeployedengineerforward|remoteok
 associateengineerremotesoftware|hirefeed
 associateengineer|principal
@@ -778,6 +781,7 @@ https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-c
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
+https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
 https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
@@ -834,6 +838,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-falabella-4388376406
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-backoffice-de-riesgo-at-banco-falabella-4421289216
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
+https://cl.linkedin.com/jobs/view/analista-de-reclutamiento-y-selecci%C3%B3n-at-arcoprime-4421658206
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
@@ -1404,6 +1409,7 @@ https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-r
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
+https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100

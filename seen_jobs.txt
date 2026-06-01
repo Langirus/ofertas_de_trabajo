@@ -171,6 +171,7 @@ analistabackofficeproyectosriesgo|bancofalabella
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
+analistabatchservicio|computrabajo
 analistabeneficios|empresassb
 analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
@@ -289,6 +290,7 @@ analistaoperaciones|mailamericas
 analistaotec|unitedpipelinesystems
 analistaphpprogramadorweb|siigsa
 analistapossistemas|farmaciasahumada
+analistapracticasoportetecnico|grupofalabella
 analistapresupuestos|sefutec
 analistaprogramacion|experis
 analistaprogramadorsql|groupesii
@@ -364,6 +366,7 @@ applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 araucoasistentefalabellahrsmaipuvisual|falabella
 areabasedatospracticanteti|globaltalent
+areacencosudcontinuamejorapracticaproyectos|cencosud
 areapracticanteriesgo|capitalexpress
 argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
@@ -599,6 +602,7 @@ devopslidertecnicoweblogic|na
 devopsremototecnico|getronics
 devops|na
 digitaleseasynegociospractica|cencosud
+digitalmediatrainee|beiersdorf
 ediingenieroremotosoluciones|experienceitsolutions
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenieropractica|ciac
@@ -626,6 +630,7 @@ engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
 engineerfullstacksoftware|grupofalabella
+engineerfullstack|kibernum
 engineergenaisecurity|remoteok
 engineergenai|epamsystems
 engineergolangrailsrubysupport|equifax
@@ -714,6 +719,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista servicio batch-bancario-en-santiago-centro-AA639093ADE1B5C061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
@@ -972,10 +978,12 @@ https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-ch
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
+https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
+https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
@@ -1022,6 +1030,8 @@ https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
@@ -1365,6 +1375,7 @@ https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
+https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
@@ -1507,4 +1518,5 @@ qaproyecto3meses|na
 redestecnico|prontopaga
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 sapsoporte|genesys
+soportetecnicoti|chiletrabajos
 soporte|bechtelcorporation

@@ -182,6 +182,7 @@ analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
 analistacmdbjunior|ktihunter
 analistacobranzasoporte|bancofalabella
+analistacolinacontable|chiletrabajos
 analistacombustible|lavel
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
@@ -404,6 +405,7 @@ awsdataengineer|accenture
 awsdatosingeniero|na
 awsdevopsengineerjunior|softserve
 awsdevopsengineer|epamsystems
+awsdevopsingeniero|empresaconfidencial
 awsingenieroplataformas|na
 ayudamesasantiagosoporte|grupoavanza
 azuredevopsengineeriii|rackspace
@@ -969,6 +971,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-44
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
+https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
@@ -977,6 +980,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-44143621
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
+https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
@@ -1265,6 +1269,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-con
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
 https://www.chiletrabajos.cl/trabajo/alumno-en-practica-de-gastronomia-3842008
 https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
+https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
@@ -1427,6 +1432,7 @@ ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromultidisciplina|ghd
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech
+ingenieroprocesos|vigaflow
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
 ingenieroserviciotecnico|accuvision

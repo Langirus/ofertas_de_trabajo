@@ -60,6 +60,7 @@ administradorcontratoindefinidojuniorpresencialsistemas|portal
 administradorcontratoindefinidojuniorpresencialsistema|computrabajo
 administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
+administrativaareafacturacionpracticaprofesional|imagemaker
 administrativaasistente|chiletrabajos
 administrativeadministrativoasistenteassistant|fugro
 administrativeampentrylevelofficeoperationsprofessionalsupport|remoteok
@@ -194,6 +195,7 @@ analistacomunicacionescorporativas|mallplaza
 analistacondesestudiospresencial|smuunimarcm10alviysuper10
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
+analistaconsultorsistemas|mayroconsulting
 analistacontablecruzpalmillasanta|chiletrabajos
 analistacontableempresaindustrial|chiletrabajos
 analistacontable|chiletrabajos
@@ -545,6 +547,7 @@ desarrolladoriajuniorremoto|randstaddigitalespaa
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
+desarrolladorjuniornetremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
@@ -602,6 +605,7 @@ electricidadingenieropractica|ciac
 electricidadingenieroservicios|chiletrabajos
 electricidadingenierotecnico|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
+electricoingeniero|chiletrabajos
 electromecanicoferreterorubrosoportetecnico|chiletrabajos
 electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
@@ -621,8 +625,10 @@ engineerfulljuniormidsoftwarestack|remoteok
 engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
+engineerfullstacksoftware|grupofalabella
 engineergenaisecurity|remoteok
 engineergenai|epamsystems
+engineergolangrailsrubysupport|equifax
 engineergolangremotesoftware|turing
 engineergradinfrastructurenewproductionsoftware|remoteok
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
@@ -724,6 +730,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-d
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-monitorieo-junior-en-santiago-centro-A6D42AD79227CDC661373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-junior-modalidad-en-sitio-en-santiago-providencia-5F46F54DF59E1D3D61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-monitoreo-ti-en-santiago-providencia-6CC58DE6DD159C6461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tica-junior
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
@@ -951,6 +958,7 @@ https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
+https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
@@ -968,6 +976,7 @@ https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-pr
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
+https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
@@ -1023,6 +1032,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
@@ -1058,6 +1068,7 @@ https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4
 https://cl.linkedin.com/jobs/view/ratings-and-research-intern-at-passfort-a-moody-s-company-4418306472
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
+https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
@@ -1158,6 +1169,7 @@ https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
+https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4423222637
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
@@ -1330,6 +1342,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contra
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
 https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
@@ -1482,6 +1495,7 @@ mantenimientotecnico|carlsjr
 mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
+monitoreotecnicoti|computrabajo
 negociospracticanteprocesos|nttdata
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum

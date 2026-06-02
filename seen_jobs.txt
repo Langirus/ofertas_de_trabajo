@@ -41,6 +41,7 @@
 6960analistacod|rqingeniera
 719analistadatosjuniorley|acl
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
+8422ejecutivopersonastratrainee|santander
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
 abuseanalystdatafraudwaste|remoteok
 accessengineeridentitymanagementsoftware|remoteok
@@ -189,6 +190,7 @@ analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
 analistacmdbjunior|ktihunter
+analistacobolpagoprogramadorremotosistemastarjetas|profilesoftwareservices
 analistacobranzasoporte|bancofalabella
 analistacolinacontable|chiletrabajos
 analistacombustible|lavel
@@ -208,6 +210,7 @@ analistacontinuidadoperativasoporte|apiuxtech
 analistacontratosproveedores|grupofalabella
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
 analistacontrolgerenciagestiontecnica|johnsoncontrols
+analistacontrolgestionjuniorregional|nubox
 analistacontrolgestionjunior|isapreconsalud
 analistacontrolgestionreportabilidad|pulsosalud
 analistacontrolgestionsistemas|agencynetwork
@@ -326,6 +329,7 @@ analiticaanalystbusinessdigitaljuniorproducto|computrabajo
 analystanalyticsbusinessdigital|na
 analystappsdevintmdjavanetprogrammer|citi
 analystassociatechiletrabajosjuniornivelprogrammer|portal
+analystassociateproduct|principal
 analystbancabusinessingenieronextgenteletrabajo|ingenierojob
 analystbusinessit|gmfinancial
 analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
@@ -358,6 +362,7 @@ anexoarturoaseoauxiliar|chiletrabajos
 angularingenieronetsoftware|ithuntersinternational
 anoaplicacionesdesarrolladorexperienciajuniormenosweb|portal
 antofagastachiletrabajosgordaitjuniorsierra|portal
+antofagastachiletrabajositjunior|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 antofagastasoportetecnicoterreno|bctecnologa
 anywhereengineermexicopythonremote|capgeminiengineering
@@ -463,6 +468,7 @@ chileformacionpracticasprogramatalento|dhlglobalforwarding
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
+chiletrabajosdesarrolladoringenierojuniorsoftware|portal
 chiletrabajosdesarrolladorjuniorsantiago|portal
 chiletrabajosdevelopergrupohuntingjuniorsantiago|portal
 chiletrabajosinformaticaingenierojuniorprogramador|portal
@@ -557,6 +563,7 @@ desarrolladorjuniornetremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
+desarrolladorpracticante|geolize
 desarrollofullpracticantestack|chiletrabajos
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
@@ -583,6 +590,7 @@ developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
 developmentengineersoftware|na
 developmentjuniorrepresentativesales|ef
+devopsengineerfocusiiitransformation|sprypoint
 devopsengineerjuniorremoto|vermontsolutions
 devopsengineerjunior|systabuildsoftwaregroup
 devopsengineerlevelmidoptimization|remoteok
@@ -918,6 +926,7 @@ https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
 https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-litio-4420441889
+https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
@@ -961,6 +970,7 @@ https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
+https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
@@ -1070,6 +1080,7 @@ https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airl
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
+https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
@@ -1115,6 +1126,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s
 https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
+https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
@@ -1145,6 +1157,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
+https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
@@ -1291,6 +1304,7 @@ https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
+https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
@@ -1366,7 +1380,9 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
+https://www.chiletrabajos.cl/trabajo/ingeniero-junior-desarrollador-de-software-3620077
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
+https://www.chiletrabajos.cl/trabajo/it-junior-3839667
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272

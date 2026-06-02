@@ -24,6 +24,7 @@
 2026cloudindeedjuniormayonuevostrabajos|portal
 2026estrategiainiciajuniomonitoreopracticaprecios|samsungelectronics
 2026indeedinformaticajuniormayonuevostrabajos|portal
+2026indeedinformaticojuniormayonuevosremototrabajos|portal
 2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
@@ -46,6 +47,7 @@ accessengineeridentitymanagementsoftware|remoteok
 accessengineeridentitysoftware|remoteok
 accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
 accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
+accountingtrainee|btgpactual
 activosalternativosanalista|banchileinversiones
 activosciberseguridadingenieroprotecciontecnologicos|bancode
 activosgestormantenimientotecnico|chiletrabajos
@@ -232,6 +234,7 @@ analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
 analistaemision|empresaconfidencial
+analistaerpinteligenciajuniornegociossoporte|importadorayexportadoraintermex
 analistaeventos|deloitte
 analistaeventos|johnsonjohnsoninnovativemedicine
 analistaeventos|mygwork
@@ -753,6 +756,7 @@ https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
+https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
@@ -771,6 +775,7 @@ https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg8
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
+https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
 https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
 https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petricio-industrial-s-a-4418906036
@@ -895,6 +900,7 @@ https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
+https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662

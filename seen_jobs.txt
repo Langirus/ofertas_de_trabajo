@@ -45,6 +45,7 @@
 8422ejecutivopersonastratrainee|santander
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
 abuseanalystdatafraudwaste|remoteok
+accesosanalistacontrol|tataconsultancyservices
 accessengineeridentitymanagementsoftware|remoteok
 accessengineeridentitysoftware|remoteok
 accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
@@ -182,6 +183,7 @@ analistabatchservicio|computrabajo
 analistabeneficios|empresassb
 analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
+analistacalidadcontrol|chiletrabajos
 analistacalidadgestion|chiletrabajos
 analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacapitaltrabajo|abbott
@@ -210,6 +212,7 @@ analistacontableempresaindustrial|chiletrabajos
 analistacontable|chiletrabajos
 analistacontable|saam
 analistacontinuacontrolgestionmejora|abbott
+analistacontinuidadjunioroperacional|prontopaga
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontratosproveedores|grupofalabella
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
@@ -241,6 +244,7 @@ analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
 analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
 analistaemision|empresaconfidencial
+analistaentrenamientonatalpostprereemplazo|enaex
 analistaerpinteligenciajuniornegociossoporte|importadorayexportadoraintermex
 analistaerpinteligenciajuniornegociossoporte|portal
 analistaeventos|deloitte
@@ -307,6 +311,7 @@ analistaplanta|cocacolaandina
 analistapossistemas|farmaciasahumada
 analistapracticasoportetecnico|grupofalabella
 analistapresupuestos|sefutec
+analistaprocesosti|experis
 analistaprogramacion|experis
 analistaprogramadorsql|groupesii
 analistaproveedoresreempalzo|constructoragonzlezgarca
@@ -847,6 +852,8 @@ https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-adua
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
+https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
+https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-mejora-continua-at-abbott-4417403608
 https://cl.linkedin.com/jobs/view/analista-de-control-gestion-junior-at-isapre-consalud-4420993063
@@ -892,6 +899,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraest
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-planta-at-coca-cola-andina-4422452897
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
+https://cl.linkedin.com/jobs/view/analista-de-procesos-de-ti-at-experis-chile-4422625123
 https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencosud-s-a-4420239488
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
@@ -1083,6 +1091,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
+https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
@@ -1136,6 +1145,7 @@ https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/ratings-and-research-intern-at-passfort-a-moody-s-company-4418306472
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
+https://cl.linkedin.com/jobs/view/reemplazo-pre-y-post-natal-analista-entrenamiento-at-enaex-4424001302
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
 https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
@@ -1161,6 +1171,7 @@ https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-en-terreno-at-tivit-latam-4419632304
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
@@ -1375,6 +1386,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
+https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
@@ -1445,6 +1457,7 @@ https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
+https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
@@ -1567,6 +1580,7 @@ juniormidaivideoartistfullremotemexico|everai
 juniormidaivideoartistfullremotespain|everai
 juniormonitoreotecnico|nttdata
 juniormonitorieooperador|computrabajo
+juniorpmoti|biometraaplicada
 juniorqa|na
 juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing
@@ -1592,5 +1606,7 @@ qaproyecto3meses|na
 redestecnico|prontopaga
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 sapsoporte|genesys
+soportetecnicoterreno|tivit
 soportetecnicoti|chiletrabajos
+soportetecnicousuario|chiletrabajos
 soporte|bechtelcorporation

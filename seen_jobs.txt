@@ -27,6 +27,7 @@
 2026indeedinformaticojuniormayonuevosremototrabajos|portal
 2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
+2026informaticaingenierojuniormayonuevostrabajos|portal
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 25hrsaraucoasistenteclienteikeaparquerotativoservicio|ikea
 27408analystdataproduct|cit
@@ -245,6 +246,7 @@ analistaerpinteligenciajuniornegociossoporte|portal
 analistaeventos|deloitte
 analistaeventos|johnsonjohnsoninnovativemedicine
 analistaeventos|mygwork
+analistaexcelenciaoperacional|clnicasachssalud
 analistaexterno|s3groups
 analistafacturacion|chiletrabajos
 analistafacturacion|soho
@@ -301,6 +303,7 @@ analistaoperaciones|banchileinversiones
 analistaoperaciones|mailamericas
 analistaotec|unitedpipelinesystems
 analistaphpprogramadorweb|siigsa
+analistaplanta|cocacolaandina
 analistapossistemas|farmaciasahumada
 analistapracticasoportetecnico|grupofalabella
 analistapresupuestos|sefutec
@@ -476,6 +479,7 @@ chaindatapracticaprofesionalstrategysupplytrainee|sodimac
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chileencuentrainformaticojuniornuevasofertassantiago|portal
+chileengineerjuniormobile|sezzle
 chileengineersoftware|sezzle
 chileformacionpracticasprogramatalento|dhlglobalforwarding
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
@@ -498,6 +502,7 @@ ciberseguridadgrcingenierojunior|computrabajo
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
 ciberseguridadjunior|computrabajo
+ciberseguridadpractica|ripley
 claseaelectricoingeniero|chiletrabajos
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
@@ -532,6 +537,7 @@ controlingenieroplanificacion|chiletrabajos
 controlingenieroprogramacionrysfa|cydingeniera
 controlingenieroproyecto|ghd
 coreengineeriosproductsoftware|speechify
+corporativospracticariesgos|airlines
 cosasinternetpracticas|bwhale
 coyhaiqueredestecnico|gocar
 customerremotosoportespecialistsupporttecnico|jbtmarel
@@ -586,6 +592,8 @@ desarrolloingeniero|actis
 desarrolloingeniero|larrainvial
 desarrolloingeniero|na
 desarrolloplanificacionpracticante|sodimac
+desarrollopracticaprofesionalsoftware|forcast
+desarrollopracticasistemastransversales|ripley
 designinternmarketing|openx
 developerendfrontjuniorreactremote|compassuol
 developerengineeringplatformprogramatrainee|na
@@ -784,6 +792,7 @@ https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b5
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
+https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=59afeb7fb4c8d132
@@ -854,6 +863,7 @@ https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidenci
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
+https://cl.linkedin.com/jobs/view/analista-de-excelencia-operacional-at-cl%C3%ADnicas-achs-salud-4419618418
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
@@ -880,6 +890,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-441063
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
+https://cl.linkedin.com/jobs/view/analista-de-planta-at-coca-cola-andina-4422452897
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
 https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencosud-s-a-4420239488
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
@@ -1064,6 +1075,7 @@ https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-441
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
+https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
@@ -1073,9 +1085,11 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-de-base-de-datos-at-detacoop-cooperativa-de-ahorro-y-cr%C3%A9dito-4422390104
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-transversales-at-ripley-chile-4422429216
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
@@ -1086,6 +1100,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-a
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
@@ -1097,6 +1112,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-contro
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-riesgos-corporativos-at-latam-airlines-4419612419
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509

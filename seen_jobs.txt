@@ -176,6 +176,7 @@ analistabackofficeproyectosriesgo|bancofalabella
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
+analistabatchservicio|avostech
 analistabatchservicio|computrabajo
 analistabeneficios|empresassb
 analistabiinformticoa|empresaconfidencial
@@ -240,9 +241,11 @@ analistadinerolavadoprevencion|bancofalabella
 analistadineromesa|bancode
 analistaemision|empresaconfidencial
 analistaerpinteligenciajuniornegociossoporte|importadorayexportadoraintermex
+analistaerpinteligenciajuniornegociossoporte|portal
 analistaeventos|deloitte
 analistaeventos|johnsonjohnsoninnovativemedicine
 analistaeventos|mygwork
+analistaexterno|s3groups
 analistafacturacion|chiletrabajos
 analistafacturacion|soho
 analistafalabellagestionrealsegurostiempo|bancofalabella
@@ -281,6 +284,7 @@ analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
 analistamejorasparticipesunidad|banchileinversiones
 analistamejoras|banchileinversiones
+analistametrologia|eurofarma
 analistamineriatecnico|sandvik
 analistamlopsremoto|vermontsolutions
 analistamonitoreonocoperador|na
@@ -333,6 +337,7 @@ analystappsdevintmdjavanetprogrammer|citi
 analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystassociateproduct|principal
 analystbancabusinessingenieronextgenteletrabajo|ingenierojob
+analystbusinessdataremote|martinelawpllc
 analystbusinessit|gmfinancial
 analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
 analystcommerceinglesqa|na
@@ -435,6 +440,7 @@ awsdevopsingeniero|empresaconfidencial
 awsingenieroplataformas|na
 ayudamesasantiagosoporte|grupoavanza
 azuredevopsengineeriii|rackspace
+backbootdesarrolladorendjavaspring|na
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
 backendbrazildataengineerengineerplatformremote|georgiateksystems
@@ -808,6 +814,7 @@ https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegast
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-administraci%C3%B3n-at-petricio-industrial-s-a-4418698080
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
+https://cl.linkedin.com/jobs/view/analista%C2%A0servicio%C2%A0batch-at-avos-tech-chile-4422392070
 https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
 https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cuprum-4390624992
@@ -861,6 +868,7 @@ https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
 https://cl.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-erp-contable-at-sonda-4418937258
+https://cl.linkedin.com/jobs/view/analista-de-metrolog%C3%ADa-at-eurofarma-4422424980
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-services-4414209494
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-de-alertas-100%25-remoto-at-inpact-tecnolog%C3%ADas-y-procesos-spa-4417249924
@@ -908,6 +916,7 @@ https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-44099427
 https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
+https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
@@ -1040,6 +1049,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
+https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
@@ -1210,6 +1220,7 @@ https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
+https://mx.linkedin.com/jobs/view/data-business-analyst-remote-at-martine-law-pllc-criminal-defense-and-family-attorneys-4423960501
 https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
@@ -1355,6 +1366,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaci
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
+https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/aprendiz-de-escariador-3845421
@@ -1449,6 +1461,7 @@ https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
+https://www.getonbrd.com/jobs/desarrollador-backend-java-spring-boot-3it-santiago-019a
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
@@ -1502,6 +1515,7 @@ https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-
 iaingenieroinnovacion|movizzon
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
+informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal
 informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano

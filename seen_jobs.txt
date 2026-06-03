@@ -76,6 +76,7 @@ administrativoadquisicionesantofagastaasistente|chiletrabajos
 administrativoareaasistentecapacitacion|freeportmcmoran
 administrativoasistenteatencionorientacion|chiletrabajos
 administrativoasistentefreelanceproyectos|chiletrabajos
+administrativoasistenteoperacionalseguridadvespertino|deloitte
 administrativoasistenteoperaciones|cortevaagriscience
 administrativoasistentetesla|peoplematch
 administrativoasistente|casanovagroup
@@ -388,6 +389,7 @@ antofagastachiletrabajosgordaitjuniorsierra|portal
 antofagastachiletrabajositjunior|portal
 antofagastahibridaingenierojuniormodalidadti|computrabajo
 antofagastasoportetecnicoterreno|bctecnologa
+anywhereautomationautomationdeveloperjunior|accenture
 anywhereengineermexicopythonremote|capgeminiengineering
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
@@ -707,6 +709,7 @@ engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|hirefeed
 engineerjuniorremotesoftware|quikhirestaffing
 engineerkualalumpuroperations|remoteok
+engineerlearningmachineqa|remoteok
 engineerlearningmachineremote|hirefeed
 engineerlearningmachine|adipa
 engineerlearningmachine|remoteok
@@ -1007,6 +1010,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chi
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
+https://cl.linkedin.com/jobs/view/asistente-administrativo-vespertino-de-seguridad-operacional-at-deloitte-4422996037
 https://cl.linkedin.com/jobs/view/asistente-atenci%C3%B3n-banca-personal-%E2%80%93-casa-matriz-santiago-at-banco-de-chile-4411790106
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
@@ -1032,6 +1036,7 @@ https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%AD
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
+https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
@@ -1355,6 +1360,7 @@ https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-11301
 https://remoteOK.com/remote-jobs/remote-junior-data-engineer-satelligence-1129831
 https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437
 https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-radformation-1131082
+https://remoteOK.com/remote-jobs/remote-machine-learning-qa-engineer-derq-1132718
 https://remoteOK.com/remote-jobs/remote-mathematical-analyst-crossing-hurdles-1131858
 https://remoteOK.com/remote-jobs/remote-mid-level-devops-engineer-ci-cd-optimization-ubiminds-1130430
 https://remoteOK.com/remote-jobs/remote-operations-engineer-kuala-lumpur-xsolla-1131075

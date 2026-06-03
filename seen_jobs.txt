@@ -118,6 +118,7 @@ aiautomationengineer|wdgroup
 aichiefengineerhpcinfrastructurenetwork|epamsystems
 aichiefengineer|epamsystems
 aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
+aicomputerengineerremotevisionwork|bairesdev
 aicontenteditorjuniorperformanceremotevideo|octo360
 aicontratoengineerindefinido|tataconsultancyservices
 aicostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
@@ -125,6 +126,7 @@ aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
 aiengineerfreelanceremote|hirefeed
 aiengineerfullstack|reveleer
+aiengineerplatformremotework|bairesdev
 aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
@@ -190,9 +192,11 @@ analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
 analistacalidadcontrol|chiletrabajos
 analistacalidadgestion|chiletrabajos
+analistacanalesdigitalesjunior|afpplanvital
 analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
+analistacasagestionmatrizredsaludtiempo|redsaludprovidencia
 analistacencomallsmantenimiento|cencosud
 analistacencomallso2cprocesos|cencosud
 analistacertificaciones|agenciadeaduanasstein
@@ -392,6 +396,7 @@ antofagastasoportetecnicoterreno|bctecnologa
 anywhereautomationautomationdeveloperjunior|accenture
 anywhereengineermexicopythonremote|capgeminiengineering
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
+aplicadaiaingeniero|ithuntersinternational
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationbackendengineermexicoremote|yelp
 applicationengineerremotespainsupport|hbxgroup
@@ -431,6 +436,7 @@ asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentelogistica|chiletrabajos
 asistenteprevencionriesgossantiago|plaenge
+asistentetecnicoti|computrabajo
 asistentetesoreria|ludipek
 asistenteti|computrabajo
 associatebusinessdevelopmentgrowthjuniorlatam|bingx
@@ -579,6 +585,7 @@ dataengineerpracticante|grupofalabella
 dataengineerremotespain|lifebit
 dataengineerremote|greencodesoftware
 dataengineerremote|hirefeed
+dataengineer|ita
 dataengineer|jobgether
 dataengineer|na
 dataengineer|nttdataeurope
@@ -716,6 +723,7 @@ engineerlearningmachine|remoteok
 engineerlevelmidsoftware|na
 engineermarketingmobilesoftware|sezzle
 engineermiddlerubysoftware|softserve
+engineermidsoftware|na
 engineerplatformsoftware|remoteok
 engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
@@ -782,6 +790,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista servicio batch-bancario-en-santiago-centro-AA639093ADE1B5C061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-099CCA7EA560B33C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
@@ -843,6 +852,7 @@ https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-a
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
+https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-administraci%C3%B3n-at-petricio-industrial-s-a-4418698080
@@ -962,12 +972,14 @@ https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
+https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-tiempo-redsalud-casa-matriz-at-redsalud-providencia-4423031331
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-hr-digital-4418972190
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
+https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
 https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
@@ -1051,6 +1063,7 @@ https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
+https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
@@ -1082,6 +1095,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-441828
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
+https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
@@ -1100,6 +1114,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
+https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02-at-cyd-ingenier%C3%ADa-4413121930
@@ -1239,6 +1254,7 @@ https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4
 https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
+https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-work-at-bairesdev-4424255475
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
@@ -1559,6 +1575,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remot
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
+https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
 https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
@@ -1586,6 +1603,7 @@ https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-
 iaingenieroinnovacion|movizzon
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
+informaticaingeniero|mcn
 informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal
 informaticapracticasoporte|voxa

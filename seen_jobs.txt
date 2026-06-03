@@ -151,6 +151,7 @@ americadjangoengineerlatinpythonremotesoftware|fullstack
 americaengineergolanglatinlevelmidremote|fullstack
 americaengineerlatinphpremotesoftware|fullstack
 americaengineerlatinpythonremote|fullstack
+americaengineerlatinreactremote|bluelight
 americasengineerintegrationnodepythonremotetypescript|cdtalentadvisoryacademy
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analisisanalistaestategico|cencosud
@@ -412,6 +413,7 @@ asistentecentrosentretenimientolidermarketingretail|validatetalentai
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentedigitalmarketing|sflconsulting
+asistenteejecutivo|tecpromin
 asistentefalabellafullhrsmartimevinavisual|falabella
 asistentefalabellahrsvaldiviavisual|falabella
 asistentegarantiasmaipusucursalvespucio|salfarent
@@ -426,6 +428,7 @@ associatebusinessdevelopmentgrowthjuniorlatam|bingx
 associatedeployedengineerforward|remoteok
 associateengineerremotesoftware|hirefeed
 associateengineer|principal
+astropartnerstatictecnico|na
 australiaengineerfieldservice|remoteok
 automationengineergtm|remoteok
 automationengineerjavaqa|na
@@ -1003,6 +1006,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
+https://cl.linkedin.com/jobs/view/asistente-ejecutivo-a-at-tecpromin-s-a-4419643322
 https://cl.linkedin.com/jobs/view/asistente-en-prevenci%C3%B3n-de-riesgos-santiago-at-plaenge-chile-4417668496
 https://cl.linkedin.com/jobs/view/asistente-marketing-digital-at-sfl-consulting-limitada-4421626981
 https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
@@ -1233,6 +1237,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowma
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
+https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
@@ -1511,6 +1516,7 @@ https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/lider-tecnico-devops-weblogic-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/microsoft-power-platform-automation-engineer-dartmoor-analytics-remote
 https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
+https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago

@@ -163,6 +163,7 @@ analistaaprovisionamientomesesproyecto|chiletrabajos
 analistaarquitecturadatos|na
 analistaartificialautomatizacioninteligenciajunior|portal
 analistaartificialautomatizacioninteligencia|afpplanvital
+analistaartificialinteligencia|principal
 analistaasistentenegocios|gnfworldwide
 analistaasuntosejecutivolatamregulatorios|layk
 analistaautomatizacionchiletrabajosdatosjunior|portal
@@ -372,6 +373,7 @@ analystpracticaproduct|principal
 analystqa|na
 analystqualityremotesoftware|hired
 analystquantitative|jobgether
+analystsoftwaresupporttechnical|murex
 analyticsdatadataengineerengineertrainee|na
 analyticsdataengineeringpracticante|falabella
 analyticsengineer|remoteok
@@ -463,6 +465,7 @@ backendengineersoftware|haulmer
 backendengineersoftware|xepelin
 bancarioingenierosectorsre|na
 basedatosdesarrolladorpractica|detacoopcooperativadeahorroycrdito
+bicencosudengineermedia|cencosud
 bigdataengineer|remoteok
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
 bpadesarrolladorpracticaprofesional|backspace
@@ -558,7 +561,9 @@ dataengineergovernance|remoteok
 dataengineeringintern|remoteok
 dataengineerjuniorremotework|bairesdev
 dataengineerjunior|yellowipe
+dataengineerlooker|accenture
 dataengineerocipythonspark|na
+dataengineeropentelemetry|accenture
 dataengineerplatformremotostreaming|irium
 dataengineerplatformrevenue|remoteok
 dataengineerpracticante|grupofalabella
@@ -883,6 +888,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-ti-at-empresa-confidencial-4420430389
+https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-chile-4424055869
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
@@ -1019,6 +1025,7 @@ https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accentur
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
+https://cl.linkedin.com/jobs/view/bi-engineer-cencosud-media-at-cencosud-s-a-4416959794
 https://cl.linkedin.com/jobs/view/business-partner-in-m-w-d-international-production-at-k%C3%A4rcher-4418360627
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
@@ -1033,6 +1040,8 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
+https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
+https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
@@ -1162,6 +1171,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
+https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811

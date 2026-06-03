@@ -8,6 +8,7 @@
 100coderedatadatabricksengineerproyectoremoto|itpartner
 100enfoqueengineerfrontendreactremoto|bcncgroup
 100engineerfullstackiajavareactteletrabajo|knowmadmood
+100engineerindefinidoremotosoftware|experis
 100engineerjavaremotosoftware|knowmadmood
 100ingenierojavasoftwareteletrabajo|knowmadmood
 1092ingenierorefsoftware|acl
@@ -28,6 +29,7 @@
 2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 2026informaticaingenierojuniormayonuevostrabajos|portal
+2026practicasprogramasegundosemestre|bancofalabella
 20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
 25hrsaraucoasistenteclienteikeaparquerotativoservicio|ikea
 27408analystdataproduct|cit
@@ -284,6 +286,7 @@ analistainformacionseguridad|femsasalud
 analistainfraestructurajronsite|ecosistemas
 analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
 analistainfraestructurati|empresaconfidencial
+analistainnovaciontecnologica|netsusti
 analistainteligencianegocios|sercomed
 analistajuniorpmo|computrabajo
 analistajuniorqasantiago|portal
@@ -402,6 +405,7 @@ artificialingenierointeligencia|negociosia
 artificialinteligenciapracticante|nttdata
 aseoauxiliarcocina|chiletrabajos
 aseoauxiliares|chiletrabajos
+aseoauxiliarhrsmaipu|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asesorgruasmaritimassantiagotecnico|liebherrmining
 asistemteinformaticosoporte|innovex
@@ -412,6 +416,7 @@ asistentecalidadchileinfraestructuraingenieriasacyrtalagante|sacyr
 asistentecapacitacion|ey
 asistentecarlinformaticajrjunior|computrabajo
 asistentecentrosentretenimientolidermarketingretail|validatetalentai
+asistentecomunicacionesmarketing|rematesmadrid
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentedigitalmarketing|sflconsulting
@@ -444,6 +449,7 @@ auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
 auxiliarhrsparttecnicotime|chiletrabajos
 auxiliarremotosoporte|energyza
+awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
 awsdatosingeniero|na
@@ -517,6 +523,7 @@ ciberseguridadpractica|ripley
 claseaelectricoingeniero|chiletrabajos
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
+clouddevopsengineermlopssre|na
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
@@ -618,6 +625,7 @@ developerinternalsoftware|pluttoycs22
 developerinternsoftware|remoteok
 developerjavajuniorremotework|indistaffingservices
 developerjavascriptjuniorremotework|bairesdev
+developerjuniornoderemotework|indistaffingservices
 developerjuniorpythonremotework|indistaffingservices
 developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
@@ -703,6 +711,7 @@ engineerlearningmachineremote|hirefeed
 engineerlearningmachine|adipa
 engineerlearningmachine|remoteok
 engineerlevelmidsoftware|na
+engineermarketingmobilesoftware|sezzle
 engineermiddlerubysoftware|softserve
 engineerplatformsoftware|remoteok
 engineerpythonremotesoftware|hirefeed
@@ -888,6 +897,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-ti-at-empresa-confidencial-4420430389
+https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-tecnol%C3%B3gica-at-netsus-ti-4420118177
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-chile-4424055869
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
@@ -1006,6 +1016,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
+https://cl.linkedin.com/jobs/view/asistente-de-marketing-y-comunicaciones-at-remates-madrid-s-a-4420118527
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-ludipek-4418353551
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
@@ -1149,9 +1160,11 @@ https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
+https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
+https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511
@@ -1169,6 +1182,7 @@ https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
+https://cl.linkedin.com/jobs/view/software-engineer-ii-marketing-mobile-at-sezzle-4404528205
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
@@ -1236,6 +1250,7 @@ https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
+https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
@@ -1244,6 +1259,7 @@ https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-caree
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
+https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
@@ -1382,6 +1398,7 @@ https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-e
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
+https://www.chiletrabajos.cl/encuentra-un-empleo/60?2=junior&13=1022&f=2
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+junior
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
@@ -1424,6 +1441,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
@@ -1510,6 +1528,7 @@ https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
+https://www.getonbrd.com/jobs/devops-mlops-engineer-cloud-sre-sidis-ai-remote
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
 https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a444
@@ -1554,6 +1573,7 @@ https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4423884631
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
+https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4422952637
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
@@ -1591,6 +1611,7 @@ jovenprofesionaltrainee|sacyr
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo
+juniormetropolitanaregionsantiagosantiagotrabajos|portal
 juniormidaivideoartistfullremotecostarica|everai
 juniormidaivideoartistfullremotemexico|everai
 juniormidaivideoartistfullremotespain|everai
@@ -1612,6 +1633,7 @@ marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
 monitoreotecnicoti|computrabajo
 negociospracticanteprocesos|nttdata
+practicanteseguridadtecnologica|segurosfalabella
 practicaprevencionprofesionalriesgos|chiletrabajos
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 prevencionriesgostecnicotrainee|chiletrabajos

@@ -235,6 +235,7 @@ analistaconocimientofinancierossistemassistemas|sonda
 analistaconsultorsistemas|mayroconsulting
 analistacontablecruzpalmillasanta|chiletrabajos
 analistacontableempresaindustrial|chiletrabajos
+analistacontablefijoplazo|saam
 analistacontable|chiletrabajos
 analistacontable|saam
 analistacontinuacontrolgestionmejora|abbott
@@ -704,9 +705,11 @@ electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
 empleosinformaticoingeniero|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
+encuentrainformaticaingenieronuevasofertaspostulatepractica|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrainformaticanuevasofertaspracticaprofesional|portal
 encuentrainformaticanuevasofertaspracticasprofesional|portal
+encuentrainformaticoingenieronuevasofertassantiago|portal
 encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineengineerjunioropenremotesoftware|crossinghurdles
@@ -855,12 +858,14 @@ https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
+https://cl.indeed.com/q-ingeniero-a-inform%C3%A1tico-a-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=59afeb7fb4c8d132
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
+https://cl.indeed.com/q-pr%C3%A1ctica-ingeniero-inform%C3%A1tica-empleos.html?vjk=575fd4e26989d74c
 https://cl.indeed.com/q-pr%C3%A1ctica-profesional-inform%C3%A1tica-empleos.html?vjk=eea6aa121eb2023c
 https://cl.indeed.com/q-pr%C3%A1cticas-informatica-empleos.html?vjk=fa08ae24f10cbfd6
 https://cl.indeed.com/q-pr%C3%A1cticas-profesional-inform%C3%A1tica-empleos.html?vjk=652cc27229e840eb
@@ -903,6 +908,7 @@ https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-44155810
 https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%C3%ADa-4417660505
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
+https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950

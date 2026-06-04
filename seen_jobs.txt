@@ -48,6 +48,7 @@
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 8422ejecutivopersonastratrainee|santander
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
+abiertaareasconvocatoriasoportetalento|atkinsralis
 abuseanalystdatafraudwaste|remoteok
 accesosanalistacontrol|tataconsultancyservices
 accessengineeridentitymanagementsoftware|remoteok
@@ -71,6 +72,7 @@ administradorcontratoindefinidojuniorsistemasti|portal
 administradorjuniorsistemas|computrabajo
 administrativaareafacturacionpracticaprofesional|imagemaker
 administrativaasistente|chiletrabajos
+administrativapracticavespucio|salfarent
 administrativeadministrativoasistenteassistant|fugro
 administrativeampentrylevelofficeoperationsprofessionalsupport|remoteok
 administrativeentrylevelprofessional|remoteok
@@ -658,6 +660,7 @@ devopsengineertools|na
 devopsengineer|clovirtualfashion
 devopsengineer|confidential
 devopsengineer|directsourcingsolutions
+devopsengineer|epamsystems
 devopsengineer|europeandynamics
 devopsengineer|hrtx
 devopsengineer|interoplabs
@@ -1075,6 +1078,7 @@ https://cl.linkedin.com/jobs/view/chief-hpc-network-engineer-ai-infrastructure-a
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
+https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
@@ -1091,6 +1095,7 @@ https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-44172590
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
+https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
@@ -1153,6 +1158,7 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579

@@ -1,5 +1,7 @@
 000100aiengineerfulllearnwithremotestackusdyear|crossover
 100adfargentinaazuredatadataengineerfactoryremoto|talentconnect
+100agentesautomatizacioniaingenieroremoto|muruna
+100aiengineerremoto|muruna
 100alertasanalistamonitoreoremoto|inpacttecnologasyprocesos
 100analistachiletrabajosjuniorqaremototesting|portal
 100analystcetjuniormonitoringremoterisktimezone|bitfinex
@@ -232,6 +234,7 @@ analistacontrolgestionreportabilidad|pulsosalud
 analistacontrolgestionsistemas|agencynetwork
 analistacontrolgestionti|hitss
 analistacontrolgestionti|inge
+analistacontrolprocesos|bancofalabella
 analistacoordinaciontens|layner
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
@@ -432,6 +435,7 @@ asistentefalabellafullhrsmartimevinavisual|falabella
 asistentefalabellahrsvaldiviavisual|falabella
 asistentegarantiasmaipusucursalvespucio|salfarent
 asistentegerenciaingenieriatecnico|copec
+asistentegerenciamaipu|chiletrabajos
 asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentelogistica|chiletrabajos
@@ -843,6 +847,8 @@ https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg8
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
+https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muruna-4424278196
+https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
 https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
@@ -871,6 +877,7 @@ https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
+https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
@@ -1118,6 +1125,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02-at-cyd-ingenier%C3%ADa-4413121930
+https://cl.linkedin.com/jobs/view/ingeniero-sistemas-y-seguridad-at-netline-4420128860
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
@@ -1459,6 +1467,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-f
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
+https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
 https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
@@ -1622,6 +1631,7 @@ ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
+ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision
 ingenierosoftware|sercomed
 ingenierosoftware|thecne

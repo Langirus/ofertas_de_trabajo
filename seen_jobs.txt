@@ -5,6 +5,7 @@
 100aiengineerremoto|muruna
 100alertasanalistamonitoreoremoto|inpacttecnologasyprocesos
 100analistachiletrabajosjuniorqaremototesting|portal
+100analistaoperacionesremototi|nunegalconsulting
 100analystcetjuniormonitoringremoterisktimezone|bitfinex
 100backendengineer|comparisch
 100careercodingearlyengineerfocusjuniorproblemremotesoftwaresolvingspainstrongwithin|docplanner
@@ -38,6 +39,7 @@
 27408analystdataproduct|cit
 290630engineerfrontendnextrefremotework|bairesdev
 3190640informaticoingenierojuniorofertasrelacionadas|portal
+3321116informaticajuniorofertasrelacionadastecnico|portal
 42hrs5x2falabellafullplazaseguridadtimetraineevespucio|falabella
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
@@ -176,6 +178,7 @@ analistaarquitecturadatos|na
 analistaartificialautomatizacioninteligenciajunior|portal
 analistaartificialautomatizacioninteligencia|afpplanvital
 analistaartificialinteligencia|principal
+analistaas400programador|siigroup
 analistaasistentenegocios|gnfworldwide
 analistaasuntosejecutivolatamregulatorios|layk
 analistaatracciontalento|streatfood
@@ -187,6 +190,7 @@ analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaautomatizacionjuniorti|chiletrabajos
 analistaautomatizacionoperaciones|larrainvial
 analistaautomatizacion|na
+analistaautomatizadorchiletrabajosjuniorqasantiago|portal
 analistaautomatizadorjuniorqa|getronics
 analistaayudacontableerpmesa|sonda
 analistaayudamesa|computrabajo
@@ -204,6 +208,7 @@ analistabpo|evertec
 analistabusinessintelligencejuniorseguros|computrabajo
 analistacalidadcontrol|chiletrabajos
 analistacalidadgestion|chiletrabajos
+analistacampuscasacentralcuentasdireccionfinanzaspagarvalparaiso|universidadtcnicafedericosantamara
 analistacanalesdigitalesjunior|afpplanvital
 analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacapitaltrabajo|abbott
@@ -325,6 +330,7 @@ analistamotoryparametra|bancofalabella
 analistanatalpagoprereemplazovalidacion|autofin
 analistanega3ciosoffshorepleno|remoteok
 analistanetqaserversql|unbc
+analistaonboarding|scotiabank
 analistaopenshiftvirtualization|delmartechnologygroup
 analistaoperacionalsistemassoporte|ikea
 analistaoperacionesti|siigsa
@@ -503,6 +509,7 @@ bpadesarrolladorpracticaprofesional|backspace
 brazildevelopmentengineersoftwaretest|remoteok
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
+buscamospracticanteti|hospitaliainternationalgmbh
 businessanalystdigitalanalyticsbi|na
 businessecommerceiniciainternjulionewpracticaprofesional|samsungelectronics
 businessengineerexperiencesoftware|codesignal
@@ -711,6 +718,7 @@ engineerfrontendremote|hirefeed
 engineerfrontendremote|quikhirestaffing
 engineerfrontend|mobena
 engineerfulljuniormidsoftwarestack|remoteok
+engineerfulljuniorproductstacktrainee|whoco
 engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
@@ -865,6 +873,7 @@ https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg8
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
+https://cl.linkedin.com/jobs/view/%C2%A1buscamos-practicante-de-ti%21-at-hospitalia-international-gmbh-4423561393
 https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muruna-4424278196
 https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
@@ -916,6 +925,7 @@ https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-mejora-c
 https://cl.linkedin.com/jobs/view/analista-de-control-gestion-junior-at-isapre-consalud-4420993063
 https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415679762
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
+https://cl.linkedin.com/jobs/view/analista-de-cuentas-por-pagar-direcci%C3%B3n-de-finanzas-campus-casa-central-valpara%C3%ADso-at-universidad-tecnica-federico-santa-maria-4423562375
 https://cl.linkedin.com/jobs/view/analista-de-cumplimiento-at-stratech-corp-4420725350
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-ecrgroup%C2%AE-chile-4417949911
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
@@ -1018,10 +1028,12 @@ https://cl.linkedin.com/jobs/view/analista-mesa-de-dinero-at-banco-de-chile-4407
 https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
+https://cl.linkedin.com/jobs/view/analista-onboarding-at-scotiabank-4424431997
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
+https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
@@ -1201,6 +1213,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-contro
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-chile-4423513860
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-riesgos-corporativos-at-latam-airlines-4419612419
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
@@ -1211,6 +1224,7 @@ https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airl
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
+https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
@@ -1219,6 +1233,7 @@ https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
+https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
@@ -1295,6 +1310,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-w
 https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
+https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
@@ -1464,6 +1480,7 @@ https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+junior
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
+https://www.chiletrabajos.cl/relacionadas/3321116
 https://www.chiletrabajos.cl/trabajo/3244677
 https://www.chiletrabajos.cl/trabajo/3661542
 https://www.chiletrabajos.cl/trabajo/3753715
@@ -1490,6 +1507,7 @@ https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatiza
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
+https://www.chiletrabajos.cl/trabajo/analista-qa-automatizador-junior-3847408
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-automatizacion-y-rpa-3846992
 https://www.chiletrabajos.cl/trabajo/aprendiz-de-escariador-3845421
@@ -1649,6 +1667,7 @@ incendiojuniorsistemastecnico|chiletrabajos
 informaticaingeniero|mcn
 informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal
+informaticapracticante|estandariso
 informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano
 informaticosoportetecnicoterreno|chiletrabajos
@@ -1703,6 +1722,7 @@ monitoreotecnicoti|computrabajo
 negociospracticanteprocesos|nttdata
 practicanteseguridadtecnologica|segurosfalabella
 practicaprevencionprofesionalriesgos|chiletrabajos
+practicaprofesionalti|bancoripley
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 prevencionriesgostecnicotrainee|chiletrabajos
 productdataanalyst|remoteok

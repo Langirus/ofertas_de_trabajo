@@ -173,6 +173,7 @@ analistaartificialautomatizacioninteligencia|afpplanvital
 analistaartificialinteligencia|principal
 analistaasistentenegocios|gnfworldwide
 analistaasuntosejecutivolatamregulatorios|layk
+analistaatracciontalento|streatfood
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizaciondatos|na
 analistaautomatizaciondatos|randstad
@@ -455,6 +456,7 @@ automationengineermicrosoftplatformpower|na
 automationengineerproqa|kraken
 automationengineerpythonqa|na
 automationengineerqa|na
+automationengineersqa|hakalab
 automatizacionelectronicoingenierotecnico|chiletrabajos
 automatizacionpracticaprocesosprofesional|volta
 auxiliarchofer|chiletrabajos
@@ -578,6 +580,7 @@ dataanalyst|remoteok
 datadeveloperetlintegratororacle|na
 dataengineergovernance|remoteok
 dataengineeringintern|remoteok
+dataengineerjr|accenture
 dataengineerjuniorremotework|bairesdev
 dataengineerjunior|yellowipe
 dataengineerlooker|accenture
@@ -689,6 +692,7 @@ encuentrajuniornuevasofertasprogramadorpythonreact|portal
 eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineengineerjunioropenremotesoftware|crossinghurdles
 engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
+engineerespanajavaremotosoftware|abalia
 engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendpaymentssoftware|kraken
 engineerfrontendremote|hirefeed
@@ -744,6 +748,7 @@ engineerremotesoftware|crossinghurdles
 engineerremotesoftware|hirefeed
 engineersecurity|audienceview
 engineersecurity|remoteok
+engineersoftware|commandlink
 engineersoftware|na
 engineersoftware|remoteok
 engineersoftware|stickermule
@@ -882,6 +887,7 @@ https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
+https://cl.linkedin.com/jobs/view/analista-de-atracci%C3%B3n-de-talento-at-streat-food-4423317266
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
 https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
@@ -1057,6 +1063,7 @@ https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-43868851
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
+https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
@@ -1076,6 +1083,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
+https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
 https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
 https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
@@ -1209,6 +1217,7 @@ https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-44028
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
+https://cl.linkedin.com/jobs/view/software-engineer-go-at-commandlink-4423342216
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-ii-marketing-mobile-at-sezzle-4404528205
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
@@ -1288,6 +1297,7 @@ https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-caree
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
+https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846

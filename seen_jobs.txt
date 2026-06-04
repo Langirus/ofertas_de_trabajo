@@ -93,6 +93,7 @@ administrativosoporteti|na
 adquisicionesanalista|empresaconfidencial
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpanalistaassociateoperaciones|afpcuprum
+afpanalistadelitosprevencion|afpcuprum
 afpassociateengineer|afpcuprum
 agentaicolombiaengineerremote|fullstack
 agentaiengineerremote|hirefeed
@@ -183,6 +184,7 @@ analistaautomatizacionchiletrabajosjuniorrpati|portal
 analistaautomatizaciondatos|na
 analistaautomatizaciondatos|randstad
 analistaautomatizaciondesarrolladorjuniorsantiago|portal
+analistaautomatizacionjuniorti|chiletrabajos
 analistaautomatizacionoperaciones|larrainvial
 analistaautomatizacion|na
 analistaautomatizadorjuniorqa|getronics
@@ -196,6 +198,7 @@ analistabatchjuniorservicio|computrabajo
 analistabatchservicio|avostech
 analistabatchservicio|computrabajo
 analistabeneficios|empresassb
+analistabicontrolgestion|transyaezlogsticaydistribucin
 analistabiinformticoa|empresaconfidencial
 analistabpo|evertec
 analistabusinessintelligencejuniorseguros|computrabajo
@@ -908,6 +911,7 @@ https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anf
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
+https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-bi-at-transya%C3%B1ez-log%C3%ADstica-y-distribuci%C3%B3n-4410194098
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-mejora-continua-at-abbott-4417403608
 https://cl.linkedin.com/jobs/view/analista-de-control-gestion-junior-at-isapre-consalud-4420993063
 https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415679762
@@ -1017,6 +1021,7 @@ https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-fala
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
+https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
@@ -1486,6 +1491,7 @@ https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
+https://www.chiletrabajos.cl/trabajo/analista-ti-junior-automatizacion-y-rpa-3846992
 https://www.chiletrabajos.cl/trabajo/aprendiz-de-escariador-3845421
 https://www.chiletrabajos.cl/trabajo/asesor-tecnico-herramientas-rubro-ferretero-santiago-3837786
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3840630

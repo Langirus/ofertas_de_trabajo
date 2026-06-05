@@ -228,6 +228,7 @@ analistacobolpagoprogramadorremotosistemastarjetas|profilesoftwareservices
 analistacobranzasoporte|bancofalabella
 analistacolinacontable|chiletrabajos
 analistacombustible|lavel
+analistacommercefuncionalmediospagoqa|na
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacomunicacionescorporativas|mallplaza
@@ -1610,6 +1611,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santi
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
+https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6

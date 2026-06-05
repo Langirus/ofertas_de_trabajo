@@ -51,6 +51,7 @@
 719analistadatosjuniorley|acl
 7x7analistacondicionesequiposminamonitoreosantiagoturno|vantazgroup
 8422ejecutivopersonastratrainee|santander
+8435ejecutivoselecttratrainee|santander
 abastecimientoauxiliarfalabellafullhrsjornadapuentetime|falabella
 abiertaareasconvocatoriasoportetalento|atkinsralis
 abuseanalystdatafraudwaste|remoteok
@@ -352,6 +353,7 @@ analistapresupuestos|sefutec
 analistaprocesosti|experis
 analistaprogramacion|experis
 analistaprogramadorsql|groupesii
+analistaprogramadorsql|siigroupromania
 analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaproyectos|abbott
 analistaproyectos|bancode
@@ -619,6 +621,7 @@ dataengineerplatformremotostreaming|irium
 dataengineerplatformrevenue|remoteok
 dataengineerpracticante|grupofalabella
 dataengineerremotespain|lifebit
+dataengineerremote|crossinghurdles
 dataengineerremote|greencodesoftware
 dataengineerremote|hirefeed
 dataengineer|ita
@@ -710,6 +713,7 @@ electricidadingenieroservicios|chiletrabajos
 electricidadingenierotecnico|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
 electricoingeniero|chiletrabajos
+electricoplantaproductivatecnico|chiletrabajos
 electromecanicoferreterorubrosoportetecnico|chiletrabajos
 electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
@@ -784,6 +788,7 @@ engineerremotesoftware|hirefeed
 engineersecurity|audienceview
 engineersecurity|remoteok
 engineersoftware|commandlink
+engineersoftware|comscore
 engineersoftware|na
 engineersoftware|remoteok
 engineersoftware|stickermule
@@ -1057,6 +1062,7 @@ https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-a
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
+https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-4419651450
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
@@ -1201,6 +1207,7 @@ https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-437968
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
+https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
@@ -1277,6 +1284,7 @@ https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
 https://cl.linkedin.com/jobs/view/software-engineer-go-at-commandlink-4423342216
+https://cl.linkedin.com/jobs/view/software-engineer-ii-at-comscore-inc-4414747548
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-ii-marketing-mobile-at-sezzle-4404528205
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
@@ -1304,6 +1312,7 @@ https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
+https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
@@ -1604,6 +1613,7 @@ https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-383992
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
+https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
@@ -1679,6 +1689,7 @@ https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gu
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
+https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1743,6 +1754,7 @@ juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
 juniorsoportetecnico|actis
+lidernodereacttecnico|acl
 lidersoportetecnico|na
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen

@@ -91,6 +91,7 @@ administrativoasistentetesla|peoplematch
 administrativoasistente|casanovagroup
 administrativoasistente|chiletrabajos
 administrativoasistente|fundacinbostoneduca
+administrativoasistente|ibisibisstylesibisbudget
 administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
@@ -391,6 +392,7 @@ analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
 analystcommerceinglesqa|na
 analystcoreopsdata|sumup
 analystcybersecurityjuniorremote|crossinghurdles
+analystdataintelligence|principal
 analystdatamanagement|experianspanish
 analystdatamexicoonlyremotesupporttechnical|varicent
 analystdataqualityremotespanish|crossinghurdles
@@ -647,6 +649,7 @@ desarrolladoriajuniorremoto|randstaddigitalespaa
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
+desarrolladorjrpython|apiuxtech
 desarrolladorjuniornetremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
@@ -749,6 +752,7 @@ engineergolangrailsrubysupport|equifax
 engineergolangremotesoftware|turing
 engineergradinfrastructurenewproductionsoftware|remoteok
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
+engineeria|mallplaza
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
 engineerinternsoftware|remoteok
@@ -1090,6 +1094,7 @@ https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innov
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
+https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-administrativo-vespertino-de-seguridad-operacional-at-deloitte-4422996037
@@ -1144,9 +1149,11 @@ https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
 https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
 https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
+https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
+https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
@@ -1162,6 +1169,7 @@ https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
+https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607

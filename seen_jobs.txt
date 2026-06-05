@@ -1,4 +1,5 @@
 000100aiengineerfulllearnwithremotestackusdyear|crossover
+0924analistajrpessoapreremotovendas|starian
 100adfargentinaazuredatadataengineerfactoryremoto|talentconnect
 100agentesautomatizacioniaingenieroremoto|muruna
 100aiengineerremoto|alten
@@ -210,6 +211,7 @@ analistacalidadcontrol|chiletrabajos
 analistacalidadgestion|chiletrabajos
 analistacampuscasacentralcuentasdireccionfinanzaspagarvalparaiso|universidadtcnicafedericosantamara
 analistacanalesdigitalesjunior|afpplanvital
+analistacanalesdigitales|ita
 analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
@@ -239,6 +241,7 @@ analistacontablefijoplazo|saam
 analistacontable|chiletrabajos
 analistacontable|saam
 analistacontinuacontrolgestionmejora|abbott
+analistacontinuajuniormejoraproyectos|afpplanvital
 analistacontinuidadjunioroperacional|prontopaga
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontratosproveedores|grupofalabella
@@ -496,6 +499,7 @@ backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
 backendbrazildataengineerengineerplatformremote|georgiateksystems
 backendchileingenierojuniormetropolitanaregionsantiago|portal
+backendchiletrabajosinformaticoingenierojuniorproyecto|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineersoftware|grupofalabella
@@ -554,12 +558,14 @@ ciberseguridadingenierojunior|computrabajo
 ciberseguridadjunior|computrabajo
 ciberseguridadpractica|ripley
 claseaelectricoingeniero|chiletrabajos
+clientdeveloperengineereuropefullstackinternationalremote|thewhiteam
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
 clouddevopsengineermlopssre|na
 cloudengineerazureiot|na
 cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
+cloudengineerfullstack|rycconsultoresasociados
 cloudengineerlevelmulti|na
 cloudengineersecurity|remoteok
 cloudopsecuadorengineerremote|connecttechtalent
@@ -722,6 +728,7 @@ engineerfrontendremote|quikhirestaffing
 engineerfrontend|mobena
 engineerfulljuniormidsoftwarestack|remoteok
 engineerfulljuniorproductstacktrainee|whoco
+engineerfullsoftwarestack|grupofalabella
 engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
@@ -807,6 +814,7 @@ https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/melhor-envio-analista-desenvolvedor-backend-j%C3%BAnior-remoto-at-lwsa-4415231618
+https://br.linkedin.com/jobs/view/pessoa-analista-de-pr%C3%A9-vendas-jr-remoto-0924-at-starian-4420752584
 https://br.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419859364
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
@@ -904,6 +912,7 @@ https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
+https://cl.linkedin.com/jobs/view/analista-canales-digitales-at-ita%C3%BA-chile-4423593396
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%C3%ADa-4417660505
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
@@ -1025,6 +1034,7 @@ https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosiste
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
+https://cl.linkedin.com/jobs/view/analista-junior-de-proyectos-y-mejora-continua-at-afp-planvital-4423563346
 https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
@@ -1134,6 +1144,8 @@ https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-pr
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
+https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
+https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-asociados-4420755778
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
@@ -1327,6 +1339,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-44173157
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
+https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
@@ -1494,6 +1507,7 @@ https://www.chiletrabajos.cl/trabajo/3804158
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880
 https://www.chiletrabajos.cl/trabajo/3846992
+https://www.chiletrabajos.cl/trabajo/3847504
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326

@@ -130,6 +130,7 @@ aiautomationengineer|wdgroup
 aichiefengineerhpcinfrastructurenetwork|epamsystems
 aichiefengineer|epamsystems
 aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
+aicolombiaengineerlearningllmsmachineremote|echezgroup
 aicomputerengineerremotevisionwork|bairesdev
 aicontenteditorjuniorperformanceremotevideo|octo360
 aicontratoengineerindefinido|tataconsultancyservices
@@ -205,6 +206,7 @@ analistabackofficeproyectosriesgo|bancofalabella
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
+analistabatchjunior|computrabajo
 analistabatchservicio|avostech
 analistabatchservicio|computrabajo
 analistabeneficios|empresassb
@@ -265,9 +267,11 @@ analistacontroltecnologicoti|principal
 analistacoordinaciontens|layner
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
+analistacsoc|adaptivesecurity
 analistacuentaspagar|grupofalabella
 analistacuentaspagar|viaconchaytoro
 analistacumplimiento|stratech
+analistacustomerexperience|arcoprime
 analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
 analistadatosinteligenciajunioroperaciones|portal
@@ -392,6 +396,7 @@ analystassociateproduct|principal
 analystbancabusinessingenieronextgenteletrabajo|ingenierojob
 analystbusinessdataremote|martinelawpllc
 analystbusinessit|gmfinancial
+analystchilecondesexcellenceoperationsservice|johnsonjohnsonmedtech
 analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
 analystcommerceinglesqa|na
 analystcoreopsdata|sumup
@@ -601,6 +606,7 @@ consultorfulltimejuniormexicomulesoftremoto|sps
 consultoriapracticantestecnologia|deloitte
 contenidoscreaciondigitaldisenopracticaprofesional|marketingpeople
 contratoindefindiojuniorprovidenciasoportetecnico|portal
+controldeseableingenieroprogramacion|chiletrabajos
 controlgestioningeniero|chiletrabajos
 controlgestioninventariospracticaprofesional|copec
 controlgestionpracticante|airlines
@@ -637,6 +643,7 @@ dataengineer|ita
 dataengineer|jobgether
 dataengineer|na
 dataengineer|nttdataeurope
+dataengineer|perform
 dataengineer|qibit
 dataengineer|remoteok
 datajuniorscientist|confidential
@@ -721,6 +728,7 @@ egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenieropractica|ciac
 electricidadingenieroservicios|chiletrabajos
 electricidadingenierotecnico|chiletrabajos
+electricoexperienciaferroviariosingenierosistemas|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
 electricoingeniero|chiletrabajos
 electricoplantaproductivatecnico|chiletrabajos
@@ -851,6 +859,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista junior batch-bancario-en-santiago-centro-841572DEF578807C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista servicio batch-bancario-en-santiago-centro-AA639093ADE1B5C061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-099CCA7EA560B33C61373E686DCF3405
@@ -943,8 +952,10 @@ https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-44207
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
+https://cl.linkedin.com/jobs/view/analista-csoc-t1-at-adaptive-security-4424794576
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
+https://cl.linkedin.com/jobs/view/analista-customer-experience-cx-at-arcoprime-4424794182
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
 https://cl.linkedin.com/jobs/view/analista-de-atracci%C3%B3n-de-talento-at-streat-food-4423317266
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
@@ -1152,6 +1163,7 @@ https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754
+https://cl.linkedin.com/jobs/view/data-engineer-at-perform-4403253383
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
@@ -1298,6 +1310,7 @@ https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equif
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
+https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
@@ -1345,6 +1358,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costaner
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
 https://co.linkedin.com/jobs/view/ai-analyst-%E2%80%93-remote-latam-at-echez-group-4419314081
+https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
@@ -1611,6 +1625,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-in
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-experiencia-sistemas-ferroviarios-vina-3846122
 https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en-terreno-y-fabrica-3632041
@@ -1619,6 +1634,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-junior-desarrollador-de-software-3620077
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
+https://www.chiletrabajos.cl/trabajo/ingeniero-programacion-y-control-deseable-experiencia-obra-ferroviaria-vina-3846121
 https://www.chiletrabajos.cl/trabajo/it-junior-3839667
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088

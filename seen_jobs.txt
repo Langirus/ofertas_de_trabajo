@@ -296,6 +296,7 @@ analistafalabellagestionrealsegurostiempo|bancofalabella
 analistafijarenta|bancainversioneswealthmanagement
 analistafinanciamiento|blanco
 analistafinancierasoperaciones|ripley
+analistafitoplancton|planctonandino
 analistaflexitremuneraciones|falabella
 analistaflota|finning
 analistafondos|apexgroup
@@ -378,6 +379,7 @@ analistasoporteti|novelty8
 analistasoporte|bkserviciosfinancieros
 analistasuscripcion|rentanacionalsegurosgenerales
 analistatcnicoaplicacinmypass|airbookspa
+analistavisado|acl
 analista|na
 analista|tauperforaciones
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
@@ -971,6 +973,7 @@ https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-busine
 https://cl.linkedin.com/jobs/view/analista-de-excelencia-operacional-at-cl%C3%ADnicas-achs-salud-4419618418
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
+https://cl.linkedin.com/jobs/view/analista-de-fitoplancton-at-plancton-andino-4421152657
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
@@ -1031,6 +1034,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
+https://cl.linkedin.com/jobs/view/analista-de-visado-at-acl-4421151591
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
@@ -1256,6 +1260,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-c
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-riesgos-corporativos-at-latam-airlines-4419612419
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424586601
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
@@ -1775,6 +1780,7 @@ negociospracticanteprocesos|nttdata
 practicanteseguridadtecnologica|segurosfalabella
 practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprofesionalti|bancoripley
+practicati|ucchristus
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 prevencionriesgostecnicotrainee|chiletrabajos
 productdataanalyst|remoteok

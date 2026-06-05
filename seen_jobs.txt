@@ -146,6 +146,7 @@ aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremotework|bairesdev
 aiengineerremote|hirefeed
+aiengineerremote|kubikwarea5time5000company
 aiengineerremote|lumenalta
 aiengineerremote|qima
 aiengineerremote|sezzle
@@ -224,6 +225,7 @@ analistacencomallsmantenimiento|cencosud
 analistacencomallso2cprocesos|cencosud
 analistacertificaciones|agenciadeaduanasstein
 analistachiletrabajosdatosjuniorsantiago|portal
+analistachiletrabajosjunioroperacionesreemplazoti|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
@@ -441,6 +443,7 @@ araucoasistentefalabellahrsmaipuvisual|falabella
 areabasedatospracticanteti|globaltalent
 areacencosudcontinuamejorapracticaproyectos|cencosud
 areapracticanteriesgo|capitalexpress
+areapracticanteti|textillasamericas
 argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
 artificialinteligenciapracticante|nttdata
@@ -511,11 +514,13 @@ backendchileingenierojuniormetropolitanaregionsantiago|portal
 backendchiletrabajosinformaticoingenierojuniorproyecto|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
+backendengineerremotespain|barkcom
 backendengineersoftware|grupofalabella
 backendengineersoftware|haulmer
 backendengineersoftware|xepelin
 bancarioingenierosectorsre|na
 basedatosdesarrolladorpractica|detacoopcooperativadeahorroycrdito
+basedatosremototecnico|knowmadmood
 bicencosudengineermedia|cencosud
 bigdataengineer|remoteok
 blockchainengineerresearcher|fairgambling
@@ -1264,6 +1269,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424586601
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
+https://cl.linkedin.com/jobs/view/practicante-area-ti-at-textil-las-americas-4424794538
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
@@ -1339,6 +1345,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costaner
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
 https://co.linkedin.com/jobs/view/ai-analyst-%E2%80%93-remote-latam-at-echez-group-4419314081
+https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
@@ -1361,6 +1368,7 @@ https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-we
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
+https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-bark-com-4421170285
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
@@ -1386,6 +1394,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-a
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
@@ -1540,6 +1549,7 @@ https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880
 https://www.chiletrabajos.cl/trabajo/3846992
 https://www.chiletrabajos.cl/trabajo/3847504
+https://www.chiletrabajos.cl/trabajo/3848014
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326

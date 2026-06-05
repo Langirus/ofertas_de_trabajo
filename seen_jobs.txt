@@ -134,8 +134,10 @@ aicontratoengineerindefinido|tataconsultancyservices
 aicostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
+aiengineerforwardfullstack|chiefrebel
 aiengineerfreelanceremote|hirefeed
 aiengineerfullstack|reveleer
+aiengineerplatformremotetooling|sailpoint
 aiengineerplatformremotework|bairesdev
 aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
@@ -510,6 +512,7 @@ bancarioingenierosectorsre|na
 basedatosdesarrolladorpractica|detacoopcooperativadeahorroycrdito
 bicencosudengineermedia|cencosud
 bigdataengineer|remoteok
+blockchainengineerresearcher|fairgambling
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
 bpadesarrolladorpracticaprofesional|backspace
 brazildevelopmentengineersoftwaretest|remoteok
@@ -724,6 +727,7 @@ engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
 engineerespanajavaremotosoftware|abalia
 engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendpaymentssoftware|kraken
+engineerfrontendremote|crossinghurdles
 engineerfrontendremote|hirefeed
 engineerfrontendremote|quikhirestaffing
 engineerfrontend|mobena
@@ -801,6 +805,7 @@ fullingenierojuniorstack|apiuxtech
 fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
+generativaiaingenieropythonremoto|betweentechnology
 geotecnicomonitoreosupervisor|chiletrabajos
 gestioningenierotecnica|empresaconfidencial
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
@@ -1343,6 +1348,7 @@ https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-
 https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
+https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
@@ -1403,6 +1409,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
+https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
@@ -1473,6 +1480,7 @@ https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
+https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
 https://weworkremotely.com/remote-jobs/clo-virtual-fashion-devops-engineer
 https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1
@@ -1480,6 +1488,7 @@ https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
 https://weworkremotely.com/remote-jobs/confidential-devops-engineer
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer
+https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
@@ -1671,6 +1680,7 @@ https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
+https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838

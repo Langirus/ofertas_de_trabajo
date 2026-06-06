@@ -44,6 +44,7 @@
 3321116informaticajuniorofertasrelacionadastecnico|portal
 42hrs5x2falabellafullplazaseguridadtimetraineevespucio|falabella
 44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
+4809atraccioncelpracticantereclutamientotalentos|bancode
 5x2asistentebodegacostanerafalabellahorasrotativo|falabella
 5x2asistentefalabellafullnorteplazatimevisual|falabella
 5x2falabellafullhrsjornadapuenterotativoseguridadtimetrainee|falabella
@@ -60,6 +61,7 @@ accesosanalistacontrol|tataconsultancyservices
 accessengineeridentitymanagementsoftware|remoteok
 accessengineeridentitysoftware|remoteok
 accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
+accountingchileengineerexperiencejuniorsoftwarewith|sezzle
 accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
 accountingtrainee|btgpactual
 activosalternativosanalista|banchileinversiones
@@ -157,6 +159,7 @@ aiengineerremoto|knowmadmood
 aiengineerresearch|tether
 aiengineersoftware|naya
 aiqualityanalystremote|jobsai
+allchileengineerlevelsmobile|sezzle
 allianceanalystpartnershipsaas|rindegastos
 altoasistentecondesfalabellafullhrstimevisual|falabella
 altoatencionautoserviciocajascondesfalabellahoraslunesprobadoresseguridadtraineeviernes|falabella
@@ -460,6 +463,7 @@ argentinaengineerjuniorremotesoftware|mixrank
 artificialingenierointeligencia|negociosia
 artificialinteligenciapracticante|nttdata
 aseoauxiliarcocina|chiletrabajos
+aseoauxiliaresftr|chiletrabajos
 aseoauxiliares|chiletrabajos
 aseoauxiliarhrsmaipu|chiletrabajos
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
@@ -609,6 +613,7 @@ computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
 comunicacionesinterninternaspracticante|dhlglobalforwarding
 concepcioningenieroinspector|chiletrabajos
+conferenciatecnicovideo|avostech
 consultantdataengineergcp|ey
 consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
@@ -1259,6 +1264,7 @@ https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
+https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
@@ -1266,6 +1272,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
+https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-at-sezzle-4082662210
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
@@ -1306,6 +1313,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424586601
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
+https://cl.linkedin.com/jobs/view/practicante-4809-reclutamiento-y-atraccion-talentos-cel-at-banco-de-chile-4415132123
 https://cl.linkedin.com/jobs/view/practicante-area-ti-at-textil-las-americas-4424794538
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
@@ -1364,6 +1372,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-432316
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-en-terreno-at-tivit-latam-4419632304
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
@@ -1630,6 +1639,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
+https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264

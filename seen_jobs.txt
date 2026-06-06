@@ -189,6 +189,7 @@ analistaartificialinteligencia|principal
 analistaas400programador|siigroup
 analistaasistentenegocios|gnfworldwide
 analistaasuntosejecutivolatamregulatorios|layk
+analistaatracciontalento|grupofalabella
 analistaatracciontalento|streatfood
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizacionchiletrabajosjuniorrpati|portal
@@ -945,6 +946,7 @@ https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inve
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
 https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cuprum-4390624992
 https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
+https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4424955187
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581

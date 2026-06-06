@@ -100,6 +100,7 @@ aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpanalistaassociateoperaciones|afpcuprum
 afpanalistadelitosprevencion|afpcuprum
 afpassociateengineer|afpcuprum
+afpassociateengineer|principal
 agentaicolombiaengineerremote|fullstack
 agentaiengineerremote|hirefeed
 agenticamericaantigravityengineergooglelatinremotesoftware|fullstack
@@ -409,6 +410,7 @@ analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hired
 analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
+analystdata|equifax
 analystdata|remoteok
 analystdevelopersoftware|alsa
 analystinfrastructureitremototrabajo|bairesdev
@@ -826,6 +828,8 @@ estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 finanzaspracticaprofesionalsubgerencia|copec
+fortinetingenieroseguridad|sonda
+fullingenierointegracionessoftwarestack|rrresourcerecourse
 fullingenierojuniorstack|apiuxtech
 fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
@@ -1143,6 +1147,7 @@ https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-susten
 https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
+https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-principal-chile-4424638710
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
@@ -1161,6 +1166,7 @@ https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
+https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
@@ -1198,6 +1204,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
@@ -1209,6 +1216,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negoci
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
+https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-at-axity-4424644257
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
@@ -1219,6 +1227,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
+https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
@@ -1759,6 +1768,7 @@ informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
 ingenierointegracion|taglermaq
+ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortrabajos|portal
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede

@@ -418,6 +418,7 @@ analystdataremote|hired
 analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
 analystdata|equifax
+analystdata|mallplaza
 analystdata|remoteok
 analystdevelopersoftware|alsa
 analystinfrastructureitremototrabajo|bairesdev
@@ -510,6 +511,7 @@ automatizacionelectronicoingenierotecnico|chiletrabajos
 automatizacionpracticaprocesosprofesional|volta
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
+auxiliargeneraleslimpiezaservicios|chiletrabajos
 auxiliarhrsparttecnicotime|chiletrabajos
 auxiliarremotosoporte|energyza
 awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
@@ -1184,6 +1186,7 @@ https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consul
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
+https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
@@ -1638,6 +1641,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquiq
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856

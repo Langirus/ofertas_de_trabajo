@@ -241,6 +241,7 @@ analistachiletrabajosjunioroperacionesreemplazoti|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
+analistacienciadatos|steptherapy
 analistacmdbjunior|ktihunter
 analistacobolpagoprogramadorremotosistemastarjetas|profilesoftwareservices
 analistacobranzasoporte|bancofalabella
@@ -995,6 +996,7 @@ https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-44169201
 https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
+https://cl.linkedin.com/jobs/view/analista-de-ciencia-de-datos-at-step-therapy-4425137626
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
@@ -1262,6 +1264,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
+https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-ingenier%C3%ADa-cuatro-s-a-4425135631
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
@@ -1813,6 +1816,7 @@ informaticajuniortelecomunicacionestrabajos|portal
 informaticapracticante|estandariso
 informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano
+informaticoingeniero|ingenieracuatro
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo

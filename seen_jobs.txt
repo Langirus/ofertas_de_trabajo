@@ -102,6 +102,7 @@ administrativosoporteti|na
 adquisicionesanalista|empresaconfidencial
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpanalistaassociateoperaciones|afpcuprum
+afpanalistacomunacondesestadisticasimportante|esencialstaff
 afpanalistadelitosprevencion|afpcuprum
 afpassociateengineer|afpcuprum
 afpassociateengineer|principal
@@ -285,6 +286,7 @@ analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
 analistadatosinteligenciajunioroperaciones|portal
 analistadatosjunior|siigroup
+analistadatosmaestrospracticante|sodimac
 analistadatosoperaciones|na
 analistadatos|ecrgroup
 analistadedatosfinancieros|acl
@@ -339,6 +341,7 @@ analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
 analistainfraestructurati|empresaconfidencial
 analistainnovaciontecnologica|netsusti
 analistainteligencianegocios|sercomed
+analistajunioroperacionesreemplazoti|go
 analistajuniorpmo|computrabajo
 analistajuniorqasantiago|portal
 analistalegal|apexgroup
@@ -457,6 +460,7 @@ applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 aprendizescariador|chiletrabajos
 araucoasistentefalabellahrsmaipuvisual|falabella
+archiveaudiovisualdocumentalistpracticaprofesionaltecnica|warnerbrosdiscovery
 areabasedatospracticanteti|globaltalent
 areacencosudcontinuamejorapracticaproyectos|cencosud
 areapracticanteriesgo|capitalexpress
@@ -560,6 +564,7 @@ canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
 cctvseguridadsistemastecnico|chiletrabajos
 cencoexperienciamallspracticaproductoprofesionalsubgerencia|cencosud
+cencosuddesarrolloequipomediapracticaproducto|cencosud
 centercostanerafalabellahrsseguridadtrainee|falabella
 centercostanerafalabellamjtseguridadtrainee|falabella
 centrodatostecnico|amazonwebservicesaws
@@ -846,6 +851,7 @@ estudiantepracticas|sicksensorintelligence
 estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
+falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 finanzaspracticaprofesionalsubgerencia|copec
 fortinetingenieroseguridad|sonda
 fullingenierointegracionessoftwarestack|rrresourcerecourse
@@ -1010,6 +1016,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-441
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
 https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
+https://cl.linkedin.com/jobs/view/analista-de-estadisticas-importante-afp-comuna-las-condes-at-esencial-staff-4425144609
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
@@ -1042,6 +1049,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-ti-junior-reemplazo-at-go-4425151186
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-planta-at-coca-cola-andina-4422452897
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
@@ -1291,6 +1299,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-pre
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-de-base-de-datos-at-detacoop-cooperativa-de-ahorro-y-cr%C3%A9dito-4422390104
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-transversales-at-ripley-chile-4422429216
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-equipo-desarrollo-y-producto-cencosud-media-at-cencosud-s-a-4419519814
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
@@ -1314,6 +1323,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-produ
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-chile-4423513860
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-riesgos-corporativos-at-latam-airlines-4419612419
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-audiovisual-archive-documentalist-at-warner-bros-discovery-4395712559
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424586601
@@ -1321,6 +1331,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwh
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-4809-reclutamiento-y-atraccion-talentos-cel-at-banco-de-chile-4415132123
+https://cl.linkedin.com/jobs/view/practicante-analista-de-datos-maestros-at-sodimac-4384368364
 https://cl.linkedin.com/jobs/view/practicante-area-ti-at-textil-las-americas-4424794538
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
@@ -1391,6 +1402,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falab
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
+https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-l-a-v-44-hrs-falabella-puerto-montt-at-falabella-4385167948
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-jornada-full-time-44-hrs-5x2-rotativo-falabella-puente-at-falabella-4380601265
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-30-hrs-5x2-falabella-independencia-at-falabella-4388597070

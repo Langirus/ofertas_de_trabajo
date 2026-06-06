@@ -17,6 +17,7 @@
 100engineerjavaremotosoftware|knowmadmood
 100ingenierojavasoftwareteletrabajo|knowmadmood
 1092ingenierorefsoftware|acl
+14180administrativopracticante|salfarent
 18992026analistarepuestos|finning
 2023analistainformaticojuliojuniornuevostrabajos|portal
 2024comempleoempleosindeedinformaticajuliojunior|portal
@@ -208,6 +209,7 @@ analistabackofficeproyectosriesgo|bancofalabella
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
+analistabatchjunior|avostech
 analistabatchjunior|computrabajo
 analistabatchservicio|avostech
 analistabatchservicio|computrabajo
@@ -556,10 +558,12 @@ centercostanerafalabellamjtseguridadtrainee|falabella
 centrodatostecnico|amazonwebservicesaws
 cerrillosinformaticojuniornuevosregiontrabajos|portal
 chaindatapracticaprofesionalstrategysupplytrainee|sodimac
+channelengineersolutions|netskope
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chileencuentrainformaticojuniornuevasofertassantiago|portal
 chileengineerjuniormobile|sezzle
+chileengineermobile|sezzle
 chileengineersoftware|sezzle
 chileformacionpracticasprogramatalento|dhlglobalforwarding
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
@@ -702,6 +706,7 @@ developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
+developmentengineeroperationssecurity|dxctechnology
 developmentengineersoftware|na
 developmentjuniorrepresentativesales|ef
 devopsengineerfocusiiitransformation|sprypoint
@@ -928,6 +933,7 @@ https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/%C2%A1buscamos-practicante-de-ti%21-at-hospitalia-international-gmbh-4423561393
 https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muruna-4424278196
 https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
+https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4424654685
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
 https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
@@ -943,6 +949,7 @@ https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegast
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-administraci%C3%B3n-at-petricio-industrial-s-a-4418698080
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
+https://cl.linkedin.com/jobs/view/analista%C2%A0junior%C2%A0batch-at-avos-tech-chile-4425105273
 https://cl.linkedin.com/jobs/view/analista%C2%A0servicio%C2%A0batch-at-avos-tech-chile-4422392070
 https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
@@ -1162,6 +1169,7 @@ https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
 https://cl.linkedin.com/jobs/view/bi-engineer-cencosud-media-at-cencosud-s-a-4416959794
 https://cl.linkedin.com/jobs/view/business-partner-in-m-w-d-international-production-at-k%C3%A4rcher-4418360627
+https://cl.linkedin.com/jobs/view/channel-solutions-engineer-at-netskope-4354666677
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/chief-hpc-network-engineer-ai-infrastructure-at-epam-systems-4410139670
@@ -1189,6 +1197,7 @@ https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-ch
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
+https://cl.linkedin.com/jobs/view/development-security-and-operations-engineer-at-dxc-technology-4330940039
 https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
@@ -1257,6 +1266,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
+https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518

@@ -309,6 +309,7 @@ analistafondos|apexgroup
 analistaforestal|freyaconsulting
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistafreshfuncionalgraduatesmejorasprogramasistemas|sonda
+analistafuncionalmediospagoqa|bctecnologa
 analistagestionincidentesjuniorresolucion|acl
 analistagestionincidentesmonitoreoti|elitsoft
 analistagestionmodelo|veltis
@@ -1091,6 +1092,7 @@ https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
+https://cl.linkedin.com/jobs/view/analista-qa-funcional-medios-de-pago-at-bc-tecnolog%C3%ADa-4424799496
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
 https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-litio-4420441889
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287

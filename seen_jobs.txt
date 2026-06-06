@@ -222,6 +222,7 @@ analistacampuscasacentralcuentasdireccionfinanzaspagarvalparaiso|universidadtcni
 analistacanalesdigitalesjunior|afpplanvital
 analistacanalesdigitales|ita
 analistacanalesmultinacionales|southbridgecompaadeseguros
+analistacanalesst547|salfarent
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
 analistacasagestionmatrizredsaludtiempo|redsaludprovidencia
@@ -524,6 +525,7 @@ backendchiletrabajosinformaticoingenierojuniorproyecto|portal
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineerremotespain|barkcom
+backendengineerremote|hirefeed
 backendengineersoftware|grupofalabella
 backendengineersoftware|haulmer
 backendengineersoftware|xepelin
@@ -1345,6 +1347,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-441798071
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
+https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
@@ -1481,6 +1484,7 @@ https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-funnelcake-4415587975
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
+https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331

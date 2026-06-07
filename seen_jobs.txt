@@ -375,6 +375,7 @@ analistaoperaciones|banchileinversiones
 analistaoperaciones|mailamericas
 analistaotec|unitedpipelinesystems
 analistaphpprogramadorweb|siigsa
+analistaplacement|gallagher
 analistaplanta|cocacolaandina
 analistapossistemas|farmaciasahumada
 analistapracticasoportetecnico|grupofalabella
@@ -480,6 +481,7 @@ aseoauxiliarcocina|chiletrabajos
 aseoauxiliaresftr|chiletrabajos
 aseoauxiliares|chiletrabajos
 aseoauxiliarhrsmaipu|chiletrabajos
+asesorejecutivoinversionestrainee|grupointeligencia
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asesorgruasmaritimassantiagotecnico|liebherrmining
 asistemteinformaticosoporte|innovex
@@ -1077,6 +1079,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraest
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-ti-junior-reemplazo-at-go-4425151186
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-y-analytics-at-wsp-en-chile-4421594415
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
+https://cl.linkedin.com/jobs/view/analista-de-placement-at-gallagher-4385589416
 https://cl.linkedin.com/jobs/view/analista-de-planta-at-coca-cola-andina-4422452897
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
 https://cl.linkedin.com/jobs/view/analista-de-procesos-de-ti-at-experis-chile-4422625123
@@ -1251,6 +1254,7 @@ https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
+https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
@@ -1641,6 +1645,7 @@ https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://www.chiletrabajos.cl/encuentra-un-empleo/60?2=junior&13=1022&f=2
+https://www.chiletrabajos.cl/encuentra-un-empleo/?2=en+inform%C3%A1tica+junior
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+junior
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
@@ -1843,6 +1848,7 @@ incendiojuniorsistemastecnico|chiletrabajos
 informaticaingeniero|mcn
 informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal
+informaticajuniortrabajos|portal
 informaticapracticante|estandariso
 informaticapracticasoporte|voxa
 informaticoingenieropracticante|occimiano

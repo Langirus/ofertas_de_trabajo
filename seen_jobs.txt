@@ -127,6 +127,7 @@ aianalystlatamremote|echezgroup
 aianalystqualityremote|hired
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
+aiartificialengineeringenierointeligenciasantiago|portal
 aiautomationdeveloperjuniorrpa|accenture
 aiautomationengineerfreelanceremote|guniaconsulting
 aiautomationengineerqassr|na
@@ -1708,6 +1709,7 @@ https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
+https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-software-interno-2818370
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576

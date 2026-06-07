@@ -32,6 +32,7 @@
 2026cloudindeedjuniormayonuevostrabajos|portal
 2026estrategiainiciajuniomonitoreopracticaprecios|samsungelectronics
 2026indeedinformaticajuniormayonuevostrabajos|portal
+2026indeedinformaticojuniojuniornuevosremototrabajos|portal
 2026indeedinformaticojuniormayonuevosremototrabajos|portal
 2026indeedjuniojuniornuevosqasoftwaretrabajos|portal
 2026indeedjuniormayonuevospythontrabajos|portal
@@ -188,6 +189,7 @@ anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analisisanalistaestategico|cencosud
 analisisfinanzaspracticantereportes|epiroc
 analistaanalystbusinessdatosjunior|deloitte
+analistaanalyticsoperaciones|wspyargentina
 analistaandinolitionovaquimico|sqmlitio
 analistaanodefinidonominatermino|gallagher
 analistaaprovisionamientomesesproyecto|chiletrabajos
@@ -240,6 +242,7 @@ analistacasagestionmatrizredsaludtiempo|redsaludprovidencia
 analistacencomallsmantenimiento|cencosud
 analistacencomallso2cprocesos|cencosud
 analistacertificaciones|agenciadeaduanasstein
+analistachilejuniornuevosprogramadorsantiagotrabajos|portal
 analistachiletrabajosdatosjuniorsantiago|portal
 analistachiletrabajosjunioroperacionesreemplazoti|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
@@ -572,6 +575,7 @@ careerearlyengineersoftwaresystemswarfighter|remoteok
 cctvseguridadsistemastecnico|chiletrabajos
 cencoexperienciamallspracticaproductoprofesionalsubgerencia|cencosud
 cencosuddesarrolloequipomediapracticaproducto|cencosud
+centercontrolscontrolsdataengineerteam|amazonwebservicesaws
 centercostanerafalabellahrsseguridadtrainee|falabella
 centercostanerafalabellamjtseguridadtrainee|falabella
 centrodatostecnico|amazonwebservicesaws
@@ -928,6 +932,7 @@ https://cl.indeed.com/career/desarrollador-junior/salaries
 https://cl.indeed.com/career/ingeniero-inform%C3%A1tico/salaries
 https://cl.indeed.com/q-analista-junior-informatico-empleos.html
 https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
+https://cl.indeed.com/q-analista-programador-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=ac04057fbb9740a1
 https://cl.indeed.com/q-backend-junior-empleos.html
 https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
@@ -938,6 +943,7 @@ https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5
 https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b7cf843ca5033b75
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
@@ -1069,6 +1075,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-441063
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-ti-junior-reemplazo-at-go-4425151186
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-y-analytics-at-wsp-en-chile-4421594415
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-planta-at-coca-cola-andina-4422452897
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
@@ -1221,6 +1228,7 @@ https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cni
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
+https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754

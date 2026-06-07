@@ -587,6 +587,7 @@ chileengineermobile|sezzle
 chileengineersoftware|sezzle
 chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
+chileingenierojuniormetropolitanaregionsantiagosistemas|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
@@ -960,6 +961,7 @@ https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=bf4f87007adbdc09
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
+https://cl.indeed.com/viewjob?jk=d4ccafc057ce092b
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/%C2%A1buscamos-practicante-de-ti%21-at-hospitalia-international-gmbh-4423561393

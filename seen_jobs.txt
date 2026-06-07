@@ -33,6 +33,7 @@
 2026estrategiainiciajuniomonitoreopracticaprecios|samsungelectronics
 2026indeedinformaticajuniormayonuevostrabajos|portal
 2026indeedinformaticojuniormayonuevosremototrabajos|portal
+2026indeedjuniojuniornuevosqasoftwaretrabajos|portal
 2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 2026informaticaingenierojuniormayonuevostrabajos|portal
@@ -200,6 +201,7 @@ analistaatracciontalento|grupofalabella
 analistaatracciontalento|streatfood
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizacionchiletrabajosjuniorrpati|portal
+analistaautomatizaciondatosestudiantejunior|portal
 analistaautomatizaciondatos|na
 analistaautomatizaciondatos|randstad
 analistaautomatizaciondesarrolladorjuniorsantiago|portal
@@ -573,6 +575,7 @@ centrodatostecnico|amazonwebservicesaws
 cerrillosinformaticojuniornuevosregiontrabajos|portal
 chaindatapracticaprofesionalstrategysupplytrainee|sodimac
 channelengineersolutions|netskope
+chiledesarrolladorindeedjuniorsueldo|portal
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
 chileencuentrainformaticajuniornuevasofertassantiago|portal
 chileencuentrainformaticojuniornuevasofertassantiago|portal
@@ -580,6 +583,7 @@ chileengineerjuniormobile|sezzle
 chileengineermobile|sezzle
 chileengineersoftware|sezzle
 chileformacionpracticasprogramatalento|dhlglobalforwarding
+chileinformaticoingenierosueldo|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
@@ -763,6 +767,7 @@ electricoplantaproductivatecnico|chiletrabajos
 electromecanicoferreterorubrosoportetecnico|chiletrabajos
 electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
+empleosexperienciaindeedinformaticasin|portal
 empleosinformaticoingeniero|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticaingenieronuevasofertaspostulatepractica|portal
@@ -914,6 +919,8 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-m
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tica-junior
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
+https://cl.indeed.com/career/desarrollador-junior/salaries
+https://cl.indeed.com/career/ingeniero-inform%C3%A1tico/salaries
 https://cl.indeed.com/q-analista-junior-informatico-empleos.html
 https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
 https://cl.indeed.com/q-backend-junior-empleos.html
@@ -929,6 +936,7 @@ https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
 https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
+https://cl.indeed.com/q-informatica-sin-experiencia-empleos.html
 https://cl.indeed.com/q-ingeniero-a-inform%C3%A1tico-a-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html?vjk=cd5a3c919be6d7de
@@ -943,8 +951,10 @@ https://cl.indeed.com/q-pr%C3%A1cticas-profesional-inform%C3%A1tica-empleos.html
 https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
 https://cl.indeed.com/q-python-junior-empleos.html?vjk=c0eed6929d9f1d80
 https://cl.indeed.com/q-qa-software-junior-empleos.html
+https://cl.indeed.com/q-qa-software-junior-empleos.html?vjk=befd8c7f3a266a46
 https://cl.indeed.com/q-seguridad-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
+https://cl.indeed.com/viewjob?jk=bf4f87007adbdc09
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
 https://cl.indeed.com/viewjob?jk=df23708fe564d178

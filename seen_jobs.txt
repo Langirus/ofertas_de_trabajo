@@ -704,6 +704,7 @@ desarrolladorjuniorweb|computrabajo
 desarrolladorpracticante|geolize
 desarrollofullpracticantestack|chiletrabajos
 desarrolloinformaticopractica|getramgrupo
+desarrolloingenieroinnovacion|fdaingenieros
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
 desarrolloingenierosoftware|loteradeconcepcin
 desarrolloingeniero|actis
@@ -1264,6 +1265,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
+https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040

@@ -1,4 +1,5 @@
 000100aiengineerfulllearnwithremotestackusdyear|crossover
+000800huechurabajuniorsoportetecnicoti|computrabajo
 0924analistajrpessoapreremotovendas|starian
 100adfargentinaazuredatadataengineerfactoryremoto|talentconnect
 100agentesautomatizacioniaingenieroremoto|muruna
@@ -8,6 +9,7 @@
 100analistachiletrabajosjuniorqaremototesting|portal
 100analistaoperacionesremototi|nunegalconsulting
 100analystcetjuniormonitoringremoterisktimezone|bitfinex
+100awscloudengineerespanajuniorremoto|ustespaa
 100backendengineer|comparisch
 100careercodingearlyengineerfocusjuniorproblemremotesoftwaresolvingspainstrongwithin|docplanner
 100coderedatadatabricksengineerproyectoremoto|itpartner
@@ -648,6 +650,7 @@ compindcndeptojuniornacionalprogramador|portal
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
 comunicacionesinterninternaspracticante|dhlglobalforwarding
+comunicacionesmarketingpracticante|chiletrabajos
 concepcioningenieroinspector|chiletrabajos
 conferenciatecnicovideo|avostech
 consultantdataengineergcp|ey
@@ -733,6 +736,7 @@ desarrolloingeniero|na
 desarrolloplanificacionpracticante|sodimac
 desarrollopracticaprofesionalsoftware|forcast
 desarrollopracticasistemastransversales|ripley
+desenvolvedorjuniorreactremototrabalho|bairesdev
 designinternmarketing|openx
 developerendfrontjuniorreactremote|compassuol
 developerengineeringplatformprogramatrainee|na
@@ -902,6 +906,7 @@ https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-blueligh
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
+https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
 https://br.linkedin.com/jobs/view/full-stack-engineer-nestjs-react-aws-ai-native-remoto-at-jungle-gaming-4421975266
 https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-contas-j%C3%BAnior-remoto-at-dadosfera-4417483163
 https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
@@ -943,6 +948,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-t
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-monitorieo-junior-en-santiago-centro-A6D42AD79227CDC661373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-junior-modalidad-en-sitio-en-santiago-providencia-5F46F54DF59E1D3D61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-monitoreo-ti-en-santiago-providencia-6CC58DE6DD159C6461373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-ti-junior-800000-huechuraba-en-santiago-huechuraba-459420E5EFC99BB461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tica-junior
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
@@ -1513,6 +1519,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
+https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4425259828
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
@@ -1771,6 +1778,7 @@ https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
+https://www.chiletrabajos.cl/trabajo/practicante-de-marketing-y-comunicaciones-3848547
 https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-software-interno-2818370
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115

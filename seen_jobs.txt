@@ -130,6 +130,7 @@ aianalystlatamremote|echezgroup
 aianalystqualityremote|hired
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
+aiappliedengineer|remoteok
 aiartificialengineeringenierointeligenciasantiago|portal
 aiautomationdeveloperjuniorrpa|accenture
 aiautomationengineerfreelanceremote|guniaconsulting
@@ -465,6 +466,7 @@ aplicadaiaingeniero|ithuntersinternational
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationbackendengineermexicoremote|yelp
 applicationengineerremotespainsupport|hbxgroup
+applicationsengineeritnetsuiteoperations|na
 applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
 aprendizescariador|chiletrabajos
@@ -617,6 +619,7 @@ ciberseguridadjunior|computrabajo
 ciberseguridadpractica|ripley
 claseaelectricoingeniero|chiletrabajos
 clientdeveloperengineereuropefullstackinternationalremote|thewhiteam
+climatizaciontecnico|chiletrabajos
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
 clouddevopsengineermlopssre|na
@@ -1569,6 +1572,7 @@ https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staff
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://remoteOK.com/remote-jobs/remote-analista-pleno-de-negocios-offshore-c6-bank-1131925
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512
+https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-bjak-1132964
 https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296
 https://remoteOK.com/remote-jobs/remote-associate-forward-deployed-engineer-symmetry-systems-1130994
 https://remoteOK.com/remote-jobs/remote-big-data-engineer-oowlish-technology-1130275
@@ -1753,6 +1757,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
+https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
@@ -1802,6 +1807,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
+https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/lider-tecnico-devops-weblogic-bc-tecnologia-remote

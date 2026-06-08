@@ -9,6 +9,7 @@
 100analistachiletrabajosjuniorqaremototesting|portal
 100analistaoperacionesremototi|nunegalconsulting
 100analystcetjuniormonitoringremoterisktimezone|bitfinex
+100awscloudengineerespanajuniorremoto|ust
 100awscloudengineerespanajuniorremoto|ustespaa
 100backendengineer|comparisch
 100careercodingearlyengineerfocusjuniorproblemremotesoftwaresolvingspainstrongwithin|docplanner
@@ -441,6 +442,7 @@ analystdataremote|hired
 analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
 analystdata|equifax
+analystdata|groupesii
 analystdata|mallplaza
 analystdata|remoteok
 analystdevelopersoftware|alsa
@@ -537,6 +539,7 @@ automationengineerqa|na
 automationengineersqa|hakalab
 automatizacionelectronicoingenierotecnico|chiletrabajos
 automatizacionpracticaprocesosprofesional|volta
+automatizadorpracticaprogramador|bancofalabella
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
 auxiliargeneraleslimpiezaservicios|chiletrabajos
@@ -759,6 +762,7 @@ developmentengineeroperationssecurity|dxctechnology
 developmentengineersoftware|na
 developmentjuniorrepresentativesales|ef
 devopsengineerfocusiiitransformation|sprypoint
+devopsengineergcpkubernetes|na
 devopsengineerjuniorremoto|vermontsolutions
 devopsengineerjunior|systabuildsoftwaregroup
 devopsengineerlevelmidoptimization|remoteok
@@ -1256,6 +1260,7 @@ https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consul
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
+https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
@@ -1388,6 +1393,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnic
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-chile-4423513860
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-programador-automatizador-at-banco-falabella-4425918627
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-riesgos-corporativos-at-latam-airlines-4419612419
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-audiovisual-archive-documentalist-at-warner-bros-discovery-4395712559
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
@@ -1519,6 +1525,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
+https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-4422213272
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4425259828
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
@@ -1856,6 +1863,7 @@ https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
+https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote
 https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296

@@ -194,6 +194,7 @@ analistaanalystbusinessdatosjunior|deloitte
 analistaanalyticsoperaciones|wspyargentina
 analistaandinolitionovaquimico|sqmlitio
 analistaanodefinidonominatermino|gallagher
+analistaaplicationsecurity|deloitte
 analistaaprovisionamientomesesproyecto|chiletrabajos
 analistaarquitecturadatos|na
 analistaartificialautomatizacioninteligenciajunior|portal
@@ -400,6 +401,7 @@ analistaremuneraciones|smartcfo
 analistarepuestos|finning
 analistariesgos|bancode
 analistascapitalhcmhumanmanagementtecnologia|deloitte
+analistaschainnetworkoperationssupply|deloitte
 analistasistemas|novasisllc
 analistasistemas|teckresourceslimited
 analistasitiosoporte|softwareone
@@ -494,6 +496,7 @@ asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistentecalidadchileinfraestructuraingenieriasacyrtalagante|sacyr
 asistentecapacitacion|ey
 asistentecarlinformaticajrjunior|computrabajo
+asistentecastrochiloenecesita|chiletrabajos
 asistentecentrosentretenimientolidermarketingretail|validatetalentai
 asistentecomunicacionesmarketing|rematesmadrid
 asistenteconculoslavadorlicenciaveh|chiletrabajos
@@ -691,6 +694,7 @@ dataengineer|nttdataeurope
 dataengineer|perform
 dataengineer|qibit
 dataengineer|remoteok
+dataengineer|sodimac
 datajuniorscientist|confidential
 dataprocessanalyst|na
 datascienceinternpricinganalytics|remoteok
@@ -1003,6 +1007,7 @@ https://cl.linkedin.com/jobs/view/analista%C2%A0junior%C2%A0batch-at-avos-tech-c
 https://cl.linkedin.com/jobs/view/analista%C2%A0servicio%C2%A0batch-at-avos-tech-chile-4422392070
 https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
+https://cl.linkedin.com/jobs/view/analista-aplication-security-at-deloitte-4400625323
 https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cuprum-4390624992
 https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4424955187
@@ -1178,6 +1183,7 @@ https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
 https://cl.linkedin.com/jobs/view/analista-tecnologico-control-ti-at-principal-chile-4382826105
 https://cl.linkedin.com/jobs/view/analista-ti-%E2%80%93-control-de-gesti%C3%B3n-at-inge%21-4419499896
 https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-natal-at-autofin-chile-4419509005
+https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-at-deloitte-4413742403
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
@@ -1244,6 +1250,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754
 https://cl.linkedin.com/jobs/view/data-engineer-at-perform-4403253383
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
+https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
@@ -1713,6 +1720,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
+https://www.chiletrabajos.cl/trabajo/castro-chiloe-se-necesita-asistente-dental-tens-con-experiencia-dental-3848478
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
@@ -1768,6 +1776,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-ang
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
+https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-3848526
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
@@ -1894,6 +1903,7 @@ internacionalscouting|revivalfootball
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany
 internsdet|remoteok
+jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal

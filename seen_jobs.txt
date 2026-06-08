@@ -118,6 +118,7 @@ agenticdeployedengineerforwardplatform|remoteok
 agfanalistaproductivosoporte|banchileinversiones
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 agileanalistaitproyectos|siigsa
+ahoraempleoencuentrainformaticajuniornuevasofertaspostulate|portal
 ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
 ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
 ahoraencuentrainformaticanuevasofertaspostulatepracticas|portal
@@ -138,6 +139,7 @@ aiautomationengineerqassr|na
 aiautomationengineerqa|na
 aiautomationengineer|na
 aiautomationengineer|wdgroup
+aiawsengineerfullnativenestjsreactremotostack|junglegaming
 aichiefengineerhpcinfrastructurenetwork|epamsystems
 aichiefengineer|epamsystems
 aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
@@ -275,6 +277,7 @@ analistacontinuajuniormejoraproyectos|afpplanvital
 analistacontinuidadjunioroperacional|prontopaga
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontratosproveedores|grupofalabella
+analistacontrolemergenciagestionmaipu|abastible
 analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
 analistacontrolgerenciagestiontecnica|johnsoncontrols
 analistacontrolgestionjuniorregional|nubox
@@ -377,6 +380,7 @@ analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
 analistaoperaciones|mailamericas
 analistaotec|unitedpipelinesystems
+analistapedidos|oxxo
 analistaphpprogramadorweb|siigsa
 analistaplacement|gallagher
 analistaplanta|cocacolaandina
@@ -898,6 +902,7 @@ https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-blueligh
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
+https://br.linkedin.com/jobs/view/full-stack-engineer-nestjs-react-aws-ai-native-remoto-at-jungle-gaming-4421975266
 https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-contas-j%C3%BAnior-remoto-at-dadosfera-4417483163
 https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
@@ -949,6 +954,7 @@ https://cl.indeed.com/q-analista-programador-junior-l-santiago-de-chile,-regi%C3
 https://cl.indeed.com/q-backend-junior-empleos.html
 https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
@@ -1137,6 +1143,7 @@ https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-44149539
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-tiempo-redsalud-casa-matriz-at-redsalud-providencia-4423031331
+https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-y-control-emergencia-maip%C3%BA-at-abastible-s-a-4421972319
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
@@ -1158,6 +1165,7 @@ https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-fala
 https://cl.linkedin.com/jobs/view/analista-onboarding-at-scotiabank-4424431997
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
+https://cl.linkedin.com/jobs/view/analista-pedidos-kl-at-oxxo-chile-4425258740
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191

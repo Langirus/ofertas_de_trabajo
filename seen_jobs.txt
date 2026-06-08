@@ -150,6 +150,7 @@ aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
 aiengineerforwardfullstack|chiefrebel
 aiengineerfreelanceremote|hirefeed
+aiengineerfullstack|jobgether
 aiengineerfullstack|reveleer
 aiengineerplatformremotetooling|sailpoint
 aiengineerplatformremotework|bairesdev
@@ -597,6 +598,7 @@ chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
 chileingenierojuniormetropolitanaregionsantiagosistemas|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
+chiletrabajosdeptoinformaticoingenierojuniorti|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
 chiletrabajosdesarrolladoringenierojuniorsoftware|portal
@@ -666,6 +668,7 @@ dataanalystii|remoteok
 dataanalystremote|quikhirestaffing
 dataanalyst|remoteok
 datadeveloperetlintegratororacle|na
+dataengineerfullremotescientist|capitole
 dataengineergovernance|remoteok
 dataengineeringintern|remoteok
 dataengineerjr|accenture
@@ -871,6 +874,7 @@ estudiantejuniorofertasprogramadorrelacionadastrainee|portal
 estudiantepracticas|sicksensorintelligence
 estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
+experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 finanzaspracticaprofesionalsubgerencia|copec
@@ -1260,6 +1264,7 @@ https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-pr
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
+https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
 https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-asociados-4420755778
@@ -1327,6 +1332,7 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-at-sezzle-4082662210
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
+https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518
@@ -1355,6 +1361,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-traine
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-infraestructura-renovable-at-copec-s-a-4421597787
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
@@ -1483,6 +1490,7 @@ https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-a
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
+https://es.linkedin.com/jobs/view/fullremote-ml-engineer-data-scientist-at-capitole-4421922333
 https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
@@ -1733,6 +1741,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en-terreno-y-fabrica-3632041
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
+https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-junior-para-depto-ti-3848411
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-junior-desarrollador-de-software-3620077
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
@@ -1863,6 +1872,7 @@ informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
+infraestructurapracticaprofesionalrenovable|copec
 ingenierointegracion|taglermaq
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis

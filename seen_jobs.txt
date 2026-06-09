@@ -153,10 +153,12 @@ aicontratoengineerindefinido|tataconsultancyservices
 aicostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aidatadataengineerplatformqualityworkflows|na
 aideployedengineerforwardinference|remoteok
+aideveloperengineerfullstackproduct|axity
 aiengineerforwardfullstack|chiefrebel
 aiengineerfreelanceremote|hirefeed
 aiengineerfullstack|jobgether
 aiengineerfullstack|reveleer
+aiengineergenaiorchestration|nttdata
 aiengineerplatformremotetooling|sailpoint
 aiengineerplatformremotework|bairesdev
 aiengineerremotesoftware|hirefeed
@@ -235,6 +237,7 @@ analistabatchservicio|computrabajo
 analistabeneficios|empresassb
 analistabicontrolgestion|transyaezlogsticaydistribucin
 analistabiinformticoa|empresaconfidencial
+analistabi|apiuxtech
 analistabpo|evertec
 analistabusinessintelligencejuniorseguros|computrabajo
 analistacalidadcontrol|chiletrabajos
@@ -262,6 +265,7 @@ analistacobolpagoprogramadorremotosistemastarjetas|profilesoftwareservices
 analistacobranzasoporte|bancofalabella
 analistacolinacontable|chiletrabajos
 analistacombustible|lavel
+analistacomex|telotenemos
 analistacommercefuncionalmediospagoqa|na
 analistacompensaciones|empresaconfidencial
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
@@ -365,6 +369,7 @@ analistalabornatalpostprereemplazo|aramark
 analistalegal|apexgroup
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
+analistalogistico|chiletrabajos
 analistamejorasparticipesunidad|banchileinversiones
 analistamejoras|banchileinversiones
 analistametrologia|eurofarma
@@ -784,6 +789,7 @@ devopsengineer|na
 devopsengineer|remoteok
 devopsengineer|stakefish
 devopsengineer|worlddatalab
+devopsingeniero|grupofalabella
 devopsingeniero|na
 devopsingeniero|tsoft
 devopsintern|usada
@@ -1018,6 +1024,7 @@ https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-a
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
+https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
 https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
@@ -1033,11 +1040,13 @@ https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cupr
 https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4424955187
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
+https://cl.linkedin.com/jobs/view/analista-bi-at-apiux-tech-4425934417
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-canales-digitales-at-ita%C3%BA-chile-4423593396
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%C3%ADa-4417660505
+https://cl.linkedin.com/jobs/view/analista-comex-at-telotenemos-cl-spa-4425968601
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
@@ -1291,6 +1300,7 @@ https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-ch
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
+https://cl.linkedin.com/jobs/view/developer-fullstack-ai-product-engineer-at-axity-4425542708
 https://cl.linkedin.com/jobs/view/development-security-and-operations-engineer-at-dxc-technology-4330940039
 https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
@@ -1333,6 +1343,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
+https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
@@ -1730,6 +1741,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
+https://www.chiletrabajos.cl/trabajo/analista-logistico-3812641
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-qa-automatizador-junior-3847408
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911

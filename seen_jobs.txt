@@ -1,9 +1,3 @@
-2026indeedjuniormayonuevosqasoftwaretrabajos|portal
-2026informaticaingenierojuniormayonuevostrabajos|portal
-2026practicasprogramasegundosemestre|bancofalabella
-20hrsaiengineerfreelancelearningmachineoperationsremotetrainerweek|10xteam
-25hrsaraucoasistenteclienteikeaparquerotativoservicio|ikea
-27408analystdataproduct|cit
 290630engineerfrontendnextrefremotework|bairesdev
 3190640informaticoingenierojuniorofertasrelacionadas|portal
 3321116informaticajuniorofertasrelacionadastecnico|portal
@@ -79,6 +73,7 @@ agenticamericaantigravityengineergooglelatinremotesoftware|fullstack
 agenticamericaelixirengineerlatinremote|fullstack
 agenticamericaengineerlatinpythonremote|fullstack
 agenticdeployedengineerforwardplatform|remoteok
+agentsaiaiengineerimplementation|agendapro
 agfanalistaproductivosoporte|banchileinversiones
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 agileanalistaitproyectos|siigsa
@@ -527,6 +522,7 @@ auxiliargeneraleslimpiezaservicios|chiletrabajos
 auxiliarhrsparttecnicotime|chiletrabajos
 auxiliarmuestreraoperacion|impalaterminals
 auxiliarremotosoporte|energyza
+awsbootdesarrolladorjavaspring|na
 awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
@@ -717,6 +713,7 @@ desarrollofullpracticantestack|chiletrabajos
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieroinnovacion|fdaingenieros
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
+desarrolloingenierosistemas|hrburoconsultingservices
 desarrolloingenierosoftware|loteradeconcepcin
 desarrolloingeniero|actis
 desarrolloingeniero|larrainvial
@@ -1004,6 +1001,7 @@ https://cl.linkedin.com/jobs/view/ai-agent-engineer-at-tigabytes-cl-4426347545
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
+https://cl.linkedin.com/jobs/view/ai-implementation-engineer-ai-agents-at-agendapro-4426533629
 https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415699354
 https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
@@ -1335,6 +1333,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
+https://cl.linkedin.com/jobs/view/ingeniero-en-desarrollo-de-sistemas-at-bur%C3%B3-executive-4426547045
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
@@ -1852,6 +1851,7 @@ https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
+https://www.getonbrd.com/jobs/desarrollador-a-java-spring-boot-aws-tcit-santiago
 https://www.getonbrd.com/jobs/desarrollador-backend-java-spring-boot-3it-santiago-019a
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago

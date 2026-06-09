@@ -1,7 +1,3 @@
-100analystcetjuniormonitoringremoterisktimezone|bitfinex
-100awscloudengineerespanajuniorremoto|ust
-100awscloudengineerespanajuniorremoto|ustespaa
-100backendengineer|comparisch
 100careercodingearlyengineerfocusjuniorproblemremotesoftwaresolvingspainstrongwithin|docplanner
 100coderedatadatabricksengineerproyectoremoto|itpartner
 100enfoqueengineerfrontendreactremoto|bcncgroup
@@ -382,6 +378,7 @@ analistaoperacionesti|siigsa
 analistaoperaciones|banchileinversiones
 analistaoperaciones|mailamericas
 analistaotec|unitedpipelinesystems
+analistapatologia|chiletrabajos
 analistapedidos|oxxo
 analistaphpprogramadorweb|siigsa
 analistaplacement|gallagher
@@ -654,6 +651,7 @@ collectionsintern|gmfinancial
 colombiaengineerjuniorremotesoftware|mixrank
 comercioexteriorpracticaprofesional|skcinsumosgruposigdokoppers
 compindcndeptojuniornacionalprogramador|portal
+comprasingeniero|enaex
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
 comunicacionesinterninternaspracticante|dhlglobalforwarding
@@ -1316,6 +1314,7 @@ https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
+https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
@@ -1738,6 +1737,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
 https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaciones-junior-3823250
+https://www.chiletrabajos.cl/trabajo/analista-de-patologia-3849190
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915

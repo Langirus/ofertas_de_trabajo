@@ -361,6 +361,7 @@ analistainteligencianegocios|sercomed
 analistajunioroperacionesreemplazoti|go
 analistajuniorpmo|computrabajo
 analistajuniorqasantiago|portal
+analistalabornatalpostprereemplazo|aramark
 analistalegal|apexgroup
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
@@ -398,6 +399,8 @@ analistaproveedoresreempalzo|constructoragonzlezgarca
 analistaproyectos|abbott
 analistaproyectos|bancode
 analistaproyectos|falabella
+analistapss|ingenierojob
+analistapss|vantazgroup
 analistaqasr|na
 analistaqa|na
 analistareasegurossiniestros|marshrisk
@@ -419,6 +422,7 @@ analistasoporte|bkserviciosfinancieros
 analistasuscripcion|rentanacionalsegurosgenerales
 analistatcnicoaplicacinmypass|airbookspa
 analistavisado|acl
+analista|csi
 analista|na
 analista|tauperforaciones
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
@@ -789,6 +793,7 @@ devops|na
 digitaleseasynegociospractica|cencosud
 digitalmediatrainee|beiersdorf
 ediingenieroremotosoluciones|experienceitsolutions
+efficiencyengineerengineeringfriendlyremotesoftware|qonto
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenieropractica|ciac
 electricidadingenieroservicios|chiletrabajos
@@ -1118,6 +1123,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-441470
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-falabella-4388376406
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-backoffice-de-riesgo-at-banco-falabella-4421289216
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
+https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-reclutamiento-y-selecci%C3%B3n-at-arcoprime-4421658206
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
@@ -1164,6 +1170,7 @@ https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-pl
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
 https://cl.linkedin.com/jobs/view/analista-junior-de-proyectos-y-mejora-continua-at-afp-planvital-4423563346
 https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
+https://cl.linkedin.com/jobs/view/analista-labor-reemplazo-pre-y-post-natal-at-aramark-chile-4425925523
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662
@@ -1184,6 +1191,8 @@ https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
+https://cl.linkedin.com/jobs/view/analista-pss-at-ingenierojob-4422212814
+https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
 https://cl.linkedin.com/jobs/view/analista-qa-funcional-medios-de-pago-at-bc-tecnolog%C3%ADa-4424799496
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
@@ -1343,6 +1352,7 @@ https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
+https://cl.linkedin.com/jobs/view/it-support-trainee-at-cumplo-4422214414
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
@@ -1534,6 +1544,7 @@ https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-c
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
+https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
@@ -1927,6 +1938,7 @@ internacionalscouting|revivalfootball
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany
 internsdet|remoteok
+itsupporttrainee|cumplo
 jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
 juniordataengineer|remoteok

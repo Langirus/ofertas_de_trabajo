@@ -1,13 +1,3 @@
-2025eneroindeedinformaticajuniornuevostrabajos|portal
-2025febreroinformaticaingenierojuniornuevostrabajos|portal
-2026abrildesarrolladorindeedjuniornuevostrabajos|portal
-2026abrilindeedinformaticojuniornuevosremototrabajos|portal
-2026abrilinformaticajuniornuevosseguridadtrabajos|portal
-2026asesoresejecutivosinversionestrainee|grupointeligencia
-2026backendindeedjuniormayonuevostrabajos|portal
-2026cloudindeedjuniormayonuevostrabajos|portal
-2026estrategiainiciajuniomonitoreopracticaprecios|samsungelectronics
-2026indeedinformaticajuniormayonuevostrabajos|portal
 2026indeedinformaticojuniojuniornuevosremototrabajos|portal
 2026indeedinformaticojuniormayonuevosremototrabajos|portal
 2026indeedjuniojuniornuevosqasoftwaretrabajos|portal
@@ -206,6 +196,7 @@ analistaayudacontableerpmesa|sonda
 analistaayudamesa|computrabajo
 analistabackenddesenvolvedorenviojuniormelhorremoto|lwsa
 analistabackofficeproyectosriesgo|bancofalabella
+analistabackofficetecnologia|experis
 analistabackoffice|acl
 analistabatchchilejuniormetropolitanaregionsantiago|portal
 analistabatchjuniorservicio|computrabajo
@@ -289,6 +280,7 @@ analistadatosjunior|siigroup
 analistadatosmaestrospracticante|sodimac
 analistadatosoperaciones|na
 analistadatos|ecrgroup
+analistadatos|tataconsultancyservices
 analistadedatosfinancieros|acl
 analistadepositofranco|swissport
 analistadesarrollomantenimientosistemassistemastecnologica|bancode
@@ -1068,6 +1060,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-441
 https://cl.linkedin.com/jobs/view/analista-de-cuentas-por-pagar-direcci%C3%B3n-de-finanzas-campus-casa-central-valpara%C3%ADso-at-universidad-tecnica-federico-santa-maria-4423562375
 https://cl.linkedin.com/jobs/view/analista-de-cumplimiento-at-stratech-corp-4420725350
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-ecrgroup%C2%AE-chile-4417949911
+https://cl.linkedin.com/jobs/view/analista-de-datos-at-tata-consultancy-services-4426360833
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
@@ -1149,6 +1142,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
+https://cl.linkedin.com/jobs/view/analista-de-tecnolog%C3%ADa-back-office-at-experis-chile-4426385433
 https://cl.linkedin.com/jobs/view/analista-de-visado-at-acl-4421151591
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
@@ -1408,6 +1402,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-des
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-infraestructura-renovable-at-copec-s-a-4421597787
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-sistemas-plataforma-y-operaciones-it-at-banco-falabella-4426346918
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-chile-4423513860
@@ -1423,6 +1418,7 @@ https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-glob
 https://cl.linkedin.com/jobs/view/practicante-4809-reclutamiento-y-atraccion-talentos-cel-at-banco-de-chile-4415132123
 https://cl.linkedin.com/jobs/view/practicante-analista-de-datos-maestros-at-sodimac-4384368364
 https://cl.linkedin.com/jobs/view/practicante-area-ti-at-textil-las-americas-4424794538
+https://cl.linkedin.com/jobs/view/practicante-at-stella-capital-advisory-4422720070
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
@@ -1783,6 +1779,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-384226
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-ind-3841944
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-automatizacion-e-iot-3845391
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
@@ -1935,6 +1932,7 @@ ingenierointegracion|taglermaq
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortrabajos|portal
+ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromultidisciplina|ghd
 ingenieroprevencionriesgos|chiletrabajos
@@ -1952,6 +1950,7 @@ internacionalscouting|revivalfootball
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany
 internsdet|remoteok
+itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
 itsupporttrainee|cumplo
 jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
@@ -1982,6 +1981,7 @@ marketingpracticavopero|cencosud
 monitoreotecnicoti|computrabajo
 negociospracticanteprocesos|nttdata
 practicanteseguridadtecnologica|segurosfalabella
+practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprofesionalti|bancoripley
 practicati|ucchristus

@@ -1,7 +1,3 @@
-2026indeedinformaticojuniojuniornuevosremototrabajos|portal
-2026indeedinformaticojuniormayonuevosremototrabajos|portal
-2026indeedjuniojuniornuevosqasoftwaretrabajos|portal
-2026indeedjuniormayonuevospythontrabajos|portal
 2026indeedjuniormayonuevosqasoftwaretrabajos|portal
 2026informaticaingenierojuniormayonuevostrabajos|portal
 2026practicasprogramasegundosemestre|bancofalabella
@@ -164,6 +160,7 @@ americaengineerlatinreactremote|bluelight
 americasengineerintegrationnodepythonremotetypescript|cdtalentadvisoryacademy
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
 analisisanalistaestategico|cencosud
+analisisanalistanegocioplanificacion|na
 analisisfinanzaspracticantereportes|epiroc
 analistaanalystbusinessdatosjunior|deloitte
 analistaanalyticsoperaciones|wspyargentina
@@ -620,6 +617,7 @@ cientificodatosjunior|evalearning
 claseaelectricoingeniero|chiletrabajos
 clientdeveloperengineereuropefullstackinternationalremote|thewhiteam
 climatizaciontecnico|chiletrabajos
+clouddatabaseengineeroperations|na
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
 clouddevopsengineermlopssre|na
@@ -1833,6 +1831,7 @@ https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-s
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
+https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote
@@ -1845,6 +1844,7 @@ https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevi
 https://www.getonbrd.com/jobs/cloud-devops-engineer-gcp-lisit-santiago
 https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-remote
+https://www.getonbrd.com/jobs/cloud-operations-database-engineer-signant-health-remote
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a

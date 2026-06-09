@@ -1,17 +1,3 @@
-100careercodingearlyengineerfocusjuniorproblemremotesoftwaresolvingspainstrongwithin|docplanner
-100coderedatadatabricksengineerproyectoremoto|itpartner
-100enfoqueengineerfrontendreactremoto|bcncgroup
-100engineerfullstackiajavareactteletrabajo|knowmadmood
-100engineerindefinidoremotosoftware|experis
-100engineerjavaremotosoftware|knowmadmood
-100ingenierojavasoftwareteletrabajo|knowmadmood
-100k60kagenticbarcelonacoderengineerfoundingremote|hirevoice
-1092ingenierorefsoftware|acl
-14180administrativopracticante|salfarent
-18992026analistarepuestos|finning
-2023analistainformaticojuliojuniornuevostrabajos|portal
-2024comempleoempleosindeedinformaticajuliojunior|portal
-2024informaticajuliojuniornuevosremototrabajos|portal
 2025eneroindeedinformaticajuniornuevostrabajos|portal
 2025febreroinformaticaingenierojuniornuevostrabajos|portal
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
@@ -102,6 +88,7 @@ afpassociateengineer|afpcuprum
 afpassociateengineer|principal
 agentaicolombiaengineerremote|fullstack
 agentaiengineerremote|hirefeed
+agentaiengineer|tigabytescl
 agenticamericaantigravityengineergooglelatinremotesoftware|fullstack
 agenticamericaelixirengineerlatinremote|fullstack
 agenticamericaengineerlatinpythonremote|fullstack
@@ -161,8 +148,10 @@ aiengineerremote|sezzle
 aiengineerremoto|knowmadmood
 aiengineerresearch|tether
 aiengineersoftware|naya
+aiengineer|perform
 aiinternoperationssales|smartupholdings
 aiqualityanalystremote|jobsai
+airlinesdataengineerlatam|na
 allchileengineerlevelsmobile|sezzle
 allianceanalystpartnershipsaas|rindegastos
 altoasistentecondesfalabellafullhrstimevisual|falabella
@@ -196,6 +185,7 @@ analistaarquitecturadatos|na
 analistaartificialautomatizacioninteligenciajunior|portal
 analistaartificialautomatizacioninteligencia|afpplanvital
 analistaartificialinteligencia|principal
+analistaartificialinteligencia|principalfinancialgroup
 analistaas400programador|siigroup
 analistaasistentenegocios|gnfworldwide
 analistaasuntosejecutivolatamregulatorios|layk
@@ -370,6 +360,7 @@ analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
 analistanatalpagoprereemplazovalidacion|autofin
 analistanega3ciosoffshorepleno|remoteok
+analistanegocios|evertec
 analistanetqaserversql|unbc
 analistaonboarding|scotiabank
 analistaopenshiftvirtualization|delmartechnologygroup
@@ -630,8 +621,10 @@ ciberseguridadcontratoindingenierojunior|portal
 ciberseguridadgrcingenierojunior|computrabajo
 ciberseguridadinfraesctructuraingenierojunior|computrabajo
 ciberseguridadingenierojunior|computrabajo
+ciberseguridadingeniero|bancode
 ciberseguridadjunior|computrabajo
 ciberseguridadpractica|ripley
+cientificodatosjunior|evalearning
 claseaelectricoingeniero|chiletrabajos
 clientdeveloperengineereuropefullstackinternationalremote|thewhiteam
 climatizaciontecnico|chiletrabajos
@@ -1017,9 +1010,11 @@ https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petrici
 https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
+https://cl.linkedin.com/jobs/view/ai-agent-engineer-at-tigabytes-cl-4426347545
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
+https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415699354
 https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
@@ -1097,6 +1092,7 @@ https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-a
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-ti-at-empresa-confidencial-4420430389
 https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-tecnol%C3%B3gica-at-netsus-ti-4420118177
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-chile-4424055869
+https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-financial-group-4425838784
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
@@ -1109,6 +1105,7 @@ https://cl.linkedin.com/jobs/view/analista-de-monitoreo-de-alertas-100%25-remoto
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-y-condiciones-equipos-mina-turno-7x7-santiago-at-vantaz-group-4416344416
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-negocios-asistente-at-gnf-worldwide-4418741946
+https://cl.linkedin.com/jobs/view/analista-de-negocios-at-evertec-4416263994
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
@@ -1267,6 +1264,7 @@ https://cl.linkedin.com/jobs/view/channel-solutions-engineer-at-netskope-4354666
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/chief-hpc-network-engineer-ai-infrastructure-at-epam-systems-4410139670
+https://cl.linkedin.com/jobs/view/cientifico-de-datos-junior-at-eva-learning-4425847681
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
@@ -1322,6 +1320,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
+https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
@@ -1852,6 +1851,7 @@ https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-rem
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
+https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago

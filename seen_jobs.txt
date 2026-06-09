@@ -1,13 +1,3 @@
-000100aiengineerfulllearnwithremotestackusdyear|crossover
-000800huechurabajuniorsoportetecnicoti|computrabajo
-0924analistajrpessoapreremotovendas|starian
-100adfargentinaazuredatadataengineerfactoryremoto|talentconnect
-100agentesautomatizacioniaingenieroremoto|muruna
-100aiengineerremoto|alten
-100aiengineerremoto|muruna
-100alertasanalistamonitoreoremoto|inpacttecnologasyprocesos
-100analistachiletrabajosjuniorqaremototesting|portal
-100analistaoperacionesremototi|nunegalconsulting
 100analystcetjuniormonitoringremoterisktimezone|bitfinex
 100awscloudengineerespanajuniorremoto|ust
 100awscloudengineerespanajuniorremoto|ustespaa
@@ -31,6 +21,7 @@
 2026abrildesarrolladorindeedjuniornuevostrabajos|portal
 2026abrilindeedinformaticojuniornuevosremototrabajos|portal
 2026abrilinformaticajuniornuevosseguridadtrabajos|portal
+2026asesoresejecutivosinversionestrainee|grupointeligencia
 2026backendindeedjuniormayonuevostrabajos|portal
 2026cloudindeedjuniormayonuevostrabajos|portal
 2026estrategiainiciajuniomonitoreopracticaprecios|samsungelectronics
@@ -106,6 +97,7 @@ administrativoegresadorecien|petricioindustrial
 administrativojunior|chiletrabajos
 administrativosoporteti|na
 adquisicionesanalista|empresaconfidencial
+advancedanalystdataenglishmanagement|ghd
 aeronauticoanalistacentroinstruccion|apasaprofessionalaviationservices
 afpanalistaassociateoperaciones|afpcuprum
 afpanalistacomunacondesestadisticasimportante|esencialstaff
@@ -173,6 +165,7 @@ aiengineerremote|sezzle
 aiengineerremoto|knowmadmood
 aiengineerresearch|tether
 aiengineersoftware|naya
+aiinternoperationssales|smartupholdings
 aiqualityanalystremote|jobsai
 allchileengineerlevelsmobile|sezzle
 allianceanalystpartnershipsaas|rindegastos
@@ -463,6 +456,7 @@ analystlogistic|vantive
 analystmarketing|cabify
 analystmathematical|remoteok
 analystoperationsales|mondelzinternational
+analystoperationssalesforce|jobgether
 analystpracticaproduct|principal
 analystqa|na
 analystqualityremotesoftware|hired
@@ -494,6 +488,7 @@ araucoasistentefalabellahrsmaipuvisual|falabella
 archiveaudiovisualdocumentalistpracticaprofesionaltecnica|warnerbrosdiscovery
 areabasedatospracticanteti|globaltalent
 areacencosudcontinuamejorapracticaproyectos|cencosud
+areacomericaloperacionespracticaprofesionalreparatuauto|reparatuauto
 areapracticanteriesgo|capitalexpress
 areapracticanteti|textillasamericas
 argentinaengineerjuniorremotesoftware|mixrank
@@ -832,6 +827,7 @@ engineerfrontendremote|quikhirestaffing
 engineerfrontend|mobena
 engineerfulljuniormidsoftwarestack|remoteok
 engineerfulljuniorproductstacktrainee|whoco
+engineerfullrailsrubystack|na
 engineerfullsoftwarestack|grupofalabella
 engineerfullsoftwarestack|na
 engineerfullstackremotesoftwarespain|cimpresstechnology
@@ -1015,6 +1011,7 @@ https://cl.linkedin.com/jobs/view/%C2%A1buscamos-practicante-de-ti%21-at-hospita
 https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muruna-4424278196
 https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4424654685
+https://cl.linkedin.com/jobs/view/4-ejecutivos-o-asesores-de-inversiones-trainee-2026-at-grupo-inteligencia-4422230398
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
 https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
@@ -1294,6 +1291,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
 https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
 https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
 https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
+https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-ghd-4412863750
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
@@ -1398,6 +1396,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-comerical-y-operaciones-reparatuauto-at-reparatuauto-4422233413
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
@@ -1451,7 +1450,9 @@ https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-m
 https://cl.linkedin.com/jobs/view/reemplazo-pre-y-post-natal-analista-entrenamiento-at-enaex-4424001302
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
 https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
+https://cl.linkedin.com/jobs/view/sales-ai-operations-intern-at-smartup-holdings-inc-4422243747
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
+https://cl.linkedin.com/jobs/view/salesforce-operations-analyst-at-jobgether-4425559755
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
@@ -1886,6 +1887,7 @@ https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
+https://www.getonbrd.com/jobs/senior-full-stack-ruby-on-rails-engineer-autoraptor-remote
 https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote
 https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e

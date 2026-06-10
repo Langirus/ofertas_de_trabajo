@@ -1,13 +1,3 @@
-afpassociateengineer|principal
-agentaicolombiaengineerremote|fullstack
-agentaiengineerremote|hirefeed
-agentaiengineer|tigabytescl
-agenticamericaantigravityengineergooglelatinremotesoftware|fullstack
-agenticamericaelixirengineerlatinremote|fullstack
-agenticamericaengineerlatinpythonremote|fullstack
-agenticdeployedengineerforwardplatform|remoteok
-agentsaiaiengineerimplementation|agendapro
-agfanalistanegociostransformacion|banchileinversiones
 agfanalistaproductivosoporte|banchileinversiones
 agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
 agileanalistaitproyectos|siigsa
@@ -140,6 +130,7 @@ analistabi|apiuxtech
 analistabpo|evertec
 analistabusinesschainintelligencesupply|bredenmaster
 analistabusinessintelligencejuniorseguros|computrabajo
+analistacalama|strabag
 analistacalidadcontrol|chiletrabajos
 analistacalidadgestion|chiletrabajos
 analistacampuscasacentralcuentasdireccionfinanzaspagarvalparaiso|universidadtcnicafedericosantamara
@@ -150,6 +141,7 @@ analistacanalesst547|salfarent
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
 analistacasagestionmatrizredsaludtiempo|redsaludprovidencia
+analistacctvoperador|clicksolutionsseguridadinteligente
 analistacencomallsmantenimiento|cencosud
 analistacencomallso2cprocesos|cencosud
 analistacertificaciones|agenciadeaduanasstein
@@ -318,6 +310,7 @@ analistapss|ingenierojob
 analistapss|vantazgroup
 analistaqasr|na
 analistaqa|na
+analistarancagua|strabag
 analistareasegurossiniestros|marshrisk
 analistarecaudacion|clnicasachssalud
 analistareclutamientoseleccion|arcoprime
@@ -328,6 +321,7 @@ analistarepuestos|finning
 analistariesgos|bancode
 analistascapitalhcmhumanmanagementtecnologia|deloitte
 analistaschainnetworkoperationssupply|deloitte
+analistascoring|scotiabank
 analistasistemas|novasisllc
 analistasistemas|teckresourceslimited
 analistasitiosoporte|softwareone
@@ -341,6 +335,7 @@ analistatcnicoaplicacinmypass|airbookspa
 analistavisado|acl
 analista|csi
 analista|na
+analista|rfplogistica
 analista|tauperforaciones
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
 analystanalyticsbusinessdigital|na
@@ -981,6 +976,7 @@ https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inve
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
 https://cl.linkedin.com/jobs/view/analista-aplication-security-at-deloitte-4400625323
 https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cuprum-4390624992
+https://cl.linkedin.com/jobs/view/analista-at-rfp-logistica-4427087344
 https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4424955187
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
@@ -1072,6 +1068,8 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraest
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-ti-junior-reemplazo-at-go-4425151186
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-y-analytics-at-wsp-en-chile-4421594415
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
+https://cl.linkedin.com/jobs/view/analista-de-p-c-calama-at-strabag-4427090351
+https://cl.linkedin.com/jobs/view/analista-de-p-c-rancagua-at-strabag-4427105127
 https://cl.linkedin.com/jobs/view/analista-de-placement-at-gallagher-4385589416
 https://cl.linkedin.com/jobs/view/analista-de-planta-at-coca-cola-andina-4422452897
 https://cl.linkedin.com/jobs/view/analista-de-presupuestos-at-sefutec-chile-4413610350
@@ -1165,6 +1163,7 @@ https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-441527
 https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-litio-4420441889
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
+https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
@@ -1349,6 +1348,7 @@ https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-441
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-at-sezzle-4082662210
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
+https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518

@@ -1,13 +1,3 @@
-abuseanalystdatafraudwaste|remoteok
-accesosanalistacontrol|tataconsultancyservices
-accessengineeridentitymanagementsoftware|remoteok
-accessengineeridentitysoftware|remoteok
-accountcontasexecutiveexecutivojrjuniorremoteremoto|dadosfera
-accountingchileengineerexperiencejuniorsoftwarewith|sezzle
-accountingchileengineerexperiencesoftwarewith|sezzle
-accountingengineerexperiencejuniorlatamsoftwarewith|sezzle
-accountingtrainee|btgpactual
-activosalternativosanalista|banchileinversiones
 activosciberseguridadingenieroprotecciontecnologicos|bancode
 activosgestormantenimientotecnico|chiletrabajos
 admanalisisangolapoyocdcinformacionjornadamcamediatecnico|ciudaddelnio
@@ -382,6 +372,7 @@ analista|na
 analista|tauperforaciones
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
 analystanalyticsbusinessdigital|na
+analystapplicationsdevelopmentprogrammer|citi
 analystappsdevintmdjavanetprogrammer|citi
 analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystassociateproduct|principal
@@ -396,6 +387,7 @@ analystcybersecurityjuniorremote|crossinghurdles
 analystdataintelligence|principal
 analystdatamanagement|experianspanish
 analystdatamexicoonlyremotesupporttechnical|varicent
+analystdataqa|blend
 analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hired
 analystdataremote|hirefeed
@@ -482,6 +474,7 @@ asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentelogistica|chiletrabajos
 asistenteprevencionriesgossantiago|plaenge
+asistentetalcatecnicotelecomunicaciones|serviciosdetelecomunicacionesolitel
 asistentetecnicoti|computrabajo
 asistentetesoreria|ludipek
 asistenteti|computrabajo
@@ -570,6 +563,7 @@ chileencuentrainformaticojuniornuevasofertassantiago|portal
 chileengineerjuniormobile|sezzle
 chileengineermobile|sezzle
 chileengineersoftware|sezzle
+chileepirocmemoristaspracticantes|epiroc
 chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
 chileingenierojuniormetropolitanaregionsantiagosistemas|portal
@@ -1196,6 +1190,7 @@ https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-
 https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-at-deloitte-4413742403
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
+https://cl.linkedin.com/jobs/view/applications-development-sr-programmer-analyst-at-citi-4426062205
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
@@ -1228,6 +1223,7 @@ https://cl.linkedin.com/jobs/view/asistente-marketing-digital-at-sfl-consulting-
 https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
 https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
+https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-telecomunicaciones-talca-at-servicios-de-telecomunicaciones-olitel-4426037691
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-principal-chile-4424638710
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
@@ -1271,6 +1267,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile
 https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
 https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-ghd-4412863750
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
+https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
@@ -1415,6 +1412,7 @@ https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
 https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
+https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
@@ -1423,6 +1421,7 @@ https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
+https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
 https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
@@ -1927,6 +1926,7 @@ informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
 infraestructurapracticaprofesionalrenovable|copec
+ingenieriamodernizacionpracticantertuscada|siemens
 ingenierointegracion|taglermaq
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis

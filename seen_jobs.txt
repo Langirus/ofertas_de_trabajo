@@ -1,13 +1,3 @@
-administradorjuniorsistemas|computrabajo
-administrativaareafacturacionpracticaprofesional|imagemaker
-administrativaasistente|chiletrabajos
-administrativapracticavespucio|salfarent
-administrativeadministrativoasistenteassistant|fugro
-administrativeampentrylevelofficeoperationsprofessionalsupport|remoteok
-administrativeentrylevelprofessional|remoteok
-administrativoadquisicionesantofagastaasistente|chiletrabajos
-administrativoareaasistentecapacitacion|freeportmcmoran
-administrativoasistenteatencionorientacion|chiletrabajos
 administrativoasistentefreelanceproyectos|chiletrabajos
 administrativoasistenteoperacionalseguridadvespertino|deloitte
 administrativoasistenteoperaciones|cortevaagriscience
@@ -234,6 +224,7 @@ analistacustomerexperience|arcoprime
 analistadatosencuestasestudios|na
 analistadatosfarmaciajr|iqvialaboratories
 analistadatosinteligenciajunioroperaciones|portal
+analistadatosjunior|computrabajo
 analistadatosjunior|siigroup
 analistadatosmaestrospracticante|sodimac
 analistadatosoperaciones|na
@@ -299,6 +290,7 @@ analistalegal|apexgroup
 analistalicitaciones|constructoragonzlezgarcaltda
 analistalicitacion|aramark
 analistalogistico|chiletrabajos
+analistamainframeremotosistema|getronics
 analistamejorasparticipesunidad|banchileinversiones
 analistamejoras|banchileinversiones
 analistametrologia|eurofarma
@@ -343,6 +335,7 @@ analistaqa|na
 analistareasegurossiniestros|marshrisk
 analistarecaudacion|clnicasachssalud
 analistareclutamientoseleccion|arcoprime
+analistaremotosuportetecnicotrabalho|bairesdev
 analistaremuneraciones|chiletrabajos
 analistaremuneraciones|smartcfo
 analistarepuestos|finning
@@ -615,6 +608,7 @@ consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
 consultoriapracticantestecnologia|deloitte
+consultorjuniorproyectossantiagoti|portal
 contenidoscreaciondigitaldisenopracticaprofesional|marketingpeople
 contratoindefindiojuniorprovidenciasoportetecnico|portal
 controldeseableingenieroprogramacion|chiletrabajos
@@ -854,6 +848,7 @@ excellenceinstoretrainee|beiersdorf
 experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
+fernandosantecnicotelecomunicaciones|chiletrabajos
 finanzaspracticaprofesionalsubgerencia|copec
 fortinetingenieroseguridad|sonda
 frontendhibridoingenieroleonteletrabajovue|hastengroup
@@ -870,6 +865,8 @@ https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
 https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
+https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
+https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
@@ -890,6 +887,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrado
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistema-juniorcontrato-indefinido-presencial-en-santiago-centro-07D60762639D8EA061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistemas-junior-aws-contrato-indefinido-en-santiago-centro-EE3A5EDD34B2B63A61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-business-intelligence-junior-seguros-las-condes-modelo-hibrido-en-santiago-las-condes-B568E62085497C7E61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-junior-pudahuel-en-santiago-pudahuel-91B776F4A671FEB261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
@@ -1613,6 +1611,7 @@ https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-application
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
+https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
@@ -1814,6 +1813,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-3848526
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
+https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-san-fernando-3849745
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-soporte-informatico-en-terreno-iv-region-ovalle-3839770

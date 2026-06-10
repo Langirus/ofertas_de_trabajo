@@ -1,12 +1,3 @@
-290630engineerfrontendnextrefremotework|bairesdev
-3190640informaticoingenierojuniorofertasrelacionadas|portal
-3321116informaticajuniorofertasrelacionadastecnico|portal
-42hrs5x2falabellafullplazaseguridadtimetraineevespucio|falabella
-44hrsfalabellalunesovalleseguridadtraineeviernes|falabella
-4809atraccioncelpracticantereclutamientotalentos|bancode
-5x2asistentebodegacostanerafalabellahorasrotativo|falabella
-5x2asistentefalabellafullnorteplazatimevisual|falabella
-5x2falabellafullhrsjornadapuenterotativoseguridadtimetrainee|falabella
 5x2falabellahrsindependenciamjtseguridadtrainee|falabella
 6960analistacod|rqingeniera
 719analistadatosjuniorley|acl
@@ -173,6 +164,7 @@ analistaasistentenegocios|gnfworldwide
 analistaasuntosejecutivolatamregulatorios|layk
 analistaatracciontalento|grupofalabella
 analistaatracciontalento|streatfood
+analistaauditoriariesgosti|deloitte
 analistaautomatizacionchiletrabajosdatosjunior|portal
 analistaautomatizacionchiletrabajosjuniorrpati|portal
 analistaautomatizaciondatosestudiantejunior|portal
@@ -566,6 +558,7 @@ cabanasmontanaspracticaturismovalle|chiletrabajos
 canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
 careerearlyengineersoftwaresystemswarfighter|remoteok
+casciosoportetecnico|motorolasolutions
 cctvseguridadsistemastecnico|chiletrabajos
 cencoexperienciamallspracticaproductoprofesionalsubgerencia|cencosud
 cencosuddesarrolloequipomediapracticaproducto|cencosud
@@ -786,6 +779,7 @@ electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
 empleosexperienciaindeedinformaticasin|portal
 empleosinformaticoingeniero|portal
+encargadopostventasoporteti|kubilockers
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticaingenieronuevasofertaspostulatepractica|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
@@ -1121,6 +1115,7 @@ https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella
 https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
+https://cl.linkedin.com/jobs/view/analista-de-riesgos-y-auditor%C3%ADa-ti-at-deloitte-4426529861
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
 https://cl.linkedin.com/jobs/view/analista-de-siniestros-de-reaseguros-at-marsh-risk-4419595403
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
@@ -1197,6 +1192,7 @@ https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
+https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-crm-dynamics-365-sr-at-ecosistemas-4422748564
 https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
 https://cl.linkedin.com/jobs/view/analista-tecnologico-control-ti-at-principal-chile-4382826105
 https://cl.linkedin.com/jobs/view/analista-ti-%E2%80%93-control-de-gesti%C3%B3n-at-inge%21-4419499896
@@ -1291,6 +1287,7 @@ https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
+https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lockers-4422746817
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
@@ -1479,6 +1476,8 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
+https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
+https://cl.linkedin.com/jobs/view/tecnico-soporte-cio-cas-at-motorola-solutions-4416299833
 https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
@@ -1921,6 +1920,7 @@ informaticajuniortelecomunicacionestrabajos|portal
 informaticajuniortrabajos|portal
 informaticapracticante|estandariso
 informaticapracticasoporte|voxa
+informaticaredessoportetecnico|mafem
 informaticoingenieropracticante|occimiano
 informaticoingeniero|ingenieracuatro
 informaticosoportetecnicoterreno|chiletrabajos

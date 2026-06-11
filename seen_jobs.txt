@@ -1,16 +1,3 @@
-agfanalistaproductivosoporte|banchileinversiones
-agileanalistaanalystanalystbusinessbusinessjuniorjuniorjuniornegociosti|computrabajo
-agileanalistaitproyectos|siigsa
-ahoraempleoencuentrainformaticajuniornuevasofertaspostulate|portal
-ahoraencuentraindeedinformaticajuniornuevasofertaspostulate|portal
-ahoraencuentraindeedinformaticojuniornuevasofertaspostulate|portal
-ahoraencuentrainformaticanuevasofertaspostulatepracticas|portal
-ahoraencuentrainformaticanuevasofertaspostulatetrainee|portal
-ahoraencuentrainformaticoingenieronuevasofertaspostulate|portal
-aiaiamericaengineergenerativelatinremotesoftware|azumo
-aianalystclientdataengagement|kraken
-aianalystgenerativeremotespanish|crossinghurdles
-aianalystlatamremote|echezgroup
 aianalystqualityremote|hired
 aianalystqualityremote|hirefeed
 aiappliedengineereurope|remoteok
@@ -46,6 +33,7 @@ aiengineerremotesoftware|hirefeed
 aiengineerremotetraining|hirefeed
 aiengineerremotetraining|quikhirestaffing
 aiengineerremotework|bairesdev
+aiengineerremote|airinvillia
 aiengineerremote|hirefeed
 aiengineerremote|kubikwarea5time5000company
 aiengineerremote|lumenalta
@@ -462,6 +450,7 @@ automationengineerqa|na
 automationengineersqa|hakalab
 automatizacionelectronicoingenierotecnico|chiletrabajos
 automatizacionpracticaprocesosprofesional|volta
+automatizadorfuncionaljuniorqa|na
 automatizadorpracticaprogramador|bancofalabella
 auxiliarchofer|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
@@ -771,6 +760,7 @@ engineergolangrailsrubysupport|equifax
 engineergolangremotesoftware|turing
 engineergradinfrastructurenewproductionsoftware|remoteok
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
+engineeriaremoto|genesys
 engineeria|mallplaza
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
@@ -832,6 +822,7 @@ estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
+experienciaimplementacioninformaticoingenieroredessistesistema|itg
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 fernandosantecnicotelecomunicaciones|chiletrabajos
 finanzaspracticaprofesionalsubgerencia|copec
@@ -850,6 +841,7 @@ https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
 https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
+https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163304
 https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
@@ -1282,6 +1274,7 @@ https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
+https://cl.linkedin.com/jobs/view/ia-engineer-remoto-at-genesys-4423168519
 https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
@@ -1290,6 +1283,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
+https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
@@ -1307,8 +1301,10 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-44177898
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
+https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliza-4423185390
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
+https://cl.linkedin.com/jobs/view/ingeniero-de-telecomunicaciones-de-red-at-acl-4423168550
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
@@ -1554,6 +1550,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-441827432
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
+https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
@@ -1877,6 +1874,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
+https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
@@ -1939,8 +1937,10 @@ ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
+ingenieroredtelecomunicaciones|acl
 ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision
+ingenierosoftwaresoporte|despapeliza
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoporte|gausscontrol

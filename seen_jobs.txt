@@ -1,16 +1,3 @@
-aianalystqualityremote|hired
-aianalystqualityremote|hirefeed
-aiappliedengineereurope|remoteok
-aiappliedengineer|remoteok
-aiartificialengineeringenierointeligenciasantiago|portal
-aiautomationdeveloperjuniorrpa|accenture
-aiautomationengineerfreelanceremote|guniaconsulting
-aiautomationengineerqassr|na
-aiautomationengineerqa|na
-aiautomationengineer|na
-aiautomationengineer|wdgroup
-aiawsengineerfullnativenestjsreactremotostack|junglegaming
-aichiefengineerhpcinfrastructurenetwork|epamsystems
 aichiefengineer|epamsystems
 aicolombiacostaengineerfullyremotericaworkflow|bellmccoyintegratedsolutions
 aicolombiaengineerlearningllmsmachineremote|echezgroup
@@ -52,6 +39,7 @@ allianceanalystpartnershipsaas|rindegastos
 altoasistentecondesfalabellafullhrstimevisual|falabella
 altoatencionautoserviciocajascondesfalabellahoraslunesprobadoresseguridadtraineeviernes|falabella
 altocondesfalabellafullhrslunesseguridadtimetraineeviernes|falabella
+altoengineerfullinglesremotosoftwarestack|ingenierojob
 alumnogastronomiapractica|chiletrabajos
 alumnologisticopracticatecnico|cydingeniera
 alumnopracticatic|enjoydigital
@@ -180,6 +168,7 @@ analistacontrolprocesos|bancofalabella
 analistacontrolprogramacionproyectos|motorolasolutions
 analistacontroltecnologicoti|principal
 analistacoordinaciontens|layner
+analistacorityplataformasantiago|ingenierojob
 analistacotizaciones|clairejosterpeoplefirst
 analistacrossselling|autofin
 analistacsoc|adaptivesecurity
@@ -487,6 +476,7 @@ basedatosdesarrolladorpractica|detacoopcooperativadeahorroycrdito
 basedatosremototecnico|knowmadmood
 bicencosudengineermedia|cencosud
 bigdataengineer|remoteok
+bilingueengineerfullgenaipythonreactremotostack|towasoftware
 blockchainengineerresearcher|fairgambling
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
 bpadesarrolladorpracticaprofesional|backspace
@@ -628,6 +618,7 @@ dataengineer|remoteok
 dataengineer|sodimac
 datajuniorscientist|confidential
 dataprocessanalyst|na
+dataprocessingspecialist|remoteok
 datascienceinternpricinganalytics|remoteok
 datascientist|na
 datosencargadoinformaticajuniorprocesamiento|portal
@@ -905,6 +896,7 @@ https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
+https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=7a4ec0f60869bf89
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5d
 https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
@@ -942,6 +934,7 @@ https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muru
 https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4424654685
 https://cl.linkedin.com/jobs/view/4-ejecutivos-o-asesores-de-inversiones-trainee-2026-at-grupo-inteligencia-4422230398
+https://cl.linkedin.com/jobs/view/account-executive-junior-at-avvale-4426192119
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
 https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
@@ -1138,6 +1131,7 @@ https://cl.linkedin.com/jobs/view/analista-onboarding-at-scotiabank-4424431997
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-pedidos-kl-at-oxxo-chile-4425258740
+https://cl.linkedin.com/jobs/view/analista-plataforma-cority-santiago-at-ingenierojob-4423174537
 https://cl.linkedin.com/jobs/view/analista-predictivo-puerto-at-teck-resources-limited-4423132797
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
@@ -1454,6 +1448,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-en-terreno-at-tivit-latam-4419632304
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-terreno-infraestructura-tecnol%C3%B3gica-at-accenture-chile-4426178885
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
@@ -1516,6 +1511,7 @@ https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-d
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427081120
+https://es.linkedin.com/jobs/view/full-stack-software-engineer-ingl%C3%A9s-alto-remoto-at-ingenierojob-4423190172
 https://es.linkedin.com/jobs/view/fullremote-ml-engineer-data-scientist-at-capitole-4421922333
 https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
@@ -1575,6 +1571,7 @@ https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
+https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
 https://mx.linkedin.com/jobs/view/integration-engineer-node-js-typescript-python-americas-remote-at-c-d-talent-advisory-academy-4422535116
 https://mx.linkedin.com/jobs/view/it-infrastructure-analyst-trabajo-remoto-at-bairesdev-4423932615
@@ -1595,6 +1592,7 @@ https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-st
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
+https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
@@ -1627,6 +1625,7 @@ https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305
 https://remoteOK.com/remote-jobs/remote-data-engineer-revenue-platform-spotify-1128972
 https://remoteOK.com/remote-jobs/remote-data-engineering-intern-refinedscience-1129807
 https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365
+https://remoteOK.com/remote-jobs/remote-data-processing-specialist-intetics-1133222
 https://remoteOK.com/remote-jobs/remote-data-science-intern-pricing-analytics-gametime-united-1130279
 https://remoteOK.com/remote-jobs/remote-devops-engineer-infstones-1130436
 https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565
@@ -1924,6 +1923,7 @@ informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
 infraestructurapracticaprofesionalrenovable|copec
+infraestructuratecnicotecnologicaterreno|accenture
 ingenieriamodernizacionpracticantertuscada|siemens
 ingenierointegracion|taglermaq
 ingenierojuniorsistemas|axity

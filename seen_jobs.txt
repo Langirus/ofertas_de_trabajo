@@ -1,20 +1,3 @@
-aiengineerfreelanceremote|hirefeed
-aiengineerfullstack|jobgether
-aiengineerfullstack|reveleer
-aiengineergenaiorchestration|nttdata
-aiengineerplatformremotetooling|sailpoint
-aiengineerplatformremotework|bairesdev
-aiengineerremotesoftware|hirefeed
-aiengineerremotetraining|hirefeed
-aiengineerremotetraining|quikhirestaffing
-aiengineerremotework|bairesdev
-aiengineerremote|airinvillia
-aiengineerremote|hirefeed
-aiengineerremote|kubikwarea5time5000company
-aiengineerremote|lumenalta
-aiengineerremote|qima
-aiengineerremote|sezzle
-aiengineerremoto|knowmadmood
 aiengineerresearch|tether
 aiengineersoftware|kashio
 aiengineersoftware|naya
@@ -443,6 +426,8 @@ awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
 awsdatosingeniero|na
+awsdevopsengineerjuniorremoto|ingenierojob
+awsdevopsengineerjuniorremoto|vermontsolutions
 awsdevopsengineerjunior|softserve
 awsdevopsengineer|epamsystems
 awsdevopsingeniero|empresaconfidencial
@@ -534,6 +519,7 @@ clientdeveloperengineereuropefullstackinternationalremote|thewhiteam
 climatizaciontecnico|chiletrabajos
 clinicalcodingtrainer|remoteok
 clouddatabaseengineeroperations|na
+clouddataengineerespanaremoto|oxigenttechnologies
 clouddataengineergcpgooglelatamplatform|avenuecode
 clouddevopsengineergcp|na
 clouddevopsengineermlopssre|na
@@ -589,6 +575,7 @@ dataengineergovernance|remoteok
 dataengineeringintern|remoteok
 dataengineerjr|accenture
 dataengineerjuniorremotework|bairesdev
+dataengineerjunior|nttdata
 dataengineerjunior|yellowipe
 dataengineerlooker|accenture
 dataengineerocipythonspark|na
@@ -704,6 +691,7 @@ electricidadingenierotecnico|chiletrabajos
 electricoexperienciaferroviariosingenierosistemas|chiletrabajos
 electricoingenieropmgdproyectos|andessolar
 electricoingeniero|chiletrabajos
+electricometropolitanaplantasregiontecnico|chiletrabajos
 electricoplantaproductivatecnico|chiletrabajos
 electromecanicoferreterorubrosoportetecnico|chiletrabajos
 electronicoingeniero|chiletrabajos
@@ -819,6 +807,7 @@ fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 generativaiaingenieropythonremoto|betweentechnology
 geotecnicomonitoreosupervisor|chiletrabajos
+gestionhumanapracticante|chiletrabajos
 gestioningenierotecnica|empresaconfidencial
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
@@ -920,6 +909,7 @@ https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
 https://cl.indeed.com/viewjob?jk=bf4f87007adbdc09
 https://cl.indeed.com/viewjob?jk=c0eed6929d9f1d80&from=tp-serp&tk=1jluq8rk4gcsg80i
 https://cl.indeed.com/viewjob?jk=ca30fc5e4007e7a4
+https://cl.indeed.com/viewjob?jk=cd8d74e77d8eb447
 https://cl.indeed.com/viewjob?jk=d4ccafc057ce092b
 https://cl.indeed.com/viewjob?jk=df23708fe564d178
 https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
@@ -1234,6 +1224,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
+https://cl.linkedin.com/jobs/view/data-engineer-junior-at-ntt-data-inc-4413650882
 https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
 https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
 https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
@@ -1490,6 +1481,7 @@ https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4
 https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
+https://es.linkedin.com/jobs/view/ai-automation-engineer-remote-es-uk-only-at-quadrivia-ai-4423653558
 https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-work-at-bairesdev-4424255475
 https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
@@ -1499,11 +1491,13 @@ https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nu
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
+https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-bark-com-4421170285
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
+https://es.linkedin.com/jobs/view/data-engineer-ml-cloud-remoto-espa%C3%B1a-at-oxigent-technologies-4417054884
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
@@ -1520,6 +1514,8 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experi
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
+https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-ingenierojob-4423644523
+https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-vermont-solutions-4426279339
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-4422213272
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4425259828
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
@@ -1781,6 +1777,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-junior-para-depto-ti-
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-junior-desarrollador-de-software-3620077
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
+https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-proyectos-integrados-3850655
 https://www.chiletrabajos.cl/trabajo/ingeniero-programacion-y-control-deseable-experiencia-obra-ferroviaria-vina-3846121
 https://www.chiletrabajos.cl/trabajo/it-junior-3839667
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
@@ -1792,6 +1789,7 @@ https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-
 https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/practicante-de-marketing-y-comunicaciones-3848547
+https://www.chiletrabajos.cl/trabajo/practicante-gestion-humana-3850658
 https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-software-interno-2818370
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
@@ -1802,6 +1800,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimien
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
+https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
@@ -1926,6 +1925,7 @@ infraestructurapracticaprofesionalrenovable|copec
 infraestructuratecnicotecnologicaterreno|accenture
 ingenieriamodernizacionpracticantertuscada|siemens
 ingenierointegracion|taglermaq
+ingenierointegradospreventaproyectos|chiletrabajos
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortrabajos|portal

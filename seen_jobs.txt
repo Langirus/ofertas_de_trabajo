@@ -1,10 +1,3 @@
-aiengineerresearch|tether
-aiengineersoftware|kashio
-aiengineersoftware|naya
-aiengineer|perform
-aiinternoperationssales|smartupholdings
-aiqualityanalystremote|jobsai
-airlinesdataengineerlatam|na
 allchileengineerlevelsmobile|sezzle
 allianceanalystpartnershipsaas|rindegastos
 altoasistentecondesfalabellafullhrstimevisual|falabella
@@ -101,6 +94,7 @@ analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
 analistaciberseguridadjunior|deloitte
 analistacienciadatos|steptherapy
+analistaclimaexperiencia|ita
 analistacmdbjunior|ktihunter
 analistacobolpagoprogramadorremotosistemastarjetas|profilesoftwareservices
 analistacobranzasoporte|bancofalabella
@@ -373,6 +367,7 @@ asesorgruasmaritimassantiagotecnico|liebherrmining
 asistemteinformaticosoporte|innovex
 asistenteatencionbancacasamatrizpersonalsantiago|bancode
 asistenteauditoriacontrolinventarios|chiletrabajos
+asistenteautomatismoslauoperaciones|chiletrabajos
 asistentebuscaestudiojuridicosantiago|chiletrabajos
 asistentecalidadchileinfraestructuraingenieriasacyrtalagante|sacyr
 asistentecapacitacion|ey
@@ -461,6 +456,7 @@ brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
 buscamospracticanteti|hospitaliainternationalgmbh
 businessanalystdigitalanalyticsbi|na
+businessconsultoronesaptecnicotrainee|seidor
 businessecommerceiniciainternjulionewpracticaprofesional|samsungelectronics
 businessengineerexperiencesoftware|codesignal
 businessinternationalpartnerproduction|krcher
@@ -1004,6 +1000,7 @@ https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
 https://cl.linkedin.com/jobs/view/analista-de-excelencia-operacional-at-cl%C3%ADnicas-achs-salud-4419618418
+https://cl.linkedin.com/jobs/view/analista-de-experiencia-y-clima-at-ita%C3%BA-chile-4427573803
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-fitoplancton-at-plancton-andino-4421152657
@@ -1451,6 +1448,7 @@ https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-437257568
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
 https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
+https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
@@ -1504,6 +1502,7 @@ https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-d
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427081120
+https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427561409
 https://es.linkedin.com/jobs/view/full-stack-software-engineer-ingl%C3%A9s-alto-remoto-at-ingenierojob-4423190172
 https://es.linkedin.com/jobs/view/fullremote-ml-engineer-data-scientist-at-capitole-4421922333
 https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411
@@ -1736,6 +1735,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
 https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
+https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789

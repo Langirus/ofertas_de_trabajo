@@ -1,9 +1,3 @@
-americaengineerlatinreactremote|bluelight
-americasengineerintegrationnodepythonremotetypescript|cdtalentadvisoryacademy
-anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
-analisisanalistaestategico|cencosud
-analisisanalistanegocioplanificacion|na
-analisisfinanzaspracticantereportes|epiroc
 analistaanalystbusinessdatosjunior|deloitte
 analistaanalyticsoperaciones|wspyargentina
 analistaandinolitionovaquimico|sqmlitio
@@ -73,6 +67,7 @@ analistachiletrabajosjunioroperacionesreemplazoti|portal
 analistachiletrabajosjuniorprogramadorsantiago|portal
 analistachiletrabajosjuniorsantiagoti|portal
 analistachiletrabajosprogramadorsantiagosoftware|portal
+analistaciberseguridadjunior|babel
 analistaciberseguridadjunior|deloitte
 analistacienciadatos|steptherapy
 analistaclimaexperiencia|ita
@@ -386,6 +381,7 @@ associateengineer|principal
 astropartnerstatictecnico|na
 australiaengineerfieldservice|remoteok
 automationengineergtm|remoteok
+automationengineerjavajuniortest|epamsystems
 automationengineerjavaqa|na
 automationengineermicrosoftplatformpower|na
 automationengineerproqa|kraken
@@ -474,6 +470,7 @@ chileepirocmemoristaspracticantes|epiroc
 chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
 chileingenierojuniormetropolitanaregionsantiagosistemas|portal
+chileingenierojuniorredes|serviciosdetelecomunicacionesolitel
 chiletrabajoschillaninformaticojunior|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosdeptoinformaticoingenierojuniorti|portal
@@ -963,6 +960,7 @@ https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-44169201
 https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
+https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-babel-4426915002
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-deloitte-4427086771
 https://cl.linkedin.com/jobs/view/analista-de-ciencia-de-datos-at-step-therapy-4425137626
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
@@ -1268,6 +1266,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
+https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-at-axity-4424644257
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
@@ -1307,6 +1306,7 @@ https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-437968
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
+https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517

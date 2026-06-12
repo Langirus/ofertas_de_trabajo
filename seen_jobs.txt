@@ -1,13 +1,3 @@
-analistaanalystbusinessdatosjunior|deloitte
-analistaanalyticsoperaciones|wspyargentina
-analistaandinolitionovaquimico|sqmlitio
-analistaanodefinidonominatermino|gallagher
-analistaaplicationsecurity|deloitte
-analistaaprovisionamientomesesproyecto|chiletrabajos
-analistaareahumedaplantasuperintendencia|codelcocorporacinnacionaldelcobrede
-analistaarquitecturadatos|na
-analistaartificialautomatizacioninteligenciajunior|portal
-analistaartificialautomatizacioninteligencia|afpplanvital
 analistaartificialinteligencia|principal
 analistaartificialinteligencia|principalfinancialgroup
 analistaas400programador|siigroup
@@ -383,6 +373,7 @@ australiaengineerfieldservice|remoteok
 automationengineergtm|remoteok
 automationengineerjavajuniortest|epamsystems
 automationengineerjavaqa|na
+automationengineerjavatest|epamsystems
 automationengineermicrosoftplatformpower|na
 automationengineerproqa|kraken
 automationengineerpythonqa|na
@@ -426,6 +417,7 @@ backendengineerremote|hirefeed
 backendengineersoftware|grupofalabella
 backendengineersoftware|haulmer
 backendengineersoftware|xepelin
+backendinformaticoingenierojuniorproyectosantiago|portal
 bancarioingenierosectorsre|na
 basedatosdesarrolladorpractica|detacoopcooperativadeahorroycrdito
 basedatosremototecnico|knowmadmood
@@ -434,6 +426,7 @@ bigdataengineer|remoteok
 bilingueengineerfullgenaipythonreactremotostack|towasoftware
 blockchainengineerresearcher|fairgambling
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
+bootdeveloperjavajuniorsoftwarespring|ingenierojob
 bpadesarrolladorpracticaprofesional|backspace
 brazildevelopmentengineersoftwaretest|remoteok
 brazilengineerjuniorremotesoftware|mixrank
@@ -593,6 +586,7 @@ desarrolladorfullnetstack|na
 desarrolladorfullstackjunior|avostech
 desarrolladorfullstackjunior|computrabajo
 desarrolladoriajuniorremoto|randstaddigitalespaa
+desarrolladoriapracticantepresencialquilicura|relixwater
 desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
 desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
@@ -1376,6 +1370,7 @@ https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-fin
 https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
+https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
@@ -1404,6 +1399,7 @@ https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
+https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-ingenierojob-4424884678
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
 https://cl.linkedin.com/jobs/view/software-engineer-go-at-commandlink-4423342216
@@ -1438,6 +1434,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s
 https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
 https://cl.linkedin.com/jobs/view/tecnico-soporte-cio-cas-at-motorola-solutions-4416299833
 https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
+https://cl.linkedin.com/jobs/view/test-automation-engineer-java-at-epam-systems-4424876065
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
@@ -1487,6 +1484,7 @@ https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistema
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
+https://es.linkedin.com/jobs/view/aws-big-data-engineer-remote-35-42k-at-the-board-people-talent-4427054292
 https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-bark-com-4421170285
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
@@ -1518,6 +1516,7 @@ https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-sp
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
+https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
@@ -1596,6 +1595,7 @@ https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
+https://portal.chiletrabajos.cl/empresa/wisely/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125

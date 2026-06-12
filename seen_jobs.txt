@@ -1,14 +1,3 @@
-analistabatchjunior|computrabajo
-analistabatchservicio|avostech
-analistabatchservicio|computrabajo
-analistabeneficios|empresassb
-analistabicontrolgestion|transyaezlogsticaydistribucin
-analistabiinformticoa|empresaconfidencial
-analistabi|apiuxtech
-analistabpo|evertec
-analistabusinesschainintelligencesupply|bredenmaster
-analistabusinessintelligencejuniorseguros|computrabajo
-analistacalama|strabag
 analistacalidadcontrol|chiletrabajos
 analistacalidadgestion|chiletrabajos
 analistacampuscasacentralcuentasdireccionfinanzaspagarvalparaiso|universidadtcnicafedericosantamara
@@ -132,6 +121,7 @@ analistagestionincidentesjuniorresolucion|acl
 analistagestionincidentesmonitoreoti|elitsoft
 analistagestionmodelo|veltis
 analistagestionpersonas|chileanrentacar
+analistagestionpersonas|rocktruck
 analistagestionsantiago|santander
 analistagtm|claro
 analistaiayautomatizacin|fullfunnel
@@ -181,6 +171,7 @@ analistaotec|unitedpipelinesystems
 analistapatologia|chiletrabajos
 analistapedidos|oxxo
 analistaphpprogramadorweb|siigsa
+analistaphpprogramador|hfsolutions
 analistaplacement|gallagher
 analistaplanta|cocacolaandina
 analistapossistemas|farmaciasahumada
@@ -400,6 +391,7 @@ backendengineersoftware|haulmer
 backendengineersoftware|xepelin
 backendinformaticoingenierojuniorproyectosantiago|portal
 bancarioingenierosectorsre|na
+bancogerenciaingenierosoftwaretecnologia|consorcio
 basedatosdesarrolladorpractica|detacoopcooperativadeahorroycrdito
 basedatosremototecnico|knowmadmood
 bicencosudengineermedia|cencosud
@@ -606,6 +598,7 @@ developerjavajuniorremotework|indistaffingservices
 developerjavascriptjuniorremotework|bairesdev
 developerjuniornoderemotework|indistaffingservices
 developerjuniorpythonremotework|indistaffingservices
+developerjuniorpython|evalueserve
 developerjuniorreactremotework|indistaffingservices
 developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
@@ -694,6 +687,7 @@ engineergradinfrastructurenewproductionsoftware|remoteok
 engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
 engineeriaremoto|genesys
 engineeria|mallplaza
+engineerinfrastructuresoftware|topsort
 engineerintermediatesoftware|equifax
 engineerintermediosoftware|na
 engineerinternsoftware|remoteok
@@ -977,6 +971,7 @@ https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-441060781
 https://cl.linkedin.com/jobs/view/analista-de-fitoplancton-at-plancton-andino-4421152657
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-personas-at-rocktruck-4428138756
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
@@ -1093,6 +1088,7 @@ https://cl.linkedin.com/jobs/view/analista-predictivo-puerto-at-teck-resources-l
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
+https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-4419651450
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
@@ -1220,6 +1216,7 @@ https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-g
 https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lockers-4422746817
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
+https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ai-data-at-ey-4426988728
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
@@ -1237,6 +1234,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-em
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
@@ -1288,6 +1286,7 @@ https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
+https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
@@ -1398,6 +1397,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-ii-at-comscore-inc-441474754
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-ii-marketing-mobile-at-sezzle-4404528205
 https://cl.linkedin.com/jobs/view/software-engineer-ii-with-accounting-experience-chile-at-sezzle-4340336457
+https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4428101576
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842

@@ -1,8 +1,3 @@
-americadataengineerlatinremote|bluelight
-americadjangoengineerlatinpythonremotesoftware|fullstack
-americaengineergolanglatinlevelmidremote|fullstack
-americaengineerlatinphpremotesoftware|fullstack
-americaengineerlatinpythonremote|fullstack
 americaengineerlatinreactremote|bluelight
 americasengineerintegrationnodepythonremotetypescript|cdtalentadvisoryacademy
 anaasistentebodegafalabellahorasjornadalunesmediamonttpuertoviernes|falabella
@@ -273,6 +268,7 @@ analiticaanalystbusinessdigitaljuniorproducto|computrabajo
 analystanalyticsbusinessdigital|na
 analystapplicationsdevelopmentprogrammer|citi
 analystappsdevintmdjavanetprogrammer|citi
+analystareadatalaboratoriorancagua|computrabajo
 analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystassociateproduct|principal
 analystbancabusinessingenieronextgenteletrabajo|ingenierojob
@@ -478,6 +474,7 @@ chileepirocmemoristaspracticantes|epiroc
 chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
 chileingenierojuniormetropolitanaregionsantiagosistemas|portal
+chiletrabajoschillaninformaticojunior|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosdeptoinformaticoingenierojuniorti|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
@@ -840,6 +837,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-analyst-area-laboratorio-rancagua-en-rancagua-B8D28135A7127A9861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-junior-en-talcahuano-1B9ECB2937331ED261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-web-junior-en-santiago-centro-EF1705FC7465859261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarror-backend-plsql-juniorllado-en-santiago-las-condes-BBA509586A017A3161373E686DCF3405
@@ -866,6 +864,7 @@ https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=652cc27229e840eb
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=7a4ec0f60869bf89
@@ -1755,6 +1754,7 @@ https://www.chiletrabajos.cl/trabajo/e391-ingeniero-ambiental-con-manejo-de-norm
 https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamiento-de-datos-y-ciberseguridad-3727290
 https://www.chiletrabajos.cl/trabajo/estamos-en-busca-de-practicantes-en-marketing-digital-3837338
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
+https://www.chiletrabajos.cl/trabajo/informatico-junior-3608849
 https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-3842267
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-ind-3841944

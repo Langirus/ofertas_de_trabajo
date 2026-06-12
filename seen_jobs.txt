@@ -1,9 +1,3 @@
-analistacalidadcontrol|chiletrabajos
-analistacalidadgestion|chiletrabajos
-analistacampuscasacentralcuentasdireccionfinanzaspagarvalparaiso|universidadtcnicafedericosantamara
-analistacanalesdigitalesjunior|afpplanvital
-analistacanalesdigitales|ita
-analistacanalesmultinacionales|southbridgecompaadeseguros
 analistacanalesst547|salfarent
 analistacapitaltrabajo|abbott
 analistacasacontinuamatrizmejoraredsalud|empresassb
@@ -301,6 +295,7 @@ aseoauxiliarcocina|chiletrabajos
 aseoauxiliaresftr|chiletrabajos
 aseoauxiliares|chiletrabajos
 aseoauxiliarhrsmaipu|chiletrabajos
+aseoauxiliarjuevesmartes|chiletrabajos
 aseoauxiliar|chiletrabajos
 asesorejecutivoinversionestrainee|grupointeligencia
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
@@ -452,6 +447,7 @@ chiletrabajosinformaticajuniorsantiagotecnico|portal
 chiletrabajosinformaticoingenierojuniorsoporteti|portal
 chiletrabajosingenierojuniorpreventasantiago|portal
 chiletrabajosingenierojuniorsantiagosistemas|portal
+chiletrabajosjuniorliderproyectosantiago|portal
 ciberseguridadcontratoindefingenierojunior|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadcontratoindingenierojunior|portal
@@ -1499,6 +1495,8 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experi
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
+https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427212009
+https://es.linkedin.com/jobs/view/junior-ai-engineer-genai-remoto-at-knowmad-mood-4426998942
 https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-ingenierojob-4423644523
 https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-vermont-solutions-4426279339
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-4422213272
@@ -1730,6 +1728,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
@@ -1779,6 +1778,7 @@ https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
 https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farmacia-maipu-3844418
+https://www.chiletrabajos.cl/trabajo/postular/3809354
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672

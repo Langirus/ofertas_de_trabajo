@@ -1,15 +1,3 @@
-analistaartificialinteligencia|principal
-analistaartificialinteligencia|principalfinancialgroup
-analistaas400programador|siigroup
-analistaasistentenegocios|gnfworldwide
-analistaasuntosejecutivolatamregulatorios|layk
-analistaatracciontalento|grupofalabella
-analistaatracciontalento|streatfood
-analistaauditoriariesgosti|deloitte
-analistaautomatizacionchiletrabajosdatosjunior|portal
-analistaautomatizacionchiletrabajosjuniorrpati|portal
-analistaautomatizaciondatosestudiantejunior|portal
-analistaautomatizaciondatos|na
 analistaautomatizaciondatos|randstad
 analistaautomatizaciondesarrolladorjuniorsantiago|portal
 analistaautomatizacionjuniorti|chiletrabajos
@@ -69,6 +57,7 @@ analistacombustible|lavel
 analistacomex|telotenemos
 analistacommercefuncionalmediospagoqa|na
 analistacompensaciones|empresaconfidencial
+analistacompensaciones|tannerbancodigital
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacomunicacionescorporativas|mallplaza
 analistacomunicacionesinternasregional|airproducts
@@ -116,6 +105,7 @@ analistadatosjunior|siigroup
 analistadatosmaestrospracticante|sodimac
 analistadatosoperacionalproteccionriesgo|genesys
 analistadatosoperaciones|na
+analistadatosti|apiuxtech
 analistadatos|ecrgroup
 analistadatos|tataconsultancyservices
 analistadedatosfinancieros|acl
@@ -250,6 +240,7 @@ analista|na
 analista|rfplogistica
 analista|tauperforaciones
 analiticaanalystbusinessdigitaljuniorproducto|computrabajo
+analystanalyticsbibusinessdigital|na
 analystanalyticsbusinessdigital|na
 analystapplicationsdevelopmentprogrammer|citi
 analystappsdevintmdjavanetprogrammer|citi
@@ -504,6 +495,7 @@ cloudengineerfullpythonsoftwarestack|remoteok
 cloudengineerfullstack|rycconsultoresasociados
 cloudengineerlevelmulti|na
 cloudengineersecurity|remoteok
+cloudgcpingeniero|na
 cloudopsecuadorengineerremote|connecttechtalent
 cloudprogrampublicsapseidortrainee|seidor
 cmsdesarrolladorpracticaprofesionalsoportetecnicoweb|enexum
@@ -905,6 +897,7 @@ https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petrici
 https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
 https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
+https://cl.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-latin-america-at-fullstack-4377025940
 https://cl.linkedin.com/jobs/view/ai-agent-engineer-at-tigabytes-cl-4426347545
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
@@ -959,6 +952,7 @@ https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-deloitte-
 https://cl.linkedin.com/jobs/view/analista-de-ciencia-de-datos-at-step-therapy-4425137626
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
+https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-tanner-banco-digital-4428107017
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
@@ -976,6 +970,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-labo
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
+https://cl.linkedin.com/jobs/view/analista-de-datos-ti-at-apiux-tech-4375281650
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
 https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
@@ -1474,6 +1469,7 @@ https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100
 https://es.linkedin.com/jobs/view/ai-automation-engineer-remote-es-uk-only-at-quadrivia-ai-4423653558
 https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-work-at-bairesdev-4424255475
 https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
+https://es.linkedin.com/jobs/view/ai-engineer-backend-remote-es-uk-only-at-quadrivia-ai-4424887846
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
@@ -1492,6 +1488,7 @@ https://es.linkedin.com/jobs/view/data-engineer-ml-cloud-remoto-espa%C3%B1a-at-o
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
+https://es.linkedin.com/jobs/view/devops-jr-engineer-azure-100%25-remoto-at-icalia-solutions-by-izertis-4424871458
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427081120
@@ -1518,6 +1515,7 @@ https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-caree
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
+https://es.linkedin.com/jobs/view/soc-analyst-l1-l2-%E2%80%93-incident-response-%E2%80%94-100%25-remote-spain-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4426981543
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
@@ -1828,6 +1826,7 @@ https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6
 https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bc-tecnologia-santiago-6212
+https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevideo-santiago-5f33
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevideo-santiago-f207
 https://www.getonbrd.com/jobs/cloud-devops-engineer-gcp-lisit-santiago
 https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-remote
@@ -1855,6 +1854,7 @@ https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a44
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago

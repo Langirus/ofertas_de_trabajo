@@ -1,6 +1,3 @@
-analistacontable|chiletrabajos
-analistacontable|saam
-analistacontinuacontrolgestionmejora|abbott
 analistacontinuajuniormejoraproyectos|afpplanvital
 analistacontinuidadjunioroperacional|prontopaga
 analistacontinuidadoperativasoporte|apiuxtech
@@ -266,6 +263,7 @@ aseoauxiliares|chiletrabajos
 aseoauxiliarhrsmaipu|chiletrabajos
 aseoauxiliarjuevesmartes|chiletrabajos
 aseoauxiliar|chiletrabajos
+aseoauxiliar|valparaisosporting
 asesorejecutivoinversionestrainee|grupointeligencia
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
 asesorgruasmaritimassantiagotecnico|liebherrmining
@@ -1104,6 +1102,7 @@ https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innov
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
+https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-triangular-inclusiva-4428374582
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
@@ -1141,6 +1140,7 @@ https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-j
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
+https://cl.linkedin.com/jobs/view/auxiliar-de-aseo-at-valparaiso-sporting-4428375535
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaci%C3%B3n-muestrera-at-impala-terminals-4003147802
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863

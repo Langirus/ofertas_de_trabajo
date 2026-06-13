@@ -1,10 +1,3 @@
-analistacondesestudiospresencial|smuunimarcm10alviysuper10
-analistacondicionesmonitoreo|finning
-analistaconocimientofinancierossistemassistemas|sonda
-analistaconsultorsistemas|mayroconsulting
-analistacontablecruzpalmillasanta|chiletrabajos
-analistacontableempresaindustrial|chiletrabajos
-analistacontablefijoplazo|saam
 analistacontable|chiletrabajos
 analistacontable|saam
 analistacontinuacontrolgestionmejora|abbott
@@ -299,6 +292,7 @@ asistentegerenciamaipu|chiletrabajos
 asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentelogistica|chiletrabajos
+asistenteotic|retailgroup
 asistenteprevencionriesgossantiago|plaenge
 asistentetalcatecnicotelecomunicaciones|serviciosdetelecomunicacionesolitel
 asistentetecnicoti|computrabajo
@@ -723,6 +717,7 @@ experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 experienciaimplementacioninformaticoingenieroredessistesistema|itg
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
+falabellafullhrsquilpueseguridadtimtrainee|falabella
 fernandosantecnicotelecomunicaciones|chiletrabajos
 finanzaspracticaprofesionalsubgerencia|copec
 fortinetingenieroseguridad|sonda
@@ -852,6 +847,7 @@ https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent
 https://cl.linkedin.com/jobs/view/4-ejecutivos-o-asesores-de-inversiones-trainee-2026-at-grupo-inteligencia-4422230398
 https://cl.linkedin.com/jobs/view/account-executive-junior-at-avvale-4426192119
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
+https://cl.linkedin.com/jobs/view/administrador-a-de-contratos-y-soporte-a-negocio-procurement-no-retail-at-sangmyung-university-4428368610
 https://cl.linkedin.com/jobs/view/administrative-assistant-asistente-administrativo-at-fugro-4419390031
 https://cl.linkedin.com/jobs/view/administrativo-a-soporte-ti-at-sangmyung-university-4418633606
 https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petricio-industrial-s-a-4418906036
@@ -1122,6 +1118,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-y-comunicaciones-at-remates-madrid-s-a-4420118527
+https://cl.linkedin.com/jobs/view/asistente-de-otic-at-retail-group-4428381599
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-ludipek-4418353551
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-youtopia-company-4423695460
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
@@ -1254,6 +1251,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-ingenier%C3%ADa-cuatro-s-a-4425135631
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
+https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02-at-cyd-ingenier%C3%ADa-4413121930
@@ -1420,6 +1418,7 @@ https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santand
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
 https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
+https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falabella-quilpu%C3%A9-at-falabella-4418447853
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
@@ -1912,6 +1911,7 @@ informaticapracticasoporte|voxa
 informaticaredessoportetecnico|mafem
 informaticoingenieropracticante|occimiano
 informaticoingeniero|chiletrabajos
+informaticoingeniero|industrial
 informaticoingeniero|ingenieracuatro
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act

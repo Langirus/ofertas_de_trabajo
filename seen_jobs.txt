@@ -1,9 +1,3 @@
-analistaciberseguridadjunior|babel
-analistaciberseguridadjunior|deloitte
-analistacienciadatos|steptherapy
-analistaclimaexperiencia|ita
-analistacmdbjunior|ktihunter
-analistacobolpagoprogramadorremotosistemastarjetas|profilesoftwareservices
 analistacobranzasoporte|bancofalabella
 analistacolinacontable|chiletrabajos
 analistacombustible|lavel
@@ -15,6 +9,7 @@ analistacompensaciones|tannerbancodigital
 analistacomprasmaipusucursal|anfrunsmotorsdercocenter
 analistacomunicacionescorporativas|mallplaza
 analistacomunicacionesinternasregional|airproducts
+analistacomunicacionesjunior|sacyr
 analistacondesestudiospresencial|smuunimarcm10alviysuper10
 analistacondicionesmonitoreo|finning
 analistaconocimientofinancierossistemassistemas|sonda
@@ -156,6 +151,7 @@ analistaplanta|cocacolaandina
 analistapossistemas|farmaciasahumada
 analistapracticasoportetecnico|grupofalabella
 analistapredictivopuerto|teckresourceslimited
+analistapreparadorquimico|abbott
 analistapresupuestos|sefutec
 analistaprocesosti|experis
 analistaprocesos|skyairline
@@ -202,6 +198,7 @@ analystanalyticsbibusinessdigital|na
 analystanalyticsbusinessdigital|na
 analystapplicationsdevelopmentprogrammer|citi
 analystappsdevintmdjavanetprogrammer|citi
+analystappsdevintmdjavaprogrammer|citi
 analystareadatalaboratoriorancagua|computrabajo
 analystassociatechiletrabajosjuniornivelprogrammer|portal
 analystassociateproduct|principal
@@ -925,6 +922,7 @@ https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-tanner-banco-digital-4428107017
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
+https://cl.linkedin.com/jobs/view/analista-de-comunicaciones-junior-r-m-at-sacyr-4397608806
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
@@ -1085,6 +1083,7 @@ https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
 https://cl.linkedin.com/jobs/view/analista-qa-funcional-medios-de-pago-at-bc-tecnolog%C3%ADa-4424799496
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
+https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-preparador-at-abbott-4424919469
 https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-litio-4420441889
 https://cl.linkedin.com/jobs/view/analista-reabastecimiento-gerencia-omnichannel-supply-chain-at-walmart-chile-4428102676
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
@@ -1108,6 +1107,7 @@ https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-a
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/applications-development-sr-programmer-analyst-at-citi-4426062205
+https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4427282494
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565

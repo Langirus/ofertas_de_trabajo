@@ -1,5 +1,3 @@
-analistacobranzasoporte|bancofalabella
-analistacolinacontable|chiletrabajos
 analistacombustible|lavel
 analistacomex|telotenemos
 analistacomisiones|empresaconfidencial
@@ -62,6 +60,7 @@ analistadedatosfinancieros|acl
 analistadepositofranco|swissport
 analistadesarrollador|apexgroup
 analistadesarrollomantenimientosistemassistemastecnologica|bancode
+analistadesenvolvimentohomejrofficeweb|solinftec
 analistadesistemasporreemplazo|cencosudscotiabank
 analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
 analistadespliegueexplotacion|actis
@@ -753,6 +752,7 @@ https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-arge
 https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163304
 https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
+https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943

@@ -1,10 +1,3 @@
-analistacontinuidadoperativasoporte|apiuxtech
-analistacontratosproveedores|grupofalabella
-analistacontrolemergenciagestionmaipu|abastible
-analistacontrolempresaeventosfinancierogestionmusica|consultorapsicolab
-analistacontrolfijonegocioplazosantiagoseguimiento|santander
-analistacontrolgerenciagestiontecnica|johnsoncontrols
-analistacontrolgestionjuniorregional|nubox
 analistacontrolgestionjunior|isapreconsalud
 analistacontrolgestionreportabilidad|pulsosalud
 analistacontrolgestionsistemas|agencynetwork
@@ -212,6 +205,7 @@ analystmarketing|cabify
 analystmathematical|remoteok
 analystmultimodalityqualityremote|turing
 analystoperationsales|mondelzinternational
+analystoperationsremoterevenuesaas|bizneohr
 analystoperationssalesforce|jobgether
 analystpracticaproduct|principal
 analystqa|na
@@ -343,6 +337,7 @@ backdeveloperend|na
 backendbrazildataengineerengineerplatformremote|georgiateksystems
 backendchileingenierojuniormetropolitanaregionsantiago|portal
 backendchiletrabajosinformaticoingenierojuniorproyecto|portal
+backendclojureengineerlatampythonremotesoftware|gracemarksolutions
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineerremotespain|barkcom
@@ -535,6 +530,7 @@ desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
 desarrolladorpracticante|geolize
 desarrollofullpracticantestack|chiletrabajos
+desarrollohomeliderofficesoftwaretecnico|towasoftware
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieroinnovacion|fdaingenieros
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
@@ -1502,6 +1498,7 @@ https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-caree
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
+https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
 https://es.linkedin.com/jobs/view/soc-analyst-l1-l2-%E2%80%93-incident-response-%E2%80%94-100%25-remote-spain-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4426981543
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
@@ -1560,6 +1557,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
+https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
@@ -1679,6 +1677,7 @@ https://www.chiletrabajos.cl/trabajo/3804158
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880
 https://www.chiletrabajos.cl/trabajo/3846992
+https://www.chiletrabajos.cl/trabajo/3847408
 https://www.chiletrabajos.cl/trabajo/3847504
 https://www.chiletrabajos.cl/trabajo/3848014
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
@@ -1881,6 +1880,7 @@ https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
+https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%80%93-remote-latam-at-gracemark-solutions-4428393820
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887

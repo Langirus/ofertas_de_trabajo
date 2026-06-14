@@ -1,6 +1,3 @@
-analistacsoc|adaptivesecurity
-analistacuentaspagar|grupofalabella
-analistacuentaspagar|viaconchaytoro
 analistacumplimiento|stratech
 analistacustomerexperience|arcoprime
 analistadatosencuestasestudios|na
@@ -626,6 +623,7 @@ engineerfulljuniorproductstacktrainee|whoco
 engineerfullrailsrubystack|na
 engineerfullsoftwarestack|grupofalabella
 engineerfullsoftwarestack|na
+engineerfullstacknodereactremote|quikhirestaffing
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
 engineerfullstacksoftware|grupofalabella
@@ -1124,6 +1122,7 @@ https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-telecomunicaciones-talc
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-principal-chile-4424638710
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
+https://cl.linkedin.com/jobs/view/associate-internship-chile-2026-at-boston-consulting-group-bcg-4368747430
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
@@ -1539,6 +1538,7 @@ https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
+https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308
 https://mx.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-de-operaciones-it-%E2%80%93-remoto-con-una-visita-al-mes-at-corus-consulting-an-alten-company-4427651335
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
 https://mx.linkedin.com/jobs/view/integration-engineer-node-js-typescript-python-americas-remote-at-c-d-talent-advisory-academy-4422535116

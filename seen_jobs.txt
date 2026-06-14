@@ -1,9 +1,3 @@
-analistacumplimiento|stratech
-analistacustomerexperience|arcoprime
-analistadatosencuestasestudios|na
-analistadatosfarmaciajr|iqvialaboratories
-analistadatosinteligenciajunioroperaciones|portal
-analistadatosjunior|computrabajo
 analistadatosjunior|siigroup
 analistadatosmaestrospracticante|sodimac
 analistadatosoperacionalproteccionriesgo|genesys
@@ -241,6 +235,7 @@ aseoauxiliarhrsmaipu|chiletrabajos
 aseoauxiliarjuevesmartes|chiletrabajos
 aseoauxiliar|chiletrabajos
 aseoauxiliar|valparaisosporting
+asesorcapacitadorherramientasrancaguatalcatecnico|grupo360
 asesorejecutivoinversionestrainee|grupointeligencia
 asesoresejecutivosexperienciaexperienciainversionessin|grupointeligencia
 asesorferreteroherramientasrubrosantiagotecnico|chiletrabajos
@@ -597,6 +592,7 @@ electronicoingeniero|chiletrabajos
 electronicoinstrumentistajuniortecnico|chiletrabajos
 empleosexperienciaindeedinformaticasin|portal
 empleosinformaticoingeniero|portal
+empresaingenieriapracticante|chiletrabajos
 encargadopostventasoporteti|kubilockers
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticaingenieronuevasofertaspostulatepractica|portal
@@ -1387,6 +1383,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofag
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
@@ -1413,6 +1410,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falab
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
+https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-5x2-falabella-plaza-tr%C3%A9bol-at-falabella-4400603787
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-l-a-v-44-hrs-falabella-puerto-montt-at-falabella-4385167948
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-jornada-full-time-44-hrs-5x2-rotativo-falabella-puente-at-falabella-4380601265
@@ -1421,6 +1419,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-cent
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
+https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
 https://co.linkedin.com/jobs/view/ai-analyst-%E2%80%93-remote-latam-at-echez-group-4419314081
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
@@ -1776,6 +1775,7 @@ https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/practicante-de-marketing-y-comunicaciones-3848547
 https://www.chiletrabajos.cl/trabajo/practicante-gestion-humana-3850658
+https://www.chiletrabajos.cl/trabajo/practicante-para-empresa-de-ingenieria-3852044
 https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-software-interno-2818370
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115

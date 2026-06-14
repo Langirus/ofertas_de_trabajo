@@ -1,5 +1,3 @@
-analistacontinuajuniormejoraproyectos|afpplanvital
-analistacontinuidadjunioroperacional|prontopaga
 analistacontinuidadoperativasoporte|apiuxtech
 analistacontratosproveedores|grupofalabella
 analistacontrolemergenciagestionmaipu|abastible
@@ -1437,6 +1435,7 @@ https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-re
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
+https://co.linkedin.com/jobs/view/junior-inventory-purchasing-specialist-remote-at-mpr-tools-equipment-4427293994
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
@@ -1945,6 +1944,7 @@ internacionalscouting|revivalfootball
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany
 internsdet|remoteok
+inventoryjuniorpurchasingremotespecialist|mprtoolsequipment
 itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
 itsupporttrainee|cumplo
 jornadamediaparvulostecnico|chiletrabajos

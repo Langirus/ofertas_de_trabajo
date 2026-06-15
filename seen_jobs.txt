@@ -1,16 +1,3 @@
-analistagestionmodelo|veltis
-analistagestionpersonas|chileanrentacar
-analistagestionpersonas|rocktruck
-analistagestionsantiago|santander
-analistagtm|claro
-analistaiayautomatizacin|fullfunnel
-analistaimplementadorproyectos|generahrdigital
-analistaincidentesnivelpoolsoctalent|babel
-analistaincorporacionrdt|reddealimentos
-analistaindeedjuniornuevosprogramadortrabajos|portal
-analistainformacionintermediojuniorseguridad|portal
-analistainformacionseguridad|bancofalabella
-analistainformacionseguridad|bancoripley
 analistainformacionseguridad|femsasalud
 analistainfraestructurajronsite|ecosistemas
 analistainfraestructuraoperacionesoperaciones|mutualidaddecarabinerosmutucar
@@ -117,6 +104,7 @@ analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
 analystcommerceinglesqa|na
 analystcoreopsdata|sumup
 analystcybersecurityjuniorremote|crossinghurdles
+analystdatainsightsjrreporting|na
 analystdataintelligence|principal
 analystdatamanagement|experianspanish
 analystdatamexicoonlyremotesupporttechnical|varicent
@@ -412,6 +400,7 @@ controlingenierooperacional|chilexpress
 controlingenieroplanificacion|chiletrabajos
 controlingenieroprogramacionrysfa|cydingeniera
 controlingenieroproyecto|ghd
+controlsoporte|tecnologiainformatica
 coreengineeriosproductsoftware|speechify
 corporativospracticariesgos|airlines
 cosasinternetpracticas|bwhale
@@ -665,6 +654,7 @@ experienciaimplementacioninformaticoingenieroredessistesistema|itg
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 falabellafullhrsquilpueseguridadtimtrainee|falabella
 fernandosantecnicotelecomunicaciones|chiletrabajos
+fibranetworkingopticaredessoportetecnicotelecomunicacionesti|atcom
 finanzaspracticaprofesionalsubgerencia|copec
 fortinetingenieroseguridad|sonda
 frontendhibridoingenieroleonteletrabajovue|hastengroup
@@ -687,6 +677,7 @@ https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-blueligh
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://ar.linkedin.com/jobs/view/software-engineer-latam-at-trashlab-4428651868
 https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163304
+https://br.linkedin.com/jobs/view/analista-de-dados-ia-remoto-at-getronics-4426422867
 https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
 https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-remoto-e-local-%E2%80%93-porto-alegre-%E2%80%93-rs-at-buscarvagas-empregos-brasil-4425770280
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
@@ -1206,6 +1197,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-44177898
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
+https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliza-4423185390
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
@@ -1245,6 +1237,7 @@ https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-exper
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
+https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ti-at-empresa-confidencial-4426471019
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
@@ -1361,6 +1354,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-44
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
+https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-4429120736
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-stefanini-group-4427211763
@@ -1371,6 +1365,7 @@ https://cl.linkedin.com/jobs/view/soporte-sap-n1-at-genesys-4417645740
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-4417980714
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
+https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
@@ -1382,6 +1377,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-en-terreno-at-tivit-la
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-terreno-infraestructura-tecnol%C3%B3gica-at-accenture-chile-4426178885
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-telecomunicaciones-y-redes-fibra-%C3%B3ptica-networking-soporte-ti-at-atcom-chile-4429127857
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
@@ -1820,6 +1816,7 @@ https://www.getonbrd.com/jobs/cloud-engineer-azure-iot-improving-south-america-r
 https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-remote
 https://www.getonbrd.com/jobs/cloud-operations-database-engineer-signant-health-remote
 https://www.getonbrd.com/jobs/contract-software-engineer-integrations-front-end-travefy-remote
+https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterrey
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
@@ -1938,6 +1935,7 @@ ingenierosoftwaresoporte|despapeliza
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoporte|gausscontrol
+ingenierosoporte|tecnologiainformatica
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
 internoperationsremote|edp
@@ -1967,6 +1965,7 @@ juniorsoftwareengineerremote|quikhirestaffing
 juniorsoportetecnico|actis
 lidernodereacttecnico|acl
 lidersoportetecnico|na
+lidertecnicoti|empresaconfidencial
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
 mantenimientotecnico|carlsjr
@@ -1996,5 +1995,6 @@ sapsoporte|genesys
 soportetecnicoterreno|tivit
 soportetecnicoti|chiletrabajos
 soportetecnicousuario|chiletrabajos
+soporteti|sermaluc
 soporte|bechtelcorporation
 trainee|pisafarmacutica

@@ -1,8 +1,3 @@
-analistadatosoperaciones|na
-analistadatosprocesosproteccion|genesys
-analistadatosti|apiuxtech
-analistadatos|ecrgroup
-analistadatos|tataconsultancyservices
 analistadedatosfinancieros|acl
 analistadepositofranco|swissport
 analistadesarrollador|apexgroup
@@ -297,6 +292,7 @@ auxiliargeneraleslimpiezaservicios|chiletrabajos
 auxiliarhrsparttecnicotime|chiletrabajos
 auxiliarmuestreraoperacion|impalaterminals
 auxiliarremotosoporte|energyza
+auxiliar|enginecar
 awsbootdesarrolladorjavaspring|na
 awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
 awsdatadatalakeengineer|na
@@ -708,6 +704,7 @@ generativaiaingenieropythonremoto|betweentechnology
 geotecnicomonitoreosupervisor|chiletrabajos
 gestionhumanapracticante|chiletrabajos
 gestioningenierotecnica|empresaconfidencial
+gestionoperacionestrainee|huevoslacampestre
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
@@ -1122,6 +1119,7 @@ https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
+https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/auxiliar-de-aseo-at-valparaiso-sporting-4428375535
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaci%C3%B3n-muestrera-at-impala-terminals-4003147802
@@ -1404,6 +1402,7 @@ https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santand
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
 https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
+https://cl.linkedin.com/jobs/view/trainee-de-gesti%C3%B3n-y-operaciones-at-huevos-la-campestre-4425763360
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falabella-quilpu%C3%A9-at-falabella-4418447853
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
@@ -1477,6 +1476,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-te
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
 https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427212009
+https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427439842
 https://es.linkedin.com/jobs/view/junior-ai-engineer-genai-remoto-at-knowmad-mood-4426998942
 https://es.linkedin.com/jobs/view/junior-angular-developer-remoto-at-vermont-solutions-4427244025
 https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-ingenierojob-4423644523

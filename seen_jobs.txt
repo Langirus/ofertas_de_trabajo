@@ -1,18 +1,3 @@
-analistadesistemasporreemplazo|cencosudscotiabank
-analistadesistemassrdesarrollosistemasmantenimientoyevolucintecnologica|bancodechile
-analistadespliegueexplotacion|actis
-analistadevelopmentespanafuncionallmsmoodlephpremotoweb|thewhiteam
-analistadinerolavadoprevencion|bancofalabella
-analistadineromesa|bancode
-analistaemision|empresaconfidencial
-analistaentrenamientonatalpostprereemplazo|enaex
-analistaerpinteligenciajuniornegociossoporte|importadorayexportadoraintermex
-analistaerpinteligenciajuniornegociossoporte|portal
-analistaeventos|deloitte
-analistaeventos|johnsonjohnsoninnovativemedicine
-analistaeventos|mygwork
-analistaexcelenciaoperacional|clnicasachssalud
-analistaexterno|s3groups
 analistafacturacion|chiletrabajos
 analistafacturacion|soho
 analistafalabellagestionrealsegurostiempo|bancofalabella
@@ -24,6 +9,7 @@ analistaflexitremuneraciones|falabella
 analistaflota|finning
 analistafondos|apexgroup
 analistaforestal|freyaconsulting
+analistaformacionpredictivo|imc
 analistafraudeinvestigacionmonitoreoprevencionreclamos|computrabajo
 analistafreshfuncionalgraduatesmejorasprogramasistemas|sonda
 analistafuncionalmediospagoqa|bctecnologa
@@ -181,6 +167,7 @@ analystquantitative|jobgether
 analystsoftwaresupporttechnical|murex
 analyticsdatadataengineerengineertrainee|na
 analyticsdataengineeringpracticante|falabella
+analyticsdataforkpractica|fork
 analyticsdatapractica|falabella
 analyticsengineer|remoteok
 androidchiefengineer|epamsystems
@@ -417,6 +404,7 @@ compindcndeptojuniornacionalprogramador|portal
 comprasingeniero|enaex
 computacionalingenierovision|computrabajo
 computacionalpracticaprofesionalserviciotecnico|bitumix
+computeriaingenierovision|deliryumai
 comunicacionesinterninternaspracticante|dhlglobalforwarding
 comunicacionesmarketingpracticante|chiletrabajos
 concepcioningenieroinspector|chiletrabajos
@@ -614,6 +602,7 @@ engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
 engineerfullstacksoftware|grupofalabella
 engineerfullstack|kibernum
+engineergenaiplatform|deloitte
 engineergenaisecurity|remoteok
 engineergenai|epamsystems
 engineergolangrailsrubysupport|equifax
@@ -693,6 +682,7 @@ finanzaspracticaprofesionalsubgerencia|copec
 fortinetingenieroseguridad|sonda
 frontendhibridoingenieroleonteletrabajovue|hastengroup
 fullingenierointegracionessoftwarestack|rrresourcerecourse
+fullingenierojuniorsoftwarestack|grupoo2
 fullingenierojuniorstack|apiuxtech
 fulljuniormarketermidperformanceremotespain|everai
 fullstackcloudplatformengineeriot|na
@@ -898,6 +888,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
 https://cl.linkedin.com/jobs/view/analista-de-cuentas-por-pagar-direcci%C3%B3n-de-finanzas-campus-casa-central-valpara%C3%ADso-at-universidad-tecnica-federico-santa-maria-4423562375
 https://cl.linkedin.com/jobs/view/analista-de-cumplimiento-at-stratech-corp-4420725350
+https://cl.linkedin.com/jobs/view/analista-de-custodia-at-penta-vida-4426416210
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-ecrgroup%C2%AE-chile-4417949911
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-tata-consultancy-services-4426360833
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
@@ -1033,6 +1024,7 @@ https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4
 https://cl.linkedin.com/jobs/view/analista-pedidos-kl-at-oxxo-chile-4425258740
 https://cl.linkedin.com/jobs/view/analista-planta-superintendencia-%C3%A1rea-humeda-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4427140184
 https://cl.linkedin.com/jobs/view/analista-plataforma-cority-santiago-at-ingenierojob-4423174537
+https://cl.linkedin.com/jobs/view/analista-predictivo-en-formaci%C3%B3n-at-imc-ingenier%C3%ADa-en-monitoreo-de-condiciones-4426411263
 https://cl.linkedin.com/jobs/view/analista-predictivo-puerto-at-teck-resources-limited-4423132797
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
@@ -1185,6 +1177,7 @@ https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
+https://cl.linkedin.com/jobs/view/genai-platform-engineer-at-deloitte-4427029333
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
 https://cl.linkedin.com/jobs/view/ia-engineer-remoto-at-genesys-4423168519
@@ -1196,6 +1189,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-em
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
@@ -1204,10 +1198,12 @@ https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-ac
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
+https://cl.linkedin.com/jobs/view/ingeniero-de-ia-computer-vision-at-deliryum-ai-4426422158
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
+https://cl.linkedin.com/jobs/view/ingeniero-de-nube-at-zenta-group-4427550651
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
@@ -1246,6 +1242,7 @@ https://cl.linkedin.com/jobs/view/it-infrastructure-analyst-at-solventum-4422781
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/it-support-trainee-at-cumplo-4422214414
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
+https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
@@ -1271,6 +1268,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-at-falabella-4409123396
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-fork-at-fork-chile-4426402421
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-de-base-de-datos-at-detacoop-cooperativa-de-ahorro-y-cr%C3%A9dito-4422390104
@@ -1780,6 +1778,7 @@ https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-soft
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
+https://www.chiletrabajos.cl/trabajo/sap-gr-consultor-analista-de-negocios-3851856
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
@@ -1926,6 +1925,7 @@ ingenierojuniortrabajos|portal
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromultidisciplina|ghd
+ingenieronube|zentagroup
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow

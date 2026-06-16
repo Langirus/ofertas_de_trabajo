@@ -1,13 +1,3 @@
-analistanetqaserversql|unbc
-analistaonboarding|scotiabank
-analistaopenshiftvirtualization|delmartechnologygroup
-analistaoperacionalsistemassoporte|ikea
-analistaoperacionesti|siigsa
-analistaoperaciones|banchileinversiones
-analistaoperaciones|mailamericas
-analistaotec|unitedpipelinesystems
-analistapatologia|chiletrabajos
-analistapedidos|oxxo
 analistaphpprogramadorweb|siigsa
 analistaphpprogramador|hfsolutions
 analistaplacement|gallagher
@@ -85,6 +75,7 @@ analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hired
 analystdataremote|hirefeed
 analystdataremote|quikhirestaffing
+analystdata|bancofalabella
 analystdata|equifax
 analystdata|groupesii
 analystdata|mallplaza
@@ -463,6 +454,7 @@ developerfulljuniorlaravelstackvuejs|appetiser
 developerfulljuniorstack|ironsidefitness
 developerinternalsoftware|pluttoycs22
 developerinternsoftware|remoteok
+developerjavajuniorremotework|bairesdev
 developerjavajuniorremotework|indistaffingservices
 developerjavascriptjuniorremotework|bairesdev
 developerjuniornoderemotework|indistaffingservices
@@ -649,6 +641,7 @@ gestionhumanapracticante|chiletrabajos
 gestioningenierotecnica|empresaconfidencial
 gestionoperacionestrainee|huevoslacampestre
 gpsmonitortecnicoti|nortrans
+herramientasindustrialmaquinamecanicotecnico|chiletrabajos
 https://ar.linkedin.com/jobs/view/ai-engineer-latam-at-kreitech-4426486047
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
@@ -686,6 +679,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrado
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistemas-junior-aws-contrato-indefinido-en-santiago-centro-EE3A5EDD34B2B63A61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-business-intelligence-junior-seguros-las-condes-modelo-hibrido-en-santiago-las-condes-B568E62085497C7E61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-junior-pudahuel-en-santiago-pudahuel-91B776F4A671FEB261373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-automatizacion-sql-python-java-etl-en-santiago-providencia-E8735B25A6BBE43E61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
@@ -988,6 +982,7 @@ https://cl.linkedin.com/jobs/view/analista-onboarding-at-scotiabank-4424431997
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-pedidos-kl-at-oxxo-chile-4425258740
+https://cl.linkedin.com/jobs/view/analista-planificaci%C3%B3n-financiera-at-banco-falabella-4429704049
 https://cl.linkedin.com/jobs/view/analista-planta-superintendencia-%C3%A1rea-humeda-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4427140184
 https://cl.linkedin.com/jobs/view/analista-plataforma-cority-santiago-at-ingenierojob-4423174537
 https://cl.linkedin.com/jobs/view/analista-predictivo-en-formaci%C3%B3n-at-imc-ingenier%C3%ADa-en-monitoreo-de-condiciones-4426411263
@@ -1098,6 +1093,7 @@ https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
+https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4410224504
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
 https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
@@ -1158,6 +1154,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-em
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4426468037
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-provisi%C3%B3n-at-artikos-4428077329
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
@@ -1786,6 +1783,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-384852
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-san-fernando-3849745
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
+https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herramientas-3850704
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-soporte-informatico-en-terreno-iv-region-ovalle-3839770
 https://www.chiletrabajos.cl/trabajo/tecnico-trainee-prevencion-de-riesgos-3843652
@@ -1879,6 +1877,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
+https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
@@ -1925,6 +1924,7 @@ ingenieronube|zentagroup
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
+ingenieroprovision|artikos
 ingenieroproyectos|computrabajo
 ingenieroredessoporteterrenoti|nttdata
 ingenieroredtelecomunicaciones|acl

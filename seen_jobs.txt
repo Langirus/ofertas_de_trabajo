@@ -1,7 +1,3 @@
-analistamlopsremoto|vermontsolutions
-analistamonitoreonocoperador|na
-analistamonitoreo|bancofalabella
-analistamonitoreo|klap
 analistamonitoreo|tataconsultancyservices
 analistamotoryparametra|bancofalabella
 analistanatalpagoprereemplazovalidacion|autofin
@@ -183,6 +179,7 @@ asistentecomunicacionesmarketing|rematesmadrid
 asistenteconculoslavadorlicenciaveh|chiletrabajos
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentedigitalmarketing|sflconsulting
+asistenteejecutiva|proyectainmobiliaria
 asistenteejecutivo|tecpromin
 asistentefalabellafullhrsmartimevinavisual|falabella
 asistentefalabellahrsvaldiviavisual|falabella
@@ -1070,6 +1067,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
+https://cl.linkedin.com/jobs/view/asistente-ejecutiva-at-proyecta-inmobiliaria-4426852130
 https://cl.linkedin.com/jobs/view/asistente-ejecutivo-a-at-tecpromin-s-a-4419643322
 https://cl.linkedin.com/jobs/view/asistente-en-prevenci%C3%B3n-de-riesgos-santiago-at-plaenge-chile-4417668496
 https://cl.linkedin.com/jobs/view/asistente-marketing-digital-at-sfl-consulting-limitada-4421626981
@@ -1784,6 +1782,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolit
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
+https://www.chiletrabajos.cl/trabajo/tecnico-en-microinformatica-3853012
 https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-3848526
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-san-fernando-3849745
@@ -1973,6 +1972,7 @@ mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
 microinformaticaonsitesoporte|stefaninigroup
+microinformaticatecnico|chiletrabajos
 monitoreotecnicoti|computrabajo
 negociospracticanteprocesos|nttdata
 practicanteseguridadtecnologica|segurosfalabella

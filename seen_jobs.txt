@@ -1,11 +1,3 @@
-analystcoreopsdata|sumup
-analystcybersecurityjuniorremote|crossinghurdles
-analystdatadeveloperinglespresencialpyhtonremoto|sandav
-analystdatainsightsjrreporting|na
-analystdataintelligence|principal
-analystdatamanagement|experianspanish
-analystdatamexicoonlyremotesupporttechnical|varicent
-analystdataqa|blend
 analystdataqualityremotespanish|crossinghurdles
 analystdataremote|hired
 analystdataremote|hirefeed
@@ -305,6 +297,7 @@ contenidoscreaciondigitaldisenopracticaprofesional|marketingpeople
 contractendengineerfrontintegrationssoftware|na
 contratoindefindiojuniorprovidenciasoportetecnico|portal
 controldeseableingenieroprogramacion|chiletrabajos
+controlfinancieroplanificacionpractica|bancofalabella
 controlgestioningeniero|chiletrabajos
 controlgestioninventariospracticaprofesional|copec
 controlgestionpracticante|airlines
@@ -381,6 +374,7 @@ desarrollofullpracticantestack|chiletrabajos
 desarrollohomeliderofficesoftwaretecnico|towasoftware
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieroinnovacion|fdaingenieros
+desarrolloingenieromarvina|grupobelator
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
 desarrolloingenierosistemas|hrburoconsultingservices
 desarrolloingenierosoftware|loteradeconcepcin
@@ -975,6 +969,7 @@ https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-b
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
+https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
@@ -1131,6 +1126,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraci
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
+https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
@@ -1229,6 +1225,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-pasant%C3%ADa-%C3%A1rea-legal-at-sacyr-4321283775
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-planificaci%C3%B3n-y-control-financiero-at-banco-falabella-4430124055
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-comerical-y-operaciones-reparatuauto-at-reparatuauto-4422233413
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
@@ -1254,6 +1251,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-riesgos-corporativos-at-latam-ai
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-audiovisual-archive-documentalist-at-warner-bros-discovery-4395712559
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-maihue%C2%AE-4430112051
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424586601
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-auditor%C3%ADa-interna-at-banco-falabella-4427997070
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
@@ -1788,6 +1786,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-on
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
+https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab
 https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768
@@ -1979,6 +1978,7 @@ practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprofesionalreclutamientoseleccion|bancode
 practicaprofesionalti|bancoripley
+practicati|maihue
 practicati|ucchristus
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 prevencionriesgostecnicotrainee|chiletrabajos

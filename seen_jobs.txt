@@ -1,13 +1,3 @@
-analystareadatalaboratoriorancagua|computrabajo
-analystassociatechiletrabajosjuniornivelprogrammer|portal
-analystassociateproduct|principal
-analystbancabusinessingenieronextgenteletrabajo|ingenierojob
-analystbusinessdataremote|martinelawpllc
-analystbusinessit|gmfinancial
-analystcampaigncrmpersonalizacion|bancofalabella
-analystchilecondesexcellenceoperationsservice|johnsonjohnsonmedtech
-analystcolombiacustomerfulljunioroperationsremotesuccesstime|sharkhelpers
-analystcommerceinglesqa|na
 analystcoreopsdata|sumup
 analystcybersecurityjuniorremote|crossinghurdles
 analystdatadeveloperinglespresencialpyhtonremoto|sandav
@@ -64,6 +54,7 @@ anywhereautomationautomationdeveloperjunior|accenture
 anywhereengineermexicopythonremote|capgeminiengineering
 aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
 aplicadaiaingeniero|ithuntersinternational
+aplicadorpesticidastecnico|chiletrabajos
 aplicativosecommerceinglessoporte|ada4solutionsheadhunting
 applicationbackendengineermexicoremote|yelp
 applicationengineerremotespainsupport|hbxgroup
@@ -108,6 +99,7 @@ asistentecastrochiloenecesita|chiletrabajos
 asistentecentrosentretenimientolidermarketingretail|validatetalentai
 asistentecomunicacionesmarketing|rematesmadrid
 asistenteconculoslavadorlicenciaveh|chiletrabajos
+asistentecontratosejecutivo|go
 asistentecotizadorimprentaparaproducci|chiletrabajos
 asistentedigitalmarketing|sflconsulting
 asistenteejecutiva|proyectainmobiliaria
@@ -158,6 +150,7 @@ auxiliarfarmaciatecnico|chiletrabajos
 auxiliargeneraleslimpiezaservicios|chiletrabajos
 auxiliarhrsparttecnicotime|chiletrabajos
 auxiliarmuestreraoperacion|impalaterminals
+auxiliarpicking|chiletrabajos
 auxiliarremotosoporte|energyza
 auxiliarsolicitatens|chiletrabajos
 auxiliar|enginecar
@@ -615,6 +608,7 @@ https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getron
 https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-remoto-e-local-%E2%80%93-porto-alegre-%E2%80%93-rs-at-buscarvagas-empregos-brasil-4425770280
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-bairesdev-4428090255
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
+https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
 https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
@@ -973,6 +967,7 @@ https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-441527
 https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-preparador-at-abbott-4424919469
 https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-litio-4420441889
 https://cl.linkedin.com/jobs/view/analista-reabastecimiento-gerencia-omnichannel-supply-chain-at-walmart-chile-4428102676
+https://cl.linkedin.com/jobs/view/analista-recepci%C3%B3n-y-transferencia-aviones-sr-at-latam-airlines-4427390889
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
@@ -989,6 +984,7 @@ https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
 https://cl.linkedin.com/jobs/view/analista-tecnologico-control-ti-at-principal-chile-4382826105
 https://cl.linkedin.com/jobs/view/analista-ti-%E2%80%93-control-de-gesti%C3%B3n-at-inge%21-4419499896
 https://cl.linkedin.com/jobs/view/analista-ti-spa-pwc-chile-at-pwc-chile-4429147157
+https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-lean-at-achs-seguro-laboral-4430121592
 https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-negocios-agf-at-banchile-inversiones-4426097977
 https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-natal-at-autofin-chile-4419509005
 https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-at-deloitte-4413742403
@@ -1099,6 +1095,7 @@ https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/devops-security-analyst-at-gemini-observatory-4428323360
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
+https://cl.linkedin.com/jobs/view/ejecutivo-a-asistente-de-contratos-at-go-4430113205
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4425718986
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-trainee-2026-18-at-grupo-inteligencia-4425349468
@@ -1460,6 +1457,7 @@ https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC3
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
 https://es.linkedin.com/jobs/view/soc-analyst-l1-l2-%E2%80%93-incident-response-%E2%80%94-100%25-remote-spain-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4426981543
+https://es.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-assisted-development-100%25-remote-at-astek-4427380214
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
@@ -1694,6 +1692,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
@@ -1761,6 +1760,7 @@ https://www.chiletrabajos.cl/trabajo/se-solicita-tens-o-auxiliar-para-cuidado-en
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
+https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068

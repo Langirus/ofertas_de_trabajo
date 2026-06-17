@@ -1,6 +1,3 @@
-analistasistemas|teckresourceslimited
-analistasitiosoporte|softwareone
-analistasoporteti|contac
 analistasoporteti|experis
 analistasoporteti|novelty8
 analistasoporteti|stanfordelectric
@@ -259,6 +256,7 @@ chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
 chileingenierojuniormetropolitanaregionsantiagosistemas|portal
 chileingenierojuniorredes|serviciosdetelecomunicacionesolitel
+chilesoportetecnicoterreno|coasinlogicalis
 chiletrabajoschillaninformaticojunior|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosconsultorjuniorsantiagosap|portal
@@ -1065,6 +1063,7 @@ https://cl.linkedin.com/jobs/view/channel-solutions-engineer-at-netskope-4354666
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/chief-hpc-network-engineer-ai-infrastructure-at-epam-systems-4410139670
+https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-f1-at-coasin-logicalis-4427329978
 https://cl.linkedin.com/jobs/view/cientifico-de-datos-junior-at-eva-learning-4425847681
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
@@ -1424,6 +1423,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-44173157
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
+https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
 https://es.linkedin.com/jobs/view/devops-engineer-junior-100%25-teletrabajo-at-metrica-4428064125
 https://es.linkedin.com/jobs/view/devops-jr-engineer-azure-100%25-remoto-at-icalia-solutions-by-izertis-4424871458
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151

@@ -1,13 +1,3 @@
-analystdataqualityremotespanish|crossinghurdles
-analystdataremote|hired
-analystdataremote|hirefeed
-analystdataremote|quikhirestaffing
-analystdata|bancofalabella
-analystdata|equifax
-analystdata|groupesii
-analystdata|mallplaza
-analystdata|remoteok
-analystdevelopersoftware|alsa
 analystdevopssecurity|geminiobservatory
 analystinfrastructureitremototrabajo|bairesdev
 analystinfrastructureit|solventum
@@ -407,6 +397,7 @@ developerjuniorreactremotework|indistaffingservices
 developerjuniorremotesoftware|hired
 developerjuniorremotesoftware|hirefeed
 developerjuniorremotesoftware|quikhirestaffing
+developerpython|remoteok
 developmentengineerjuniorremotesoftwaretestwork|bairesdev
 developmentengineeroperationssecurity|dxctechnology
 developmentengineersoftware|na
@@ -737,6 +728,7 @@ https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-kashio-4427021447
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
+https://cl.linkedin.com/jobs/view/alumno-a-en-pr%C3%A1ctica-sustentabilidad-%E2%80%93-ia-y-digitalizaci%C3%B3n-at-vetas-de-talento-4430190226
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-administraci%C3%B3n-at-petricio-industrial-s-a-4418698080
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
 https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
@@ -764,6 +756,7 @@ https://cl.linkedin.com/jobs/view/analista-comunicaciones-internas-regional-at-a
 https://cl.linkedin.com/jobs/view/analista-concesiones-huechuraba-at-ecrgroup%C2%AE-chile-4426439197
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
+https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-grupo-falabella-4430162624
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
@@ -1073,6 +1066,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
 https://cl.linkedin.com/jobs/view/data-engineer-junior-at-ntt-data-inc-4413650882
 https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
 https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
+https://cl.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-fullstack-4430148038
 https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
 https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-ghd-4412863750
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
@@ -1163,6 +1157,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-44
 https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-ingenier%C3%ADa-cuatro-s-a-4425135631
+https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-intexa-ingenier%C3%ADa-4430138264
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
@@ -1203,6 +1198,7 @@ https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
 https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-4426419773
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
+https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-h%C3%ADbrida-santiago-at-salfa-rent-4426238219
@@ -1584,6 +1580,7 @@ https://remoteOK.com/remote-jobs/remote-mathematical-analyst-crossing-hurdles-11
 https://remoteOK.com/remote-jobs/remote-mid-level-devops-engineer-ci-cd-optimization-ubiminds-1130430
 https://remoteOK.com/remote-jobs/remote-operations-engineer-kuala-lumpur-xsolla-1131075
 https://remoteOK.com/remote-jobs/remote-product-data-analyst-big-health-1130055
+https://remoteOK.com/remote-jobs/remote-python-developer-kindgeek-1133592
 https://remoteOK.com/remote-jobs/remote-qa-engineer-mex-digital-fze-1130438
 https://remoteOK.com/remote-jobs/remote-sdet-intern-prophecy-1129977
 https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860
@@ -1764,6 +1761,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
+https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-microinformatica-3853012
@@ -1901,6 +1899,7 @@ informaticoingenieropracticante|occimiano
 informaticoingeniero|chiletrabajos
 informaticoingeniero|industrial
 informaticoingeniero|ingenieracuatro
+informaticoingeniero|intexaingeniera
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informjuniormodalidadsitiosoportetico|computrabajo
@@ -1973,6 +1972,7 @@ microinformaticaonsitesoporte|stefaninigroup
 microinformaticatecnico|chiletrabajos
 monitoreotecnicoti|computrabajo
 negociospracticanteprocesos|nttdata
+operationspeopletrainee|roche
 practicanteseguridadtecnologica|segurosfalabella
 practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|chiletrabajos

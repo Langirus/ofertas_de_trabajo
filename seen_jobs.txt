@@ -1,9 +1,3 @@
-analystinternationalpricing|commandlink
-analystitremotesupportwork|bairesdev
-analystit|grupofalabella
-analystlogistic|vantive
-analystmarketing|cabify
-analystmathematical|remoteok
 analystmultimodalityqualityremote|turing
 analystoperationsales|mondelzinternational
 analystoperationsremoterevenuesaas|bizneohr
@@ -149,6 +143,7 @@ azuredevopsengineeriii|rackspace
 backbootdesarrolladorendjavaspring|na
 backdesarrolladorendmesesnetproyecto|na
 backdeveloperend|na
+backendblockchaindevelopmentengineersupporttechnical|binance
 backendbrazildataengineerengineerplatformremote|georgiateksystems
 backendchileingenierojuniormetropolitanaregionsantiago|portal
 backendchiletrabajosinformaticoingenierojuniorproyecto|portal
@@ -1092,6 +1087,7 @@ https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-in
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-business-transformation-at-ey-4428421153
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-supply-chain-at-ey-4428420209
 https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ai-data-at-ey-4426988728
+https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-spanish-english-at-google-4418804121
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
@@ -1321,6 +1317,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-441798071
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
+https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
@@ -1337,6 +1334,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-telecomunicaciones-y-redes-fib
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
+https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
 https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
 https://cl.linkedin.com/jobs/view/tecnico-soporte-cio-cas-at-motorola-solutions-4416299833
 https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
@@ -1553,6 +1551,7 @@ https://remoteOK.com/remote-jobs/remote-data-analyst-3-skyslope-1130196
 https://remoteOK.com/remote-jobs/remote-data-analyst-activtrak-1133346
 https://remoteOK.com/remote-jobs/remote-data-analyst-ii-computercare-1130490
 https://remoteOK.com/remote-jobs/remote-data-analyst-restaurant365-1130099
+https://remoteOK.com/remote-jobs/remote-data-analyst-stio-1133036
 https://remoteOK.com/remote-jobs/remote-data-analyst-world-golf-tour-wgt-1130952
 https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305
 https://remoteOK.com/remote-jobs/remote-data-engineer-revenue-platform-spotify-1128972
@@ -1933,6 +1932,7 @@ ingenierosoporte|gausscontrol
 ingenierosoporte|tecnologiainformatica
 ingenierotibco|tataconsultancyservices
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
+inlcusionjrlaboralremotosoporteti|ferrostaalc
 internacionalscouting|revivalfootball
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany

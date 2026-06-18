@@ -1,6 +1,3 @@
-analystdevopssecurity|geminiobservatory
-analystinfrastructureitremototrabajo|bairesdev
-analystinfrastructureit|solventum
 analystinternationalpricing|commandlink
 analystitremotesupportwork|bairesdev
 analystit|grupofalabella
@@ -1167,6 +1164,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-procesos-jr-at-wisetrack-corp-442734
 https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02-at-cyd-ingenier%C3%ADa-4413121930
 https://cl.linkedin.com/jobs/view/ingeniero-rpa-webscraping-at-inteligencia-artificial-chile-4426864657
 https://cl.linkedin.com/jobs/view/ingeniero-sistemas-y-seguridad-at-netline-4420128860
+https://cl.linkedin.com/jobs/view/ingeniero-tibco-at-tata-consultancy-services-4430198302
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
@@ -1552,6 +1550,7 @@ https://remoteOK.com/remote-jobs/remote-clinical-coding-trainer-torbay-and-south
 https://remoteOK.com/remote-jobs/remote-cloud-full-stack-python-software-engineer-us-railroad19-inc-1129344
 https://remoteOK.com/remote-jobs/remote-cloud-security-engineer-moonpay-1130923
 https://remoteOK.com/remote-jobs/remote-data-analyst-3-skyslope-1130196
+https://remoteOK.com/remote-jobs/remote-data-analyst-activtrak-1133346
 https://remoteOK.com/remote-jobs/remote-data-analyst-ii-computercare-1130490
 https://remoteOK.com/remote-jobs/remote-data-analyst-restaurant365-1130099
 https://remoteOK.com/remote-jobs/remote-data-analyst-world-golf-tour-wgt-1130952
@@ -1932,6 +1931,7 @@ ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoporte|gausscontrol
 ingenierosoporte|tecnologiainformatica
+ingenierotibco|tataconsultancyservices
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 internacionalscouting|revivalfootball
 internoperationsremote|edp

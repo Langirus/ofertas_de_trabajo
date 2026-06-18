@@ -1,13 +1,3 @@
-antofagastahibridaingenierojuniormodalidadti|computrabajo
-antofagastasoportetecnicoterreno|bctecnologa
-anywhereautomationautomationdeveloperjunior|accenture
-anywhereengineermexicopythonremote|capgeminiengineering
-aplicacioneschiletrabajosdesarrolladorjuniorsantiagoweb|portal
-aplicadaiaingeniero|ithuntersinternational
-aplicadorpesticidastecnico|chiletrabajos
-aplicativosecommerceinglessoporte|ada4solutionsheadhunting
-applicationbackendengineermexicoremote|yelp
-applicationengineerremotespainsupport|hbxgroup
 applicationsengineeritnetsuiteoperations|na
 applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
 applicationsengineermexicoonlyremotesqlsupportweb|varicent
@@ -107,6 +97,7 @@ auxiliar|enginecar
 avanzadosoportetecnico|owlteamsolutions
 awsbootdesarrolladorjavaspring|na
 awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
+awscloudengineerremote|hirefeed
 awsdatadatalakeengineer|na
 awsdataengineer|accenture
 awsdatosingeniero|na
@@ -229,6 +220,7 @@ cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
 cloudengineerfullstack|rycconsultoresasociados
 cloudengineerlevelmulti|na
+cloudengineerremote|hirefeed
 cloudengineersecurity|remoteok
 cloudgcpingeniero|na
 cloudgooglelidertecnico|na
@@ -554,6 +546,7 @@ gpsmonitortecnicoti|nortrans
 herramientasindustrialmaquinamecanicotecnico|chiletrabajos
 https://ar.linkedin.com/jobs/view/ai-engineer-latam-at-kreitech-4426486047
 https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
+https://ar.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427847969
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
 https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
@@ -567,6 +560,7 @@ https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-b
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
 https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
+https://br.linkedin.com/jobs/view/aws-cloud-engineer-remote-at-hire-feed-4430493712
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
@@ -586,6 +580,7 @@ https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-com
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/software-engineer-%E2%80%93-remote-at-hire-feed-4419856471
 https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725
+https://br.linkedin.com/jobs/view/suporte-analista-de-suporte-t%C3%A9cnico-pleno-prime-datasul-remoto-at-totvs-4427840878
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-aws-juniorcontrato-indefinidosantiago-centro-en-santiago-centro-D09E0E8C1BB4E31C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-infraestructura-aws-juniorcontrato-indefinido-en-santiago-centro-EEDD3302077479ED61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistema-juniorcontrato-indefinido-presencial-en-santiago-centro-07D60762639D8EA061373E686DCF3405
@@ -865,6 +860,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-contac-44128346
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-experis-chile-4418940806
 https://cl.linkedin.com/jobs/view/analista-de-soporte-para-ti-at-novelty8-4412047410
 https://cl.linkedin.com/jobs/view/analista-de-soporte-ti-at-stanford-electric-4427080660
+https://cl.linkedin.com/jobs/view/analista-de-soporte-ti-n1-%E2%80%93-mesa-de-ayuda-at-bc-tecnolog%C3%ADa-4430729404
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
 https://cl.linkedin.com/jobs/view/analista-de-tecnolog%C3%ADa-back-office-at-experis-chile-4426385433
@@ -967,6 +963,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-tri
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
+https://cl.linkedin.com/jobs/view/asistente-administrativo-rol-caja-antofagasta-reemplazo-licencia-m%C3%A9dica-at-salfa-rent-4429389386
 https://cl.linkedin.com/jobs/view/asistente-administrativo-vespertino-de-seguridad-operacional-at-deloitte-4422996037
 https://cl.linkedin.com/jobs/view/asistente-atenci%C3%B3n-banca-personal-%E2%80%93-casa-matriz-santiago-at-banco-de-chile-4411790106
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
@@ -1460,6 +1457,7 @@ https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-4405289567
+https://mx.linkedin.com/jobs/view/cloud-engineer-remote-at-hire-feed-4430499667
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
@@ -1508,6 +1506,7 @@ https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-q
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
 https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4428138018
+https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4430495986
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
@@ -1643,6 +1642,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-38390
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
+https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-ti-42-horas-santiago-centro-sip-3854652
 https://www.chiletrabajos.cl/trabajo/analista-de-diseno-y-marketing-3852721
 https://www.chiletrabajos.cl/trabajo/analista-de-experiencia-del-solicitante-3853767
 https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221

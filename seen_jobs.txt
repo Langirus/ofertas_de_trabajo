@@ -1,7 +1,3 @@
-asistentegerencia|mallplaza
-asistentegestionpersonas|colegiosanbenito
-asistentehuechurabalidermarketingretail|validatetalentai
-asistentelogistica|chiletrabajos
 asistenteotic|retailgroup
 asistenteprevencionriesgossantiago|plaenge
 asistentetalcatecnicotelecomunicaciones|serviciosdetelecomunicacionesolitel
@@ -481,6 +477,7 @@ excellenceinstoretrainee|beiersdorf
 experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 experienciaimplementacioninformaticoingenieroredessistesistema|itg
+experienciaprevencionistariesgosin|inprint
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 falabellafullhrsquilpueseguridadtimtrainee|falabella
 fernandosantecnicotelecomunicaciones|chiletrabajos
@@ -909,6 +906,7 @@ https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inv
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4429330679
+https://cl.linkedin.com/jobs/view/analista-ssr-de-datos-y-analitica-at-banchile-inversiones-4430036243
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-crm-dynamics-365-sr-at-ecosistemas-4422748564
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-de-negocio-at-mt2-inteligencia-artificial-4426659435
@@ -1234,6 +1232,7 @@ https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-segu
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
+https://cl.linkedin.com/jobs/view/prevencionista-de-riesgo-sin-experiencia-at-inprint-4431125757
 https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-pasant%C3%ADas-%C3%A1rea-legal-at-quezadaduran-abogados-4425303472
@@ -1319,6 +1318,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falab
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
+https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4402579969
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-5x2-falabella-plaza-tr%C3%A9bol-at-falabella-4400603787
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-l-a-v-44-hrs-falabella-puerto-montt-at-falabella-4385167948

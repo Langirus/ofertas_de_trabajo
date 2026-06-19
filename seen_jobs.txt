@@ -1,9 +1,3 @@
-asistenteejecutivo|tecpromin
-asistentefalabellafullhrsmartimevinavisual|falabella
-asistentefalabellahrsvaldiviavisual|falabella
-asistentegarantiasmaipusucursalvespucio|salfarent
-asistentegerenciaingenieriatecnico|copec
-asistentegerenciamaipu|chiletrabajos
 asistentegerencia|mallplaza
 asistentegestionpersonas|colegiosanbenito
 asistentehuechurabalidermarketingretail|validatetalentai
@@ -107,6 +101,7 @@ buyerjuniormediaremote|clientaccelerators
 cabanasmontanaspracticaturismovalle|chiletrabajos
 canadaengineerlatamsoftware|opensesame
 canadaengineersecurity|remoteok
+canalesdigitalesgerenciasoportesubgerentetecnologia|walmart
 careerearlyengineersoftwaresystemswarfighter|remoteok
 cargosoportetecnico|smartlift
 casciosoportetecnico|motorolasolutions
@@ -884,6 +879,7 @@ https://cl.linkedin.com/jobs/view/analista-plataforma-cority-santiago-at-ingenie
 https://cl.linkedin.com/jobs/view/analista-predictivo-en-formaci%C3%B3n-at-imc-ingenier%C3%ADa-en-monitoreo-de-condiciones-4426411263
 https://cl.linkedin.com/jobs/view/analista-predictivo-puerto-at-teck-resources-limited-4423132797
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
+https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-riesgo-reemplazo-pre-y-post-natal-at-grupo-falabella-4430994386
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-fraude-banchile-pago-at-banco-de-chile-4429390548
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
@@ -1194,6 +1190,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-traine
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4431127755
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-infraestructura-renovable-at-copec-s-a-4421597787
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
@@ -1289,6 +1286,7 @@ https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
+https://cl.linkedin.com/jobs/view/subgerente-soporte-canales-digitales-gerencia-tecnologia-at-walmart-chile-4430993495
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-solutions-4427848623
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
@@ -1361,6 +1359,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
 https://es.linkedin.com/jobs/view/ai-engineer-backend-remote-es-uk-only-at-quadrivia-ai-4424887846
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-full-remote-at-everfield-4408695171
+https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
@@ -1488,6 +1487,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexi
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
+https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888

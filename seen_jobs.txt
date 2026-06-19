@@ -1,11 +1,3 @@
-applicationsengineeritnetsuiteoperations|na
-applicationsengineermexicoonlyremotesqlsupportweb|funnelcake
-applicationsengineermexicoonlyremotesqlsupportweb|varicent
-aprendizescariador|chiletrabajos
-araucoasistentefalabellahrsmaipuvisual|falabella
-archiveaudiovisualdocumentalistpracticaprofesionaltecnica|warnerbrosdiscovery
-areabasedatospracticanteti|globaltalent
-areacencosudcontinuamejorapracticaproyectos|cencosud
 areacomericaloperacionespracticaprofesionalreparatuauto|reparatuauto
 arealegalpasantiapractica|sacyr
 arealegalpasantiaspracticasprograma|quezadaduranabogados
@@ -269,6 +261,7 @@ dataanalyst3|remoteok
 dataanalystii|remoteok
 dataanalystremote|quikhirestaffing
 dataanalyst|remoteok
+datadatabricksengineerremote|compassuol
 datadeveloperetlintegratororacle|na
 dataengineerfullremotescientist|capitole
 dataengineergovernance|remoteok
@@ -563,6 +556,7 @@ https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at
 https://br.linkedin.com/jobs/view/aws-cloud-engineer-remote-at-hire-feed-4430493712
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
+https://br.linkedin.com/jobs/view/data-engineer-databricks-pl-remote-at-compass-uol-4430747375
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
 https://br.linkedin.com/jobs/view/financial-software-engineer-remote-at-hire-feed-4428654072
@@ -721,6 +715,7 @@ https://cl.linkedin.com/jobs/view/analista-comex-at-telotenemos-cl-spa-442596860
 https://cl.linkedin.com/jobs/view/analista-comisiones-at-empresa-confidencial-4427994712
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-internas-regional-at-air-products-4426717514
+https://cl.linkedin.com/jobs/view/analista-comunitario-4x3-los-andes-at-j-e-j-ingenier%C3%ADa-s-a-4430734321
 https://cl.linkedin.com/jobs/view/analista-concesiones-huechuraba-at-ecrgroup%C2%AE-chile-4426439197
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
@@ -871,6 +866,7 @@ https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-l
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
 https://cl.linkedin.com/jobs/view/analista-estrategia-de-salud-at-cl%C3%ADnicas-achs-salud-4426423688
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
+https://cl.linkedin.com/jobs/view/analista-excelencia-operacional-at-grupo-falabella-4410946137
 https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
@@ -889,6 +885,7 @@ https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
 https://cl.linkedin.com/jobs/view/analista-junior-de-proyectos-y-mejora-continua-at-afp-planvital-4423563346
+https://cl.linkedin.com/jobs/view/analista-junior-de-renta-variable-at-afp-planvital-4430748027
 https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
 https://cl.linkedin.com/jobs/view/analista-labor-reemplazo-pre-y-post-natal-at-aramark-chile-4425925523
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
@@ -910,6 +907,7 @@ https://cl.linkedin.com/jobs/view/analista-plataforma-cority-santiago-at-ingenie
 https://cl.linkedin.com/jobs/view/analista-predictivo-en-formaci%C3%B3n-at-imc-ingenier%C3%ADa-en-monitoreo-de-condiciones-4426411263
 https://cl.linkedin.com/jobs/view/analista-predictivo-puerto-at-teck-resources-limited-4423132797
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
+https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-fraude-banchile-pago-at-banco-de-chile-4429390548
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
 https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
@@ -1211,6 +1209,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-infraestructura-renovable-at-copec-s-a-4421597787
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
@@ -1444,6 +1443,7 @@ https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-know
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y-sistemas-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4426858127
 https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832
+https://hn.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427855862
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930

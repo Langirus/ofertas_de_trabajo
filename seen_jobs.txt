@@ -1,8 +1,3 @@
-areacomericaloperacionespracticaprofesionalreparatuauto|reparatuauto
-arealegalpasantiapractica|sacyr
-arealegalpasantiaspracticasprograma|quezadaduranabogados
-areapracticanteriesgo|capitalexpress
-areapracticanteti|textillasamericas
 argentinaengineerjuniorremotesoftware|mixrank
 artificialcomputerdesarrolladorinteligenciajuniorvision|kuidda
 artificialingenierointeligencia|negociosia
@@ -320,6 +315,7 @@ desarrollofullpracticantestack|chiletrabajos
 desarrollohomeliderofficesoftwaretecnico|towasoftware
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieroinnovacion|fdaingenieros
+desarrolloingenieroinvestigacion|nexans
 desarrolloingenieromarvina|grupobelator
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
 desarrolloingenierosistemas|hrburoconsultingservices
@@ -432,6 +428,7 @@ engineerfrontendremote|quikhirestaffing
 engineerfrontend|mobena
 engineerfulljuniormidsoftwarestack|remoteok
 engineerfulljuniorproductstacktrainee|whoco
+engineerfullmidsoftwarestack|xecom
 engineerfullrailsrubystack|na
 engineerfullsoftwarestack|grupofalabella
 engineerfullsoftwarestack|na
@@ -1072,6 +1069,7 @@ https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-go
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
+https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4430790028
 https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-asociados-4420755778
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
@@ -1106,6 +1104,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-44
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
+https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-nexans-4430779637
 https://cl.linkedin.com/jobs/view/ingeniero-de-nube-at-zenta-group-4427550651
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
@@ -1148,6 +1147,7 @@ https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
+https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4416829928
 https://cl.linkedin.com/jobs/view/it-infrastructure-analyst-at-solventum-4422781431
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/it-support-trainee-at-cumplo-4422214414

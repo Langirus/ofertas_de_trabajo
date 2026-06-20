@@ -1,9 +1,3 @@
-automatizacionpracticaprocesosprofesional|volta
-automatizadorfuncionaljuniorqa|na
-automatizadorpracticaprogramador|bancofalabella
-auxiliarchilecontablefacturacion|dropioficial
-auxiliarchofer|chiletrabajos
-auxiliarcompletaestafetajornada|chiletrabajos
 auxiliarfarmaciaquilicura|chiletrabajos
 auxiliarfarmaciatecnico|chiletrabajos
 auxiliargeneraleslimpiezaservicios|chiletrabajos
@@ -119,6 +113,7 @@ chiletrabajosinformaticoingenierojuniorsoporteti|portal
 chiletrabajosingenierojuniorpreventasantiago|portal
 chiletrabajosingenierojuniorsantiagosistemas|portal
 chiletrabajosjuniorliderproyectosantiago|portal
+ciberseguridadciberseguridadgestioningenieroplanificacion|bancode
 ciberseguridadcontratoindefingenierojunior|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadcontratoindingenierojunior|portal
@@ -690,6 +685,7 @@ https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-tanner-banco-dig
 https://cl.linkedin.com/jobs/view/analista-de-compras-at-an%C3%B3nimo-4429211420
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
 https://cl.linkedin.com/jobs/view/analista-de-comunicaciones-junior-r-m-at-sacyr-4397608806
+https://cl.linkedin.com/jobs/view/analista-de-conciliaciones-at-xepelin-4411393592
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
@@ -816,6 +812,7 @@ https://cl.linkedin.com/jobs/view/analista-estrategia-de-salud-at-cl%C3%ADnicas-
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-excelencia-operacional-at-grupo-falabella-4410946137
 https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
+https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
@@ -1053,6 +1050,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
+https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
@@ -1077,6 +1075,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
+https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-sistemas-aguas-andinas-at-motorola-solutions-4411848627
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliza-4423185390
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
@@ -1575,6 +1574,7 @@ https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bl
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421252343
+https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
 https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures

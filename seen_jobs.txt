@@ -1,8 +1,3 @@
-avanzadosoportetecnico|owlteamsolutions
-awsbootdesarrolladorjavaspring|na
-awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
-awscloudengineerremote|hirefeed
-awsdatadatalakeengineer|na
 awsdataengineer|accenture
 awsdatosingeniero|na
 awsdevopsengineerjuniorremoto|ingenierojob
@@ -663,6 +658,7 @@ https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha
 https://cl.linkedin.com/jobs/view/analista-customer-experience-cx-at-arcoprime-4424794182
 https://cl.linkedin.com/jobs/view/analista-data-science-at-vinci-compass-4427384329
 https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4427364581
+https://cl.linkedin.com/jobs/view/analista-de-administraci%C3%B3n-y-finanzas-%E2%80%93-inmobiliaria-boutique-at-andres-pardo-consultores-4431359075
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-central-bank-of-chile-4430981687
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
 https://cl.linkedin.com/jobs/view/analista-de-atracci%C3%B3n-de-talento-at-streat-food-4423317266
@@ -693,6 +689,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cumplimiento-at-stratech-corp-4420
 https://cl.linkedin.com/jobs/view/analista-de-custodia-at-penta-vida-4426416210
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-ecrgroup%C2%AE-chile-4417949911
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-grupo-falabella-4425621113
+https://cl.linkedin.com/jobs/view/analista-de-datos-at-randstad-4431343248
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-tata-consultancy-services-4426360833
 https://cl.linkedin.com/jobs/view/analista-de-datos-bi-at-bl-capital-spa-4427376932
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
@@ -749,6 +746,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-riple
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-ti-junior-reemplazo-at-go-4425151186
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-y-analytics-at-wsp-en-chile-4421594415
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-y-documentaci%C3%B3n-naviera-at-wall-partners-4431351185
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-y-sistemas-at-ikea-4430987033
 https://cl.linkedin.com/jobs/view/analista-de-otec-at-united-pipeline-systems-inc-4413405918
 https://cl.linkedin.com/jobs/view/analista-de-p-c-calama-at-strabag-4427090351
@@ -866,6 +864,7 @@ https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-li
 https://cl.linkedin.com/jobs/view/analista-reabastecimiento-gerencia-omnichannel-supply-chain-at-walmart-chile-4428102676
 https://cl.linkedin.com/jobs/view/analista-recepci%C3%B3n-y-transferencia-aviones-sr-at-latam-airlines-4427390889
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
+https://cl.linkedin.com/jobs/view/analista-remuneraciones-rexmas-at-resiter-4431338340
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
@@ -1507,6 +1506,7 @@ https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
+https://portal.chiletrabajos.cl/empresa/sip/trabajo/analista-de-datos-junior-ti-42-horas-santiago-centro-sip-3854652
 https://portal.chiletrabajos.cl/empresa/wisely/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215

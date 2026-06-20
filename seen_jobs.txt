@@ -1,5 +1,3 @@
-automationengineergtm|remoteok
-automationengineerjavajuniortest|epamsystems
 automationengineerjavaqa|na
 automationengineerjavatest|epamsystems
 automationengineermicrosoftplatformpower|na
@@ -63,6 +61,7 @@ basedatosremototecnico|knowmadmood
 bicencosudengineermedia|cencosud
 bigdataengineer|remoteok
 bilingueengineerfullgenaipythonreactremotostack|towasoftware
+bilingueingenierosoporteti|nttdata
 blockchainengineerresearcher|fairgambling
 bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
 bootdeveloperjavajuniorsoftwarespring|ingenierojob
@@ -1057,6 +1056,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraci
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-ti-biling%C3%BCe-at-ntt-data-inc-4399986971
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218

@@ -1,12 +1,3 @@
-auxiliarfarmaciaquilicura|chiletrabajos
-auxiliarfarmaciatecnico|chiletrabajos
-auxiliargeneraleslimpiezaservicios|chiletrabajos
-auxiliarhrsparttecnicotime|chiletrabajos
-auxiliarmuestreraoperacion|impalaterminals
-auxiliarpicking|chiletrabajos
-auxiliarremotosoporte|energyza
-auxiliarsolicitatens|chiletrabajos
-auxiliar|enginecar
 avanzadosoportetecnico|owlteamsolutions
 awsbootdesarrolladorjavaspring|na
 awsbootengineerjavajuniorremotosoftwarespring|ingenierojob
@@ -223,6 +214,7 @@ dataprocessingspecialist|remoteok
 datascienceinternpricinganalytics|remoteok
 datascientist|na
 datosencargadoinformaticajuniorprocesamiento|portal
+datosestudiantesingenieroprograma|ibm
 datosingenieriapractica|viaconchaytoro
 datosingeniero|na
 dehesafalabellafinhorasjornadapartprobadoresseguridadsemanatimetrainee|falabella
@@ -350,8 +342,10 @@ eneaingenierojrparqueprocesospudahuel|dhlsupplychain
 engineengineerjunioropenremotesoftware|crossinghurdles
 engineengineerjunioropenremotesoftware|quikhirestaffing
 engineerenterpriseintegration|shinkansen
+engineerenterpriselatamsolutions|elevenlabs
 engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
 engineerespanajavaremotosoftware|abalia
+engineereuropefulljavascriptlatamremotestack|pos
 engineerfinancialremotesoftware|hirefeed
 engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendpaymentssoftware|kraken
@@ -970,6 +964,7 @@ https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
+https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4403110221
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4410224504
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
 https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
@@ -1217,9 +1212,11 @@ https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%A
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
 https://cl.linkedin.com/jobs/view/prevencionista-de-riesgo-sin-experiencia-at-inprint-4431125757
 https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
+https://cl.linkedin.com/jobs/view/programa-de-estudiantes-ingeniero-a-de-datos-at-ibm-4417966859
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-pasant%C3%ADas-%C3%A1rea-legal-at-quezadaduran-abogados-4425303472
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
+https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421238685
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421251489
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
@@ -1318,6 +1315,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part
 https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
+https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371013921
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371024460
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371028420
@@ -1452,6 +1450,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bai
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/devsecops-cloud-engineer-100%25-remote-in-mexico-at-pyramid-consulting-inc-4429585509
+https://mx.linkedin.com/jobs/view/enterprise-solutions-engineer-latam-at-elevenlabs-4402179463
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4425109535
@@ -1594,6 +1593,7 @@ https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
+https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product

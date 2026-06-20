@@ -1,11 +1,3 @@
-asistentetesoreria|ludipek
-asistentetesoreria|youtopiacompany
-asistenteti|computrabajo
-associatebusinessdevelopmentgrowthjuniorlatam|bingx
-associatecentralizedengineerservice|tranetechnologies
-associatedeployedengineerforward|remoteok
-associateengineerremotesoftware|hirefeed
-associateengineer|principal
 assuranceengineerqualityremototrabajo|bairesdev
 astropartnerstatictecnico|na
 auditoriainternapracticati|bancofalabella
@@ -25,6 +17,7 @@ automatizacioningenieroitmesoperacionesremotovisita|corusconsultinganaltencompan
 automatizacionpracticaprocesosprofesional|volta
 automatizadorfuncionaljuniorqa|na
 automatizadorpracticaprogramador|bancofalabella
+auxiliarchilecontablefacturacion|dropioficial
 auxiliarchofer|chiletrabajos
 auxiliarcompletaestafetajornada|chiletrabajos
 auxiliarfarmaciaquilicura|chiletrabajos
@@ -273,6 +266,7 @@ desarrollofullpracticantestack|chiletrabajos
 desarrollohomeliderofficesoftwaretecnico|towasoftware
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieroinnovacion|fdaingenieros
+desarrolloingenieroinvestigacion|na
 desarrolloingenieroinvestigacion|nexans
 desarrolloingenieromarvina|grupobelator
 desarrolloingenieropruebasremotosoftwaretrabajo|bairesdev
@@ -662,6 +656,7 @@ https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cupr
 https://cl.linkedin.com/jobs/view/analista-at-rfp-logistica-4427087344
 https://cl.linkedin.com/jobs/view/analista-at-tau-perforaciones-spa-4417278099
 https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4424955187
+https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4431169566
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-at-apiux-tech-4425934417
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
@@ -967,6 +962,7 @@ https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-j
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
+https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/auxiliar-de-aseo-at-valparaiso-sporting-4428375535
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaci%C3%B3n-muestrera-at-impala-terminals-4003147802
@@ -1025,6 +1021,7 @@ https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/devops-security-analyst-at-gemini-observatory-4428323360
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
+https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-1-at-grupo-inteligencia-4428512052
 https://cl.linkedin.com/jobs/view/ejecutivo-a-asistente-de-contratos-at-go-4430113205
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4425718986
@@ -1076,6 +1073,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-44
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
+https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-%E8%80%90%E5%85%8B%E6%A3%AE%E4%B8%AD%E5%9B%BD-4431155764
 https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-nexans-4430779637
 https://cl.linkedin.com/jobs/view/ingeniero-de-nube-at-zenta-group-4427550651
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
@@ -1295,6 +1293,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-telecomunicaciones-y-redes-fibra-%C3%B3ptica-networking-soporte-ti-at-atcom-chile-4429127857
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-terrefort-spa-4428520462
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
@@ -1895,6 +1894,7 @@ informaticoingeniero|ingenieracuatro
 informaticoingeniero|intexaingeniera
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
+informaticotecnico|terrefort
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
 infraestructurapracticaprofesionalrenovable|copec

@@ -1,7 +1,3 @@
-asistenteotic|retailgroup
-asistenteprevencionriesgossantiago|plaenge
-asistentetalcatecnicotelecomunicaciones|serviciosdetelecomunicacionesolitel
-asistentetecnicoti|computrabajo
 asistentetesoreria|ludipek
 asistentetesoreria|youtopiacompany
 asistenteti|computrabajo
@@ -1362,10 +1358,12 @@ https://es.linkedin.com/jobs/view/ai-engineer-full-remote-at-everfield-440869517
 https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
+https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
+https://es.linkedin.com/jobs/view/analista-programador-java-microservicios-teletrabajo-ingl%C3%A9s-b2-c1-at-knowmad-mood-4430004706
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
@@ -1377,6 +1375,7 @@ https://es.linkedin.com/jobs/view/data-engineer-ml-cloud-remoto-espa%C3%B1a-at-o
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
+https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
 https://es.linkedin.com/jobs/view/developer-data-analyst-pyhton-ingl%C3%A9s-50%25-presencial-y-remoto-at-sandav-4428813429
@@ -1426,6 +1425,7 @@ https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y-sistemas-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4426858127
 https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832

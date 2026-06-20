@@ -1,6 +1,3 @@
-automationengineersqa|hakalab
-automatizacionelectronicoingenierotecnico|chiletrabajos
-automatizacioningenieroitmesoperacionesremotovisita|corusconsultinganaltencompany
 automatizacionpracticaprocesosprofesional|volta
 automatizadorfuncionaljuniorqa|na
 automatizadorpracticaprogramador|bancofalabella
@@ -402,6 +399,7 @@ engineerjavascriptpythonremotesoftwaretypescript|quikhirestaffing
 engineerjuniorlatamsoftware|sezzle
 engineerjuniormexicoremotesoftware|mixrank
 engineerjunioroperationstrading|pepperstone
+engineerjuniorpythonsoftware|telnyx
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|hirefeed
 engineerjuniorremotesoftware|quikhirestaffing
@@ -1119,6 +1117,7 @@ https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-437968
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
+https://cl.linkedin.com/jobs/view/junior-software-engineer-python-at-telnyx-4411678357
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
@@ -1222,6 +1221,7 @@ https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-pasant%C3%ADas-%C3%A1rea-legal-at-quezadaduran-abogados-4425303472
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
+https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421251489
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046

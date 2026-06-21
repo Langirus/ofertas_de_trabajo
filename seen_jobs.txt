@@ -1,6 +1,3 @@
-awsdataengineer|accenture
-awsdatosingeniero|na
-awsdevopsengineerjuniorremoto|ingenierojob
 awsdevopsengineerjuniorremoto|vermontsolutions
 awsdevopsengineerjunior|softserve
 awsdevopsengineer|epamsystems
@@ -1084,6 +1081,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-44137
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-ingenier%C3%ADa-cuatro-s-a-4425135631
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-intexa-ingenier%C3%ADa-4430138264
+https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-techforce-agentes-ia-y-plataformas-web-4428551812
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
@@ -1128,6 +1126,7 @@ https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-442641
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
 https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
+https://cl.linkedin.com/jobs/view/pipeline-cloud-adoption-engineer-at-oracle-4417977965
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-h%C3%ADbrida-santiago-at-salfa-rent-4426238219
@@ -1892,6 +1891,7 @@ informaticoingeniero|chiletrabajos
 informaticoingeniero|industrial
 informaticoingeniero|ingenieracuatro
 informaticoingeniero|intexaingeniera
+informaticoingeniero|techforceagentesiayplataformasweb
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informaticotecnico|terrefort

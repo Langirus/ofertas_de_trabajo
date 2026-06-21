@@ -1,11 +1,3 @@
-awsingenieroplataformas|na
-ayudamesasantiagosoporte|grupoavanza
-ayudanteclimatizacionfaenamineratecnico|chiletrabajos
-azuredevopsengineeriii|rackspace
-backbootdesarrolladorendjavaspring|na
-backdesarrolladorendmesesnetproyecto|na
-backdeveloperend|na
-backendblockchaindevelopmentengineersupporttechnical|binance
 backendbrazildataengineerengineerplatformremote|georgiateksystems
 backendchileingenierojuniormetropolitanaregionsantiago|portal
 backendchiletrabajosinformaticoingenierojuniorproyecto|portal
@@ -118,7 +110,9 @@ cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
 cloudengineerfullstack|rycconsultoresasociados
 cloudengineerlevelmulti|na
+cloudengineerremotesecurity|hirefeed
 cloudengineerremote|hirefeed
+cloudengineerremote|quikhirestaffing
 cloudengineersecurity|remoteok
 cloudgcpingeniero|na
 cloudgooglelidertecnico|na
@@ -373,6 +367,7 @@ engineerjavamexicoremotescalasoftware|carolloengineers
 engineerjavaremotescalasoftware|heretechnologies
 engineerjavaremotesoftware|quikhirestaffing
 engineerjavascriptpythonremotesoftwaretypescript|quikhirestaffing
+engineerjavascriptremotesoftware|quikhirestaffing
 engineerjuniorlatamsoftware|sezzle
 engineerjuniormexicoremotesoftware|mixrank
 engineerjunioroperationstrading|pepperstone
@@ -1421,6 +1416,7 @@ https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y
 https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832
 https://hn.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427855862
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
+https://mx.linkedin.com/jobs/view/ai-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431399118
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4428643965
@@ -1430,11 +1426,14 @@ https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-440878391
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
+https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431393128
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402075981
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-4405289567
 https://mx.linkedin.com/jobs/view/cloud-engineer-remote-at-hire-feed-4430499667
+https://mx.linkedin.com/jobs/view/cloud-engineer-remote-at-quik-hire-staffing-4431399047
+https://mx.linkedin.com/jobs/view/cloud-security-engineer-remote-at-hire-feed-4431393080
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
@@ -1466,6 +1465,7 @@ https://mx.linkedin.com/jobs/view/integration-engineer-node-js-typescript-python
 https://mx.linkedin.com/jobs/view/it-infrastructure-analyst-trabajo-remoto-at-bairesdev-4423932615
 https://mx.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-4423922735
 https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419872229
+https://mx.linkedin.com/jobs/view/javascript-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431384423
 https://mx.linkedin.com/jobs/view/junior-media-buyer-remote-at-client-accelerators-4430928599
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4427010973

@@ -1,7 +1,3 @@
-backendbrazildataengineerengineerplatformremote|georgiateksystems
-backendchileingenierojuniormetropolitanaregionsantiago|portal
-backendchiletrabajosinformaticoingenierojuniorproyecto|portal
-backendclojureengineerlatampythonremotesoftware|gracemarksolutions
 backenddesarrolladorjuniornetremoto|towasoftware
 backenddesarrolladorjuniorsql|computrabajo
 backendengineerremotespain|barkcom
@@ -864,6 +860,7 @@ https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-441
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4429330679
 https://cl.linkedin.com/jobs/view/analista-ssr-de-datos-y-analitica-at-banchile-inversiones-4430036243
+https://cl.linkedin.com/jobs/view/analista-supply-chain-at-puma-group-4365349273
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-crm-dynamics-365-sr-at-ecosistemas-4422748564
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-de-negocio-at-mt2-inteligencia-artificial-4426659435
@@ -991,6 +988,7 @@ https://cl.linkedin.com/jobs/view/devops-security-analyst-at-gemini-observatory-
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-1-at-grupo-inteligencia-4428512052
+https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4428586552
 https://cl.linkedin.com/jobs/view/ejecutivo-a-asistente-de-contratos-at-go-4430113205
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4425718986
@@ -1036,6 +1034,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-442
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
+https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
@@ -1279,6 +1278,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-jr-mantenimiento-hvac-equipos-m%C
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
+https://cl.linkedin.com/jobs/view/tecnico-de-soporte-mininco-los-angeles-at-motorola-solutions-4412414770
 https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
 https://cl.linkedin.com/jobs/view/tecnico-soporte-cio-cas-at-motorola-solutions-4416299833
 https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634

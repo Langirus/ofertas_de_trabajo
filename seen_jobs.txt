@@ -1,5 +1,3 @@
-awsdevopsengineerjuniorremoto|vermontsolutions
-awsdevopsengineerjunior|softserve
 awsdevopsengineer|epamsystems
 awsdevopsingeniero|empresaconfidencial
 awsingenieroplataformas|na
@@ -1163,6 +1161,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-prevenci%C3%B3n-de-riesgos-at-automotriz-guillermo-morales-ltda-4428547998
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4431127755
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
@@ -1974,6 +1973,7 @@ negociospracticanteprocesos|nttdata
 operationspeopletrainee|roche
 practicanteseguridadtecnologica|segurosfalabella
 practicante|stellacapitaladvisory
+practicaprevencionprofesionalriesgos|automotrizguillermomorales
 practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprofesionalreclutamientoseleccion|bancode
 practicaprofesionalti|bancoripley

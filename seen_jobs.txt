@@ -1,9 +1,3 @@
-bilingueengineerfullgenaipythonreactremotostack|towasoftware
-bilingueingenierosoporteti|nttdata
-blockchainengineerresearcher|fairgambling
-bocoperadorpracticaprofesionaltecnica|warnerbrosdiscovery
-bootdeveloperjavajuniorsoftwarespring|ingenierojob
-bpadesarrolladorpracticaprofesional|backspace
 brazildevelopmentengineersoftwaretest|remoteok
 brazilengineerjuniorremotesoftware|mixrank
 buscaestamospracticantes|chiletrabajos
@@ -616,6 +610,7 @@ https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallpl
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-internas-regional-at-air-products-4426717514
 https://cl.linkedin.com/jobs/view/analista-comunitario-4x3-los-andes-at-j-e-j-ingenier%C3%ADa-s-a-4430734321
 https://cl.linkedin.com/jobs/view/analista-concesiones-huechuraba-at-ecrgroup%C2%AE-chile-4426439197
+https://cl.linkedin.com/jobs/view/analista-contable-at-confidential-4428590955
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-grupo-falabella-4430162624
@@ -688,6 +683,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-identidades-y-acce
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-personas-at-rocktruck-4428138756
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-estrat%C3%A9gica-y-okrs-at-fid-seguros-4428580999
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
@@ -977,6 +973,7 @@ https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-1-at-grupo-inteligencia-4428512052
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4428586552
+https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-3-at-grupo-inteligencia-4428599812
 https://cl.linkedin.com/jobs/view/ejecutivo-a-asistente-de-contratos-at-go-4430113205
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4425718986
@@ -1044,6 +1041,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-prudential-agf-442786
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-vimagen-consultores-4428901456
+https://cl.linkedin.com/jobs/view/ingeniero-de-software-ia-agentes-at-devaid-4430356653
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
@@ -1682,6 +1680,7 @@ https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al-menos-1-ano-de-experiencia-1437119
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-full-stack-con-experiencia-javascript-hibrido-3777820
 https://www.chiletrabajos.cl/trabajo/e391-ingeniero-ambiental-con-manejo-de-norma-iso-14001-copiapo-3836570
+https://www.chiletrabajos.cl/trabajo/ejecutivo-analista-de-pricing-3855986
 https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamiento-de-datos-y-ciberseguridad-3727290
 https://www.chiletrabajos.cl/trabajo/estamos-en-busca-de-practicantes-en-marketing-digital-3837338
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
@@ -1815,6 +1814,7 @@ https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
+https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote

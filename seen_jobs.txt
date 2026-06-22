@@ -1,14 +1,3 @@
-businessinternationalpartnerproduction|krcher
-buyerjuniormediaremote|clientaccelerators
-cabanasmontanaspracticaturismovalle|chiletrabajos
-canadaengineerlatamsoftware|opensesame
-canadaengineersecurity|remoteok
-canalesdigitalesgerenciasoportesubgerentetecnologia|walmart
-careerearlyengineersoftwaresystemswarfighter|remoteok
-cargosoportetecnico|smartlift
-casciosoportetecnico|motorolasolutions
-cctvseguridadsistemastecnico|chiletrabajos
-cencoexperienciamallspracticaproductoprofesionalsubgerencia|cencosud
 cencosudclientesexperienciapractica|cencosud
 cencosuddesarrolloequipomediapracticaproducto|cencosud
 centercontrolscontrolsdataengineerteam|amazonwebservicesaws
@@ -344,6 +333,7 @@ engineerjuniorremotesoftware|hirefeed
 engineerjuniorremotesoftware|quikhirestaffing
 engineerkualalumpuroperations|remoteok
 engineerlatamsoftware|trashlab
+engineerlearningmachinepythonremotework|bairesdev
 engineerlearningmachineqa|remoteok
 engineerlearningmachineremotework|bairesdev
 engineerlearningmachineremote|hirefeed
@@ -658,6 +648,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-44
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-datos-ti-at-apiux-tech-4375281650
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
+https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesorer%C3%ADa-at-banchile-inversiones-4431700376
 https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-estadisticas-importante-afp-comuna-las-condes-at-esencial-staff-4425144609
@@ -686,6 +677,7 @@ https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-princip
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-financial-group-4425838784
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-datos-at-ikea-4418538689
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
+https://cl.linkedin.com/jobs/view/analista-de-lectura-y-facturaci%C3%B3n-at-mcr-international-executive-search-4431680293
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
@@ -699,9 +691,11 @@ https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-tata-consultancy-serv
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-de-alertas-100%25-remoto-at-inpact-tecnolog%C3%ADas-y-procesos-spa-4417249924
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-y-condiciones-equipos-mina-turno-7x7-santiago-at-vantaz-group-4416344416
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
+https://cl.linkedin.com/jobs/view/analista-de-negocio-en-medios-de-pago-fintech-at-mercado-libre-4428941967
 https://cl.linkedin.com/jobs/view/analista-de-negocios-asistente-at-gnf-worldwide-4418741946
 https://cl.linkedin.com/jobs/view/analista-de-negocios-at-evertec-4416263994
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-control-gesti%C3%B3n-operaciones-financieras-at-banco-de-chile-4431702845
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
@@ -903,6 +897,7 @@ https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
+https://cl.linkedin.com/jobs/view/automations-engineer-open-source-at-searchapi-4431716372
 https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
 https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
@@ -1058,6 +1053,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-ex
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
+https://cl.linkedin.com/jobs/view/ingeniero-klass-x-at-farmacias-ahumada-4430530995
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-procesos-jr-at-wisetrack-corp-4427347932
 https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02-at-cyd-ingenier%C3%ADa-4413121930
@@ -1088,6 +1084,7 @@ https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ti-at-empresa-confidencial-4426471019
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
+https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23295171-at-bairesdev-4429725436
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
@@ -1316,6 +1313,7 @@ https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4
 https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
+https://es.linkedin.com/jobs/view/%F0%9F%9A%80-frontend-developer-mid%E2%80%93junior-vue-%C2%B7-angular-%C2%B7-nuxt-teletrabajo-at-iahorro-com-4428938224
 https://es.linkedin.com/jobs/view/ai-automation-engineer-remote-es-uk-only-at-quadrivia-ai-4423653558
 https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-work-at-bairesdev-4424255475
 https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
@@ -1668,6 +1666,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/ayudante-tecnico-climatizacion-faena-minera-ii-region-3855909
+https://www.chiletrabajos.cl/trabajo/bodeguero-junior-la-granja-santiago-3827326
 https://www.chiletrabajos.cl/trabajo/castro-chiloe-se-necesita-asistente-dental-tens-con-experiencia-dental-3848478
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/comprador-asistente-administrativo-3854620
@@ -1904,6 +1903,7 @@ ingenierojrprocesos|wisetrack
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortrabajos|portal
+ingenieroklass|farmaciasahumada
 ingenierolearningmachine|innomotics
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede

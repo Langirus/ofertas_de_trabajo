@@ -1,13 +1,3 @@
-brazildevelopmentengineersoftwaretest|remoteok
-brazilengineerjuniorremotesoftware|mixrank
-buscaestamospracticantes|chiletrabajos
-buscamospracticanteti|hospitaliainternationalgmbh
-businessanalystdigitalanalyticsbi|na
-businessconsultorfuncionalonesaptrainee|seidor
-businessconsultoronesaptecnicotrainee|seidor
-businessecommerceiniciainternjulionewpracticaprofesional|samsungelectronics
-businessengineerexperiencesoftware|codesignal
-businessfastpasspracticaprofesionaltransformation|ey
 businessinternationalpartnerproduction|krcher
 buyerjuniormediaremote|clientaccelerators
 cabanasmontanaspracticaturismovalle|chiletrabajos
@@ -167,6 +157,7 @@ dataengineer|qibit
 dataengineer|remoteok
 dataengineer|sodimac
 datajuniorscientist|confidential
+datajuniorscientist|joinrs
 dataprocessanalyst|na
 dataprocessingspecialist|remoteok
 datascienceinternpricinganalytics|remoteok
@@ -358,6 +349,7 @@ engineerlearningmachineremotework|bairesdev
 engineerlearningmachineremote|hirefeed
 engineerlearningmachineremote|quikhirestaffing
 engineerlearningmachine|adipa
+engineerlearningmachine|nttdataeurope
 engineerlearningmachine|remoteok
 engineerlevelmidsoftware|na
 engineermarketingmobilesoftware|sezzle
@@ -404,6 +396,7 @@ experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
 experienciaimplementacioninformaticoingenieroredessistesistema|itg
 experienciaprevencionistariesgosin|inprint
+eyeflowiaingeniero|arsoft
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 falabellafullhrsquilpueseguridadtimtrainee|falabella
 fernandosantecnicotelecomunicaciones|chiletrabajos
@@ -1333,6 +1326,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
 https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
+https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
@@ -1367,7 +1361,9 @@ https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-angular-react-100%
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4416115977
+https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
+https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
@@ -1381,12 +1377,15 @@ https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-ingeniero
 https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-vermont-solutions-4426279339
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-4422213272
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4425259828
+https://es.linkedin.com/jobs/view/junior-data-scientist-at-joinrs-4431667237
+https://es.linkedin.com/jobs/view/junior-developer-ai-app-web-cloud-data-machine-learning-at-joinrs-4431672127
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-java-developer-%2B-ia-100%25-remoto-at-knowmad-mood-4427244605
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
+https://es.linkedin.com/jobs/view/machine-learning-engineer-at-ntt-data-europe-latam-4430374625
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
@@ -1398,6 +1397,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowma
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
+https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790

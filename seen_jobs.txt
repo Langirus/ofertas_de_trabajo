@@ -1,12 +1,3 @@
-cencosudclientesexperienciapractica|cencosud
-cencosuddesarrolloequipomediapracticaproducto|cencosud
-centercontrolscontrolsdataengineerteam|amazonwebservicesaws
-centercostanerafalabellahrsseguridadtrainee|falabella
-centercostanerafalabellamjtseguridadtrainee|falabella
-centrodatostecnico|amazonwebservicesaws
-cerrillosinformaticojuniornuevosregiontrabajos|portal
-chaindatapracticaprofesionalstrategysupplytrainee|sodimac
-chainfastpasspracticaprofesionalsupply|ey
 channelengineersolutions|netskope
 chiledesarrolladorindeedjuniorsueldo|portal
 chiledesarrolladorjavascriptjuniorregionsantiago|portal
@@ -25,6 +16,7 @@ chilesoportetecnicoterreno|coasinlogicalis
 chiletrabajoschillaninformaticojunior|portal
 chiletrabajosciberseguridadingenierojuniorsantiago|portal
 chiletrabajosconsultorjuniorsantiagosap|portal
+chiletrabajosdatosingenierojuniormonttpuerto|portal
 chiletrabajosdeptoinformaticoingenierojuniorti|portal
 chiletrabajosdesarrolladorfulljuniorsantiagostack|portal
 chiletrabajosdesarrolladorfullstackjuniorsantiago|portal
@@ -378,6 +370,7 @@ entryfullgamegameplayhiringindiejuniorlevelmentorshipprogrammerremotestudiosyste
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
 estructuralingenieromecanicaopenfoamopenseesremotosimulacion|alignerr
+estudianteinformaticaingpracticaprogramacion|bancobice
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
 estudiantepracticas|sicksensorintelligence
 estudiantepractica|theweirgroupplc
@@ -580,6 +573,7 @@ https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabel
 https://cl.linkedin.com/jobs/view/analista-atraccion-de-talento-at-grupo-falabella-4431169566
 https://cl.linkedin.com/jobs/view/analista-backoffice-at-acl-4406733042
 https://cl.linkedin.com/jobs/view/analista-bi-at-apiux-tech-4425934417
+https://cl.linkedin.com/jobs/view/analista-bi-at-verisure-4428962679
 https://cl.linkedin.com/jobs/view/analista-bi-inform%C3%A1tico-a-at-empresa-confidencial-4409019783
 https://cl.linkedin.com/jobs/view/analista-bpo-at-evertec-4415715581
 https://cl.linkedin.com/jobs/view/analista-business-intelligence-supply-chain-at-bredenmaster-4426080847
@@ -649,6 +643,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-441
 https://cl.linkedin.com/jobs/view/analista-de-datos-ti-at-apiux-tech-4375281650
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesorer%C3%ADa-at-banchile-inversiones-4431700376
+https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesoreria-at-banchile-inversiones-4430576159
 https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-estadisticas-importante-afp-comuna-las-condes-at-esencial-staff-4425144609
@@ -821,6 +816,7 @@ https://cl.linkedin.com/jobs/view/analista-recepci%C3%B3n-y-transferencia-avione
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
 https://cl.linkedin.com/jobs/view/analista-remuneraciones-rexmas-at-resiter-4431338340
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
+https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecnol%C3%B3gicos-at-banco-de-chile-4430584022
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
@@ -969,6 +965,7 @@ https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-trainee-2
 https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lockers-4422746817
 https://cl.linkedin.com/jobs/view/enterprise-integration-engineer-at-shinkansen-4426884740
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
+https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-ing-inform%C3%A1tica-programaci%C3%B3n-at-banco-bice-4431757396
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-business-transformation-at-ey-4428421153
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-supply-chain-at-ey-4428420209
@@ -1610,6 +1607,7 @@ https://www.chiletrabajos.cl/trabajo/3846992
 https://www.chiletrabajos.cl/trabajo/3847408
 https://www.chiletrabajos.cl/trabajo/3847504
 https://www.chiletrabajos.cl/trabajo/3848014
+https://www.chiletrabajos.cl/trabajo/3856472
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1618,6 +1616,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
+https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-3856272
 https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
@@ -1765,6 +1764,7 @@ https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-s
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
+https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab

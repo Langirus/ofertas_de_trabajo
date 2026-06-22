@@ -1,13 +1,3 @@
-channelengineersolutions|netskope
-chiledesarrolladorindeedjuniorsueldo|portal
-chiledesarrolladorjavascriptjuniorregionsantiago|portal
-chileencuentrainformaticajuniornuevasofertassantiago|portal
-chileencuentrainformaticojuniornuevasofertassantiago|portal
-chileengineerjuniormobile|sezzle
-chileengineermobile|sezzle
-chileengineersoftware|sezzle
-chileepirocmemoristaspracticantes|epiroc
-chileformacionpracticasprogramatalento|dhlglobalforwarding
 chileinformaticoingenierosueldo|portal
 chileingenierojuniormetropolitanaregionsantiagosistemas|portal
 chileingenierojuniorredes|serviciosdetelecomunicacionesolitel
@@ -129,6 +119,7 @@ dataengineerremote|crossinghurdles
 dataengineerremote|greencodesoftware
 dataengineerremote|hirefeed
 dataengineerremoto|vermontsolutions
+dataengineer|confidential
 dataengineer|ita
 dataengineer|jobgether
 dataengineer|na
@@ -163,6 +154,7 @@ desarrolladorjavajuniorremototrabajo|bairesdev
 desarrolladorjrpython|apiuxtech
 desarrolladorjuniornetremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
+desarrolladorjuniorreactremototrabajo|bairesdev
 desarrolladorjuniorremotoservicenowtrabajo|bairesdev
 desarrolladorjuniorweb|computrabajo
 desarrolladorpracticante|geolize
@@ -410,6 +402,7 @@ https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-442
 https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://ar.linkedin.com/jobs/view/software-engineer-latam-at-trashlab-4428651868
+https://bo.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4430589412
 https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163304
 https://br.linkedin.com/jobs/view/analista-de-dados-ia-remoto-at-getronics-4426422867
 https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
@@ -472,6 +465,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-d
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-monitorieo-junior-en-santiago-centro-A6D42AD79227CDC661373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-software-engineer-dynamics-365-junior-en-santiago-centro-66468335C689134F61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-de-redes-presencial-en-santiago-centro-875C00BF516AE58E61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-soporte-informatico-junior-modalidad-en-sitio-en-santiago-providencia-5F46F54DF59E1D3D61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-monitoreo-ti-en-santiago-providencia-6CC58DE6DD159C6461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-ti-junior-800000-huechuraba-en-santiago-huechuraba-459420E5EFC99BB461373E686DCF3405
@@ -748,6 +742,7 @@ https://cl.linkedin.com/jobs/view/analista-de-tecnolog%C3%ADa-back-office-at-exp
 https://cl.linkedin.com/jobs/view/analista-de-visado-at-acl-4421151591
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-desarrollador-at-apex-group-ltd-4398862113
+https://cl.linkedin.com/jobs/view/analista-deuda-privada-at-larrainvial-4431748653
 https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
 https://cl.linkedin.com/jobs/view/analista-estrategia-de-salud-at-cl%C3%ADnicas-achs-salud-4426423688
@@ -925,6 +920,7 @@ https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
+https://cl.linkedin.com/jobs/view/data-engineer-at-confidential-4428961549
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754
@@ -1005,6 +1001,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-441
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
+https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
@@ -1590,6 +1587,7 @@ https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-e
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
+https://www.chiletrabajos.cl/encuentra-un-empleo/120?2=t%C3%A9cnico+en+inform%C3%A1tica
 https://www.chiletrabajos.cl/encuentra-un-empleo/60?2=junior&13=1022&f=2
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=en+inform%C3%A1tica+junior
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+junior
@@ -1882,6 +1880,7 @@ informaticajuniortrabajos|portal
 informaticapracticante|estandariso
 informaticapracticasoporte|voxa
 informaticaredessoportetecnico|mafem
+informaticatecnicotrabajos|portal
 informaticoingenieropracticante|occimiano
 informaticoingeniero|chiletrabajos
 informaticoingeniero|industrial
@@ -1986,6 +1985,7 @@ productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
+redessoporte|computrabajo
 redessubterraneatecnico|sonda
 redestecnico|prontopaga
 remotosoportetecnico|inetum

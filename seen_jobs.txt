@@ -1,9 +1,3 @@
-chiletrabajosinformaticaingenierosantiago|portal
-chiletrabajosinformaticaingjuniorsantiago|portal
-chiletrabajosinformaticajuniorsantiagotecnico|portal
-chiletrabajosinformaticoingenierojuniorsoporteti|portal
-chiletrabajosingenierojuniorpreventasantiago|portal
-chiletrabajosingenierojuniorsantiagosistemas|portal
 chiletrabajosjuniorliderproyectosantiago|portal
 ciberseguridadciberseguridadgestioningenieroplanificacion|bancode
 ciberseguridadcontratoindefingenierojunior|portal
@@ -478,6 +472,7 @@ https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5
 https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=a99996a415e505a6
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b7cf843ca5033b75
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
@@ -538,6 +533,7 @@ https://cl.linkedin.com/jobs/view/ai-implementation-engineer-ai-agents-at-agenda
 https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415699354
 https://cl.linkedin.com/jobs/view/ai-operations-engineer-at-nubox-spa-4429092933
 https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
+https://cl.linkedin.com/jobs/view/ai-research-engineer-multi-modal-vision-at-jobgether-4432216415
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-kashio-4427021447
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
@@ -626,6 +622,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-44
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-datos-ti-at-apiux-tech-4375281650
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
+https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-huechuraba-at-universidad-san-sebasti%C3%A1n-4430892819
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesorer%C3%ADa-at-banchile-inversiones-4431700376
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesoreria-at-banchile-inversiones-4430576159
 https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
@@ -986,6 +983,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-g
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-ti-biling%C3%BCe-at-ntt-data-inc-4399986971
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-tecnolog%C3%ADa-at-finning-4432220763
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
@@ -1331,6 +1329,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428
 https://es.linkedin.com/jobs/view/data-loss-prevention-dlp-analyst-insider-threat-risk-100%25-remote-within-spain-at-ust-4417956364
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madrid-remoto-at-it-partner-4430839286
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
+https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
 https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
@@ -1923,6 +1922,7 @@ ingenierosoftware|prudentialagf
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoftware|vimagenconsultores
+ingenierosoportetecnologia|finning
 ingenierosoporte|apiuxtech
 ingenierosoporte|gausscontrol
 ingenierosoporte|tecnologiainformatica

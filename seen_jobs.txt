@@ -1,5 +1,3 @@
-chiletrabajosjuniorliderproyectosantiago|portal
-ciberseguridadciberseguridadgestioningenieroplanificacion|bancode
 ciberseguridadcontratoindefingenierojunior|portal
 ciberseguridadcontratoindefinidoingenierojunior|portal
 ciberseguridadcontratoindingenierojunior|portal
@@ -1602,6 +1600,7 @@ https://www.chiletrabajos.cl/trabajo/3847408
 https://www.chiletrabajos.cl/trabajo/3847504
 https://www.chiletrabajos.cl/trabajo/3848014
 https://www.chiletrabajos.cl/trabajo/3856472
+https://www.chiletrabajos.cl/trabajo/3856739
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1701,6 +1700,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-huechuraba-3852217
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-3851502
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-junior-para-depto-ti-3848411
+https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-soporte-ti-junior-3661542
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-junior-desarrollador-de-software-3620077
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994

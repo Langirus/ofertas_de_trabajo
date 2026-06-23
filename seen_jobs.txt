@@ -1,8 +1,3 @@
-clouddataengineergcpgooglelatamplatform|avenuecode
-clouddevopsengineergcp|na
-clouddevopsengineermlopssre|na
-cloudengineerazureiot|na
-cloudengineerforiot|na
 cloudengineerfullpythonsoftwarestack|remoteok
 cloudengineerfullstack|rycconsultoresasociados
 cloudengineerlevelmulti|na
@@ -606,6 +601,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-labo
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
+https://cl.linkedin.com/jobs/view/analista-de-datos-maestros-de-repuestos-at-consultora-psicolab-4429457511
 https://cl.linkedin.com/jobs/view/analista-de-datos-ti-at-apiux-tech-4375281650
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-at-randstad-4421221534
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-huechuraba-at-universidad-san-sebasti%C3%A1n-4430892819
@@ -940,6 +936,7 @@ https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lo
 https://cl.linkedin.com/jobs/view/enterprise-integration-engineer-at-shinkansen-4426884740
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-ing-inform%C3%A1tica-programaci%C3%B3n-at-banco-bice-4431757396
+https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-analista-at-bsponsor-4432267691
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-business-transformation-at-ey-4428421153
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-supply-chain-at-ey-4428420209
@@ -1004,6 +1001,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-vimagen-consultores-4428901456
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ia-agentes-at-devaid-4430356653
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
+https://cl.linkedin.com/jobs/view/ingeniero-de-software-nivel-2-at-apiux-tech-4432290942
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte%F0%9F%92%A1-at-apiux-tech-4430813133
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
@@ -1066,6 +1064,7 @@ https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-at-sezzle-4082662210
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
+https://cl.linkedin.com/jobs/view/mobility-analyst-at-csm-globals-4348072388
 https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-4426419773
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
@@ -1905,6 +1904,7 @@ ingenierolearningmachine|innomotics
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromultidisciplina|ghd
+ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech

@@ -1,12 +1,4 @@
-comercioexteriorpracticaprofesional|skcinsumosgruposigdokoppers
-compindcndeptojuniornacionalprogramador|portal
-comprasingeniero|enaex
-computacionalingenierovision|computrabajo
-computacionalpracticaprofesionalserviciotecnico|bitumix
-computeriaingenierovision|deliryumai
-comunicacionesinterninternaspracticante|dhlglobalforwarding
-comunicacionesmarketingpracticante|chiletrabajos
-concepcioningenieroinspector|chiletrabajos
+concepcionsoportetecnicoti|avalora
 conducirelectricoslicenciatecnicos|chiletrabajos
 conferenciatecnicovideo|avostech
 consultantdataengineergcp|ey
@@ -877,6 +869,7 @@ https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consul
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/coordinador-a-de-proyectos-y-analista-funcional-pmo-at-e-digital-4429408560
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
+https://cl.linkedin.com/jobs/view/cybersecurity-engineer-%E2%80%93-risk-ai-at-baseline-4429477286
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4403110221
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4410224504
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
@@ -996,6 +989,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-software-nivel-2-at-apiux-tech-44
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte%F0%9F%92%A1-at-apiux-tech-4430813133
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
+https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4431444049
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-sistemas-aguas-andinas-at-motorola-solutions-4411848627
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliza-4423185390
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
@@ -1109,6 +1103,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnic
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-sistemas-plataforma-y-operaciones-it-at-banco-falabella-4426346918
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-tecnolog%C3%ADa-at-ripley-chile-4428135167
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-chile-4423513860
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-trainee-ai-engineer-%F0%9F%9A%80-at-apiux-tech-4409622036
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-programador-automatizador-at-banco-falabella-4425918627
@@ -1214,9 +1209,11 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chi
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-subterr%C3%A1nea-at-sonda-4346336994
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-servicios-at-diprotec-chile-4426894693
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-the-email-company-4432431628
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-vigatec-4432433590
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-ti-biling%C3%BCe-at-seidor-4432274031
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-en-terreno-at-tivit-latam-4419632304
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-ti-concepci%C3%B3n-at-avalora-chile-4432435615
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-terreno-infraestructura-tecnol%C3%B3gica-at-accenture-chile-4426178885
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
@@ -1450,6 +1447,7 @@ https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-softw
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
+https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
@@ -1973,6 +1971,7 @@ practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|automotrizguillermomorales
 practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprofesionalreclutamientoseleccion|bancode
+practicaprofesionaltecnologia|ripley
 practicaprofesionalti|bancoripley
 practicasprofesionalessantiago|limchile
 practicati|maihue
@@ -1994,6 +1993,7 @@ serviciostecnico|diprotec
 soportetecnicoterreno|tivit
 soportetecnicoti|chiletrabajos
 soportetecnicousuario|chiletrabajos
+soportetecnico|theemailcompany
 soportetecnico|vigatec
 soporteti|sermaluc
 soporte|bechtelcorporation

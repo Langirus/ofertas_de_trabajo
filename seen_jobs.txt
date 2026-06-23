@@ -1,12 +1,3 @@
-cloudengineerremote|quikhirestaffing
-cloudengineersecurity|remoteok
-cloudgcpingeniero|na
-cloudgooglelidertecnico|na
-cloudopsecuadorengineerremote|connecttechtalent
-cloudprogrampublicsapseidortrainee|seidor
-cmsdesarrolladorpracticaprofesionalsoportetecnicoweb|enexum
-collectionsintern|gmfinancial
-colombiaengineerjuniorremotesoftware|mixrank
 comercioexteriorpracticaprofesional|skcinsumosgruposigdokoppers
 compindcndeptojuniornacionalprogramador|portal
 comprasingeniero|enaex
@@ -558,6 +549,7 @@ https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha
 https://cl.linkedin.com/jobs/view/analista-customer-experience-cx-at-arcoprime-4424794182
 https://cl.linkedin.com/jobs/view/analista-data-science-at-vinci-compass-4427384329
 https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4427364581
+https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4429491070
 https://cl.linkedin.com/jobs/view/analista-de-administraci%C3%B3n-y-finanzas-%E2%80%93-inmobiliaria-boutique-at-andres-pardo-consultores-4431359075
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-central-bank-of-chile-4430981687
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
@@ -648,6 +640,7 @@ https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-
 https://cl.linkedin.com/jobs/view/analista-de-negocio-en-medios-de-pago-fintech-at-mercado-libre-4428941967
 https://cl.linkedin.com/jobs/view/analista-de-negocios-asistente-at-gnf-worldwide-4418741946
 https://cl.linkedin.com/jobs/view/analista-de-negocios-at-evertec-4416263994
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-at-proyectum-chile-4432423307
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-control-gesti%C3%B3n-operaciones-financieras-at-banco-de-chile-4431702845
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
@@ -674,6 +667,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-441470
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-falabella-4388376406
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-backoffice-de-riesgo-at-banco-falabella-4421289216
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
+https://cl.linkedin.com/jobs/view/analista-de-proyectos-y-mejora-continua-at-afp-planvital-4432442509
 https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-reclutamiento-y-selecci%C3%B3n-at-arcoprime-4421658206
@@ -726,6 +720,7 @@ https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-y-control-emergencia-mai
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
+https://cl.linkedin.com/jobs/view/analista-identidades-y-accesos-at-romax-technologies-4429472418
 https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-hr-digital-4418972190
 https://cl.linkedin.com/jobs/view/analista-informatico-codigo-shell-logs-control-m-at-tecnologia-informatica-4429123738
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
@@ -781,6 +776,7 @@ https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecno
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
+https://cl.linkedin.com/jobs/view/analista-seguridad-sap-at-deloitte-4432417128
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254
@@ -1266,6 +1262,7 @@ https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371028420
 https://co.linkedin.com/jobs/view/ai-analyst-%E2%80%93-remote-latam-at-echez-group-4419314081
 https://co.linkedin.com/jobs/view/ai-analyst-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4428079782
+https://co.linkedin.com/jobs/view/ai-analyst-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4431440265
 https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370865351
 https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370889259
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
@@ -1310,6 +1307,7 @@ https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/aws-big-data-engineer-remote-35-42k-at-the-board-people-talent-4427054292
 https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-bark-com-4421170285
+https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-online-life-coach-me-4432454039
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/data-engineer-ml-cloud-remoto-espa%C3%B1a-at-oxigent-technologies-4417054884
@@ -1599,6 +1597,7 @@ https://www.chiletrabajos.cl/trabajo/3856739
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
+https://www.chiletrabajos.cl/trabajo/alumno-a-en-practica-o-trainee-marketing-digital-y-redes-sociales-3857208
 https://www.chiletrabajos.cl/trabajo/alumno-en-practica-de-gastronomia-3842008
 https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
@@ -1840,6 +1839,7 @@ https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gu
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431391972
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
+https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
 https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%80%93-remote-latam-at-gracemark-solutions-4428393820
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490

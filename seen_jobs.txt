@@ -1,7 +1,3 @@
-concepcionsoportetecnicoti|avalora
-conducirelectricoslicenciatecnicos|chiletrabajos
-conferenciatecnicovideo|avostech
-consultantdataengineergcp|ey
 consultantengineertesting|murex
 consultorficojuniormodalidadpresencialproyectosap|portal
 consultorfulltimejuniormexicomulesoftremoto|sps
@@ -526,6 +522,7 @@ https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallpl
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-internas-regional-at-air-products-4426717514
 https://cl.linkedin.com/jobs/view/analista-comunitario-4x3-los-andes-at-j-e-j-ingenier%C3%ADa-s-a-4430734321
 https://cl.linkedin.com/jobs/view/analista-concesiones-huechuraba-at-ecrgroup%C2%AE-chile-4426439197
+https://cl.linkedin.com/jobs/view/analista-conducta-animal-at-bioparque-buinzoo-4432487036
 https://cl.linkedin.com/jobs/view/analista-contable-at-confidential-4428590955
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
@@ -844,6 +841,7 @@ https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-j
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/automations-engineer-open-source-at-searchapi-4431716372
+https://cl.linkedin.com/jobs/view/auxiliar-administrativo-at-vsi-instrumentaci%C3%B3n-ltda-4431266516
 https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
 https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
@@ -1167,6 +1165,7 @@ https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-441
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
+https://cl.linkedin.com/jobs/view/soc-tier-3-analyst-at-dxc-technology-4431459829
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-ingenierojob-4424884678
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
@@ -1205,6 +1204,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-aire-acondicionado-hvac-equipos-e
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-solutions-4427848623
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-7x7-mel-at-motorola-solutions-4432502241
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-subterr%C3%A1nea-at-sonda-4346336994

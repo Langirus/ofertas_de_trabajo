@@ -1,6 +1,3 @@
-consultantengineertesting|murex
-consultorficojuniormodalidadpresencialproyectosap|portal
-consultorfulltimejuniormexicomulesoftremoto|sps
 consultoriapracticantestecnologia|deloitte
 consultorjuniorproyectossantiagoti|portal
 contenidoscreaciondigitaldisenopracticaprofesional|marketingpeople
@@ -602,6 +599,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-mo
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-personas-at-rocktruck-4428138756
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-estrat%C3%A9gica-y-okrs-at-fid-seguros-4428580999
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-operacional-compras-adquisiciones-huechuraba-at-universidad-san-sebasti%C3%A1n-4429839837
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
@@ -841,6 +839,7 @@ https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-j
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/automations-engineer-open-source-at-searchapi-4431716372
+https://cl.linkedin.com/jobs/view/auxiliar-administrativo-a-npsa3-at-undp-careers-4429833856
 https://cl.linkedin.com/jobs/view/auxiliar-administrativo-at-vsi-instrumentaci%C3%B3n-ltda-4431266516
 https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
 https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
@@ -895,6 +894,7 @@ https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-gh
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
+https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-junior-en-inteligencia-artificial-computer-vision-at-kuidda-4426451384
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555

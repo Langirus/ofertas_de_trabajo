@@ -1,6 +1,3 @@
-controlsoporte|tecnologiainformatica
-coreengineeriosproductsoftware|speechify
-corporativospracticariesgos|airlines
 cosasinternetpracticas|bwhale
 coyhaiqueredestecnico|gocar
 creatojuniormediapaid|chiletrabajos
@@ -986,6 +983,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliz
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-de-telecomunicaciones-de-red-at-acl-4423168550
+https://cl.linkedin.com/jobs/view/ingeniero-desarrollador-oracle-apex-at-160k-4432592881
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
@@ -1259,6 +1257,7 @@ https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at
 https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370889259
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
+https://co.linkedin.com/jobs/view/aprendiz-sena-remoto-colombia-at-empresa-confidencial-4431878229
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-inventory-purchasing-specialist-remote-at-mpr-tools-equipment-4427293994
@@ -1747,6 +1746,7 @@ https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
+https://www.getonbrd.com/jobs/analista-bi-power-bi-sql-coderslab-io-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e
 https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santiago

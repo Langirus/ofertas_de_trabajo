@@ -1,9 +1,3 @@
-creatojuniormediapaid|chiletrabajos
-customerremotosoportespecialistsupporttecnico|jbtmarel
-dataanalyst3|remoteok
-dataanalystii|remoteok
-dataanalystremote|quikhirestaffing
-dataanalyst|remoteok
 datadatabricksengineerremote|compassuol
 datadeveloperetlintegratororacle|na
 dataengineerfullremotescientist|capitole
@@ -344,6 +338,7 @@ https://br.linkedin.com/jobs/view/melhor-envio-analista-desenvolvedor-backend-j%
 https://br.linkedin.com/jobs/view/pessoa-analista-de-pr%C3%A9-vendas-jr-remoto-0924-at-starian-4420752584
 https://br.linkedin.com/jobs/view/python-data-engineer-pleno-remote-at-compass-uol-4432029267
 https://br.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419859364
+https://br.linkedin.com/jobs/view/qa-test-automation-junior-mid-remote-at-compass-uol-4432868201
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/robotics-research-engineer-remote-at-hire-feed-4430928462
@@ -508,6 +503,7 @@ https://cl.linkedin.com/jobs/view/analista-conducta-animal-at-bioparque-buinzoo-
 https://cl.linkedin.com/jobs/view/analista-contable-at-confidential-4428590955
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
+https://cl.linkedin.com/jobs/view/analista-contratos-l53-at-cyd-ingenier%C3%ADa-4431898175
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-grupo-falabella-4430162624
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-jr-%E2%80%93-enfoque-en-datos-y-automatizaci%C3%B3n-at-tanner-4430475693
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
@@ -727,6 +723,7 @@ https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-riesgo-reemplazo-p
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-fraude-banchile-pago-at-banco-de-chile-4429390548
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
+https://cl.linkedin.com/jobs/view/analista-programador-cobol-cics-at-tata-consultancy-services-4432867054
 https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-chile-4424003971
@@ -746,6 +743,7 @@ https://cl.linkedin.com/jobs/view/analista-recepci%C3%B3n-y-transferencia-avione
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
 https://cl.linkedin.com/jobs/view/analista-remuneraciones-rexmas-at-resiter-4431338340
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
+https://cl.linkedin.com/jobs/view/analista-renta-variable-at-randstad-chile-4429887382
 https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecnol%C3%B3gicos-at-banco-de-chile-4430584022
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
@@ -1473,6 +1471,7 @@ https://portal.chiletrabajos.cl/empresa/triibu/trabajo/analista-ti-junior-340553
 https://portal.chiletrabajos.cl/empresa/wisely/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
+https://pr.linkedin.com/jobs/view/data-engineer-remote-us-based-role-at-macaw-labs-4432844694
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://remoteOK.com/remote-jobs/remote-analista-pleno-de-negocios-offshore-c6-bank-1131925
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512
@@ -1746,6 +1745,7 @@ https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
+https://www.getonbrd.com/jobs/alumno-en-practica-ing-informatica-area-observabilidad-bice-vida-santiago
 https://www.getonbrd.com/jobs/analista-bi-power-bi-sql-coderslab-io-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-automatizacion-y-datos-bc-tecnologia-santiago-108e

@@ -1,5 +1,3 @@
-datadatabricksengineerremote|compassuol
-datadeveloperetlintegratororacle|na
 dataengineerfullremotescientist|capitole
 dataengineergcp|deloitte
 dataengineergovernance|remoteok
@@ -341,6 +339,7 @@ https://br.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-quik-hire-staf
 https://br.linkedin.com/jobs/view/qa-test-automation-junior-mid-remote-at-compass-uol-4432868201
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
+https://br.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4432819925
 https://br.linkedin.com/jobs/view/robotics-research-engineer-remote-at-hire-feed-4430928462
 https://br.linkedin.com/jobs/view/software-engineer-%E2%80%93-remote-at-hire-feed-4419856471
 https://br.linkedin.com/jobs/view/software-engineers-remote-at-quik-hire-staffing-4416023725
@@ -1641,6 +1640,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-quilicura-3855484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876

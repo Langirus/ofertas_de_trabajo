@@ -1,10 +1,6 @@
-desarrolladorfullstackjunior|computrabajo
-desarrolladoriajuniorremoto|randstaddigitalespaa
-desarrolladoriapracticantepresencialquilicura|relixwater
-desarrolladorinformaticaingenieriapracticaprofesional|chiletrabajos
-desarrolladorinformaticoingeniero|experis
 desarrolladorjavajuniorremototrabajo|bairesdev
 desarrolladorjrpython|apiuxtech
+desarrolladorjr|conkord
 desarrolladorjuniornetremototrabajo|bairesdev
 desarrolladorjuniorpythonremototrabajo|bairesdev
 desarrolladorjuniorreactremototrabajo|bairesdev
@@ -420,6 +416,7 @@ https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-r
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-latin-america-at-fullstack-4377025940
 https://cl.linkedin.com/jobs/view/ai-agent-engineer-at-tigabytes-cl-4426347545
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
+https://cl.linkedin.com/jobs/view/ai-engineer-at-ita%C3%BA-chile-4433375829
 https://cl.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4433327187
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
@@ -639,6 +636,7 @@ https://cl.linkedin.com/jobs/view/analista-de-visado-at-acl-4421151591
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-desarrollador-at-apex-group-ltd-4398862113
 https://cl.linkedin.com/jobs/view/analista-deuda-privada-at-larrainvial-4431748653
+https://cl.linkedin.com/jobs/view/analista-dialogo-comunitario-ii-proyecto-at-freeport-mcmoran-4429483027
 https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
 https://cl.linkedin.com/jobs/view/analista-estrategia-de-salud-at-cl%C3%ADnicas-achs-salud-4426423688
@@ -859,6 +857,7 @@ https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
+https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289
 https://cl.linkedin.com/jobs/view/desarrollador-junior-en-inteligencia-artificial-computer-vision-at-kuidda-4426451384
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
@@ -973,6 +972,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-techforce-agente
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
+https://cl.linkedin.com/jobs/view/ingeniero-inteligencia-artificial-generativa-aws-at-kpaz-4433509409
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-klass-x-at-farmacias-ahumada-4430530995
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656

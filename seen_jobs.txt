@@ -1,9 +1,3 @@
-desarrolladorexperienciafullhibridojavascriptjuniorstack|portal
-desarrolladorexperienciafullsinstack|na
-desarrolladorfocoiajunior|na
-desarrolladorformsframeworklatamnetweb|na
-desarrolladorfullnetstack|na
-desarrolladorfullstackjunior|avostech
 desarrolladorfullstackjunior|computrabajo
 desarrolladoriajuniorremoto|randstaddigitalespaa
 desarrolladoriapracticantepresencialquilicura|relixwater
@@ -36,6 +30,7 @@ desarrolloplanificacionpracticante|sodimac
 desarrollopracticaprofesionalsoftware|forcast
 desarrollopracticasistemastransversales|ripley
 desenvolvedorjavajuniorremototrabalho|bairesdev
+desenvolvedorjrpythonremotosretrilha|solutistecnologias
 desenvolvedorjuniorreactremototrabalho|bairesdev
 designinternmarketing|openx
 developerendfrontjuniorreactremote|compassuol
@@ -285,6 +280,7 @@ https://br.linkedin.com/jobs/view/aws-cloud-engineer-remote-at-hire-feed-4430493
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
 https://br.linkedin.com/jobs/view/data-engineer-databricks-pl-remote-at-compass-uol-4430747375
+https://br.linkedin.com/jobs/view/desenvolvedor-a-python-jr-trilha-para-sre-remoto-at-solutis-tecnologias-4433388089
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
 https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-home-office-at-empresa-confidencial-4433089579
@@ -324,6 +320,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista se
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-099CCA7EA560B33C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-ti-junior-quilicura-en-santiago-quilicura-0CE53D58CB88774C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-263D89D803F18D8C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-ECF08CDEE66D32C561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
@@ -767,6 +764,8 @@ https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
 https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-4398835193
+https://cl.linkedin.com/jobs/view/asistente-de-control-interno-full-time-jumbo-apoquindo-at-cencosud-s-a-4433512493
+https://cl.linkedin.com/jobs/view/asistente-de-control-interno-part-time-jumbo-apoquindo-at-cencosud-s-a-4433508592
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
@@ -1347,6 +1346,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-a
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
+https://es.linkedin.com/jobs/view/soporte-aplicaciones-microservicios-24x7-remoto-madrid-madrid-00000-es-at-grupo-digital-4432676512
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790

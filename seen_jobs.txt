@@ -1,16 +1,3 @@
-dataengineer|ita
-dataengineer|jobgether
-dataengineer|na
-dataengineer|nttdataeurope
-dataengineer|perform
-dataengineer|qibit
-dataengineer|remoteok
-dataengineer|sodimac
-datajuniorscientist|confidential
-datajuniorscientist|joinrs
-dataprocessanalyst|na
-dataprocessingspecialist|remoteok
-datascienceinternpricinganalytics|remoteok
 datascientist|na
 datosencargadoinformaticajuniorprocesamiento|portal
 datosestudiantesingenieroprograma|ibm
@@ -41,6 +28,7 @@ desarrolladorpracticante|geolize
 desarrollofullgestioninternanextpracticantesoftwarestack|betterbites
 desarrollofullpracticantestack|chiletrabajos
 desarrollohomeliderofficesoftwaretecnico|towasoftware
+desarrolloiaingeniero|faroconsultoraseleccin
 desarrolloinformaticopractica|getramgrupo
 desarrolloingenieroinnovacion|fdaingenieros
 desarrolloingenieroinvestigacion|na
@@ -345,6 +333,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-099CCA7EA560B33C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-263D89D803F18D8C61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-ECF08CDEE66D32C561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
@@ -442,6 +431,7 @@ https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-r
 https://cl.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-latin-america-at-fullstack-4377025940
 https://cl.linkedin.com/jobs/view/ai-agent-engineer-at-tigabytes-cl-4426347545
 https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
+https://cl.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4433327187
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
 https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
 https://cl.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23294116-at-bairesdev-4426548488
@@ -492,6 +482,7 @@ https://cl.linkedin.com/jobs/view/analista-contratos-l53-at-cyd-ingenier%C3%ADa-
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-grupo-falabella-4430162624
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-jr-%E2%80%93-enfoque-en-datos-y-automatizaci%C3%B3n-at-tanner-4430475693
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
+https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423090992
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-control-y-seguimiento-de-negocio-plazo-fijo-santiago-at-santander-chile-4426788872
@@ -577,6 +568,7 @@ https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-princip
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-financial-group-4425838784
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-datos-at-ikea-4418538689
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
+https://cl.linkedin.com/jobs/view/analista-de-inteligencia-riesgo-financiero-at-banchile-inversiones-4432675057
 https://cl.linkedin.com/jobs/view/analista-de-lectura-y-facturaci%C3%B3n-at-mcr-international-executive-search-4431680293
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
@@ -615,6 +607,7 @@ https://cl.linkedin.com/jobs/view/analista-de-procesos-de-ti-at-experis-chile-44
 https://cl.linkedin.com/jobs/view/analista-de-procesos-factoring-at-banco-bci-4432142365
 https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencosud-s-a-4420239488
 https://cl.linkedin.com/jobs/view/analista-de-procesos-protecci%C3%B3n-de-datos-at-genesys-4425301433
+https://cl.linkedin.com/jobs/view/analista-de-procesos-y-datos-contables-at-deloitte-4433328524
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-y-control-de-proyectos-at-motorola-solutions-4427081545
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
@@ -663,12 +656,14 @@ https://cl.linkedin.com/jobs/view/analista-estrategia-de-salud-at-cl%C3%ADnicas-
 https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-excelencia-operacional-at-grupo-falabella-4410946137
 https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
+https://cl.linkedin.com/jobs/view/analista-facturaci%C3%B3n-y-cobranza-at-engie-chile-4433335819
 https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-aeropuertos-at-latam-airlines-4423181036
+https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-demanda-at-redsalud-cchc-4433317839
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-tiempo-redsalud-casa-matriz-at-redsalud-providencia-4423031331
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-y-control-emergencia-maip%C3%BA-at-abastible-s-a-4421972319
@@ -787,6 +782,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-hu
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-y-comunicaciones-at-remates-madrid-s-a-4420118527
 https://cl.linkedin.com/jobs/view/asistente-de-otic-at-retail-group-4428381599
+https://cl.linkedin.com/jobs/view/asistente-de-responsable-de-tienda-at-action-4414580664
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-ludipek-4418353551
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-youtopia-company-4423695460
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
@@ -916,6 +912,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-control-operacional-at-chilexpress-4428303898
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-ia-at-faro-consultor%C3%ADa-selecci%C3%B3n-4430233762
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-ia-junior-at-grupo-o2-4429701112
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4426468037
@@ -1574,6 +1571,7 @@ https://www.chiletrabajos.cl/trabajo/3244677
 https://www.chiletrabajos.cl/trabajo/3661542
 https://www.chiletrabajos.cl/trabajo/3753715
 https://www.chiletrabajos.cl/trabajo/3804158
+https://www.chiletrabajos.cl/trabajo/3806442
 https://www.chiletrabajos.cl/trabajo/3833346
 https://www.chiletrabajos.cl/trabajo/3836880
 https://www.chiletrabajos.cl/trabajo/3846992
@@ -1631,6 +1629,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-huechuraba-3626484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
@@ -1816,6 +1815,7 @@ https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remo
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611
+https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote

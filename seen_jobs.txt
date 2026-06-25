@@ -1,7 +1,3 @@
-dataengineerremote|greencodesoftware
-dataengineerremote|hirefeed
-dataengineerremoto|vermontsolutions
-dataengineer|confidential
 dataengineer|ita
 dataengineer|jobgether
 dataengineer|na
@@ -252,6 +248,7 @@ engineertesting|enertisapplus
 entryfullgamegameplayhiringindiejuniorlevelmentorshipprogrammerremotestudiosystemstimetraining|salasgames
 entrylevelsoftwaredeveloperremote|jobsai
 entrylevelsoftwaredeveloperremote|quikhirestaffing
+estagiohomeofficesuportetecnicoti|empresaconfidencial
 estructuralingenieromecanicaopenfoamopenseesremotosimulacion|alignerr
 estudianteinformaticaingpracticaprogramacion|bancobice
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
@@ -310,6 +307,7 @@ https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil
 https://br.linkedin.com/jobs/view/data-engineer-databricks-pl-remote-at-compass-uol-4430747375
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
+https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-home-office-at-empresa-confidencial-4433089579
 https://br.linkedin.com/jobs/view/financial-software-engineer-remote-at-hire-feed-4428654072
 https://br.linkedin.com/jobs/view/front-end-engineer-specialist-remote-at-compass-uol-4417379869
 https://br.linkedin.com/jobs/view/full-stack-engineer-nestjs-react-aws-ai-native-remoto-at-jungle-gaming-4421975266
@@ -1322,6 +1320,7 @@ https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-
 https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
+https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
@@ -1655,6 +1654,7 @@ https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-3648516
 https://www.chiletrabajos.cl/trabajo/desarrollador-aplicaciones-web-junior-1389638
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
 https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764
+https://www.chiletrabajos.cl/trabajo/desarrollador-junior-3836880
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al-menos-1-ano-de-experiencia-1437119
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-full-stack-con-experiencia-javascript-hibrido-3777820
 https://www.chiletrabajos.cl/trabajo/e391-ingeniero-ambiental-con-manejo-de-norma-iso-14001-copiapo-3836570

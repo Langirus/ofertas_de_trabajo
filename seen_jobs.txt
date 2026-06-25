@@ -1,12 +1,3 @@
-dataengineerfullremotescientist|capitole
-dataengineergcp|deloitte
-dataengineergovernance|remoteok
-dataengineeringintern|remoteok
-dataengineerjr|accenture
-dataengineerjuniorremotework|bairesdev
-dataengineerjunior|nttdata
-dataengineerjunior|yellowipe
-dataengineerlooker|accenture
 dataengineerocipythonspark|na
 dataengineeropentelemetry|accenture
 dataengineerplatformremotostreaming|irium
@@ -155,6 +146,7 @@ empleosinformaticoingenierojuniortrabajo|portal
 empleosinformaticoingeniero|portal
 empresaingenieriapracticante|chiletrabajos
 encargadopostventasoporteti|kubilockers
+encuentraindeedinformaticoingenieronuevasofertas|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticaingenieronuevasofertaspostulatepractica|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
@@ -275,6 +267,7 @@ estudiantepractica|theweirgroupplc
 excellenceinstoretrainee|beiersdorf
 experiencemarketingpfizerpracticante|pfizer
 experienciafullstackjavascriptjuniorprogramadorremoto|portal
+experienciafullstackjuniorlaravelnextprogramadorremoto|portal
 experienciaimplementacioninformaticoingenieroredessistesistema|itg
 experienciaprevencionistariesgosin|inprint
 eyeflowiaingeniero|arsoft
@@ -416,6 +409,7 @@ https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html?vjk=cd
 https://cl.indeed.com/q-ingeniero-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=2d79236555b5c6cf
+https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=575fd4e26989d74c
 https://cl.indeed.com/q-ingeniero-informatico-empleos.html?vjk=59afeb7fb4c8d132
 https://cl.indeed.com/q-ingeniero-informatico-junior-trabajo-empleos.html
 https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
@@ -685,6 +679,7 @@ https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-aeropuertos-at-latam-air
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-tiempo-redsalud-casa-matriz-at-redsalud-providencia-4423031331
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-y-control-emergencia-maip%C3%BA-at-abastible-s-a-4421972319
+https://cl.linkedin.com/jobs/view/analista-gestion-de-personas-at-regionaliza-me-4429897296
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
@@ -857,6 +852,7 @@ https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4403110221
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4410224504
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
 https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
+https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4432144288
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
@@ -1135,6 +1131,7 @@ https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-20
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421238685
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421251489
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
+https://cl.linkedin.com/jobs/view/qa-analyst-%F0%9F%9A%80-at-sii-group-chile-4432888323
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046
 https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511
@@ -1628,6 +1625,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-at
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
+https://www.chiletrabajos.cl/trabajo/asistente-de-venta-part-time-mall-cenco-costanera-3858216
 https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
@@ -1653,6 +1651,7 @@ https://www.chiletrabajos.cl/trabajo/comprador-asistente-administrativo-3854620
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fi-junior-3852828
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
+https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-3648516
 https://www.chiletrabajos.cl/trabajo/desarrollador-aplicaciones-web-junior-1389638
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
 https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764
@@ -1714,6 +1713,7 @@ https://www.chiletrabajos.cl/trabajo/practicante-para-empresa-de-ingenieria-3852
 https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-software-interno-2818370
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
+https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-experiencia-en-laravel-y-nextjs-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.chiletrabajos.cl/trabajo/qa-automatizador-junior-3751042
 https://www.chiletrabajos.cl/trabajo/sap-gr-consultor-analista-de-negocios-3851856

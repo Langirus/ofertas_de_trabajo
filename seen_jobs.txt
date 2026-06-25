@@ -1,6 +1,3 @@
-dataengineerpracticante|grupofalabella
-dataengineerremotespain|lifebit
-dataengineerremote|crossinghurdles
 dataengineerremote|greencodesoftware
 dataengineerremote|hirefeed
 dataengineerremoto|vermontsolutions
@@ -853,6 +850,7 @@ https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
 https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4432144288
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
+https://cl.linkedin.com/jobs/view/data-base-analyst-car-at-ghd-4310245503
 https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
 https://cl.linkedin.com/jobs/view/data-engineer-at-confidential-4428961549
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
@@ -939,6 +937,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-441
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
+https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
 https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
@@ -1132,6 +1131,7 @@ https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullst
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421251489
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-analyst-%F0%9F%9A%80-at-sii-group-chile-4432888323
+https://cl.linkedin.com/jobs/view/qa-analyst-at-experian-spanish-latam-4423308263
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046
 https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511

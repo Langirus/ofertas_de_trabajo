@@ -1,9 +1,3 @@
-desarrolloingeniero|actis
-desarrolloingeniero|larrainvial
-desarrolloingeniero|na
-desarrolloplanificacionpracticante|sodimac
-desarrollopracticaprofesionalsoftware|forcast
-desarrollopracticasistemastransversales|ripley
 desenvolvedorjavajuniorremototrabalho|bairesdev
 desenvolvedorjrpythonremotosretrilha|solutistecnologias
 desenvolvedorjuniorreactremototrabalho|bairesdev
@@ -228,6 +222,7 @@ fullpracticastack|deliryumai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
 generativaiaingenieropythonremoto|betweentechnology
+generativaiaingeniero|isaprenuevamasvida
 geotecnicomonitoreosupervisor|chiletrabajos
 gestionhumanapracticante|chiletrabajos
 gestioningenierotecnica|empresaconfidencial
@@ -404,6 +399,7 @@ https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-in
 https://cl.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23294116-at-bairesdev-4426548488
 https://cl.linkedin.com/jobs/view/ai-implementation-engineer-ai-agents-at-agendapro-4426533629
 https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415699354
+https://cl.linkedin.com/jobs/view/ai-native-software-engineer-early-career-americas-at-chaingpt-4433887578
 https://cl.linkedin.com/jobs/view/ai-operations-engineer-at-nubox-spa-4429092933
 https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
 https://cl.linkedin.com/jobs/view/ai-research-engineer-multi-modal-vision-at-jobgether-4432216415
@@ -492,6 +488,7 @@ https://cl.linkedin.com/jobs/view/analista-de-cumplimiento-at-stratech-corp-4420
 https://cl.linkedin.com/jobs/view/analista-de-custodia-at-penta-vida-4426416210
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-ecrgroup%C2%AE-chile-4417949911
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-grupo-falabella-4425621113
+https://cl.linkedin.com/jobs/view/analista-de-datos-at-humancapital-work-4430709099
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-randstad-4431343248
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-tata-consultancy-services-4426360833
 https://cl.linkedin.com/jobs/view/analista-de-datos-bi-at-bl-capital-spa-4427376932
@@ -653,6 +650,7 @@ https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-pl
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
 https://cl.linkedin.com/jobs/view/analista-junior-de-proyectos-y-mejora-continua-at-afp-planvital-4423563346
 https://cl.linkedin.com/jobs/view/analista-junior-de-renta-variable-at-afp-planvital-4430748027
+https://cl.linkedin.com/jobs/view/analista-junior-de-seguridad-sap-at-deloitte-4433877686
 https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
 https://cl.linkedin.com/jobs/view/analista-labor-reemplazo-pre-y-post-natal-at-aramark-chile-4425925523
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
@@ -677,6 +675,7 @@ https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-a
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-riesgo-reemplazo-pre-y-post-natal-at-grupo-falabella-4430994386
 https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-fraude-banchile-pago-at-banco-de-chile-4429390548
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
+https://cl.linkedin.com/jobs/view/analista-prevencion-fraude-y-monitoreo-at-claro-chile-s-a-4433884907
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
 https://cl.linkedin.com/jobs/view/analista-programador-cobol-cics-at-tata-consultancy-services-4432867054
 https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
@@ -918,6 +917,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-computer-vision-at-deliryum-ai-4426422158
+https://cl.linkedin.com/jobs/view/ingeniero-de-ia-generativa-at-isapre-nueva-masvida-4433892100
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291

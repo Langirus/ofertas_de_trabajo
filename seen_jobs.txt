@@ -1,6 +1,3 @@
-desarrolladorjuniorweb|computrabajo
-desarrolladorpracticante|geolize
-desarrollofullgestioninternanextpracticantesoftwarestack|betterbites
 desarrollofullpracticantestack|chiletrabajos
 desarrollohomeliderofficesoftwaretecnico|towasoftware
 desarrolloiaingeniero|faroconsultoraseleccin
@@ -197,6 +194,7 @@ engineerremotesoftware|crossinghurdles
 engineerremotesoftware|hirefeed
 engineersecurity|audienceview
 engineersecurity|remoteok
+engineersoftwaresystem|remoteok
 engineersoftware|boe
 engineersoftware|checkr
 engineersoftware|commandlink
@@ -1519,6 +1517,7 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403
 https://remoteOK.com/remote-jobs/remote-software-engineer-new-grad-production-infrastructure-palantir-technologies-1130763
 https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626
 https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096
+https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
@@ -1833,6 +1832,7 @@ https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-r
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431391972
+https://www.linkedin.com/jobs/view/ai-frontend-engineer-remote-at-quik-hire-staffing-4433585500
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977

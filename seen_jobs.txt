@@ -1,6 +1,3 @@
-devopsengineer|interoplabs
-devopsengineer|na
-devopsengineer|remoteok
 devopsengineer|stakefish
 devopsengineer|worlddatalab
 devopsingeniero|grupofalabella
@@ -522,6 +519,7 @@ https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-
 https://cl.linkedin.com/jobs/view/analista-de-negocio-en-medios-de-pago-fintech-at-mercado-libre-4428941967
 https://cl.linkedin.com/jobs/view/analista-de-negocios-asistente-at-gnf-worldwide-4418741946
 https://cl.linkedin.com/jobs/view/analista-de-negocios-at-evertec-4416263994
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-at-emat-4434253201
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-at-proyectum-chile-4432423307
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-control-gesti%C3%B3n-operaciones-financieras-at-banco-de-chile-4431702845
@@ -653,6 +651,7 @@ https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
+https://cl.linkedin.com/jobs/view/analista-proveedores-y-tesorer%C3%ADa-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4434246360
 https://cl.linkedin.com/jobs/view/analista-proyectos-nimod-at-altodesempe%C3%B1o-consultores-4434037099
 https://cl.linkedin.com/jobs/view/analista-pss-at-ingenierojob-4422212814
 https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
@@ -672,6 +671,7 @@ https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
 https://cl.linkedin.com/jobs/view/analista-seguridad-sap-at-deloitte-4432417128
+https://cl.linkedin.com/jobs/view/analista-servicio-alcliente-at-softline-consultores-gerenciales-4434255085
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254

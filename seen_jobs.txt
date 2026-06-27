@@ -1,6 +1,3 @@
-devopsengineerfutures|binance
-devopsengineergcpkubernetes|na
-devopsengineerjuniorremoto|vermontsolutions
 devopsengineerjunior|systabuildsoftwaregroup
 devopsengineerlevelmidoptimization|remoteok
 devopsengineerremote|hirefeed
@@ -218,6 +215,7 @@ https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163
 https://br.linkedin.com/jobs/view/analista-de-dados-ia-remoto-at-getronics-4426422867
 https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
 https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-remoto-e-local-%E2%80%93-porto-alegre-%E2%80%93-rs-at-buscarvagas-empregos-brasil-4425770280
+https://br.linkedin.com/jobs/view/analista-de-suporte-de-aplicacoes-trilogy-remote-%2460-000-year-usd-at-crossover-4431443058
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-bairesdev-4428090255
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
@@ -336,6 +334,7 @@ https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=65
 https://cl.indeed.com/q-python-junior-empleos.html?vjk=c0eed6929d9f1d80
 https://cl.indeed.com/q-qa-software-junior-empleos.html
 https://cl.indeed.com/q-qa-software-junior-empleos.html?vjk=befd8c7f3a266a46
+https://cl.indeed.com/q-qa-software-junior-empleos.html?vjk=cf1289f575579d69
 https://cl.indeed.com/q-seguridad-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-tecnico-en-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/viewjob?jk=b813b6b560fc3161
@@ -715,6 +714,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bos
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-triangular-inclusiva-4428374582
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-licencias-online-4431833602
+https://cl.linkedin.com/jobs/view/asistente-administrativo-contable-santiago-at-salfa-rent-4433447940
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-proveedores-at-kiosclub-american-supermarket-4430609851
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515

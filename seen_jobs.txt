@@ -1,11 +1,3 @@
-devopsengineertools|na
-devopsengineer|clovirtualfashion
-devopsengineer|confidential
-devopsengineer|createitscborkowskibartoszfredrychaleksander
-devopsengineer|directsourcingsolutions
-devopsengineer|epamsystems
-devopsengineer|europeandynamics
-devopsengineer|hrtx
 devopsengineer|interoplabs
 devopsengineer|na
 devopsengineer|remoteok
@@ -214,6 +206,7 @@ https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getron
 https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-remoto-e-local-%E2%80%93-porto-alegre-%E2%80%93-rs-at-buscarvagas-empregos-brasil-4425770280
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-aplicacoes-trilogy-remote-%2460-000-year-usd-at-crossover-4431443058
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-bairesdev-4428090255
+https://br.linkedin.com/jobs/view/analista-de-suporte-n1-junior-customer-experience-rd-station-remoto-afirmativa-para-pessoas-negras-at-rd-station-4430572225
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
 https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
@@ -444,6 +437,7 @@ https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confiden
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-tanner-banco-digital-4428107017
 https://cl.linkedin.com/jobs/view/analista-de-compras-at-an%C3%B3nimo-4429211420
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
+https://cl.linkedin.com/jobs/view/analista-de-compras-y-comex-at-shilton-consulting-headhunters-4434231343
 https://cl.linkedin.com/jobs/view/analista-de-comunicaciones-junior-r-m-at-sacyr-4397608806
 https://cl.linkedin.com/jobs/view/analista-de-conciliaciones-at-xepelin-4411393592
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
@@ -561,6 +555,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-y-mejora-continua-at-afp
 https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-reclutamiento-y-selecci%C3%B3n-at-arcoprime-4421658206
+https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-cyd-ingenier%C3%ADa-4424632642
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
@@ -765,6 +760,7 @@ https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
 https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/auxiliar-de-aseo-at-valparaiso-sporting-4428375535
+https://cl.linkedin.com/jobs/view/auxiliar-de-farmacia-at-goodwork-4431006303
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaci%C3%B3n-muestrera-at-impala-terminals-4003147802
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaciones-at-cleaner-club-4430651697
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
@@ -1219,9 +1215,11 @@ https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
 https://co.linkedin.com/jobs/view/aprendiz-sena-remoto-colombia-at-empresa-confidencial-4431878229
+https://co.linkedin.com/jobs/view/consultor-a-junior-de-aplicaciones-empresariales-remoto-at-sperto-consulting-4433420464
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-inventory-purchasing-specialist-remote-at-mpr-tools-equipment-4427293994
+https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434228112
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
@@ -1351,6 +1349,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431602883
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4418274323
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
+https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
@@ -1439,6 +1438,7 @@ https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-application
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
+https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868

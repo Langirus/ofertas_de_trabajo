@@ -1,5 +1,3 @@
-devopsingeniero|na
-devopsingeniero|tsoft
 devopsintern|usada
 devopslidertecnicoweblogic|na
 devopsremototecnico|getronics
@@ -201,6 +199,7 @@ https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-r
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-aplicacoes-trilogy-remote-%2460-000-year-usd-at-crossover-4431443058
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-bairesdev-4428090255
 https://br.linkedin.com/jobs/view/analista-de-suporte-n1-junior-customer-experience-rd-station-remoto-afirmativa-para-pessoas-negras-at-rd-station-4430572225
+https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-presencial-sp-at-cetro-m%C3%A1quinas-4431013500
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
 https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
@@ -416,6 +415,7 @@ https://cl.linkedin.com/jobs/view/analista-data-science-at-vinci-compass-4427384
 https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4427364581
 https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4429491070
 https://cl.linkedin.com/jobs/view/analista-de-administraci%C3%B3n-y-finanzas-%E2%80%93-inmobiliaria-boutique-at-andres-pardo-consultores-4431359075
+https://cl.linkedin.com/jobs/view/analista-de-administracion-y-finanzas-at-telconsulting-4431023760
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-central-bank-of-chile-4430981687
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
 https://cl.linkedin.com/jobs/view/analista-de-atracci%C3%B3n-de-talento-at-streat-food-4423317266

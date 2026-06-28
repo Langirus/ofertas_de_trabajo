@@ -1,8 +1,3 @@
-electronicoinstrumentistajuniortecnico|chiletrabajos
-empleosexperienciaindeedinformaticasin|portal
-empleosinformaticoingenierojuniortrabajo|portal
-empleosinformaticoingeniero|portal
-empresaingenieriapracticante|chiletrabajos
 encargadopostventasoporteti|kubilockers
 encuentraindeedinformaticoingenieronuevasofertas|portal
 encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
@@ -169,6 +164,7 @@ https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
 https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
+https://ar.linkedin.com/jobs/view/software-engineer-backend-remote-at-hire-feed-4434298287
 https://ar.linkedin.com/jobs/view/software-engineer-latam-at-trashlab-4428651868
 https://bo.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4430589412
 https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163304
@@ -987,8 +983,10 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-pre
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-de-base-de-datos-at-detacoop-cooperativa-de-ahorro-y-cr%C3%A9dito-4422390104
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-transversales-at-ripley-chile-4422429216
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-dise%C3%B1o-digital-at-cencosud-s-a-4432017941
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-automatizaci%C3%B3n-riesgo-no-financiero-at-afp-planvital-4434407458
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-prevenci%C3%B3n-de-riesgo-at-airbus-helicopters-4430682663
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-soporte-t%C3%A9cnico-ti-at-afp-planvital-4434294816
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-equipo-desarrollo-y-producto-cencosud-media-at-cencosud-s-a-4419519814
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-experiencia-de-clientes-cencosud-at-cencosud-s-a-4429772023
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-full-stack-at-deliryum-ai-4428254521
@@ -1202,6 +1200,7 @@ https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at
 https://co.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373972765
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
+https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434288610
 https://co.linkedin.com/jobs/view/aprendiz-sena-remoto-colombia-at-empresa-confidencial-4431878229
 https://co.linkedin.com/jobs/view/consultor-a-junior-de-aplicaciones-empresariales-remoto-at-sperto-consulting-4433420464
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
@@ -1972,6 +1971,7 @@ practicaprevencionriesgo|airbushelicopters
 practicaprofesionalreclutamientoseleccion|bancode
 practicaprofesionaltecnologia|ripley
 practicaprofesionalti|bancoripley
+practicasoportetecnicoti|afpplanvital
 practicasprofesionalessantiago|limchile
 practicati|maihue
 practicati|ucchristus

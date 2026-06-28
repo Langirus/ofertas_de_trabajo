@@ -1,8 +1,3 @@
-digitalmediatrainee|beiersdorf
-disenopracticaprofesional|ucchristus
-ecommercesoporte|avostech
-ediingenieroremotosoluciones|experienceitsolutions
-efficiencyengineerengineeringfriendlyremotesoftware|qonto
 egresadosrecienuniversitarios|tdsynnexmulticountryareaespaol
 electricidadingenieropractica|ciac
 electricidadingenieroservicios|chiletrabajos
@@ -1209,6 +1204,7 @@ https://co.linkedin.com/jobs/view/ai-analyst-machine-learning-llms-%E2%80%93-rem
 https://co.linkedin.com/jobs/view/ai-analyst-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4431440265
 https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370865351
 https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370889259
+https://co.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373972765
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
 https://co.linkedin.com/jobs/view/aprendiz-sena-remoto-colombia-at-empresa-confidencial-4431878229
@@ -1376,6 +1372,7 @@ https://mx.linkedin.com/jobs/view/enterprise-solutions-engineer-latam-at-elevenl
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4425109535
+https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434273756
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
 https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
@@ -1403,6 +1400,7 @@ https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4427010973
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
@@ -1550,6 +1548,7 @@ https://www.chiletrabajos.cl/encuentra-un-empleo/120?2=t%C3%A9cnico+en+inform%C3
 https://www.chiletrabajos.cl/encuentra-un-empleo/60?2=junior&13=1022&f=2
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=en+inform%C3%A1tica+junior
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=ingeniero+junior
+https://www.chiletrabajos.cl/encuentra-un-empleo?2=Desarrollador+Junior
 https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
@@ -1849,6 +1848,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4229
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4423884631
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-quik-hire-staffing-4428639079
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
+https://www.linkedin.com/jobs/view/mobile-engineer-latam-all-levels-at-sezzle-4082657907
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4422952637
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340

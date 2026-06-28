@@ -1,6 +1,3 @@
-electricoingenieropmgdproyectos|andessolar
-electricoingeniero|chiletrabajos
-electricometropolitanaplantasregiontecnico|chiletrabajos
 electricoplantaproductivatecnico|chiletrabajos
 electromecanicoferreterorubrosoportetecnico|chiletrabajos
 electronicoingeniero|chiletrabajos
@@ -93,6 +90,7 @@ engineermarketingmobilesoftware|sezzle
 engineermiddlerubysoftware|softserve
 engineermidsoftware|na
 engineeroffensivesecuritysoftwarewebapp|horizon3ai
+engineeroperationsproduct|egenya
 engineerplatformsoftware|remoteok
 engineerpythonremotesoftware|hirefeed
 engineerpythonremotesoftware|quikhirestaffing
@@ -1069,6 +1067,7 @@ https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%A
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
 https://cl.linkedin.com/jobs/view/prevencionista-de-riesgo-sin-experiencia-at-inprint-4431125757
 https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
+https://cl.linkedin.com/jobs/view/product-operations-engineer-at-egenya-4431035473
 https://cl.linkedin.com/jobs/view/programa-de-estudiantes-ingeniero-a-de-datos-at-ibm-4417966859
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-pasant%C3%ADas-%C3%A1rea-legal-at-quezadaduran-abogados-4425303472
@@ -1827,6 +1826,7 @@ https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-r
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431391972
+https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434294403
 https://www.linkedin.com/jobs/view/ai-frontend-engineer-remote-at-quik-hire-staffing-4433585500
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459

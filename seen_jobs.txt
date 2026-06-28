@@ -1,11 +1,3 @@
-devopsintern|usada
-devopslidertecnicoweblogic|na
-devopsremototecnico|getronics
-devops|na
-digitaldisenopractica|cencosud
-digitaleseasynegociospractica|cencosud
-digitalingenieroinnovacion|copec
-digitalmarketingpracticantepublicista|chiletrabajos
 digitalmediatrainee|beiersdorf
 disenopracticaprofesional|ucchristus
 ecommercesoporte|avostech
@@ -172,6 +164,7 @@ fulljuniormarketermidperformanceremotespain|everai
 fullpracticastack|deliryumai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
+generalesmantencionesrondizzonisantiagotecnico|salfarent
 generativaiaingenieropythonremoto|betweentechnology
 generativaiaingeniero|isaprenuevamasvida
 geotecnicomonitoreosupervisor|chiletrabajos
@@ -335,6 +328,7 @@ https://cl.linkedin.com/jobs/view/%F0%9F%93%A3-oportunidad-laboral-analista-i-re
 https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muruna-4424278196
 https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4424654685
+https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4433617042
 https://cl.linkedin.com/jobs/view/4-ejecutivos-o-asesores-de-inversiones-trainee-2026-at-grupo-inteligencia-4422230398
 https://cl.linkedin.com/jobs/view/account-executive-junior-at-avvale-4426192119
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
@@ -437,6 +431,7 @@ https://cl.linkedin.com/jobs/view/analista-de-comunicaciones-junior-r-m-at-sacyr
 https://cl.linkedin.com/jobs/view/analista-de-conciliaciones-at-xepelin-4411393592
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
+https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-at-sacyr-4324823594
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-bi-at-transya%C3%B1ez-log%C3%ADstica-y-distribuci%C3%B3n-4410194098
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-mejora-continua-at-abbott-4417403608
@@ -579,6 +574,7 @@ https://cl.linkedin.com/jobs/view/analista-de-soporte-ti-n1-%E2%80%93-mesa-de-ay
 https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
 https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
 https://cl.linkedin.com/jobs/view/analista-de-tecnolog%C3%ADa-back-office-at-experis-chile-4426385433
+https://cl.linkedin.com/jobs/view/analista-de-tesoreria-at-sacyr-4384206323
 https://cl.linkedin.com/jobs/view/analista-de-visado-at-acl-4421151591
 https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
 https://cl.linkedin.com/jobs/view/analista-desarrollador-at-apex-group-ltd-4398862113
@@ -841,6 +837,7 @@ https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-exper
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-trainee-2026-18-at-grupo-inteligencia-4425349468
 https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lockers-4422746817
 https://cl.linkedin.com/jobs/view/enterprise-integration-engineer-at-shinkansen-4426884740
+https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434277609
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-ingenierojob-4430272865
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-vantaz-group-4432912296
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
@@ -1171,6 +1168,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-terrefort-spa-4428520462
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-jr-mantenimiento-hvac-equipos-m%C3%B3viles-zald%C3%ADvar-antofagasta-at-johnson-controls-4418326259
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-inc-4409285390
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-mantenciones-generales-rondizzoni-santiago-at-salfa-rent-4433603812
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
 https://cl.linkedin.com/jobs/view/tecnico-de-soporte-mininco-los-angeles-at-motorola-solutions-4412414770
@@ -1447,7 +1445,9 @@ https://portal.chiletrabajos.cl/empresa/triibu/trabajo/analista-ti-junior-340553
 https://portal.chiletrabajos.cl/empresa/wisely/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
+https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4434270857
 https://pr.linkedin.com/jobs/view/data-engineer-remote-us-based-role-at-macaw-labs-4432844694
+https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434270849
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://remoteOK.com/remote-jobs/remote-analista-pleno-de-negocios-offshore-c6-bank-1131925
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512

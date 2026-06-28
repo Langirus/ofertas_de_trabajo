@@ -1,4 +1,3 @@
-devopsingeniero|grupofalabella
 devopsingeniero|na
 devopsingeniero|tsoft
 devopsintern|usada
@@ -291,6 +290,7 @@ https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db4729274
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=7a4ec0f60869bf89
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5d
+https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=e3f56ac0ab9743c2
 https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de

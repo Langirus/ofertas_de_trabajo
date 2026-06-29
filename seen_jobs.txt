@@ -1,7 +1,3 @@
-engineerfrontendpaymentssoftware|kraken
-engineerfrontendremotework|plexustech
-engineerfrontendremote|crossinghurdles
-engineerfrontendremote|hirefeed
 engineerfrontendremote|quikhirestaffing
 engineerfrontend|mobena
 engineerfulljuniormidsoftwarestack|remoteok
@@ -166,6 +162,7 @@ https://br.linkedin.com/jobs/view/data-engineer-databricks-pl-remote-at-compass-
 https://br.linkedin.com/jobs/view/desenvolvedor-a-python-jr-trilha-para-sre-remoto-at-solutis-tecnologias-4433388089
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4434114070
+https://br.linkedin.com/jobs/view/desenvolvedor-junior-node-js-trabalho-remoto-at-bairesdev-4434146271
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
 https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-home-office-at-empresa-confidencial-4433089579
 https://br.linkedin.com/jobs/view/financial-software-engineer-remote-at-hire-feed-4428654072
@@ -557,6 +554,7 @@ https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu
 https://cl.linkedin.com/jobs/view/analista-excelencia-operacional-at-grupo-falabella-4410946137
 https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
 https://cl.linkedin.com/jobs/view/analista-facturaci%C3%B3n-y-cobranza-at-engie-chile-4433335819
+https://cl.linkedin.com/jobs/view/analista-financiero-at-metlife-chile-4434756447
 https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
@@ -901,6 +899,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
+https://cl.linkedin.com/jobs/view/ingeniero-en-automatizaci%C3%B3n-inteligente-at-chilexpress-4434736760
 https://cl.linkedin.com/jobs/view/ingeniero-en-desarrollo-de-sistemas-at-bur%C3%B3-executive-4426547045
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
@@ -1209,6 +1208,7 @@ https://co.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-baire
 https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-remoto-at-inetum-4428183557
 https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417817037
 https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
+https://cr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434484331
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4415012837
 https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469

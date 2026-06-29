@@ -1,11 +1,3 @@
-encuentrainformaticanuevasofertaspracticasprofesional|portal
-encuentrainformaticoingenieronuevasofertassantiago|portal
-encuentrajuniornuevasofertasprogramadorpythonreact|portal
-endengineerfrontremotespecialist|compassuol
-eneaingenierojrparqueprocesospudahuel|dhlsupplychain
-engineengineerjunioropenremotesoftware|crossinghurdles
-engineengineerjunioropenremotesoftware|quikhirestaffing
-engineerenterpriseintegration|shinkansen
 engineerenterpriselatamsolutions|elevenlabs
 engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
 engineerespanajavaremotosoftware|abalia
@@ -124,6 +116,7 @@ experienciafullstackjuniorlaravelnextprogramadorremoto|portal
 experienciaimplementacioninformaticoingenieroredessistesistema|itg
 experienciaprevencionistariesgosin|inprint
 eyeflowiaingeniero|arsoft
+facehuggingiajuniorlatamprogramadorpythonremoto|digitalsolutions324
 falabellafullhrsmonttpuertoseguridadtimetrainee|falabella
 falabellafullhrsquilpueseguridadtimtrainee|falabella
 fernandosantecnicotelecomunicaciones|chiletrabajos
@@ -138,6 +131,7 @@ fulljuniormarketermidperformanceremotespain|everai
 fullpracticastack|deliryumai
 fullstackcloudplatformengineeriot|na
 fullstackdeveloperangularpython|na
+gcpiaingenieroremoto|irium
 generalesmantencionesrondizzonisantiagotecnico|salfarent
 generativaiaingenieropythonremoto|betweentechnology
 generativaiaingeniero|isaprenuevamasvida
@@ -177,6 +171,7 @@ https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil
 https://br.linkedin.com/jobs/view/data-engineer-databricks-pl-remote-at-compass-uol-4430747375
 https://br.linkedin.com/jobs/view/desenvolvedor-a-python-jr-trilha-para-sre-remoto-at-solutis-tecnologias-4433388089
 https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
+https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4434114070
 https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
 https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-home-office-at-empresa-confidencial-4433089579
 https://br.linkedin.com/jobs/view/financial-software-engineer-remote-at-hire-feed-4428654072
@@ -254,6 +249,7 @@ https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-inform%C3%A1tica,-trainee,-junior-empleos.html?vjk=e3f56ac0ab9743c2
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=652cc27229e840eb
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
 https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html
@@ -1228,6 +1224,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
 https://es.linkedin.com/jobs/view/ai-engineer-backend-remote-es-uk-only-at-quadrivia-ai-4424887846
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-full-remote-at-everfield-4408695171
+https://es.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-4433667320
 https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
@@ -1280,6 +1277,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-44316
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
+https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/ingeniero-de-simulaci%C3%B3n-mec%C3%A1nica-y-estructural-openfoam-opensees-%E2%80%93-remoto-at-alignerr-4429194421
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
@@ -1430,6 +1428,7 @@ https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remot
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
+https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868
@@ -1528,6 +1527,7 @@ https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
+https://weworkremotely.com/remote-jobs/patrianna-devops-engineer
 https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer

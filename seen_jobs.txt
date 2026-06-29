@@ -1,5 +1,3 @@
-encuentraindeedinformaticoingenieronuevasofertas|portal
-encuentrainformaticaingenierojuniornuevasofertaspostulate|portal
 encuentrainformaticaingenieronuevasofertaspostulatepractica|portal
 encuentrainformaticajuniornuevasofertaspostulatetrainee|portal
 encuentrainformaticajuniornuevasofertassantiagotecnico|portal
@@ -373,6 +371,7 @@ https://cl.linkedin.com/jobs/view/analista-comunicaciones-internas-regional-at-a
 https://cl.linkedin.com/jobs/view/analista-comunitario-4x3-los-andes-at-j-e-j-ingenier%C3%ADa-s-a-4430734321
 https://cl.linkedin.com/jobs/view/analista-concesiones-huechuraba-at-ecrgroup%C2%AE-chile-4426439197
 https://cl.linkedin.com/jobs/view/analista-conducta-animal-at-bioparque-buinzoo-4432487036
+https://cl.linkedin.com/jobs/view/analista-contable-activo-fijo-at-lorca-hr-consulting-4431056002
 https://cl.linkedin.com/jobs/view/analista-contable-at-confidential-4428590955
 https://cl.linkedin.com/jobs/view/analista-contable-at-saam-s-a-4413646501
 https://cl.linkedin.com/jobs/view/analista-contable-plazo-fijo-at-saam-s-a-4420750756
@@ -404,6 +403,7 @@ https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-babel-442
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-deloitte-4427086771
 https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-plazo-fijo-at-anglo-american-4430634608
 https://cl.linkedin.com/jobs/view/analista-de-ciencia-de-datos-at-step-therapy-4425137626
+https://cl.linkedin.com/jobs/view/analista-de-cobranzas-at-wtw-4434410499
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-tanner-banco-digital-4428107017

@@ -1,9 +1,3 @@
-engineerfrontendremote|quikhirestaffing
-engineerfrontend|mobena
-engineerfulljuniormidsoftwarestack|remoteok
-engineerfulljuniorproductstacktrainee|whoco
-engineerfullmidsoftwarestack|xecom
-engineerfullrailsrubystack|na
 engineerfullsoftwarestack|grupofalabella
 engineerfullsoftwarestack|na
 engineerfullstacknodereactremote|quikhirestaffing
@@ -684,6 +678,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-439883519
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-full-time-jumbo-apoquindo-at-cencosud-s-a-4433512493
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-part-time-jumbo-apoquindo-at-cencosud-s-a-4433508592
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
+https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-idmotion-4434764036
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-huechuraba-at-validate-talent-ai-4399058327
@@ -960,6 +955,7 @@ https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-442641
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
 https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
+https://cl.linkedin.com/jobs/view/personal-de-apoyo-para-gesti%C3%B3n-de-proyectos-y-l%C3%ADderes-t%C3%A9cnicos-at-unbc-ltda-4431547222
 https://cl.linkedin.com/jobs/view/pipeline-cloud-adoption-engineer-at-oracle-4417977965
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
@@ -1358,6 +1354,7 @@ https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4423222637
+https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434164402
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/devsecops-cloud-engineer-100%25-remote-in-mexico-at-pyramid-consulting-inc-4429585509
@@ -1387,6 +1384,7 @@ https://mx.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-44
 https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419872229
 https://mx.linkedin.com/jobs/view/javascript-frontend-engineer-remote-at-hire-feed-4433899930
 https://mx.linkedin.com/jobs/view/javascript-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431384423
+https://mx.linkedin.com/jobs/view/jr-recruiter-remote-shared-services-at-hudson-talent-solutions-4431511446
 https://mx.linkedin.com/jobs/view/junior-ai-llm-integration-developer-%E2%80%94-remote-latam-time-zone-russian-speaking-team-at-covouch-4433310962
 https://mx.linkedin.com/jobs/view/junior-media-buyer-remote-at-client-accelerators-4430928599
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
@@ -1417,6 +1415,7 @@ https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
+https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
@@ -1930,6 +1929,7 @@ itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
 itsupporttrainee|cumplo
 jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
+jrrecruiterremoteservicesshared|hudsonrpo
 juniordataengineer|remoteok
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo

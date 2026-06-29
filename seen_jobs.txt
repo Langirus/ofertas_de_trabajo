@@ -1,11 +1,3 @@
-engineerenterpriselatamsolutions|elevenlabs
-engineerentrylevelmexicoreliabilityremotesitesoftware|yelp
-engineerespanajavaremotosoftware|abalia
-engineereuropefulljavascriptlatamremotestack|pos
-engineerfinancialremotesoftware|hirefeed
-engineerfinancialremotesoftware|quikhirestaffing
-engineerfrontendjavascriptremote|hirefeed
-engineerfrontendjuniorreactremotework|bairesdev
 engineerfrontendpaymentssoftware|kraken
 engineerfrontendremotework|plexustech
 engineerfrontendremote|crossinghurdles
@@ -22,6 +14,7 @@ engineerfullstacknodereactremote|quikhirestaffing
 engineerfullstackremotesoftwarespain|cimpresstechnology
 engineerfullstackremote|turing
 engineerfullstacksoftware|grupofalabella
+engineerfullstack|fundacinphaway
 engineerfullstack|kibernum
 engineergenaiplatform|deloitte
 engineergenaisecurity|remoteok
@@ -62,6 +55,7 @@ engineerlearningmachineremote|quikhirestaffing
 engineerlearningmachine|adipa
 engineerlearningmachine|nttdataeurope
 engineerlearningmachine|remoteok
+engineerlearningmachine|sermaluc
 engineerlevelmidsoftware|na
 engineermarketingmobilesoftware|sezzle
 engineermiddlerubysoftware|softserve
@@ -673,6 +667,7 @@ https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADti
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
+https://cl.linkedin.com/jobs/view/asistente-administrativo-at-distecna-chile-4434112162
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-triangular-inclusiva-4428374582
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
@@ -823,12 +818,14 @@ https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-in
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-business-transformation-at-ey-4428421153
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-supply-chain-at-ey-4428420209
 https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ai-data-at-ey-4426988728
+https://cl.linkedin.com/jobs/view/field-aplication-engineer-at-links-field-4433699987
 https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-spanish-english-at-google-4418804121
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4430790028
 https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-asociados-4420755778
+https://cl.linkedin.com/jobs/view/fullstack-engineer-at-fundaci%C3%B3n-phaway-4430657004
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
@@ -928,6 +925,7 @@ https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-44129
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
+https://cl.linkedin.com/jobs/view/it-applications-operations-engineer-netsuite-at-signant-health-4425404613
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4416829928
 https://cl.linkedin.com/jobs/view/it-infrastructure-analyst-at-solventum-4422781431
@@ -950,6 +948,7 @@ https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ti-at-empresa-confiden
 https://cl.linkedin.com/jobs/view/lider-t%C3%A9cnico-de-ingenieria-at-ntt-data-inc-4419202830
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
+https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-sermaluc-4434711032
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23295171-at-bairesdev-4429725436
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
@@ -1395,6 +1394,7 @@ https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-sta
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434466668
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785

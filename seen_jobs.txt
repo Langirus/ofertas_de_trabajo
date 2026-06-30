@@ -1,7 +1,3 @@
-engineerlearningmachinepythonremotework|bairesdev
-engineerlearningmachineqa|remoteok
-engineerlearningmachineremotework|bairesdev
-engineerlearningmachineremote|hirefeed
 engineerlearningmachineremote|quikhirestaffing
 engineerlearningmachine|adipa
 engineerlearningmachine|nttdataeurope
@@ -126,6 +122,7 @@ https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-
 https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-home-office-at-empresa-confidencial-4433089579
 https://br.linkedin.com/jobs/view/financial-software-engineer-remote-at-hire-feed-4428654072
 https://br.linkedin.com/jobs/view/front-end-engineer-specialist-remote-at-compass-uol-4417379869
+https://br.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435173177
 https://br.linkedin.com/jobs/view/full-stack-engineer-nestjs-react-aws-ai-native-remoto-at-jungle-gaming-4421975266
 https://br.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4428383122
 https://br.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4434900435
@@ -1175,6 +1172,7 @@ https://co.linkedin.com/jobs/view/consultor-a-junior-de-aplicaciones-empresarial
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
 https://co.linkedin.com/jobs/view/junior-inventory-purchasing-specialist-remote-at-mpr-tools-equipment-4427293994
+https://co.linkedin.com/jobs/view/junior-marketing-assistant-remote-at-emma-of-torre-ai-4435307184
 https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434228112
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
@@ -1662,6 +1660,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
 https://www.chiletrabajos.cl/trabajo/ingeniero-huechuraba-3852217
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-3851502
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
+https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-junior-3860067
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-junior-para-depto-ti-3848411
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-soporte-ti-junior-3661542
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
@@ -1828,6 +1827,7 @@ https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434156796
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
+https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4435178688
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176

@@ -1,9 +1,3 @@
-engineerjuniorpythonsoftware|telnyx
-engineerjuniorremotesoftware|hired
-engineerjuniorremotesoftware|hirefeed
-engineerjuniorremotesoftware|quikhirestaffing
-engineerkualalumpuroperations|remoteok
-engineerlatamsoftware|trashlab
 engineerlearningmachinepythonremotework|bairesdev
 engineerlearningmachineqa|remoteok
 engineerlearningmachineremotework|bairesdev
@@ -136,6 +130,7 @@ https://br.linkedin.com/jobs/view/full-stack-engineer-nestjs-react-aws-ai-native
 https://br.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4428383122
 https://br.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4434900435
 https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-contas-j%C3%BAnior-remoto-at-dadosfera-4417483163
+https://br.linkedin.com/jobs/view/junior-mid-data-engineer-brazil-100%25-remote-at-payretailers-4431948569
 https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
 https://br.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434288111
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
@@ -419,6 +414,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-estrat%C3%A9gica-y-ok
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-operacional-compras-adquisiciones-huechuraba-at-universidad-san-sebasti%C3%A1n-4429839837
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4432807176
+https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4435185267
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
 https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-it-at-getronics-4429412410
@@ -938,6 +934,7 @@ https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-segur
 https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
 https://cl.linkedin.com/jobs/view/personal-de-apoyo-para-gesti%C3%B3n-de-proyectos-y-l%C3%ADderes-t%C3%A9cnicos-at-unbc-ltda-4431547222
 https://cl.linkedin.com/jobs/view/pipeline-cloud-adoption-engineer-at-oracle-4417977965
+https://cl.linkedin.com/jobs/view/planner-junior-sin-experiencia-retail-providencia-beauty-plus-retail-at-beauty-plus-4431966454
 https://cl.linkedin.com/jobs/view/pmo-junior-ti-at-biometr%C3%ADa-aplicada-4422628124
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-%C3%A1rea-de-proyectos-y-mejora-continua-cencosud-at-cencosud-s-a-4422146180
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-h%C3%ADbrida-santiago-at-salfa-rent-4426238219
@@ -1088,6 +1085,7 @@ https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-44
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-stefanini-group-4427211763
+https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-mesa-de-ayuda-santiago-at-grupo-avanza-4416945891
@@ -1452,6 +1450,7 @@ https://remoteOK.com/remote-jobs/remote-data-analyst-world-golf-tour-wgt-1130952
 https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305
 https://remoteOK.com/remote-jobs/remote-data-engineer-revenue-platform-spotify-1128972
 https://remoteOK.com/remote-jobs/remote-data-engineering-intern-refinedscience-1129807
+https://remoteOK.com/remote-jobs/remote-data-engineers-ey-1134306
 https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365
 https://remoteOK.com/remote-jobs/remote-data-processing-specialist-intetics-1133215
 https://remoteOK.com/remote-jobs/remote-data-processing-specialist-intetics-1133222
@@ -1849,6 +1848,7 @@ https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon

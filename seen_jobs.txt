@@ -1,7 +1,3 @@
-engineerlearningmachineremote|quikhirestaffing
-engineerlearningmachine|adipa
-engineerlearningmachine|nttdataeurope
-engineerlearningmachine|remoteok
 engineerlearningmachine|sermaluc
 engineerlevelmidsoftware|na
 engineermarketingmobilesoftware|sezzle
@@ -628,6 +624,7 @@ https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
+https://cl.linkedin.com/jobs/view/asistente-administrativo-a-de-e-commerce-marketplaces-y-operaciones-at-euroshine-4431969969
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-distecna-chile-4434112162
@@ -642,6 +639,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capac
 https://cl.linkedin.com/jobs/view/asistente-administrativo-rol-caja-antofagasta-reemplazo-licencia-m%C3%A9dica-at-salfa-rent-4429389386
 https://cl.linkedin.com/jobs/view/asistente-administrativo-vespertino-de-seguridad-operacional-at-deloitte-4422996037
 https://cl.linkedin.com/jobs/view/asistente-atenci%C3%B3n-banca-personal-%E2%80%93-casa-matriz-santiago-at-banco-de-chile-4411790106
+https://cl.linkedin.com/jobs/view/asistente-cuidado-al-cliente-filial-blue-express-at-copec-s-a-4431984239
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
@@ -1014,6 +1012,7 @@ https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
+https://cl.linkedin.com/jobs/view/practicante-desarrollador-software-at-geolize-4431973418
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-full-stack-next-js-desarrollo-de-software-de-gesti%C3%B3n-interna-at-betterbites-4432275151
@@ -1832,6 +1831,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%232
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838

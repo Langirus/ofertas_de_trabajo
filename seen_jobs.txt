@@ -1,7 +1,3 @@
-engineeriosmachbankmobilesoftware|machbank
-engineeritsupport|emblamedical
-engineerjavamexicoremotescalasoftware|carolloengineers
-engineerjavapythonremotosoftwareworkday|knowmadmood
 engineerjavaremotescalasoftware|heretechnologies
 engineerjavaremotesoftware|quikhirestaffing
 engineerjavascriptpythonremotesoftwaretypescript|quikhirestaffing
@@ -129,6 +125,7 @@ https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-presencial-sp-
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
 https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
+https://br.linkedin.com/jobs/view/analista-power-platform-remoto-at-trinapse-software-4431936126
 https://br.linkedin.com/jobs/view/aws-cloud-engineer-remote-at-hire-feed-4430493712
 https://br.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4416031585
 https://br.linkedin.com/jobs/view/data-engineer-backend-platform-engineer-brazil-remote-at-georgiatek-systems-inc-4413343613
@@ -709,6 +706,7 @@ https://cl.linkedin.com/jobs/view/auxiliar-de-aseo-at-valparaiso-sporting-442837
 https://cl.linkedin.com/jobs/view/auxiliar-de-farmacia-at-goodwork-4431006303
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaci%C3%B3n-muestrera-at-impala-terminals-4003147802
 https://cl.linkedin.com/jobs/view/auxiliar-de-operaciones-at-cleaner-club-4430651697
+https://cl.linkedin.com/jobs/view/backend-engineer-at-wiset-4431933104
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4364273640
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
 https://cl.linkedin.com/jobs/view/barcelona-analista-de-prevenci%C3%B3n-del-riesgo-de-blanqueo-de-capitales-fraudes-y-cumplimiento-normativo-at-world-compliance-academy-4433270188
@@ -1038,6 +1036,7 @@ https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
+https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4425807788
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
 https://cl.linkedin.com/jobs/view/prevencionista-de-riesgo-sin-experiencia-at-inprint-4431125757
 https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
@@ -1386,6 +1385,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434466668
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435103109
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785

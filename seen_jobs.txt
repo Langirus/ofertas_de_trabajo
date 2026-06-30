@@ -1,11 +1,3 @@
-engineerhelpfulimplementationlatamoverlapremotesystemstimezone|connecttechtalent
-engineeriaremoto|genesys
-engineeria|mallplaza
-engineeria|na
-engineerinfrastructuresoftware|topsort
-engineerintermediatesoftware|equifax
-engineerintermediosoftware|na
-engineerinternsoftware|remoteok
 engineeriosmachbankmobilesoftware|machbank
 engineeritsupport|emblamedical
 engineerjavamexicoremotescalasoftware|carolloengineers
@@ -34,6 +26,7 @@ engineerlearningmachine|remoteok
 engineerlearningmachine|sermaluc
 engineerlevelmidsoftware|na
 engineermarketingmobilesoftware|sezzle
+engineermicroplatformsremotesoftware|hired
 engineermiddlerubysoftware|softserve
 engineermidsoftware|na
 engineeroffensivesecuritysoftwarewebapp|horizon3ai
@@ -672,6 +665,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-439883519
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-full-time-jumbo-apoquindo-at-cencosud-s-a-4433512493
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-part-time-jumbo-apoquindo-at-cencosud-s-a-4433508592
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
+https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4434990128
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-idmotion-4434764036
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
@@ -921,6 +915,7 @@ https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-441
 https://cl.linkedin.com/jobs/view/it-support-trainee-at-cumplo-4422214414
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
+https://cl.linkedin.com/jobs/view/junior-ai-agent-engineer-at-epam-systems-4431582534
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
@@ -1196,6 +1191,7 @@ https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colo
 https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323954574
 https://co.linkedin.com/jobs/view/junior-video-editor-ai-performance-content-%E2%80%94-remote-at-octo360-4418389422
 https://co.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4426146544
+https://co.linkedin.com/jobs/view/supply-chain-analyst-colombia-remote-at-advatix-latam-4434944654
 https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-remoto-at-inetum-4428183557
 https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417817037
 https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
@@ -1414,6 +1410,7 @@ https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-m
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4434966832
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1472,6 +1469,7 @@ https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-ai-inference-r
 https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-devops-parloa-1130194
 https://remoteOK.com/remote-jobs/remote-fraud-waste-and-abuse-data-analyst-hhaexchange-1131012
 https://remoteOK.com/remote-jobs/remote-genai-security-engineer-point72-1130087
+https://remoteOK.com/remote-jobs/remote-graduate-business-operations-associate-bezos-ai-1134231
 https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114
 https://remoteOK.com/remote-jobs/remote-junior-data-analyst-caterpillar-inc-1134008
 https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663
@@ -1823,6 +1821,7 @@ https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gu
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431391972
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434294403
 https://www.linkedin.com/jobs/view/ai-frontend-engineer-remote-at-quik-hire-staffing-4433585500
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4434951913
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1835,6 +1834,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%232
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
+https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089

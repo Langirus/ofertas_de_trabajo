@@ -1,7 +1,3 @@
-engineerfullstacksoftware|grupofalabella
-engineerfullstack|fundacinphaway
-engineerfullstack|kibernum
-engineergenaiplatform|deloitte
 engineergenaisecurity|remoteok
 engineergenai|epamsystems
 engineergolangrailsrubysupport|equifax
@@ -171,6 +167,7 @@ https://br.linkedin.com/jobs/view/python-data-engineer-pleno-remote-at-compass-u
 https://br.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419859364
 https://br.linkedin.com/jobs/view/qa-test-automation-junior-mid-remote-at-compass-uol-4432868201
 https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
+https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4267544468
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4432819925
 https://br.linkedin.com/jobs/view/robotics-research-engineer-remote-at-hire-feed-4430928462
@@ -504,6 +501,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-y-mejora-continua-at-afp
 https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-reclutamiento-y-selecci%C3%B3n-at-arcoprime-4421658206
+https://cl.linkedin.com/jobs/view/analista-de-relaciones-laborales-at-pisa-farmac%C3%A9utica-4434774519
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-cyd-ingenier%C3%ADa-4424632642
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
@@ -1356,6 +1354,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bai
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434164402
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
+https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434773933
 https://mx.linkedin.com/jobs/view/devsecops-cloud-engineer-100%25-remote-in-mexico-at-pyramid-consulting-inc-4429585509
 https://mx.linkedin.com/jobs/view/enterprise-solutions-engineer-latam-at-elevenlabs-4402179463
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
@@ -1831,6 +1830,7 @@ https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429
 https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%80%93-remote-latam-at-gracemark-solutions-4428393820
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
+https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434156796
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223

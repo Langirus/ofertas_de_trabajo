@@ -1,10 +1,3 @@
-engineerjavaremotescalasoftware|heretechnologies
-engineerjavaremotesoftware|quikhirestaffing
-engineerjavascriptpythonremotesoftwaretypescript|quikhirestaffing
-engineerjavascriptremotesoftware|quikhirestaffing
-engineerjuniorlatamsoftware|sezzle
-engineerjuniormexicoremotesoftware|mixrank
-engineerjunioroperationstrading|pepperstone
 engineerjuniorpythonsoftware|telnyx
 engineerjuniorremotesoftware|hired
 engineerjuniorremotesoftware|hirefeed
@@ -401,6 +394,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-huechu
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesorer%C3%ADa-at-banchile-inversiones-4431700376
 https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesoreria-at-banchile-inversiones-4430576159
 https://cl.linkedin.com/jobs/view/analista-de-desarrollo-y-operaciones-at-empresa-confidencial-4433877011
+https://cl.linkedin.com/jobs/view/analista-de-desarrollo-y-operaciones-at-empresa-confidencial-4435109626
 https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-eficiencia-operacional-cenco-malls-at-cencosud-s-a-4430738882
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
@@ -1298,6 +1292,7 @@ https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
 https://es.linkedin.com/jobs/view/soporte-aplicaciones-microservicios-24x7-remoto-madrid-madrid-00000-es-at-grupo-digital-4432676512
+https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec-consultores-4435122769
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
@@ -1386,6 +1381,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434466668
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435103109
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435107209
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
@@ -1409,6 +1405,7 @@ https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-441848
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074
+https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4435115870
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4434966832
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
@@ -1653,6 +1650,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolit
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-automatizacion-e-iot-3845391
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-sre-ssr-nivel-ingles-avanzado-3823795
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-proyectos-de-innovacion-y-desarrollo-pudahuel-3847717
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
@@ -1704,6 +1702,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimien
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
+https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
@@ -1882,6 +1881,7 @@ infraestructuratecnicotecnologicaterreno|accenture
 ingenierialidertecnico|nttdata
 ingenieriamodernizacionpracticantertuscada|siemens
 ingenieroinglesnivelsressr|chiletrabajos
+ingenieroinnovacionproyectos|chiletrabajos
 ingenierointegracion|taglermaq
 ingenierointegradospreventaproyectos|chiletrabajos
 ingenierojrprocesos|wisetrack

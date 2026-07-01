@@ -1,15 +1,3 @@
-engineermidsoftware|na
-engineeroffensivesecuritysoftwarewebapp|horizon3ai
-engineeroperationsproduct|egenya
-engineerplatformsoftware|remoteok
-engineerpythonremotesoftware|hirefeed
-engineerpythonremotesoftware|quikhirestaffing
-engineerpythonremotework|indistaffingservices
-engineerqaremote|hirefeed
-engineerqaremote|quikhirestaffing
-engineerqasaas|impulsasuite
-engineerqa|na
-engineerqa|remoteok
 engineerreliabilitysitesre|infosys
 engineerreliabilitysitesre|na
 engineerreliabilitysite|remoteok
@@ -95,6 +83,8 @@ https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-r
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-aplicacoes-trilogy-remote-%2460-000-year-usd-at-crossover-4431443058
 https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-bairesdev-4428090255
 https://br.linkedin.com/jobs/view/analista-de-suporte-n1-junior-customer-experience-rd-station-remoto-afirmativa-para-pessoas-negras-at-rd-station-4430572225
+https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-at-cetro-m%C3%A1quinas-4432301320
+https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-presencial-at-cetro-m%C3%A1quinas-4431996468
 https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-presencial-sp-at-cetro-m%C3%A1quinas-4431013500
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
@@ -300,6 +290,7 @@ https://cl.linkedin.com/jobs/view/analista-canales-digitales-at-ita%C3%BA-chile-
 https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
 https://cl.linkedin.com/jobs/view/analista-ciberseguridad-soc-at-gtd-chile-4430992277
 https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%C3%ADa-4417660505
+https://cl.linkedin.com/jobs/view/analista-comex-at-johnson-controls-4432319168
 https://cl.linkedin.com/jobs/view/analista-comex-at-telotenemos-cl-spa-4425968601
 https://cl.linkedin.com/jobs/view/analista-comisiones-at-empresa-confidencial-4427994712
 https://cl.linkedin.com/jobs/view/analista-comunicaciones-corporativas-at-mallplaza-4418686402
@@ -748,6 +739,7 @@ https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-internship-at-hp-4434085875
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
+https://cl.linkedin.com/jobs/view/derma-trainee-at-beiersdorf-4432307777
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289
 https://cl.linkedin.com/jobs/view/desarrollador-junior-en-inteligencia-artificial-computer-vision-at-kuidda-4426451384
@@ -841,6 +833,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-d
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-at-axity-4424644257
+https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-innomar-4435385778
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-prudential-agf-4427860122
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-sercomed-s-a-4417789860
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-thecne-spa-4412831375
@@ -1057,6 +1050,7 @@ https://cl.linkedin.com/jobs/view/se-necesita-asistente-de-facturacion-y-atencio
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/seo-trainee-at-dentsu-4432699724
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
+https://cl.linkedin.com/jobs/view/shipping-trainee-naviero-at-ultranav-4435354604
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/soc-tier-3-analyst-at-dxc-technology-4431459829
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
@@ -1136,6 +1130,7 @@ https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
 https://cl.linkedin.com/jobs/view/trainee-de-gesti%C3%B3n-y-operaciones-at-huevos-la-campestre-4425763360
+https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4435376344
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falabella-quilpu%C3%A9-at-falabella-4418447853
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
@@ -1204,6 +1199,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4
 https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
+https://es.linkedin.com/jobs/view/analista-funcional-contenedores-administraci%C3%B3n-digital-teletrabajo-at-heyclue-4435375664
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
@@ -1248,6 +1244,7 @@ https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
+https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
@@ -1908,7 +1905,9 @@ ingenieroredtelecomunicaciones|acl
 ingenierorpawebscraping|inteligenciaartificial
 ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision
+ingenierosistemasteletrabajo|heyclue
 ingenierosoftwaresoporte|despapeliza
+ingenierosoftware|innomar
 ingenierosoftware|prudentialagf
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
@@ -1961,6 +1960,7 @@ marketingpracticavopero|cencosud
 microinformaticaonsitesoporte|stefaninigroup
 microinformaticatecnico|chiletrabajos
 monitoreotecnicoti|computrabajo
+navieroshippingtrainee|ultranav
 negociospracticanteprocesos|nttdata
 operationspeopletrainee|roche
 practicanteseguridadtecnologica|segurosfalabella

@@ -1,5 +1,3 @@
-engineerreliabilitysitesre|infosys
-engineerreliabilitysitesre|na
 engineerreliabilitysite|remoteok
 engineerremoteresearchrobotics|hirefeed
 engineerremoterustsoftware|turing
@@ -918,6 +916,7 @@ https://cl.linkedin.com/jobs/view/mobility-analyst-at-csm-globals-4348072388
 https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-4426419773
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
+https://cl.linkedin.com/jobs/view/operations-logistics-intern-3rd-4th-master-at-uber-4432321046
 https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
 https://cl.linkedin.com/jobs/view/personal-de-apoyo-para-gesti%C3%B3n-de-proyectos-y-l%C3%ADderes-t%C3%A9cnicos-at-unbc-ltda-4431547222
 https://cl.linkedin.com/jobs/view/pipeline-cloud-adoption-engineer-at-oracle-4417977965
@@ -1399,6 +1398,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4435115870
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4434966832
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4435535353
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170

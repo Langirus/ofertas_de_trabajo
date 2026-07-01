@@ -1,11 +1,3 @@
-engineersolutions|na
-engineersolutions|remoteok
-engineersremotesoftware|quikhirestaffing
-engineertesting|enertisapplus
-entryfullgamegameplayhiringindiejuniorlevelmentorshipprogrammerremotestudiosystemstimetraining|salasgames
-entrylevelsoftwaredeveloperremote|jobsai
-entrylevelsoftwaredeveloperremote|quikhirestaffing
-estagiohomeofficesuportetecnicoti|empresaconfidencial
 estructuralingenieromecanicaopenfoamopenseesremotosimulacion|alignerr
 estudianteinformaticaingpracticaprogramacion|bancobice
 estudiantejuniorofertasprogramadorrelacionadastrainee|portal
@@ -498,6 +490,7 @@ https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-aeropuertos-at-latam-air
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-demanda-at-redsalud-cchc-4433317839
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-tiempo-redsalud-casa-matriz-at-redsalud-providencia-4423031331
+https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-op-mejora-continua-at-cencosud-s-a-4435156761
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-y-control-emergencia-maip%C3%BA-at-abastible-s-a-4421972319
 https://cl.linkedin.com/jobs/view/analista-gestion-de-personas-at-regionaliza-me-4429897296
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
@@ -776,12 +769,14 @@ https://cl.linkedin.com/jobs/view/growth-marketing-analyst-at-kiosclub-american-
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
 https://cl.linkedin.com/jobs/view/ia-engineer-remoto-at-genesys-4423168519
+https://cl.linkedin.com/jobs/view/ingeniero-a-backend-at-tazki-4434654355
 https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-control-operacional-at-chilexpress-4428303898
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-ia-at-faro-consultor%C3%ADa-selecci%C3%B3n-4430233762
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-ia-intermedio-at-r-y-c-consultores-asociados-4434618923
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-ia-junior-at-grupo-o2-4429701112
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4426468037
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
@@ -1305,6 +1300,7 @@ https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-44129
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431393128
+https://mx.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-trabajo-remoto-at-bairesdev-4434645883
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402075981
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
@@ -1360,6 +1356,7 @@ https://mx.linkedin.com/jobs/view/junior-ai-llm-integration-developer-%E2%80%94-
 https://mx.linkedin.com/jobs/view/junior-media-buyer-remote-at-client-accelerators-4430928599
 https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4427010973
+https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4435814338
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
@@ -1771,6 +1768,7 @@ https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-integraciones-y-automatizacion-ia-grupo-amoble-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/ingeniero-a-operacional-del2-agilistik-santiago
 https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
@@ -1849,6 +1847,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon
+iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
 iaoperacionespracticante|credit
 implementacionsoporte|owlteamsolutions
@@ -1892,6 +1891,7 @@ ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromultidisciplina|ghd
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
+ingenierooperacionalsoporte|na
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow

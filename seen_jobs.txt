@@ -1,12 +1,3 @@
-engineersoftware|checkr
-engineersoftware|commandlink
-engineersoftware|comscore
-engineersoftware|na
-engineersoftware|remoteok
-engineersoftware|riamoneytransfer
-engineersoftware|stickermule
-engineersoftware|toku
-engineersoftware|xepelin
 engineersolutions|na
 engineersolutions|remoteok
 engineersremotesoftware|quikhirestaffing
@@ -139,6 +130,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-juni
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-cloud-capability-y-product-owner-junior-mid-en-santiago-centro-5AAB2C3759D16CC961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-analyst-area-laboratorio-rancagua-en-rancagua-B8D28135A7127A9861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-junior-en-talcahuano-1B9ECB2937331ED261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-web-junior-en-santiago-centro-EF1705FC7465859261373E686DCF3405
@@ -303,6 +295,7 @@ https://cl.linkedin.com/jobs/view/analista-control-y-seguimiento-de-negocio-plaz
 https://cl.linkedin.com/jobs/view/analista-csoc-t1-at-adaptive-security-4424794576
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
+https://cl.linkedin.com/jobs/view/analista-cumplimiento-y-gestion-de-informacion-at-banco-de-chile-4425888916
 https://cl.linkedin.com/jobs/view/analista-customer-experience-cx-at-arcoprime-4424794182
 https://cl.linkedin.com/jobs/view/analista-data-science-at-vinci-compass-4427384329
 https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4427364581
@@ -349,6 +342,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-at-randstad-4431343248
 https://cl.linkedin.com/jobs/view/analista-de-datos-at-tata-consultancy-services-4426360833
 https://cl.linkedin.com/jobs/view/analista-de-datos-bi-at-bl-capital-spa-4427376932
 https://cl.linkedin.com/jobs/view/analista-de-datos-bi-at-bl-capital-spa-4430277577
+https://cl.linkedin.com/jobs/view/analista-de-datos-casa-central-at-duoc-uc-4435812619
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
@@ -456,6 +450,7 @@ https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
+https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4435810967
 https://cl.linkedin.com/jobs/view/analista-de-riesgo-operacional-protecci%C3%B3n-de-datos-at-genesys-4424808412
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-y-auditor%C3%ADa-ti-at-deloitte-4426529861
@@ -498,6 +493,7 @@ https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
+https://cl.linkedin.com/jobs/view/analista-funcional-ti-at-genesys-global-4434635015
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-aeropuertos-at-latam-airlines-4423181036
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-demanda-at-redsalud-cchc-4433317839
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-personas-at-chilean-rent-a-car-4413345239
@@ -733,6 +729,7 @@ https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
 https://cl.linkedin.com/jobs/view/derma-trainee-at-beiersdorf-4432307777
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289
+https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4435821283
 https://cl.linkedin.com/jobs/view/desarrollador-junior-en-inteligencia-artificial-computer-vision-at-kuidda-4426451384
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
@@ -1063,6 +1060,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-ii-with-accounting-experienc
 https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4428101576
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
+https://cl.linkedin.com/jobs/view/software-qa-automation-engineer-at-advendio-4424425648
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
 https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-4429120736
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
@@ -1761,6 +1759,7 @@ https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiag
 https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-santiago
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/developer-portugues-espanol-magnar-remote
 https://www.getonbrd.com/jobs/devops-engineer-e-commerce-interfell-remote
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-mlops-engineer-cloud-sre-sidis-ai-remote
@@ -1784,6 +1783,7 @@ https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-s
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/lider-tecnico-devops-weblogic-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/lider-tecnico-google-cloud-tcit-santiago
+https://www.getonbrd.com/jobs/lider-tecnico-google-cloud-tcit-santiago-db2a
 https://www.getonbrd.com/jobs/microsoft-power-platform-automation-engineer-dartmoor-analytics-remote
 https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote

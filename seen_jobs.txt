@@ -1,8 +1,3 @@
-engineerlearningmachine|sermaluc
-engineerlevelmidsoftware|na
-engineermarketingmobilesoftware|sezzle
-engineermicroplatformsremotesoftware|hired
-engineermiddlerubysoftware|softserve
 engineermidsoftware|na
 engineeroffensivesecuritysoftwarewebapp|horizon3ai
 engineeroperationsproduct|egenya
@@ -247,6 +242,7 @@ https://cl.indeed.com/viewjob?jk=f06679e27cec49f3
 https://cl.linkedin.com/jobs/view/%C2%A1buscamos-practicante-de-ti%21-at-hospitalia-international-gmbh-4423561393
 https://cl.linkedin.com/jobs/view/%F0%9F%93%A3-oportunidad-laboral-analista-i-real-estate-intelligence-data-plazo-fijo-santiago-at-santander-chile-4429918433
 https://cl.linkedin.com/jobs/view/%F0%9F%9A%80-ai-engineer-100%25-remoto-at-muruna-4424278196
+https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-desarrollador-a-ia-junior-proyecto-at-kibernum-4431993309
 https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-automatizaci%C3%B3n-100%25-remoto-at-muruna-4424269695
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4424654685
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4433617042
@@ -346,6 +342,7 @@ https://cl.linkedin.com/jobs/view/analista-de-ciencia-de-datos-at-step-therapy-4
 https://cl.linkedin.com/jobs/view/analista-de-cobranzas-at-wtw-4434410499
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
+https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-grupo-falabella-4435308608
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-tanner-banco-digital-4428107017
 https://cl.linkedin.com/jobs/view/analista-de-compras-at-an%C3%B3nimo-4429211420
 https://cl.linkedin.com/jobs/view/analista-de-compras-sucursal-maip%C3%BA-at-anfruns-motors-4413717883
@@ -567,6 +564,7 @@ https://cl.linkedin.com/jobs/view/analista-prevencion-fraude-y-monitoreo-at-clar
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
 https://cl.linkedin.com/jobs/view/analista-programador-cobol-cics-at-tata-consultancy-services-4432867054
 https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
+https://cl.linkedin.com/jobs/view/analista-programador-sql-%F0%9F%9A%80-at-sii-group-chile-4435302597
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-chile-4424003971
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-4419651450
@@ -916,6 +914,7 @@ https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-sermaluc-4434711032
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
+https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4434363192
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23295171-at-bairesdev-4429725436
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
@@ -1837,6 +1836,7 @@ https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-syst
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
+https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
 https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4229334006

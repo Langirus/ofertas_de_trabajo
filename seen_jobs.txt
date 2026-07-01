@@ -1,12 +1,3 @@
-engineerreliabilitysite|remoteok
-engineerremoteresearchrobotics|hirefeed
-engineerremoterustsoftware|turing
-engineerremotesoftware|crossinghurdles
-engineerremotesoftware|hirefeed
-engineersecurity|audienceview
-engineersecurity|remoteok
-engineersoftwaresystem|remoteok
-engineersoftware|boe
 engineersoftware|checkr
 engineersoftware|commandlink
 engineersoftware|comscore
@@ -14,6 +5,7 @@ engineersoftware|na
 engineersoftware|remoteok
 engineersoftware|riamoneytransfer
 engineersoftware|stickermule
+engineersoftware|toku
 engineersoftware|xepelin
 engineersolutions|na
 engineersolutions|remoteok
@@ -384,6 +376,7 @@ https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-441060781
 https://cl.linkedin.com/jobs/view/analista-de-fitoplancton-at-plancton-andino-4421152657
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4424916243
+https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4426711650
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-datos-at-systemvan-4430496485
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-identidades-y-accesos-iam-analyst-at-sermaluc-4429948856
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
@@ -782,6 +775,7 @@ https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/genai-platform-engineer-at-deloitte-4427029333
+https://cl.linkedin.com/jobs/view/growth-marketing-analyst-at-kiosclub-american-supermarket-4432376457
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
 https://cl.linkedin.com/jobs/view/ia-engineer-remoto-at-genesys-4423168519
@@ -1057,6 +1051,7 @@ https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
 https://cl.linkedin.com/jobs/view/software-engineer-at-checkr-inc-4422661500
 https://cl.linkedin.com/jobs/view/software-engineer-at-ria-money-transfer-4430652484
+https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
@@ -1278,6 +1273,7 @@ https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remot
 https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4432269577
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
+https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remote-at-bizneo-hr-4432363706
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
@@ -1396,6 +1392,7 @@ https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-m
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4435115870
+https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4435539816
 https://mx.linkedin.com/jobs/view/software-engineer-latam-canada-at-opensesame-4415338395
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4434966832
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4435535353
@@ -1552,12 +1549,14 @@ https://www.chiletrabajos.cl/trabajo/alumno-a-en-practica-o-trainee-marketing-di
 https://www.chiletrabajos.cl/trabajo/alumno-en-practica-de-gastronomia-3842008
 https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-3858482
+https://www.chiletrabajos.cl/trabajo/analista-contable-3860368
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
 https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-3856272
 https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
+https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-metro-manquehue-3838576
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-ti-42-horas-santiago-centro-sip-3854652
@@ -1846,6 +1845,7 @@ https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon

@@ -1,8 +1,3 @@
-https://ar.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427847969
-https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
-https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
-https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
-https://ar.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4436182380
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://ar.linkedin.com/jobs/view/software-engineer-argentina-remote-at-sela-4435886557
 https://ar.linkedin.com/jobs/view/software-engineer-backend-remote-at-hire-feed-4434298287
@@ -44,6 +39,7 @@ https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-conta
 https://br.linkedin.com/jobs/view/junior-mid-data-engineer-brazil-100%25-remote-at-payretailers-4431948569
 https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
 https://br.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434288111
+https://br.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436331080
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307
 https://br.linkedin.com/jobs/view/melhor-envio-analista-desenvolvedor-backend-j%C3%BAnior-remoto-at-lwsa-4415231618
@@ -415,6 +411,7 @@ https://cl.linkedin.com/jobs/view/analista-de-riesgo-operacional-protecci%C3%B3n
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-y-auditor%C3%ADa-ti-at-deloitte-4426529861
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
+https://cl.linkedin.com/jobs/view/analista-de-seguridad-ofensiva-at-ey-4407028796
 https://cl.linkedin.com/jobs/view/analista-de-siniestros-de-reaseguros-at-marsh-risk-4419595403
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
@@ -452,6 +449,7 @@ https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
+https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-ti-operaciones-qa-integraciones-y-release-management-at-atcom-chile-4436356281
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
 https://cl.linkedin.com/jobs/view/analista-funcional-qa-at-akzio-4435225093
 https://cl.linkedin.com/jobs/view/analista-funcional-ti-at-genesys-global-4434635015
@@ -1523,6 +1521,7 @@ https://www.chiletrabajos.cl/trabajo/3847504
 https://www.chiletrabajos.cl/trabajo/3848014
 https://www.chiletrabajos.cl/trabajo/3856472
 https://www.chiletrabajos.cl/trabajo/3856739
+https://www.chiletrabajos.cl/trabajo/3860067
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1682,6 +1681,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
+https://www.chiletrabajos.cl/trabajo/tecnico-electrico-santiago-3405950
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163

@@ -1,15 +1,3 @@
-https://ar.linkedin.com/jobs/view/software-engineer-latam-at-trashlab-4428651868
-https://bo.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4430589412
-https://br.linkedin.com/jobs/view/ai-engineer-pl-remote-at-ai-r-invillia-4426163304
-https://br.linkedin.com/jobs/view/analista-de-dados-ia-remoto-at-getronics-4426422867
-https://br.linkedin.com/jobs/view/analista-de-sistema-mainframe-remoto-at-getronics-4423156545
-https://br.linkedin.com/jobs/view/analista-de-suporte-%E2%80%93-n2-atendimento-remoto-e-local-%E2%80%93-porto-alegre-%E2%80%93-rs-at-buscarvagas-empregos-brasil-4425770280
-https://br.linkedin.com/jobs/view/analista-de-suporte-de-aplicacoes-trilogy-remote-%2460-000-year-usd-at-crossover-4431443058
-https://br.linkedin.com/jobs/view/analista-de-suporte-de-ti-trabalho-remoto-at-bairesdev-4428090255
-https://br.linkedin.com/jobs/view/analista-de-suporte-n1-junior-customer-experience-rd-station-remoto-afirmativa-para-pessoas-negras-at-rd-station-4430572225
-https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-at-cetro-m%C3%A1quinas-4432301320
-https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-presencial-at-cetro-m%C3%A1quinas-4431996468
-https://br.linkedin.com/jobs/view/analista-de-suporte-remoto-jr-a-presencial-sp-at-cetro-m%C3%A1quinas-4431013500
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4426134313
 https://br.linkedin.com/jobs/view/analista-de-suporte-t%C3%A9cnico-trabalho-remoto-at-bairesdev-4428737186
 https://br.linkedin.com/jobs/view/analista-desenvolvimento-web-jr-home-office-at-solinftec-4425371310
@@ -62,6 +50,8 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-junior-en-santiago-centro-6C0F808A9E728B2061373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-ssr-en-santiago-centro-7A6BA6E4E03699B861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista junior batch-bancario-en-santiago-centro-841572DEF578807C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista servicio batch-bancario-en-santiago-centro-AA639093ADE1B5C061373E686DCF3405
@@ -348,6 +338,7 @@ https://cl.linkedin.com/jobs/view/analista-de-inventario-chile-at-natura-4424105
 https://cl.linkedin.com/jobs/view/analista-de-lectura-y-facturaci%C3%B3n-at-mcr-international-executive-search-4431680293
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
+https://cl.linkedin.com/jobs/view/analista-de-market-intelligence-at-cmpc-4426530507
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
 https://cl.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-erp-contable-at-sonda-4418937258
 https://cl.linkedin.com/jobs/view/analista-de-metrolog%C3%ADa-at-eurofarma-4422424980
@@ -387,6 +378,7 @@ https://cl.linkedin.com/jobs/view/analista-de-procesos-factoring-at-banco-bci-44
 https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencosud-s-a-4420239488
 https://cl.linkedin.com/jobs/view/analista-de-procesos-protecci%C3%B3n-de-datos-at-genesys-4425301433
 https://cl.linkedin.com/jobs/view/analista-de-procesos-y-datos-contables-at-deloitte-4433328524
+https://cl.linkedin.com/jobs/view/analista-de-procesos-y-transformacion-digital-at-cibergestion-4436400731
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-y-control-de-proyectos-at-motorola-solutions-4427081545
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
@@ -477,6 +469,7 @@ https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-
 https://cl.linkedin.com/jobs/view/analista-labor-reemplazo-pre-y-post-natal-at-aramark-chile-4425925523
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
+https://cl.linkedin.com/jobs/view/analista-mejora-continua-at-empresas-sb-4436411274
 https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662
 https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
 https://cl.linkedin.com/jobs/view/analista-mesa-cross-asset-at-btg-pactual-chile-4428193717
@@ -662,6 +655,7 @@ https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4410224504
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
 https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
 https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4432144288
+https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4436417073
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
 https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-base-analyst-car-at-ghd-4310245503
@@ -992,6 +986,7 @@ https://cl.linkedin.com/jobs/view/qa-analyst-%F0%9F%9A%80-at-sii-group-chile-443
 https://cl.linkedin.com/jobs/view/qa-analyst-at-experian-spanish-latam-4423308263
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/qa-engineer-saas-at-impulsa-suite-4431034660
+https://cl.linkedin.com/jobs/view/qa-funcional-junior-at-kibernum-4433113450
 https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046
 https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
@@ -1177,6 +1172,7 @@ https://es.linkedin.com/jobs/view/aws-big-data-engineer-remote-35-42k-at-the-boa
 https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-bark-com-4421170285
 https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-online-life-coach-me-4432454039
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
+https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
@@ -1537,6 +1533,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-38390
 https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-3856272
 https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
+https://www.chiletrabajos.cl/trabajo/analista-de-calidad-sector-norte-3861223
 https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-metro-manquehue-3838576
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
@@ -1601,6 +1598,7 @@ https://www.chiletrabajos.cl/trabajo/conductor-y-asistente-operativo-3859325
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fi-junior-3852828
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
+https://www.chiletrabajos.cl/trabajo/desarrollador-a-ia-junior-proyecto-3860304
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-3648516
 https://www.chiletrabajos.cl/trabajo/desarrollador-aplicaciones-web-junior-1389638
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
@@ -1628,6 +1626,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-de-proyectos-de-innovacion-y-desa
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-de-estudio-de-proyectos-3559105
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-experiencia-sistemas-ferroviarios-vina-3846122
 https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
@@ -1715,6 +1714,7 @@ https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-ne
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab
 https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/analista-qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6

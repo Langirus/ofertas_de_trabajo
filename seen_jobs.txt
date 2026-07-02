@@ -1,8 +1,3 @@
-gcpiaingenieroremoto|irium
-generalesmantencionesrondizzonisantiagotecnico|salfarent
-generativaiaingenieropythonremoto|betweentechnology
-generativaiaingeniero|isaprenuevamasvida
-geotecnicomonitoreosupervisor|chiletrabajos
 gestionhumanapracticante|chiletrabajos
 gestioningenierotecnica|empresaconfidencial
 gestionmarcaspracticapropiastottus|tottus
@@ -19,6 +14,7 @@ https://ar.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
 https://ar.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-bluelight-4421283042
+https://ar.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4436182380
 https://ar.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-argentina-at-mixrank-4415464366
 https://ar.linkedin.com/jobs/view/software-engineer-argentina-remote-at-sela-4435886557
 https://ar.linkedin.com/jobs/view/software-engineer-backend-remote-at-hire-feed-4434298287
@@ -741,6 +737,7 @@ https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-business
 https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-supply-chain-at-ey-4428420209
 https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ai-data-at-ey-4426988728
 https://cl.linkedin.com/jobs/view/field-aplication-engineer-at-links-field-4433699987
+https://cl.linkedin.com/jobs/view/field-services-engineer-santiago-chile-at-stryker-4426110057
 https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-spanish-english-at-google-4418804121
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
@@ -1222,6 +1219,7 @@ https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-
 https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
+https://es.linkedin.com/jobs/view/ingeniero-a-de-integraciones-itsm-full-remote-spain-%E2%82%AC40k-%E2%82%AC48k-at-joppy-4435047603
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
 https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
@@ -1843,6 +1841,8 @@ https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
+https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon

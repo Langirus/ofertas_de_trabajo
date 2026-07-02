@@ -1,10 +1,3 @@
-fibranetworkingopticaredessoportetecnicotelecomunicacionesti|atcom
-finanzaspracticaprofesionalsubgerencia|copec
-fortinetingenieroseguridad|sonda
-frontendhibridoingenieroleonteletrabajovue|hastengroup
-fullingenierointegracionessoftwarestack|rrresourcerecourse
-fullingenierojuniorsoftwarestack|grupoo2
-fullingenierojuniorstack|apiuxtech
 fulljuniormarketermidperformanceremotespain|everai
 fullpracticastack|deliryumai
 fullstackcloudplatformengineeriot|na
@@ -212,6 +205,7 @@ https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-at-ita%C3%BA-chile-4433375829
 https://cl.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4433327187
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
+https://cl.linkedin.com/jobs/view/ai-engineer-forward-deployed-engineer-at-salesforce-4436153092
 https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
 https://cl.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23294116-at-bairesdev-4426548488
 https://cl.linkedin.com/jobs/view/ai-implementation-engineer-ai-agents-at-agendapro-4426533629
@@ -614,6 +608,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-hu
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-y-comunicaciones-at-remates-madrid-s-a-4420118527
 https://cl.linkedin.com/jobs/view/asistente-de-otic-at-retail-group-4428381599
+https://cl.linkedin.com/jobs/view/asistente-de-paletizado-at-essity-4432716582
 https://cl.linkedin.com/jobs/view/asistente-de-responsable-de-tienda-at-action-4414580664
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-ludipek-4418353551
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-youtopia-company-4423695460
@@ -638,6 +633,7 @@ https://cl.linkedin.com/jobs/view/associate-internship-chile-2026-at-boston-cons
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
+https://cl.linkedin.com/jobs/view/automation-engineer-at-blend-4436166302
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/automations-engineer-open-source-at-searchapi-4431716372
 https://cl.linkedin.com/jobs/view/auxiliar-administrativo-a-npsa3-at-undp-careers-4429833856
@@ -668,6 +664,7 @@ https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-f1-at-coasi
 https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-nivel-1-at-coasin-logicalis-4427337931
 https://cl.linkedin.com/jobs/view/cientifico-de-datos-junior-at-eva-learning-4425847681
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
+https://cl.linkedin.com/jobs/view/cloud-ops-engineer-at-confidential-4436116775
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/commercial-data-analyst-at-procter-gamble-4430658621
 https://cl.linkedin.com/jobs/view/commercial-ops-analyst-home-care-chile-at-unilever-4431495277
@@ -851,6 +848,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-procesos-jr-at-wisetrack-corp-442734
 https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02-at-cyd-ingenier%C3%ADa-4413121930
 https://cl.linkedin.com/jobs/view/ingeniero-rpa-webscraping-at-inteligencia-artificial-chile-4426864657
 https://cl.linkedin.com/jobs/view/ingeniero-sistemas-y-seguridad-at-netline-4420128860
+https://cl.linkedin.com/jobs/view/ingeniero-supply-chain-at-cmpc-4436154760
 https://cl.linkedin.com/jobs/view/ingeniero-tibco-at-tata-consultancy-services-4430198302
 https://cl.linkedin.com/jobs/view/ingenieros-as-%C2%A0de%C2%A0gesti%C3%B3n%C2%A0y%C2%A0reportabilidad%C2%A0cod-7031-03-at-r-q-ingenier%C3%ADa-4431076118
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
@@ -1295,7 +1293,9 @@ https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-44129
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431393128
+https://mx.linkedin.com/jobs/view/ai-workflow-engineer-latam-at-backblaze-4432725893
 https://mx.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-trabajo-remoto-at-bairesdev-4434645883
+https://mx.linkedin.com/jobs/view/analista-desarrollador-net-m%C3%A9xico-remoto-at-azkait-4434696800
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402075981
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868

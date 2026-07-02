@@ -1,15 +1,3 @@
-gestionhumanapracticante|chiletrabajos
-gestioningenierotecnica|empresaconfidencial
-gestionmarcaspracticapropiastottus|tottus
-gestionoperacionestrainee|huevoslacampestre
-gpsmonitortecnicoti|nortrans
-hcmsaptrainee|accenture
-herramientasindustrialmaquinamecanicotecnico|chiletrabajos
-higginsmetropolitananivelregionsoportetecnicoterrenovalparaiso|accenture
-https://ar.linkedin.com/jobs/view/%F0%9F%8E%A5-computer-vision-engineer-remote-latin-america-at-xogito-group-inc-4429854940
-https://ar.linkedin.com/jobs/view/ai-engineer-latam-at-kreitech-4426486047
-https://ar.linkedin.com/jobs/view/ai-software-engineer-generative-ai-latin-america-remote-at-azumo-4420472315
-https://ar.linkedin.com/jobs/view/ai-workflow-engineer-latam-at-backblaze-4432737605
 https://ar.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427847969
 https://ar.linkedin.com/jobs/view/data-engineer-azure-data-factory-adf-argentina-100%25-remoto-at-talent-connect-4417546471
 https://ar.linkedin.com/jobs/view/data-engineer-remote-at-greencode-software-4420469526
@@ -271,6 +259,7 @@ https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-central-bank-of-c
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-empresa-confidencial-4422809169
 https://cl.linkedin.com/jobs/view/analista-de-atracci%C3%B3n-de-talento-at-streat-food-4423317266
 https://cl.linkedin.com/jobs/view/analista-de-beneficios-at-empresas-sb-4416920156
+https://cl.linkedin.com/jobs/view/analista-de-bi-at-adecco-4432780842
 https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
 https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
 https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
@@ -411,6 +400,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-falabella-4388376406
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-backoffice-de-riesgo-at-banco-falabella-4421289216
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-y-mejora-continua-at-afp-planvital-4432442509
+https://cl.linkedin.com/jobs/view/analista-de-pruebas-de-productos-y-servicios-at-hitss-chile-4432796098
 https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
 https://cl.linkedin.com/jobs/view/analista-de-recaudaci%C3%B3n-at-cl%C3%ADnicas-achs-salud-4417688145
 https://cl.linkedin.com/jobs/view/analista-de-reclutamiento-y-selecci%C3%B3n-at-arcoprime-4421658206
@@ -463,6 +453,7 @@ https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
+https://cl.linkedin.com/jobs/view/analista-funcional-qa-at-akzio-4435225093
 https://cl.linkedin.com/jobs/view/analista-funcional-ti-at-genesys-global-4434635015
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-aeropuertos-at-latam-airlines-4423181036
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-demanda-at-redsalud-cchc-4433317839
@@ -1062,6 +1053,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofag
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
+https://cl.linkedin.com/jobs/view/sr-fullstack-software-engineer-at-grupo-falabella-4436330944
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st14452-analista-contable-at-salfa-rent-4430351108
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
@@ -1238,6 +1230,7 @@ https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4425259828
 https://es.linkedin.com/jobs/view/junior-data-scientist-at-joinrs-4431667237
 https://es.linkedin.com/jobs/view/junior-developer-ai-app-web-cloud-data-machine-learning-at-joinrs-4431672127
+https://es.linkedin.com/jobs/view/junior-devops-aws-%2B-databricks-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4435207134
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-java-developer-%2B-ia-100%25-remoto-at-knowmad-mood-4427244605
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
@@ -1538,6 +1531,7 @@ https://www.chiletrabajos.cl/trabajo/alumno-en-practica-de-gastronomia-3842008
 https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-3858482
 https://www.chiletrabajos.cl/trabajo/analista-contable-3860368
+https://www.chiletrabajos.cl/trabajo/analista-contable-3861076
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
@@ -1588,6 +1582,8 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquiq
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-huechuraba-3626484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-3277404
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-quilicura-3855484
@@ -1690,11 +1686,13 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
+https://www.chiletrabajos.cl/trabajo/tecnico-en-mantenimiento-industrial-3860884
 https://www.chiletrabajos.cl/trabajo/tecnico-en-microinformatica-3853012
 https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-3848526
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-san-fernando-3849745
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
+https://www.chiletrabajos.cl/trabajo/tecnico-mantencion-santiago-3105595
 https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herramientas-3850704
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-sec-calefont-honorarios-3857699
@@ -1851,6 +1849,7 @@ iaingenierojunior|grupoo2
 iaoperacionespracticante|credit
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
+industrialmantenimientotecnico|chiletrabajos
 informaticaingeniero|mcn
 informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal
@@ -1953,6 +1952,7 @@ lidertecnicoti|empresaconfidencial
 linuxremotescriptingshelltecnicounix|abalia
 lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
+mantencionsantiagotecnico|chiletrabajos
 mantenimientotecnico|carlsjr
 mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational

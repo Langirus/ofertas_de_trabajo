@@ -1,6 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-aws-juniorcontrato-indefinidosantiago-centro-en-santiago-centro-D09E0E8C1BB4E31C61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-infraestructura-aws-juniorcontrato-indefinido-en-santiago-centro-EEDD3302077479ED61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistema-juniorcontrato-indefinido-presencial-en-santiago-centro-07D60762639D8EA061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistemas-junior-aws-contrato-indefinido-en-santiago-centro-EE3A5EDD34B2B63A61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-business-intelligence-junior-seguros-las-condes-modelo-hibrido-en-santiago-las-condes-B568E62085497C7E61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-junior-pudahuel-en-santiago-pudahuel-91B776F4A671FEB261373E686DCF3405
@@ -357,6 +354,7 @@ https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-441470
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-falabella-4388376406
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-backoffice-de-riesgo-at-banco-falabella-4421289216
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-it-agile-at-siigsa-4412009829
+https://cl.linkedin.com/jobs/view/analista-de-proyectos-jr-back-office-%F0%9F%9A%80-at-apiux-tech-4433710350
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-y-mejora-continua-at-afp-planvital-4432442509
 https://cl.linkedin.com/jobs/view/analista-de-pruebas-de-productos-y-servicios-at-hitss-chile-4432796098
 https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
@@ -1001,6 +999,7 @@ https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
 https://cl.linkedin.com/jobs/view/software-engineer-at-checkr-inc-4422661500
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
+https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178
 https://cl.linkedin.com/jobs/view/software-engineer-at-geovictoria-4435446736
 https://cl.linkedin.com/jobs/view/software-engineer-at-ria-money-transfer-4430652484
 https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
@@ -1582,6 +1581,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-quilicura-3855484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-minera-escondida-3861912
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268

@@ -1,7 +1,3 @@
-https://br.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4434900435
-https://br.linkedin.com/jobs/view/jr-account-executive-remote-executivo-de-contas-j%C3%BAnior-remoto-at-dadosfera-4417483163
-https://br.linkedin.com/jobs/view/junior-mid-data-engineer-brazil-100%25-remote-at-payretailers-4431948569
-https://br.linkedin.com/jobs/view/junior-react-frontend-engineer-remote-work-at-bairesdev-4417885020
 https://br.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434288111
 https://br.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436331080
 https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4416041400
@@ -156,6 +152,7 @@ https://cl.linkedin.com/jobs/view/ai-engineer-forward-deployed-engineer-at-sales
 https://cl.linkedin.com/jobs/view/ai-engineer-genai-orchestration-at-ntt-data-inc-4422210825
 https://cl.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23294116-at-bairesdev-4426548488
 https://cl.linkedin.com/jobs/view/ai-implementation-engineer-ai-agents-at-agendapro-4426533629
+https://cl.linkedin.com/jobs/view/ai-integration-engineer-ai-solutions-at-ntt-data-inc-4413651878
 https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415699354
 https://cl.linkedin.com/jobs/view/ai-native-software-engineer-early-career-americas-at-chaingpt-4433887578
 https://cl.linkedin.com/jobs/view/ai-operations-engineer-at-nubox-spa-4429092933
@@ -290,6 +287,7 @@ https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
 https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
 https://cl.linkedin.com/jobs/view/analista-de-excelencia-operacional-at-cl%C3%ADnicas-achs-salud-4419618418
+https://cl.linkedin.com/jobs/view/analista-de-experiencia-de-clientes-at-cassis-caf%C3%A9-4424897076
 https://cl.linkedin.com/jobs/view/analista-de-experiencia-y-clima-at-ita%C3%BA-chile-4427573803
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
@@ -491,6 +489,7 @@ https://cl.linkedin.com/jobs/view/analista-proyectos-nimod-at-altodesempe%C3%B1o
 https://cl.linkedin.com/jobs/view/analista-pss-at-ingenierojob-4422212814
 https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
+https://cl.linkedin.com/jobs/view/analista-qa-automatizador-mobile-at-kti-hunter-4436463787
 https://cl.linkedin.com/jobs/view/analista-qa-funcional-medios-de-pago-at-bc-tecnolog%C3%ADa-4424799496
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
 https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-preparador-at-abbott-4424919469
@@ -1266,6 +1265,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431602883
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434289575
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-4433664405
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4418274323
+https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624

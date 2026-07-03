@@ -1,7 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-administrador-de-sistemas-junior-aws-contrato-indefinido-en-santiago-centro-EE3A5EDD34B2B63A61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-business-intelligence-junior-seguros-las-condes-modelo-hibrido-en-santiago-las-condes-B568E62085497C7E61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-junior-pudahuel-en-santiago-pudahuel-91B776F4A671FEB261373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-automatizacion-sql-python-java-etl-en-santiago-providencia-E8735B25A6BBE43E61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-devsecops-junior-en-santiago-centro-8A769342CCC8BB0661373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-batch-en-santiago-centro-940766514076420161373E686DCF3405
@@ -430,6 +426,7 @@ https://cl.linkedin.com/jobs/view/analista-informatico-codigo-shell-logs-control
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-inteligencia-de-personas-people-analytics-at-gildemeister-chile-4431537429
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
+https://cl.linkedin.com/jobs/view/analista-junior-crm-at-plin-co-4433712380
 https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
 https://cl.linkedin.com/jobs/view/analista-junior-de-proyectos-y-mejora-continua-at-afp-planvital-4423563346
@@ -783,6 +780,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-d
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
 https://cl.linkedin.com/jobs/view/ingeniero-de-telecomunicaciones-de-red-at-acl-4423168550
 https://cl.linkedin.com/jobs/view/ingeniero-desarrollador-oracle-apex-at-160k-4432592881
+https://cl.linkedin.com/jobs/view/ingeniero-devops-at-confidencial-4433193783
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
@@ -1228,6 +1226,7 @@ https://es.linkedin.com/jobs/view/machine-learning-engineer-at-ntt-data-europe-l
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4431274231
+https://es.linkedin.com/jobs/view/pr%C3%A1cticas-en-ciberseguridad-%E2%80%93-startup-healthtech-remoto-at-temotiva-4436791793
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
@@ -1731,6 +1730,7 @@ https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterre
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
+https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote

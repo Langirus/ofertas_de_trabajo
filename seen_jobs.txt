@@ -1,8 +1,3 @@
-https://br.linkedin.com/jobs/view/python-data-engineer-pleno-remote-at-compass-uol-4432029267
-https://br.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419859364
-https://br.linkedin.com/jobs/view/qa-test-automation-junior-mid-remote-at-compass-uol-4432868201
-https://br.linkedin.com/jobs/view/react-front-end-developer-junior-remote-at-compass-uol-4414050895
-https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4267544468
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4333280082
 https://br.linkedin.com/jobs/view/remote-fullstack-engineer-at-turing-4398947291
 https://br.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4432819925
@@ -69,6 +64,7 @@ https://cl.indeed.com/q-cloud-junior-empleos.html
 https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
+https://cl.indeed.com/q-inform%C3%A1tica,-trainee,-junior-empleos.html?vjk=7a4ec0f60869bf89
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee,-junior-empleos.html?vjk=e3f56ac0ab9743c2
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=652cc27229e840eb
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
@@ -297,6 +293,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-mo
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-personas-at-rocktruck-4428138756
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-estrat%C3%A9gica-y-okrs-at-fid-seguros-4428580999
+https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-informaci%C3%B3n-y-gesti%C3%B3n-banca-personas-at-banco-de-chile-4436754032
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-operacional-compras-adquisiciones-huechuraba-at-universidad-san-sebasti%C3%A1n-4429839837
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
 https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4432807176
@@ -376,6 +373,7 @@ https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-cyd-ingenier%C3%
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-at-smart-cfo-%C2%AE-4411509440
 https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
 https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
+https://cl.linkedin.com/jobs/view/analista-de-repuesto-at-global-pacific-labour-4433707029
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4435810967
 https://cl.linkedin.com/jobs/view/analista-de-riesgo-operacional-protecci%C3%B3n-de-datos-at-genesys-4424808412
@@ -663,6 +661,7 @@ https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4
 https://cl.linkedin.com/jobs/view/data-machine-learning-engineer-at-idt-corporation-4436439587
 https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-ghd-4412863750
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
+https://cl.linkedin.com/jobs/view/data-platform-engineer-at-buk-4435460395
 https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-internship-at-hp-4434085875
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
@@ -1171,6 +1170,7 @@ https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%8
 https://es.linkedin.com/jobs/view/data-engineer-ml-cloud-remoto-espa%C3%B1a-at-oxigent-technologies-4417054884
 https://es.linkedin.com/jobs/view/data-engineer-remote-%E2%80%93-spain-only-aws-at-infoser-technological-solutions-hardware-big-data-experts-4432243256
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
+https://es.linkedin.com/jobs/view/data-engineer-remoto-at-capitole-4433180436
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
 https://es.linkedin.com/jobs/view/data-loss-prevention-dlp-analyst-insider-threat-risk-100%25-remote-within-spain-at-ust-4417956364
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madrid-remoto-at-it-partner-4430839286

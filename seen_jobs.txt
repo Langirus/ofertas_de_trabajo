@@ -1,10 +1,3 @@
-https://br.linkedin.com/jobs/view/desenvolvedor-a-python-jr-trilha-para-sre-remoto-at-solutis-tecnologias-4433388089
-https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4428089921
-https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-trabalho-remoto-at-bairesdev-4434114070
-https://br.linkedin.com/jobs/view/desenvolvedor-junior-node-js-trabalho-remoto-at-bairesdev-4434146271
-https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4425266943
-https://br.linkedin.com/jobs/view/desenvolvedor-react-junior-trabalho-remoto-at-bairesdev-4434152273
-https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-home-office-at-empresa-confidencial-4433089579
 https://br.linkedin.com/jobs/view/financial-software-engineer-remote-at-hire-feed-4428654072
 https://br.linkedin.com/jobs/view/front-end-engineer-specialist-remote-at-compass-uol-4417379869
 https://br.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435173177
@@ -40,6 +33,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-bus
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-junior-pudahuel-en-santiago-pudahuel-91B776F4A671FEB261373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-datos-y-automatizacion-sql-python-java-etl-en-santiago-providencia-E8735B25A6BBE43E61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-fraude-y-prevencion-monitoreo-reclamos-investigacion-fraude-monitoreo-fraude-bancario-prevencion-reclamos-en-santiago-providencia-5FC931C4B34CED1061373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-devsecops-junior-en-santiago-centro-8A769342CCC8BB0661373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-junior-en-santiago-centro-6C0F808A9E728B2061373E686DCF3405
@@ -53,6 +47,7 @@ https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-ti-junior-quilicura-en-santiago-quilicura-0CE53D58CB88774C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-263D89D803F18D8C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-ECF08CDEE66D32C561373E686DCF3405
+https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-bdr-sdr-junior-desarrollo-de-negocios-ti-en-santiago-centro-A44B105151CBC4ED61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
@@ -599,6 +594,7 @@ https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-principal-chile-4424
 https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-4386885124
 https://cl.linkedin.com/jobs/view/associate-internship-chile-2026-at-boston-consulting-group-bcg-4368747430
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
+https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4435291598
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-engineer-at-blend-4436166302
@@ -670,6 +666,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-442404
 https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
 https://cl.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-fullstack-4430148038
 https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
+https://cl.linkedin.com/jobs/view/data-machine-learning-engineer-at-idt-corporation-4436439587
 https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-ghd-4412863750
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
@@ -822,6 +819,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-sistemas-y-seguridad-at-netline-4420
 https://cl.linkedin.com/jobs/view/ingeniero-supply-chain-at-cmpc-4436154760
 https://cl.linkedin.com/jobs/view/ingeniero-tibco-at-tata-consultancy-services-4430198302
 https://cl.linkedin.com/jobs/view/ingenieros-as-%C2%A0de%C2%A0gesti%C3%B3n%C2%A0y%C2%A0reportabilidad%C2%A0cod-7031-03-at-r-q-ingenier%C3%ADa-4431076118
+https://cl.linkedin.com/jobs/view/inserci%C3%B3n-de-becarios-at-centro-de-investigaci%C3%B3n-educativa-ciedu-aip-4435403446
 https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-4412906853
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
@@ -1072,6 +1070,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-junior-de-monitoreo-at-ntt-data-i
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-mantenciones-generales-rondizzoni-santiago-at-salfa-rent-4433603812
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s-a-4419954243
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434167735
+https://cl.linkedin.com/jobs/view/tech-functional-analyst-at-vr-group-chile-4433141097
 https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
 https://cl.linkedin.com/jobs/view/tecnico-de-soporte-mininco-los-angeles-at-motorola-solutions-4412414770
 https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
@@ -1346,6 +1345,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
+https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159

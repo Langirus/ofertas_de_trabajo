@@ -1,6 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-monitoreo-ti-en-santiago-providencia-6CC58DE6DD159C6461373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-de-soporte-ti-junior-800000-huechuraba-en-santiago-huechuraba-459420E5EFC99BB461373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-logistico-junior-valle-grande-en-lampa-B9EE27F78CEA5D3761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnico-soporte-ti-junior-42-horas-call-center-en-santiago-centro-2516B03FBF1E59E161373E686DCF3405
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tica-junior
 https://cl.indeed.com/Empleos-de-Inform%C3%A1tico-junior-en-Los-Cerrillos,-Regi%C3%B3n-Metropolitana
@@ -695,6 +692,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-backend-at-tazki-4434654355
 https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-control-operacional-at-chilexpress-4428303898
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-aws-big-data-at-bc-tecnolog%C3%ADa-4436960780
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-ia-at-faro-consultor%C3%ADa-selecci%C3%B3n-4430233762
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
@@ -980,6 +978,7 @@ https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/seo-trainee-at-dentsu-4432699724
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
 https://cl.linkedin.com/jobs/view/shipping-trainee-naviero-at-ultranav-4435354604
+https://cl.linkedin.com/jobs/view/site-payment-analyst-at-iqvia-4427232598
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/soc-tier-3-analyst-at-dxc-technology-4431459829
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
@@ -1218,6 +1217,7 @@ https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC3
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4431274231
 https://es.linkedin.com/jobs/view/pr%C3%A1cticas-en-ciberseguridad-%E2%80%93-startup-healthtech-remoto-at-temotiva-4436791793
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
+https://es.linkedin.com/jobs/view/remote-airline-standards-engineer-%E2%80%94-m-e-data-compliance-at-cae-defence-security-%E2%80%93-indo-pacific-4436012011
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
 https://es.linkedin.com/jobs/view/soc-analyst-l1-l2-%E2%80%93-incident-response-%E2%80%94-100%25-remote-spain-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4426981543

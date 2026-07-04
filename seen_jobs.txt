@@ -1,7 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-099CCA7EA560B33C61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-ti-junior-quilicura-en-santiago-quilicura-0CE53D58CB88774C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-263D89D803F18D8C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-ECF08CDEE66D32C561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-bdr-sdr-junior-desarrollo-de-negocios-ti-en-santiago-centro-A44B105151CBC4ED61373E686DCF3405
@@ -262,6 +258,7 @@ https://cl.linkedin.com/jobs/view/analista-de-experiencia-de-clientes-at-cassis-
 https://cl.linkedin.com/jobs/view/analista-de-experiencia-y-clima-at-ita%C3%BA-chile-4427573803
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
+https://cl.linkedin.com/jobs/view/analista-de-finanzas-y-control-de-gesti%C3%B3n-at-sur-consulting-4433732366
 https://cl.linkedin.com/jobs/view/analista-de-fitoplancton-at-plancton-andino-4421152657
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
 https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4424916243
@@ -734,6 +731,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-ac
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
 https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
+https://cl.linkedin.com/jobs/view/ingeniero-de-datos-cobranza-at-ripley-chile-4433711802
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sat-job-consultancy-reclutamiento-y-selecci%C3%B3n-4433195246
@@ -793,6 +791,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
 https://cl.linkedin.com/jobs/view/ingeniero-inteligencia-artificial-generativa-aws-at-kpaz-4433509409
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
+https://cl.linkedin.com/jobs/view/ingeniero-jr-en-procesos-at-dhl-supply-chain-4436914626
 https://cl.linkedin.com/jobs/view/ingeniero-klass-x-at-farmacias-ahumada-4430530995
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-procesos-jr-at-wisetrack-corp-4427347932
@@ -1877,6 +1876,7 @@ ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
 ingenierointegracion|taglermaq
 ingenierointegradospreventaproyectos|chiletrabajos
+ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis

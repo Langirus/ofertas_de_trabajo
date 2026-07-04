@@ -1,6 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-cloud-capability-y-product-owner-junior-mid-en-santiago-centro-5AAB2C3759D16CC961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-data-analyst-area-laboratorio-rancagua-en-rancagua-B8D28135A7127A9861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-junior-en-talcahuano-1B9ECB2937331ED261373E686DCF3405
@@ -329,6 +326,7 @@ https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencos
 https://cl.linkedin.com/jobs/view/analista-de-procesos-protecci%C3%B3n-de-datos-at-genesys-4425301433
 https://cl.linkedin.com/jobs/view/analista-de-procesos-y-datos-contables-at-deloitte-4433328524
 https://cl.linkedin.com/jobs/view/analista-de-procesos-y-transformacion-digital-at-cibergestion-4436400731
+https://cl.linkedin.com/jobs/view/analista-de-productos-compras-revestimientos-pisos-y-terminaciones-at-mk-4436950265
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-y-control-de-proyectos-at-motorola-solutions-4427081545
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
@@ -821,6 +819,7 @@ https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495
 https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-sales-representative-at-quectel-4433285813
+https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436933939
 https://cl.linkedin.com/jobs/view/junior-software-engineer-python-at-telnyx-4411678357
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
@@ -1335,6 +1334,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435107209
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
+https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546

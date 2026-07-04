@@ -1,6 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-263D89D803F18D8C61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-backend-junior-python-en-santiago-las-condes-ECF08CDEE66D32C561373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-bdr-sdr-junior-desarrollo-de-negocios-ti-en-santiago-centro-A44B105151CBC4ED61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-business-analyst-junior-analista-de-negocios-ti-junior-agile-business-analyst-junior-en-santiago-providencia-209066440999D2D961373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-business-analyst-junior-analitica-digital-y-producto-en-santiago-centro-01D16C5A4F3D918561373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-89CEE519F1AE13FA61373E686DCF3405
@@ -392,6 +389,7 @@ https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
 https://cl.linkedin.com/jobs/view/analista-facturaci%C3%B3n-y-cobranza-at-engie-chile-4433335819
 https://cl.linkedin.com/jobs/view/analista-financiero-at-metlife-chile-4434756447
 https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
+https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4428302371
 https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
@@ -661,6 +659,7 @@ https://cl.linkedin.com/jobs/view/developer-fullstack-ai-product-engineer-at-axi
 https://cl.linkedin.com/jobs/view/development-security-and-operations-engineer-at-dxc-technology-4330940039
 https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
 https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
+https://cl.linkedin.com/jobs/view/devops-security-analyst-at-association-of-universities-for-research-in-astronomy-4428193357
 https://cl.linkedin.com/jobs/view/devops-security-analyst-at-gemini-observatory-4428323360
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
@@ -697,6 +696,7 @@ https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/genai-platform-engineer-at-deloitte-4427029333
+https://cl.linkedin.com/jobs/view/graduate-tailings-engineer-at-ghd-4427211489
 https://cl.linkedin.com/jobs/view/growth-marketing-analyst-at-kiosclub-american-supermarket-4432376457
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503

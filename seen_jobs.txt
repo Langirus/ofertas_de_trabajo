@@ -1,12 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-devsecops-junior-en-santiago-centro-8A769342CCC8BB0661373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-junior-batch-en-santiago-centro-940766514076420161373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-mesa-de-ayuda-part-time-lunes-a-viernes-en-santiago-providencia-BA162ACABE1D573761373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-pmo-junior-en-santiago-providencia-80AE19AED064812461373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-junior-en-santiago-centro-6C0F808A9E728B2061373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-qa-ssr-en-santiago-centro-7A6BA6E4E03699B861373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista juniorservicio batch-bancario-en-santiago-centro-9CE45E1A7873CFF261373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista junior batch-bancario-en-santiago-centro-841572DEF578807C61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista servicio batch-bancario-en-santiago-centro-AA639093ADE1B5C061373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-de-informatica-junior-en-carls-jr-en-santiago-las-condes-1C8B126D9886AF3461373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-tecnico-ti-huechuraba-en-santiago-huechuraba-099CCA7EA560B33C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asistente-ti-soporte-e-infraestructura-en-santiago-quilicura-92570E9C76CBEE7561373E686DCF3405
@@ -108,6 +99,8 @@ https://cl.linkedin.com/jobs/view/%F0%9F%A4%96-ingeniero-a-de-agentes-ia-y-autom
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4424654685
 https://cl.linkedin.com/jobs/view/14180-practicante-administrativo-at-salfa-rent-4433617042
 https://cl.linkedin.com/jobs/view/4-ejecutivos-o-asesores-de-inversiones-trainee-2026-at-grupo-inteligencia-4422230398
+https://cl.linkedin.com/jobs/view/8340-analista-iii-at-santander-chile-4436907724
+https://cl.linkedin.com/jobs/view/8756-analista-administrativo-at-sgs-4433725592
 https://cl.linkedin.com/jobs/view/account-executive-junior-at-avvale-4426192119
 https://cl.linkedin.com/jobs/view/accounting-trainee-at-btg-pactual-chile-4422130037
 https://cl.linkedin.com/jobs/view/administrador-a-de-contratos-y-soporte-a-negocio-procurement-no-retail-at-sangmyung-university-4428368610
@@ -528,6 +521,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bos
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-triangular-inclusiva-4428374582
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-licencias-online-4431833602
+https://cl.linkedin.com/jobs/view/asistente-administrativo-contable-at-resemin-4436914376
 https://cl.linkedin.com/jobs/view/asistente-administrativo-contable-santiago-at-salfa-rent-4433447940
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-proveedores-at-kiosclub-american-supermarket-4430609851
@@ -539,6 +533,7 @@ https://cl.linkedin.com/jobs/view/asistente-cuidado-al-cliente-filial-blue-expre
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
+https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-santiago-at-sacyr-4435728033
 https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-4398835193
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-full-time-jumbo-apoquindo-at-cencosud-s-a-4433512493
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-part-time-jumbo-apoquindo-at-cencosud-s-a-4433508592
@@ -835,6 +830,7 @@ https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-lat
 https://cl.linkedin.com/jobs/view/l%C3%ADder-de-ciberseguridad-y-soporte-ti-at-it-hunter-4435468407
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ti-at-empresa-confidencial-4426471019
+https://cl.linkedin.com/jobs/view/labor-productivity-analyst-at-ikea-4423552797
 https://cl.linkedin.com/jobs/view/lider-t%C3%A9cnico-de-ingenieria-at-ntt-data-inc-4419202830
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-achs-4435885880
@@ -863,6 +859,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-h%C3%ADbrida-sant
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analyst-at-grupo-falabella-4436929011
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-at-falabella-4409123396
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-fork-at-fork-chile-4426402421
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
@@ -894,6 +891,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-e
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
@@ -1273,6 +1271,7 @@ https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-quik-
 https://mx.linkedin.com/jobs/view/ai-workflow-engineer-latam-at-backblaze-4432725893
 https://mx.linkedin.com/jobs/view/analista-de-soporte-t%C3%A9cnico-trabajo-remoto-at-bairesdev-4434645883
 https://mx.linkedin.com/jobs/view/analista-desarrollador-net-m%C3%A9xico-remoto-at-azkait-4434696800
+https://mx.linkedin.com/jobs/view/analyst-processor-underwriter-commercial-mortgage-brokerage-remote-pst-at-emma-of-torre-ai-4436912568
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402075981
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
@@ -1969,6 +1968,7 @@ practicaprevencionprofesionalriesgos|automotrizguillermomorales
 practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprevencionriesgo|airbushelicopters
 practicaprofesionalreclutamientoseleccion|bancode
+practicaprofesionalreclutamientoseleccion|grupomacleanserviciosintegrales
 practicaprofesionaltecnologia|ripley
 practicaprofesionalti|bancoripley
 practicasoportetecnicoti|afpplanvital

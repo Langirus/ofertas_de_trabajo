@@ -1,5 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarror-backend-plsql-juniorllado-en-santiago-las-condes-BBA509586A017A3161373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-ciberseguridad-junior-contrato-indefinido-en-santiago-centro-B5D26C462836A1B861373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraesctructura-y-ciberseguridad-junior-en-santiago-centro-FA9907183776377761373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-junior-de-ciberseguridad-grc-en-santiago-las-condes-9D7BC575BEF5CDFC61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-vision-computacional-en-santiago-las-condes-43328A2787348D6361373E686DCF3405
@@ -623,6 +621,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
 https://cl.linkedin.com/jobs/view/data-engineer-at-ntt-data-europe-latam-4419072754
 https://cl.linkedin.com/jobs/view/data-engineer-at-perform-4403253383
+https://cl.linkedin.com/jobs/view/data-engineer-at-perform-4406402742
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
@@ -808,6 +807,7 @@ https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4416829928
 https://cl.linkedin.com/jobs/view/it-infrastructure-analyst-at-solventum-4422781431
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/it-support-trainee-at-cumplo-4422214414
+https://cl.linkedin.com/jobs/view/java-engineer-at-plan-a-technologies-4427224610
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
 https://cl.linkedin.com/jobs/view/junior-ai-agent-engineer-at-epam-systems-4431582534

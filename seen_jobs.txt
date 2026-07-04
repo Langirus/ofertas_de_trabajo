@@ -1,6 +1,3 @@
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-en-infraesctructura-y-ciberseguridad-junior-en-santiago-centro-FA9907183776377761373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-junior-de-ciberseguridad-grc-en-santiago-las-condes-9D7BC575BEF5CDFC61373E686DCF3405
-https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-vision-computacional-en-santiago-las-condes-43328A2787348D6361373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-proyectos-santiago-centro-en-santiago-centro-692AEF089461AB9C61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-ti-junior-antofagasta-modalidad-hibrida-en-antofagasta-CF0C8EFB6CD7D5AA61373E686DCF3405
 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-operador-de-monitorieo-junior-en-santiago-centro-A6D42AD79227CDC661373E686DCF3405
@@ -1297,6 +1294,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remot
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4425109535
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434273756
+https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436938787
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
 https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
@@ -1335,6 +1333,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
+https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
@@ -1837,6 +1836,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
+https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4436491060
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingeniero|chiletrabajos

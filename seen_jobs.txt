@@ -1,9 +1,3 @@
-https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
-https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=a99996a415e505a6
-https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b7cf843ca5033b75
-https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b813b6b560fc3161
-https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=cb031627e94799f0
-https://cl.indeed.com/q-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-informatica-sin-experiencia-empleos.html
 https://cl.indeed.com/q-informatico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-a-inform%C3%A1tico-a-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
@@ -716,6 +710,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-a
 https://cl.linkedin.com/jobs/view/ingeniero-de-nube-at-zenta-group-4427550651
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
+https://cl.linkedin.com/jobs/view/ingeniero-de-propuestas-trainee-at-freemaq-spa-4437109705
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
@@ -822,6 +817,7 @@ https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-442641
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
 https://cl.linkedin.com/jobs/view/operations-logistics-intern-3rd-4th-master-at-uber-4432321046
+https://cl.linkedin.com/jobs/view/people-culture-oneroche-trainee-at-roche-4418440004
 https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
 https://cl.linkedin.com/jobs/view/personal-de-apoyo-para-gesti%C3%B3n-de-proyectos-y-l%C3%ADderes-t%C3%A9cnicos-at-unbc-ltda-4431547222
 https://cl.linkedin.com/jobs/view/pipeline-cloud-adoption-engineer-at-oracle-4417977965
@@ -1066,6 +1062,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-cent
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
+https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371013921
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
@@ -1817,9 +1814,11 @@ https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-ba
 https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
+https://www.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437111261
 https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4229334006
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4423884631
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-quik-hire-staffing-4428639079
+https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994974
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/mobile-engineer-latam-all-levels-at-sezzle-4082657907
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4422952637
@@ -1892,6 +1891,7 @@ ingenierooperacionalsoporte|na
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
+ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectos|computrabajo
 ingenieroredesseguridad|chiletrabajos

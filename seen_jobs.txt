@@ -1,8 +1,3 @@
-https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=7a4ec0f60869bf89
-https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=9bdebd91c5ac7c5d
-https://cl.indeed.com/q-inform%C3%A1tica-junior-empleos.html?vjk=e3f56ac0ab9743c2
-https://cl.indeed.com/q-inform%C3%A1tica-remoto-junior-empleos.html
-https://cl.indeed.com/q-inform%C3%A1tico-junior-empleos.html
 https://cl.indeed.com/q-inform%C3%A1tico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=a99996a415e505a6
 https://cl.indeed.com/q-inform%C3%A1tico-junior-remoto-empleos.html?vjk=b7cf843ca5033b75
@@ -1181,6 +1176,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
+https://es.linkedin.com/jobs/view/ingeniero-a-mlops-teletrabajo-at-irium-4437110232
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/ingeniero-de-simulaci%C3%B3n-mec%C3%A1nica-y-estructural-openfoam-opensees-%E2%80%93-remoto-at-alignerr-4429194421
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
@@ -1288,6 +1284,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remot
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434273756
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436938787
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436988674
+https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4437108381
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
 https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
@@ -1321,6 +1318,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434466668
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435103109
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435107209
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436997494
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436999376
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437100396
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
@@ -1450,6 +1448,7 @@ https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-a
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421252343
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
+https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
 https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
@@ -1885,6 +1884,7 @@ ingenieroklass|farmaciasahumada
 ingenierolearningmachine|innomotics
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
+ingenieromlopsteletrabajo|irium
 ingenieromultidisciplina|ghd
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup

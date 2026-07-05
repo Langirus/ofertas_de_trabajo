@@ -1,6 +1,3 @@
-https://cl.indeed.com/q-informatica-sin-experiencia-empleos.html
-https://cl.indeed.com/q-informatico-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
-https://cl.indeed.com/q-ingeniero-a-inform%C3%A1tico-a-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-ingeniero-en-inform%C3%A1tica-junior-empleos.html?vjk=e3f56ac0ab9743c2
@@ -218,6 +215,7 @@ https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-estrat%C3%A9gica-y-ok
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-informaci%C3%B3n-y-gesti%C3%B3n-banca-personas-at-banco-de-chile-4436754032
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-operacional-compras-adquisiciones-huechuraba-at-universidad-san-sebasti%C3%A1n-4429839837
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-y-resoluci%C3%B3n-de-incidentes-junior-at-acl-4415242671
+https://cl.linkedin.com/jobs/view/analista-de-impuestos-junior-at-global-talent-4433902720
 https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4432807176
 https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4435185267
 https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
@@ -984,6 +982,8 @@ https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
 https://cl.linkedin.com/jobs/view/software-qa-automation-engineer-at-advendio-4424425648
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
+https://cl.linkedin.com/jobs/view/soporte-al-cliente-at-keywe-4433900754
+https://cl.linkedin.com/jobs/view/soporte-al-cliente-part-time-at-alvear-jara-4433791971
 https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-4429120736
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348

@@ -1,9 +1,3 @@
-https://cl.indeed.com/q-analista-programador-junior-empleos.html?vjk=aba412e8c900286a
-https://cl.indeed.com/q-analista-programador-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=a99996a415e505a6
-https://cl.indeed.com/q-analista-programador-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html?vjk=ac04057fbb9740a1
-https://cl.indeed.com/q-backend-junior-empleos.html
-https://cl.indeed.com/q-cloud-junior-empleos.html
-https://cl.indeed.com/q-desarrollador-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee,-junior-empleos.html?vjk=7a4ec0f60869bf89
@@ -706,6 +700,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-de-redes-l2-at-hitss-ch
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-ti-biling%C3%BCe-at-ntt-data-inc-4399986971
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-tecnolog%C3%ADa-at-finning-4432220763
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986
+https://cl.linkedin.com/jobs/view/ingeniero-a-en-prevencion-de-riesgos-nivel-junior-antofagasta-at-sacyr-4387742339
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-redes-at-brass-chile-4434014872
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
@@ -808,6 +803,7 @@ https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-sales-representative-at-quectel-4433285813
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436933939
+https://cl.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437105182
 https://cl.linkedin.com/jobs/view/junior-software-engineer-python-at-telnyx-4411678357
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
@@ -1249,6 +1245,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4428643965
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431602883
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434289575
+https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4436998443
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-4433664405
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4418274323
 https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
@@ -1293,6 +1290,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remot
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4425109535
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434273756
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436938787
+https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436988674
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
 https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
@@ -1326,6 +1324,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434466668
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435103109
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435107209
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436999376
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
@@ -1812,6 +1811,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
+https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089

@@ -1,6 +1,3 @@
-https://cl.indeed.com/q-empleo-junior-informatica-empleos.html?vjk=cd5a3c919be6d7de
-https://cl.indeed.com/q-inform%C3%A1tica%2c-trainee%2c-junior-empleos.html?vjk=cd5a3c919be6d7de
-https://cl.indeed.com/q-inform%C3%A1tica,-trainee,-junior-empleos.html?vjk=7a4ec0f60869bf89
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee,-junior-empleos.html?vjk=e3f56ac0ab9743c2
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=652cc27229e840eb
 https://cl.indeed.com/q-inform%C3%A1tica,-trainee-empleos.html?vjk=9ff1db472927437e
@@ -648,6 +645,7 @@ https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-trainee-2
 https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lockers-4422746817
 https://cl.linkedin.com/jobs/view/enterprise-integration-engineer-at-shinkansen-4426884740
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434277609
+https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4437103286
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-ingenierojob-4430272865
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-vantaz-group-4432912296
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
@@ -805,6 +803,7 @@ https://cl.linkedin.com/jobs/view/junior-sales-representative-at-quectel-4433285
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436933939
 https://cl.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437105182
 https://cl.linkedin.com/jobs/view/junior-software-engineer-python-at-telnyx-4411678357
+https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994552
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
@@ -1325,6 +1324,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435103109
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435107209
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436999376
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437100396
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143

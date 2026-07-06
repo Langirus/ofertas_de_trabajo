@@ -1,13 +1,3 @@
-https://cl.indeed.com/q-junior-inform%C3%A1tica-empleos.html
-https://cl.indeed.com/q-junior-informatico-empleos.html
-https://cl.indeed.com/q-pr%C3%A1ctica-ingeniero-inform%C3%A1tica-empleos.html?vjk=575fd4e26989d74c
-https://cl.indeed.com/q-pr%C3%A1ctica-profesional-inform%C3%A1tica-empleos.html?vjk=eea6aa121eb2023c
-https://cl.indeed.com/q-pr%C3%A1cticas-informatica-empleos.html?vjk=fa08ae24f10cbfd6
-https://cl.indeed.com/q-pr%C3%A1cticas-profesional-inform%C3%A1tica-empleos.html?vjk=652cc27229e840eb
-https://cl.indeed.com/q-programador-junior-react,-python,-js-empleos.html?vjk=655b2ad5d16d5b5a
-https://cl.indeed.com/q-python-junior-empleos.html?vjk=c0eed6929d9f1d80
-https://cl.indeed.com/q-qa-software-junior-empleos.html
-https://cl.indeed.com/q-qa-software-junior-empleos.html?vjk=befd8c7f3a266a46
 https://cl.indeed.com/q-qa-software-junior-empleos.html?vjk=cf1289f575579d69
 https://cl.indeed.com/q-seguridad-inform%C3%A1tica-junior-empleos.html
 https://cl.indeed.com/q-tecnico-en-informatica-junior-l-santiago-de-chile,-regi%C3%B3n-metropolitana-empleos.html
@@ -1012,10 +1002,12 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-subterr%C3%A1nea-at-sond
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-servicios-at-diprotec-chile-4426894693
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-the-email-company-4432431628
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-vigatec-4432433590
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-ti-at-tata-consultancy-services-4437183379
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-ti-biling%C3%BCe-at-seidor-4432274031
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-en-terreno-at-tivit-latam-4419632304
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-ti-concepci%C3%B3n-at-avalora-chile-4432435615
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-terreno-infraestructura-tecnol%C3%B3gica-at-accenture-chile-4426178885
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-ti-at-empresa-confidencial-4433198229
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-telecomunicaciones-y-redes-fibra-%C3%B3ptica-networking-soporte-ti-at-atcom-chile-4429127857
@@ -1292,6 +1284,9 @@ https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-
 https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308
 https://mx.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-de-operaciones-it-%E2%80%93-remoto-con-una-visita-al-mes-at-corus-consulting-an-alten-company-4427651335
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
+https://mx.linkedin.com/jobs/view/ingeniero-de-software-java-trabajo-remoto-at-bairesdev-4436095614
+https://mx.linkedin.com/jobs/view/ingeniero-de-software-net-trabajo-remoto-at-bairesdev-4436218044
+https://mx.linkedin.com/jobs/view/ingeniero-de-soporte-t%C3%A9cnico-alpha-remote-%2460-000-year-usd-at-crossover-4434392552
 https://mx.linkedin.com/jobs/view/integration-engineer-node-js-typescript-python-americas-remote-at-c-d-talent-advisory-academy-4422535116
 https://mx.linkedin.com/jobs/view/it-infrastructure-analyst-trabajo-remoto-at-bairesdev-4423932615
 https://mx.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-4423922735
@@ -1318,6 +1313,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436997492
+https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
@@ -1874,6 +1870,7 @@ ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
 ingenierointegracion|taglermaq
 ingenierointegradospreventaproyectos|chiletrabajos
+ingenierojavaremotosoftwaretrabajo|bairesdev
 ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojuniorsistemas|axity
@@ -1885,6 +1882,7 @@ ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromlopsteletrabajo|irium
 ingenieromultidisciplina|ghd
+ingenieronetremotosoftwaretrabajo|bairesdev
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenierooperacionalsoporte|na
@@ -1992,9 +1990,11 @@ seotrainee|dentsu
 serviciostecnico|diprotec
 soportetecnicoterreno|tivit
 soportetecnicoti|chiletrabajos
+soportetecnicoti|tataconsultancyservices
 soportetecnicousuario|chiletrabajos
 soportetecnico|theemailcompany
 soportetecnico|vigatec
 soporteti|sermaluc
 soporte|bechtelcorporation
+tecnicoti|empresaconfidencial
 trainee|pisafarmacutica

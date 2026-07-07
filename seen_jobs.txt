@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/administrativo-reci%C3%A9n-egresado-at-petricio-industrial-s-a-4418906036
-https://cl.linkedin.com/jobs/view/agentic-elixir-engineer-remote-latin-america-at-fullstack-4388203385
-https://cl.linkedin.com/jobs/view/agentic-python-engineer-remote-latin-america-at-fullstack-4315366534
-https://cl.linkedin.com/jobs/view/agentic-software-engineer-google-antigravity-remote-latin-america-at-fullstack-4401791290
-https://cl.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-latin-america-at-fullstack-4377025940
-https://cl.linkedin.com/jobs/view/ai-agent-engineer-at-tigabytes-cl-4426347545
-https://cl.linkedin.com/jobs/view/ai-automation-engineer-at-wdgroup-4421320140
 https://cl.linkedin.com/jobs/view/ai-engineer-at-ita%C3%BA-chile-4433375829
 https://cl.linkedin.com/jobs/view/ai-engineer-consultant-at-deloitte-4433327187
 https://cl.linkedin.com/jobs/view/ai-engineer-contrato-indefinido-at-tata-consultancy-services-4410067466
@@ -844,6 +837,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-infraestructura-reno
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-power-apps-transformaci%C3%B3n-digital-at-vi%C3%B1a-concha-y-toro-4437404587
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-reclutamiento-y-selecci%C3%B3n-at-banco-de-chile-4417162347
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-riesgos-at-principal-chile-4436536063
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-servicio-t%C3%A9cnico-computacional-at-bitumix-s-a-4416935945
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-sistemas-plataforma-y-operaciones-it-at-banco-falabella-4426346918
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-producto-experiencia-%E2%80%93-cenco-malls-at-cencosud-s-a-4414207478
@@ -881,6 +875,7 @@ https://cl.linkedin.com/jobs/view/practicante-desarrollador-software-at-geolize-
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-full-stack-next-js-desarrollo-de-software-de-gesti%C3%B3n-interna-at-betterbites-4432275151
+https://cl.linkedin.com/jobs/view/practicante-gestion-de-prensa-at-presse-4437723420
 https://cl.linkedin.com/jobs/view/practicante-ia-operaciones-at-credit%C3%BA-4426854416
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-marketing-digital-growth-junior-at-ell-cl-4433913139
@@ -889,6 +884,7 @@ https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
+https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4425807788
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
@@ -1025,6 +1021,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falab
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4434627649
+https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4436290092
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4402579969
 https://cl.linkedin.com/jobs/view/trainee-seguridad-ft-44hrs-lunes-a-viernes-falabella-ovalle-at-falabella-4392985497
@@ -1271,6 +1268,7 @@ https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hir
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4428450020
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
+https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
 https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-quik-hire-staffing-4434007774
 https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308
 https://mx.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-de-operaciones-it-%E2%80%93-remoto-con-una-visita-al-mes-at-corus-consulting-an-alten-company-4427651335
@@ -1822,6 +1820,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4437106107
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4437142592
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4437752004
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
@@ -1966,6 +1965,7 @@ practicaprevencionprofesionalriesgos|chiletrabajos
 practicaprevencionriesgo|airbushelicopters
 practicaprofesionalreclutamientoseleccion|bancode
 practicaprofesionalreclutamientoseleccion|grupomacleanserviciosintegrales
+practicaprofesionalriesgos|principal
 practicaprofesionaltecnologia|ripley
 practicaprofesionalti|bancoripley
 practicaprogramaciontecnologia|btgpactual

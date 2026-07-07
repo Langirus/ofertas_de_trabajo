@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-t%C3%A9cnico-log%C3%ADstico-at-cyd-ingenier%C3%ADa-4404234865
-https://cl.linkedin.com/jobs/view/alumno-en-pr%C3%A1ctica-tic-at-enjoy-digital-4418005146
-https://cl.linkedin.com/jobs/view/analista%C2%A0junior%C2%A0batch-at-avos-tech-chile-4425105273
-https://cl.linkedin.com/jobs/view/analista%C2%A0servicio%C2%A0batch-at-avos-tech-chile-4422392070
-https://cl.linkedin.com/jobs/view/analista-activos-alternativos-at-banchile-inversiones-4416388086
-https://cl.linkedin.com/jobs/view/analista-administraci%C3%B3n-flota-at-chilean-rent-a-car-4430297568
-https://cl.linkedin.com/jobs/view/analista-adquirencia-logistica-y-red-banchile-pago-at-banco-de-chile-4426909224
 https://cl.linkedin.com/jobs/view/analista-an%C3%A1lisis-estat%C3%A9gico-at-cencosud-s-a-4412980374
 https://cl.linkedin.com/jobs/view/analista-aplication-security-at-deloitte-4400625323
 https://cl.linkedin.com/jobs/view/analista-associate-operaciones-afp-at-afp-cuprum-4390624992
@@ -336,8 +329,12 @@ https://cl.linkedin.com/jobs/view/analista-programador-cobol-cics-at-tata-consul
 https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
 https://cl.linkedin.com/jobs/view/analista-programador-sql-%F0%9F%9A%80-at-sii-group-chile-4435302597
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
+https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-czech-republic-4434596107
+https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-germany-4437845079
+https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-belgium-4436838409
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-chile-4424003971
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-4419651450
+https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-switzerland-4437875408
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-uk-4434555242
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
@@ -480,6 +477,7 @@ https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-grupo-falabella-4436771208
 https://cl.linkedin.com/jobs/view/backend-software-engineer-at-haulmer-4417655863
 https://cl.linkedin.com/jobs/view/barcelona-analista-de-prevenci%C3%B3n-del-riesgo-de-blanqueo-de-capitales-fraudes-y-cumplimiento-normativo-at-world-compliance-academy-4433270188
+https://cl.linkedin.com/jobs/view/becario-en-inteligencia-artificial-at-4digital-ai-4434582207
 https://cl.linkedin.com/jobs/view/bi-engineer-cencosud-media-at-cencosud-s-a-4416959794
 https://cl.linkedin.com/jobs/view/business-partner-in-m-w-d-international-production-at-k%C3%A4rcher-4418360627
 https://cl.linkedin.com/jobs/view/business-process-solutions-analyst-at-chubb-4434044583
@@ -1303,6 +1301,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-s
 https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
+https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4436844806
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
 https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
@@ -1747,6 +1746,7 @@ https://www.getonbrd.com/jobs/lider-tecnico-google-cloud-tcit-santiago
 https://www.getonbrd.com/jobs/lider-tecnico-google-cloud-tcit-santiago-db2a
 https://www.getonbrd.com/jobs/microsoft-power-platform-automation-engineer-dartmoor-analytics-remote
 https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
+https://www.getonbrd.com/jobs/observability-engineer-junior-whitestack-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
 https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200

@@ -1,12 +1,3 @@
-https://cl.linkedin.com/jobs/view/ai-implementation-engineer-ai-agents-at-agendapro-4426533629
-https://cl.linkedin.com/jobs/view/ai-integration-engineer-ai-solutions-at-ntt-data-inc-4413651878
-https://cl.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371024451
-https://cl.linkedin.com/jobs/view/ai-ml-engineer-at-perform-4415699354
-https://cl.linkedin.com/jobs/view/ai-native-software-engineer-early-career-americas-at-chaingpt-4433887578
-https://cl.linkedin.com/jobs/view/ai-operations-engineer-at-nubox-spa-4429092933
-https://cl.linkedin.com/jobs/view/ai-platform-engineer-remote-work-at-bairesdev-4424267179
-https://cl.linkedin.com/jobs/view/ai-research-engineer-multi-modal-vision-at-jobgether-4432216415
-https://cl.linkedin.com/jobs/view/ai-software-engineer-at-kashio-4427021447
 https://cl.linkedin.com/jobs/view/ai-software-engineer-at-naya-4417372236
 https://cl.linkedin.com/jobs/view/alliance-partnership-analyst-saas-at-rindegastos-4412830862
 https://cl.linkedin.com/jobs/view/alumno-a-en-pr%C3%A1ctica-sustentabilidad-%E2%80%93-ia-y-digitalizaci%C3%B3n-at-vetas-de-talento-4430190226
@@ -57,6 +48,7 @@ https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-jr-%E2%80%93-
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423090992
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
+https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-at-latam-airlines-4434548586
 https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
 https://cl.linkedin.com/jobs/view/analista-control-y-seguimiento-de-negocio-plazo-fijo-santiago-at-santander-chile-4426788872
 https://cl.linkedin.com/jobs/view/analista-csoc-t1-at-adaptive-security-4424794576
@@ -175,6 +167,7 @@ https://cl.linkedin.com/jobs/view/analista-de-inteligencia-riesgo-financiero-at-
 https://cl.linkedin.com/jobs/view/analista-de-inventario-chile-at-natura-4424105734
 https://cl.linkedin.com/jobs/view/analista-de-lectura-y-facturaci%C3%B3n-at-mcr-international-executive-search-4431680293
 https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
+https://cl.linkedin.com/jobs/view/analista-de-licitacion-at-holding-wiki-4434559334
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
 https://cl.linkedin.com/jobs/view/analista-de-market-intelligence-at-cmpc-4426530507
 https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-banchile-inversiones-4414606533
@@ -306,6 +299,7 @@ https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-
 https://cl.linkedin.com/jobs/view/analista-informatico-codigo-shell-logs-control-m-at-tecnologia-informatica-4429123738
 https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
 https://cl.linkedin.com/jobs/view/analista-inteligencia-de-personas-people-analytics-at-gildemeister-chile-4431537429
+https://cl.linkedin.com/jobs/view/analista-it-junior-inter%C3%A9s-en-auditor%C3%ADa-at-deloitte-4425644017
 https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-junior-crm-at-plin-co-4433712380
 https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
@@ -348,6 +342,7 @@ https://cl.linkedin.com/jobs/view/analista-programador-sql-%F0%9F%9A%80-at-sii-g
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-chile-4424003971
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-4419651450
+https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-uk-4434555242
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
@@ -509,6 +504,7 @@ https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/commercial-data-analyst-at-procter-gamble-4430658621
 https://cl.linkedin.com/jobs/view/commercial-ops-analyst-home-care-chile-at-unilever-4431495277
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
+https://cl.linkedin.com/jobs/view/convi%C3%A9rtete-en-el-pr%C3%B3ximo-trainee-ripley-valpara%C3%ADso-at-ripley-chile-4437803732
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/coordinador-a-de-proyectos-y-analista-funcional-pmo-at-e-digital-4429408560
 https://cl.linkedin.com/jobs/view/coordinador-de-soporte-y-mejora-continua-at-travel-security-s-a-4433985526
@@ -952,6 +948,7 @@ https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-44
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-stefanini-group-4427211763
+https://cl.linkedin.com/jobs/view/soporte-e-commerce-n1-n2-portuges-avanzado-at-acl-4434565080
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
@@ -963,6 +960,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-n2-integraciones-api-tran
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-presencial-at-conytec-consultores-4430718120
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
+https://cl.linkedin.com/jobs/view/soporte-ti-at-nortrans-4434556092
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
 https://cl.linkedin.com/jobs/view/sr-fullstack-software-engineer-at-grupo-falabella-4436330944
@@ -1490,6 +1488,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-3858482
 https://www.chiletrabajos.cl/trabajo/analista-contable-3860368
 https://www.chiletrabajos.cl/trabajo/analista-contable-3861076
+https://www.chiletrabajos.cl/trabajo/analista-contable-3863435
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
@@ -1994,6 +1993,7 @@ soportetecnicoti|tataconsultancyservices
 soportetecnicousuario|chiletrabajos
 soportetecnico|theemailcompany
 soportetecnico|vigatec
+soporteti|nortrans
 soporteti|sermaluc
 soporte|bechtelcorporation
 tecnicoti|empresaconfidencial

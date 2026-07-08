@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-business-intelligence-supply-chain-at-bredenmaster-4426080847
-https://cl.linkedin.com/jobs/view/analista-canales-digitales-at-ita%C3%BA-chile-4423593396
-https://cl.linkedin.com/jobs/view/analista-capital-de-trabajo-at-abbott-4415581019
-https://cl.linkedin.com/jobs/view/analista-ciberseguridad-soc-at-gtd-chile-4430992277
-https://cl.linkedin.com/jobs/view/analista-cod-%E2%80%936960-41-at-r-q-ingenier%C3%ADa-4417660505
 https://cl.linkedin.com/jobs/view/analista-comex-at-johnson-controls-4432319168
 https://cl.linkedin.com/jobs/view/analista-comex-at-telotenemos-cl-spa-4425968601
 https://cl.linkedin.com/jobs/view/analista-comisiones-at-empresa-confidencial-4427994712
@@ -19,6 +14,7 @@ https://cl.linkedin.com/jobs/view/analista-contable-sap-huechuraba-universidad-s
 https://cl.linkedin.com/jobs/view/analista-contratos-l53-at-cyd-ingenier%C3%ADa-4431898175
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-agua-rm-at-sacyr-4426925998
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-grupo-falabella-4430162624
+https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-mate-consultores-4438148025
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-jr-%E2%80%93-enfoque-en-datos-y-automatizaci%C3%B3n-at-tanner-4430475693
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423090992
@@ -62,6 +58,7 @@ https://cl.linkedin.com/jobs/view/analista-de-conciliaciones-at-xepelin-44113935
 https://cl.linkedin.com/jobs/view/analista-de-consolidaciones-at-empresa-confidencial-4435240010
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
+https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-at-blue-express-4438109574
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-at-sacyr-4324823594
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-bi-at-transya%C3%B1ez-log%C3%ADstica-y-distribuci%C3%B3n-4410194098
@@ -211,6 +208,7 @@ https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%
 https://cl.linkedin.com/jobs/view/analista-de-repuesto-at-global-pacific-labour-4433707029
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
 https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4435810967
+https://cl.linkedin.com/jobs/view/analista-de-riesgo-at-vinci-compass-4436891170
 https://cl.linkedin.com/jobs/view/analista-de-riesgo-operacional-protecci%C3%B3n-de-datos-at-genesys-4424808412
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-y-auditor%C3%ADa-ti-at-deloitte-4426529861
@@ -297,6 +295,7 @@ https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-monitoreo-datos-anti-fraude-at-cmpc-4436110323
 https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
+https://cl.linkedin.com/jobs/view/analista-motores-at-latam-airlines-4434801972
 https://cl.linkedin.com/jobs/view/analista-onboarding-at-scotiabank-4424431997
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
@@ -518,6 +517,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-at-deloitte-4420445787
+https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-1-at-ey-4436881165
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
 https://cl.linkedin.com/jobs/view/data-engineer-junior-at-ntt-data-inc-4413650882

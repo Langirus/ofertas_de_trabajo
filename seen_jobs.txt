@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-contable-sap-huechuraba-universidad-san-sebasti%C3%A1n-at-universidad-san-sebasti%C3%A1n-4433156897
-https://cl.linkedin.com/jobs/view/analista-contratos-l53-at-cyd-ingenier%C3%ADa-4431898175
-https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-agua-rm-at-sacyr-4426925998
-https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-grupo-falabella-4430162624
-https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-at-mate-consultores-4438148025
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-jr-%E2%80%93-enfoque-en-datos-y-automatizaci%C3%B3n-at-tanner-4430475693
 https://cl.linkedin.com/jobs/view/analista-control-de-gesti%C3%B3n-ti-at-hitss-chile-4416821145
 https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423090992
@@ -569,6 +564,7 @@ https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-go
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
+https://cl.linkedin.com/jobs/view/full-stack-software-engineer-imprescindible-full-ingles-at-svirtual-cl-4434864727
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4430790028
 https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-asociados-4420755778
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-fundaci%C3%B3n-phaway-4430657004
@@ -680,6 +676,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
 https://cl.linkedin.com/jobs/view/ingeniero-inteligencia-artificial-generativa-aws-at-kpaz-4433509409
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-jr-en-procesos-at-dhl-supply-chain-4436914626
+https://cl.linkedin.com/jobs/view/ingeniero-junior-de-visualizaci%C3%B3n-%E2%80%93-tableau-at-apiux-tech-4437060510
 https://cl.linkedin.com/jobs/view/ingeniero-klass-x-at-farmacias-ahumada-4430530995
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-procesos-jr-at-wisetrack-corp-4427347932
@@ -1803,9 +1800,11 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remot
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-quik-hire-staffing-4428639079
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994974
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
+https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/mobile-engineer-latam-all-levels-at-sezzle-4082657907
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4422952637
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4435805851
+https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4438232746
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
@@ -1867,6 +1866,7 @@ ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
+ingenierojuniortableauvisualizacion|apiuxtech
 ingenierojuniortrabajos|portal
 ingenieroklass|farmaciasahumada
 ingenierolearningmachine|innomotics

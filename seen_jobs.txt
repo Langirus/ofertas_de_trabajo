@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423090992
-https://cl.linkedin.com/jobs/view/analista-control-de-procesos-at-banco-falabella-4423092584
-https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-at-latam-airlines-4434548586
-https://cl.linkedin.com/jobs/view/analista-control-gesti%C3%B3n-gerencia-tecnica-at-johnson-controls-4395019950
-https://cl.linkedin.com/jobs/view/analista-control-y-seguimiento-de-negocio-plazo-fijo-santiago-at-santander-chile-4426788872
-https://cl.linkedin.com/jobs/view/analista-csoc-t1-at-adaptive-security-4424794576
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
 https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
 https://cl.linkedin.com/jobs/view/analista-cumplimiento-y-gestion-de-informacion-at-banco-de-chile-4425888916
@@ -472,6 +466,7 @@ https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consul
 https://cl.linkedin.com/jobs/view/convi%C3%A9rtete-en-el-pr%C3%B3ximo-trainee-ripley-valpara%C3%ADso-at-ripley-chile-4437803732
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/coordinador-a-de-proyectos-y-analista-funcional-pmo-at-e-digital-4429408560
+https://cl.linkedin.com/jobs/view/coordinador-control-interno-ti-at-vi%C3%B1a-concha-y-toro-4438281826
 https://cl.linkedin.com/jobs/view/coordinador-de-soporte-y-mejora-continua-at-travel-security-s-a-4433985526
 https://cl.linkedin.com/jobs/view/customer-service-specialist-soporte-t%C3%A9cnico-at-jbt-marel-4433520871
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
@@ -713,6 +708,7 @@ https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://cl.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437105182
 https://cl.linkedin.com/jobs/view/junior-software-engineer-python-at-telnyx-4411678357
 https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994552
+https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4438243297
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
@@ -1221,6 +1217,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-ba
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4423222637
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434164402
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
+https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434773933
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434941263
@@ -1320,6 +1317,7 @@ https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-application
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
+https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
@@ -1408,6 +1406,8 @@ https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullst
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
 https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
+https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam
+https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa
 https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward

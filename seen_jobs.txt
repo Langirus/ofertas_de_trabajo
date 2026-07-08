@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-grupo-falabella-4400285357
-https://cl.linkedin.com/jobs/view/analista-cuentas-por-pagar-at-vi%C3%B1a-concha-y-toro-4414268790
-https://cl.linkedin.com/jobs/view/analista-cumplimiento-y-gestion-de-informacion-at-banco-de-chile-4425888916
-https://cl.linkedin.com/jobs/view/analista-customer-experience-cx-at-arcoprime-4424794182
-https://cl.linkedin.com/jobs/view/analista-data-science-at-vinci-compass-4427384329
-https://cl.linkedin.com/jobs/view/analista-de-%C3%A9tica-y-prevenci%C3%B3n-de-delitos-at-ultramar-4435235281
-https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4427364581
-https://cl.linkedin.com/jobs/view/analista-de-abastecimiento-at-cl%C3%ADnicas-achs-salud-4429491070
 https://cl.linkedin.com/jobs/view/analista-de-administraci%C3%B3n-y-finanzas-%E2%80%93-inmobiliaria-boutique-at-andres-pardo-consultores-4431359075
 https://cl.linkedin.com/jobs/view/analista-de-administracion-y-finanzas-at-telconsulting-4431023760
 https://cl.linkedin.com/jobs/view/analista-de-adquisiciones-at-central-bank-of-chile-4430981687
@@ -198,6 +190,7 @@ https://cl.linkedin.com/jobs/view/analista-de-sistemas-pos-at-farmacias-ahumada-
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-ev-tecnologica-at-banco-de-chile-4405046159
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-evoluci%C3%B3n-tecnologica-at-banco-de-chile-4408546723
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n-at-agency-network-4413722871
+https://cl.linkedin.com/jobs/view/analista-de-soluciones-tecnol%C3%B3gicas-at-silocydata-4434886744
 https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
 https://cl.linkedin.com/jobs/view/analista-de-soporte-e-implementaci%C3%B3n-ti-at-mundotransfer-4434546646
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
@@ -320,6 +313,7 @@ https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-j
 https://cl.linkedin.com/jobs/view/analista-remuneraciones-rexmas-at-resiter-4431338340
 https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
 https://cl.linkedin.com/jobs/view/analista-renta-variable-at-randstad-chile-4429887382
+https://cl.linkedin.com/jobs/view/analista-rentabilidad-e2e-at-ripley-chile-4434887840
 https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecnol%C3%B3gicos-at-banco-de-chile-4430584022
 https://cl.linkedin.com/jobs/view/analista-sap-hcm-abap-at-accenture-chile-4431570617
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
@@ -1120,6 +1114,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-teletrabajo-at-irium-4437465030
 https://es.linkedin.com/jobs/view/ingeniero-a-mlops-teletrabajo-at-irium-4437110232
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
+https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
 https://es.linkedin.com/jobs/view/ingeniero-de-simulaci%C3%B3n-mec%C3%A1nica-y-estructural-openfoam-opensees-%E2%80%93-remoto-at-alignerr-4429194421
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
 https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427212009
@@ -1299,7 +1294,9 @@ https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4428138018
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4430495986
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
+https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4438291199
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
+https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4438283696
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074
@@ -1315,6 +1312,7 @@ https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-funnelcake-4415587975
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
+https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-ref%23297179-at-bairesdev-4438270291
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
@@ -1580,6 +1578,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-de-estudio-de-proyectos-3559105
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-en-entrenamiento-3864432
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-experiencia-sistemas-ferroviarios-vina-3846122
 https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
@@ -1704,6 +1703,7 @@ https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiag
 https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-santiago
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/desarrollador-sql-it-convergence-ciudad-de-mexico
 https://www.getonbrd.com/jobs/developer-portugues-espanol-magnar-remote
 https://www.getonbrd.com/jobs/devops-engineer-e-commerce-interfell-remote
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago

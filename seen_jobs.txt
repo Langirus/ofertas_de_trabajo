@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-datos-bi-at-bl-capital-spa-4430277577
-https://cl.linkedin.com/jobs/view/analista-de-datos-casa-central-at-duoc-uc-4435812619
-https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
-https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
-https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-ita%C3%BA-chile-4438661478
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-datos-maestros-de-repuestos-at-consultora-psicolab-4429457511
@@ -69,6 +64,7 @@ https://cl.linkedin.com/jobs/view/analista-de-mejoras-unidad-de-participes-at-ba
 https://cl.linkedin.com/jobs/view/analista-de-mesa-de-ayuda-erp-contable-at-sonda-4418937258
 https://cl.linkedin.com/jobs/view/analista-de-metrolog%C3%ADa-at-eurofarma-4422424980
 https://cl.linkedin.com/jobs/view/analista-de-misi%C3%B3n-cr%C3%ADtica-at-odata-an-aligned-data-centers-company-4430465845
+https://cl.linkedin.com/jobs/view/analista-de-monitoreo-7x24-at-inpact-tecnolog%C3%ADas-y-procesos-spa-4435912503
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-banco-falabella-4428009298
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-innfinit-4428504383
 https://cl.linkedin.com/jobs/view/analista-de-monitoreo-at-klap-4413633614
@@ -135,6 +131,7 @@ https://cl.linkedin.com/jobs/view/analista-de-riesgo-at-vinci-compass-4436891170
 https://cl.linkedin.com/jobs/view/analista-de-riesgo-operacional-protecci%C3%B3n-de-datos-at-genesys-4424808412
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-y-auditor%C3%ADa-ti-at-deloitte-4426529861
+https://cl.linkedin.com/jobs/view/analista-de-sap-at-empresa-confidencial-4435916269
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-ofensiva-at-ey-4407028796
 https://cl.linkedin.com/jobs/view/analista-de-siniestros-de-reaseguros-at-marsh-risk-4419595403
@@ -281,6 +278,7 @@ https://cl.linkedin.com/jobs/view/analista-servicio-alcliente-at-softline-consul
 https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254
+https://cl.linkedin.com/jobs/view/analista-soporte-ingenier%C3%ADa-operaciones-y-despacho-at-latam-airlines-4435910590
 https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
@@ -1613,6 +1611,7 @@ https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experienci
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-experiencia-en-laravel-y-nextjs-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.chiletrabajos.cl/trabajo/qa-automatizador-junior-3751042
+https://www.chiletrabajos.cl/trabajo/reemplazo-asistente-de-abastecimiento-y-soporte-administrativo-pre-y-post-natal-3865249
 https://www.chiletrabajos.cl/trabajo/sap-gr-consultor-analista-de-negocios-3851856
 https://www.chiletrabajos.cl/trabajo/se-solicita-tens-o-auxiliar-para-cuidado-en-hogar-de-adultos-mayores-3652896
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
@@ -1690,6 +1689,7 @@ https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-react-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-java-spring-boot-aws-tcit-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-junior-con-foco-en-ia-nico-seguros-santiago
+https://www.getonbrd.com/jobs/desarrollador-back-end-python-agencia-de-aduanas-felipe-serrano-santiago
 https://www.getonbrd.com/jobs/desarrollador-backend-java-spring-boot-3it-santiago-019a
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago

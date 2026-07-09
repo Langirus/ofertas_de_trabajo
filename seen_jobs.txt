@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-bi-at-adecco-4432780842
-https://cl.linkedin.com/jobs/view/analista-de-canales-multinacionales-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4417272252
-https://cl.linkedin.com/jobs/view/analista-de-centro-de-instrucci%C3%B3n-aeron%C3%A1utico-at-apas-a-professional-aviation-services-4410324038
-https://cl.linkedin.com/jobs/view/analista-de-certificaciones-at-agencia-de-aduanas-stein-4412215243
-https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-babel-4426915002
-https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-junior-at-deloitte-4427086771
-https://cl.linkedin.com/jobs/view/analista-de-ciberseguridad-plazo-fijo-at-anglo-american-4430634608
-https://cl.linkedin.com/jobs/view/analista-de-ciencia-de-datos-at-step-therapy-4425137626
 https://cl.linkedin.com/jobs/view/analista-de-cobranzas-at-wtw-4434410499
 https://cl.linkedin.com/jobs/view/analista-de-combustible-at-lavel-4416948319
 https://cl.linkedin.com/jobs/view/analista-de-compensaciones-at-empresa-confidencial-4415539509
@@ -310,6 +302,7 @@ https://cl.linkedin.com/jobs/view/analista-renta-variable-at-randstad-chile-4429
 https://cl.linkedin.com/jobs/view/analista-rentabilidad-e2e-at-ripley-chile-4434887840
 https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecnol%C3%B3gicos-at-banco-de-chile-4430584022
 https://cl.linkedin.com/jobs/view/analista-sap-hcm-abap-at-accenture-chile-4431570617
+https://cl.linkedin.com/jobs/view/analista-sap-sd-reconversi%C3%B3n-sap-isu-at-accenture-chile-4390918432
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
@@ -379,6 +372,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-coleg
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-huechuraba-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-y-comunicaciones-at-remates-madrid-s-a-4420118527
+https://cl.linkedin.com/jobs/view/asistente-de-negocios-at-anaiak-spa-4434893867
 https://cl.linkedin.com/jobs/view/asistente-de-otic-at-retail-group-4428381599
 https://cl.linkedin.com/jobs/view/asistente-de-paletizado-at-essity-4432716582
 https://cl.linkedin.com/jobs/view/asistente-de-responsable-de-tienda-at-action-4414580664
@@ -441,6 +435,7 @@ https://cl.linkedin.com/jobs/view/channel-solutions-engineer-at-netskope-4354666
 https://cl.linkedin.com/jobs/view/chief-ai-engineer-at-epam-systems-4402477706
 https://cl.linkedin.com/jobs/view/chief-android-engineer-at-epam-systems-4411586960
 https://cl.linkedin.com/jobs/view/chief-hpc-network-engineer-ai-infrastructure-at-epam-systems-4410139670
+https://cl.linkedin.com/jobs/view/chile-operations-trade-lifecycle-analyst-at-jpmorganchase-4438572206
 https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-f1-at-coasin-logicalis-4427329978
 https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-nivel-1-at-coasin-logicalis-4427337931
 https://cl.linkedin.com/jobs/view/cientifico-de-datos-junior-at-eva-learning-4425847681
@@ -553,6 +548,7 @@ https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-fundaci%C3%B3n-phaway-4430657004
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
+https://cl.linkedin.com/jobs/view/functional-analyst-at-smith-4435609311
 https://cl.linkedin.com/jobs/view/functional-analyst-it-at-vr-group-chile-4434587869
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/genai-platform-engineer-at-deloitte-4427029333
@@ -592,6 +588,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
+https://cl.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-y-transformaci%C3%B3n-digital-at-tata-consultancy-services-4438536296
 https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-cobranza-at-ripley-chile-4433711802
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
@@ -1067,6 +1064,7 @@ https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-bark-com-4421
 https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-online-life-coach-me-4432454039
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/business-analyst-revenue-operations-remote-at-bizneo-hr-4410834393
+https://es.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4437344191
 https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
@@ -1602,6 +1600,7 @@ https://www.chiletrabajos.cl/trabajo/it-junior-3839667
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
 https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
+https://www.chiletrabajos.cl/trabajo/junior-motorista-externo-licitado-reemplazo-back-up-3556983
 https://www.chiletrabajos.cl/trabajo/junior-repartidor-3851975
 https://www.chiletrabajos.cl/trabajo/junior-tramites-terreno-3862616
 https://www.chiletrabajos.cl/trabajo/oferta-laboral-secretario-a-tecnico-a-administrativo-a-3852792
@@ -1695,6 +1694,7 @@ https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
+https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-react-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-java-spring-boot-aws-tcit-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-junior-con-foco-en-ia-nico-seguros-santiago
 https://www.getonbrd.com/jobs/desarrollador-backend-java-spring-boot-3it-santiago-019a

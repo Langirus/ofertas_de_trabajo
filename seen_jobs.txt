@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-at-blue-express-4438109574
-https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-at-sacyr-4324823594
-https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
-https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-bi-at-transya%C3%B1ez-log%C3%ADstica-y-distribuci%C3%B3n-4410194098
-https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-y-mejora-continua-at-abbott-4417403608
-https://cl.linkedin.com/jobs/view/analista-de-control-gestion-junior-at-isapre-consalud-4420993063
-https://cl.linkedin.com/jobs/view/analista-de-control-y-programaci%C3%B3n-at-aguas-andinas-4435885814
 https://cl.linkedin.com/jobs/view/analista-de-control-y-trazabilidad-operacional-at-resiter-4435867704
 https://cl.linkedin.com/jobs/view/analista-de-cotizaciones-at-claire-joster-4415679762
 https://cl.linkedin.com/jobs/view/analista-de-cross-selling-at-autofin-chile-4412046114
@@ -22,6 +15,7 @@ https://cl.linkedin.com/jobs/view/analista-de-datos-bi-at-bl-capital-spa-4430277
 https://cl.linkedin.com/jobs/view/analista-de-datos-casa-central-at-duoc-uc-4435812619
 https://cl.linkedin.com/jobs/view/analista-de-datos-de-farmacia-jr-at-iqvia-laboratories-4414559096
 https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-acl-4406719371
+https://cl.linkedin.com/jobs/view/analista-de-datos-financieros-at-ita%C3%BA-chile-4438661478
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-at-sii-group-chile-4419427636
 https://cl.linkedin.com/jobs/view/analista-de-datos-junior-ley-21-719-at-acl-4416851782
 https://cl.linkedin.com/jobs/view/analista-de-datos-maestros-de-repuestos-at-consultora-psicolab-4429457511
@@ -198,6 +192,7 @@ https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-ti-operaciones-qa-integraciones-y-release-management-at-atcom-chile-4436356281
+https://cl.linkedin.com/jobs/view/analista-funcional-itsm-at-grupo-falabella-4438672499
 https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
 https://cl.linkedin.com/jobs/view/analista-funcional-qa-at-akzio-4435225093
 https://cl.linkedin.com/jobs/view/analista-funcional-ti-at-genesys-global-4434635015
@@ -437,6 +432,7 @@ https://cl.linkedin.com/jobs/view/cloudops-analyst-%E2%80%93-cloud-engineering-a
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/commercial-data-analyst-at-procter-gamble-4430658621
 https://cl.linkedin.com/jobs/view/commercial-ops-analyst-home-care-chile-at-unilever-4431495277
+https://cl.linkedin.com/jobs/view/concurso-e-242026-desarrollador-junior-de-sistemas-at-universidad-austral-de-chile-4435685682
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
 https://cl.linkedin.com/jobs/view/convi%C3%A9rtete-en-el-pr%C3%B3ximo-trainee-ripley-valpara%C3%ADso-at-ripley-chile-4437803732
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
@@ -597,6 +593,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negoci
 https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-%E8%80%90%E5%85%8B%E6%A3%AE%E4%B8%AD%E5%9B%BD-4431155764
 https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-nexans-4430779637
 https://cl.linkedin.com/jobs/view/ingeniero-de-nube-at-zenta-group-4427550651
+https://cl.linkedin.com/jobs/view/ingeniero-de-operaciones-de-ti-at-onemarketer-4435909110
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
 https://cl.linkedin.com/jobs/view/ingeniero-de-propuestas-trainee-at-freemaq-spa-4437109705
@@ -638,6 +635,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-en-desarrollo-de-sistemas-at-bur%C3%
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
+https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-cyd-ingenier%C3%ADa-4437569467
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-ingenier%C3%ADa-cuatro-s-a-4425135631
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-intexa-ingenier%C3%ADa-4430138264
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-techforce-agentes-ia-y-plataformas-web-4428551812
@@ -1843,6 +1841,7 @@ informaticoingenierojuniojuniornuevostrabajotrabajos|portal
 informaticoingenierojunior|fundamenta
 informaticoingenieropracticante|occimiano
 informaticoingeniero|chiletrabajos
+informaticoingeniero|cydingeniera
 informaticoingeniero|industrial
 informaticoingeniero|ingenieracuatro
 informaticoingeniero|intexaingeniera
@@ -1878,6 +1877,7 @@ ingenieronetremotosoftwaretrabajo|bairesdev
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenierooperacionalsoporte|na
+ingenierooperacionesti|onemarketer
 ingenieropasivosproduccionserviciossistemas|bancode
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprocesos|apiuxtech

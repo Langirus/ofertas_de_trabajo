@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-consolidaciones-at-empresa-confidencial-4435240010
-https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
-https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-at-blue-express-4438109574
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-at-sacyr-4324823594
 https://cl.linkedin.com/jobs/view/analista-de-control-de-gesti%C3%B3n-financiero-empresa-de-m%C3%BAsica-eventos-at-consultora-psicolab-4414067011
@@ -75,6 +72,7 @@ https://cl.linkedin.com/jobs/view/analista-de-infraestructura-it-at-getronics-44
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-ti-at-empresa-confidencial-4420430389
 https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-melipilla-at-empresas-arizt%C3%ADa-4434020627
 https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-tecnol%C3%B3gica-at-netsus-ti-4420118177
+https://cl.linkedin.com/jobs/view/analista-de-integraciones-y-automatizaci%C3%B3n-at-empresa-confidencial-4438642582
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-chile-4424055869
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-financial-group-4425838784
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-datos-at-ikea-4418538689
@@ -1096,6 +1094,7 @@ https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25
 https://es.linkedin.com/jobs/view/genai-engineer-remoto-at-tobeit-4435268623
 https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4416115977
+https://es.linkedin.com/jobs/view/help-desk-n1-soporte-de-aplicaciones-remoto-at-between-group-4438675201
 https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
@@ -1324,6 +1323,7 @@ https://portal.chiletrabajos.cl/empresa/wisely/trabajo/ingeniero-informatico-bac
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
 https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4434270857
+https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4438630520
 https://pr.linkedin.com/jobs/view/data-engineer-remote-us-based-role-at-macaw-labs-4432844694
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436955190
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434270849

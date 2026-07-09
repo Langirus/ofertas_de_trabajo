@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-compras-y-comex-at-shilton-consulting-headhunters-4434231343
-https://cl.linkedin.com/jobs/view/analista-de-comunicaciones-junior-r-m-at-sacyr-4397608806
-https://cl.linkedin.com/jobs/view/analista-de-conciliaciones-at-xepelin-4411393592
 https://cl.linkedin.com/jobs/view/analista-de-consolidaciones-at-empresa-confidencial-4435240010
 https://cl.linkedin.com/jobs/view/analista-de-continuidad-operacional-junior-at-prontopaga-4422600429
 https://cl.linkedin.com/jobs/view/analista-de-control-de-accesos-at-tata-consultancy-services-4422479822
@@ -436,6 +433,7 @@ https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-f1-at-coasi
 https://cl.linkedin.com/jobs/view/chile-t%C3%A9cnico-soporte-terreno-nivel-1-at-coasin-logicalis-4427337931
 https://cl.linkedin.com/jobs/view/cientifico-de-datos-junior-at-eva-learning-4425847681
 https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
+https://cl.linkedin.com/jobs/view/cloud-engineer-at-atmira-4435667316
 https://cl.linkedin.com/jobs/view/cloud-ops-engineer-at-confidential-4436116775
 https://cl.linkedin.com/jobs/view/cloudops-analyst-%E2%80%93-cloud-engineering-at-dxc-technology-4436526815
 https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
@@ -462,6 +460,7 @@ https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
 https://cl.linkedin.com/jobs/view/data-base-analyst-car-at-ghd-4310245503
 https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
 https://cl.linkedin.com/jobs/view/data-engineer-analyst-consultant-at-deloitte-4434007878
+https://cl.linkedin.com/jobs/view/data-engineer-at-accenture-chile-4405395478
 https://cl.linkedin.com/jobs/view/data-engineer-at-confidential-4428961549
 https://cl.linkedin.com/jobs/view/data-engineer-at-falabella-4436119221
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
@@ -667,6 +666,7 @@ https://cl.linkedin.com/jobs/view/instore-excellence-trainee-at-beiersdorf-44129
 https://cl.linkedin.com/jobs/view/integration-analyst-at-buk-4436878142
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
+https://cl.linkedin.com/jobs/view/ios-engineer-at-jobgether-4437366728
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-applications-operations-engineer-netsuite-at-signant-health-4425404613
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102

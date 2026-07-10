@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-estudios-at-bice-4428284121
-https://cl.linkedin.com/jobs/view/analista-de-eventos-at-deloitte-4409083557
-https://cl.linkedin.com/jobs/view/analista-de-eventos-at-johnson-johnson-innovative-medicine-4420635001
-https://cl.linkedin.com/jobs/view/analista-de-eventos-at-mygwork-lgbtq%2B-business-community-4417929923
-https://cl.linkedin.com/jobs/view/analista-de-excelencia-operacional-at-cl%C3%ADnicas-achs-salud-4419618418
-https://cl.linkedin.com/jobs/view/analista-de-experiencia-de-clientes-at-cassis-caf%C3%A9-4424897076
-https://cl.linkedin.com/jobs/view/analista-de-experiencia-y-clima-at-ita%C3%BA-chile-4427573803
 https://cl.linkedin.com/jobs/view/analista-de-facturaci%C3%B3n-at-soho-4412815975
 https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
 https://cl.linkedin.com/jobs/view/analista-de-finanzas-y-control-de-gesti%C3%B3n-at-sur-consulting-4433732366
@@ -1048,7 +1041,9 @@ https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
 https://es.linkedin.com/jobs/view/data-engineer-databricks-100%25-remoto-at-capitole-4433922526
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
+https://es.linkedin.com/jobs/view/data-engineer-fullremote-at-capitole-4435977981
 https://es.linkedin.com/jobs/view/data-engineer-ml-cloud-remoto-espa%C3%B1a-at-oxigent-technologies-4417054884
+https://es.linkedin.com/jobs/view/data-engineer-python-palantir-100%25-remoto-at-grupo-digital-4435995872
 https://es.linkedin.com/jobs/view/data-engineer-remote-%E2%80%93-spain-only-aws-at-infoser-technological-solutions-hardware-big-data-experts-4432243256
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-capitole-4433180436
@@ -1056,6 +1051,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428
 https://es.linkedin.com/jobs/view/data-engineers-100%25-teletrabajo-incorporaci%C3%B3n-septiembre-at-infortec-consultores-4438239718
 https://es.linkedin.com/jobs/view/data-loss-prevention-dlp-analyst-insider-threat-risk-100%25-remote-within-spain-at-ust-4417956364
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madrid-remoto-at-it-partner-4430839286
+https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-remote-at-qaracter-beyond-your-challenge-4435966637
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
 https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
@@ -1128,6 +1124,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remote-at-bizneo-hr-4432363706
+https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
@@ -1406,6 +1403,7 @@ https://weworkremotely.com/remote-jobs/patrianna-devops-engineer
 https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
+https://weworkremotely.com/remote-jobs/solar-secure-solutions-web-development-intern
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
@@ -1510,6 +1508,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-3277404
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-2-vacantes-mundo-farmacia-local-2-puente-alto-3862642
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-full-time-3865590
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-part-time-25-hrs-maipu-3838131
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-quilicura-3855484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
@@ -1548,6 +1547,7 @@ https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-3842267
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-ind-3841944
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-integracion-azure-apis-azure-integration-3865587
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-redes-y-seguridad-proyecto-sase-ztna-3854522
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268

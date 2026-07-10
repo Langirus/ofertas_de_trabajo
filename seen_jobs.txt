@@ -1,13 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-financiamiento-at-blanco-4410607815
-https://cl.linkedin.com/jobs/view/analista-de-finanzas-y-control-de-gesti%C3%B3n-at-sur-consulting-4433732366
-https://cl.linkedin.com/jobs/view/analista-de-fitoplancton-at-plancton-andino-4421152657
-https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4404971537
-https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4424916243
-https://cl.linkedin.com/jobs/view/analista-de-flota-at-finning-4426711650
-https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-datos-at-systemvan-4430496485
-https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-identidades-y-accesos-iam-analyst-at-sermaluc-4429948856
-https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-incidentes-ti-y-monitoreo-at-elitsoft-4412844215
-https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-de-personas-at-rocktruck-4428138756
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-en-tiempo-real-ft-seguros-falabella-at-banco-falabella-4380995173
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-estrat%C3%A9gica-y-okrs-at-fid-seguros-4428580999
 https://cl.linkedin.com/jobs/view/analista-de-gesti%C3%B3n-informaci%C3%B3n-y-gesti%C3%B3n-banca-personas-at-banco-de-chile-4436754032
@@ -317,6 +307,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-idmotion-4434764036
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
+https://cl.linkedin.com/jobs/view/asistente-de-inventarios-at-reliper-s-a-4439348329
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-huechuraba-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-l%C3%ADder-en-retail-y-centros-de-entretenimiento-at-validate-talent-ai-4399058327
 https://cl.linkedin.com/jobs/view/asistente-de-marketing-y-comunicaciones-at-remates-madrid-s-a-4420118527
@@ -454,6 +445,7 @@ https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-44172590
 https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
 https://cl.linkedin.com/jobs/view/derma-trainee-at-beiersdorf-4432307777
 https://cl.linkedin.com/jobs/view/desarrollador-de-sw-programa-fresh-graduates-at-sonda-4438815482
+https://cl.linkedin.com/jobs/view/desarrollador-de-sw-programa-fresh-graduates-at-sonda-4439337968
 https://cl.linkedin.com/jobs/view/desarrollador-full-stack-trainee-at-getdata-cl-4433979231
 https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
 https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289
@@ -877,6 +869,7 @@ https://cl.linkedin.com/jobs/view/soporte-al-cliente-part-time-at-alvear-jara-44
 https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-4429120736
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
+https://cl.linkedin.com/jobs/view/soporte-de-mesa-de-ayuda-at-cyd-ingenier%C3%ADa-4419360231
 https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-stefanini-group-4427211763
 https://cl.linkedin.com/jobs/view/soporte-e-commerce-n1-n2-portuges-avanzado-at-acl-4434565080
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
@@ -1257,6 +1250,7 @@ https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-a
 https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
+https://mx.linkedin.com/jobs/view/python-%2Bai-fullstack-engineer-remote-in-mexico-at-pyramid-consulting-inc-4439308638
 https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
@@ -1466,6 +1460,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaci
 https://www.chiletrabajos.cl/trabajo/analista-de-patologia-3849190
 https://www.chiletrabajos.cl/trabajo/analista-de-personas-para-chiloe-3855460
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
+https://www.chiletrabajos.cl/trabajo/analista-de-tesoreria-3861314
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
@@ -1560,6 +1555,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-de-estudio-de-proyectos-3559105
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-electronico-mencion-telecomunicaciones-3865753
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-en-entrenamiento-3864432
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-experiencia-sistemas-ferroviarios-vina-3846122
 https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
@@ -1765,7 +1761,9 @@ https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434156796
+https://www.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4439090394
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
+https://www.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439092256
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4435178688
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4437134848
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4438888860
@@ -1787,6 +1785,7 @@ https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%2
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941
 https://www.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437111261
+https://www.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4439329231
 https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4229334006
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4423884631
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-quik-hire-staffing-4428639079
@@ -1834,6 +1833,7 @@ informaticapracticante|estandariso
 informaticapracticasoporte|voxa
 informaticaredessoportetecnico|mafem
 informaticatecnicotrabajos|portal
+informaticoingenierojuliojuniornuevostrabajotrabajos|portal
 informaticoingenierojuniojuniornuevostrabajotrabajos|portal
 informaticoingenierojunior|fundamenta
 informaticoingenieropracticante|occimiano

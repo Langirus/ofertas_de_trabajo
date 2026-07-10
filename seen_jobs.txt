@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4435185267
-https://cl.linkedin.com/jobs/view/analista-de-incidencias-sap-basis-reemplazo-at-scl-consultores-4438104049
-https://cl.linkedin.com/jobs/view/analista-de-incidentes-soc-nivel-2-%E2%80%93-talent-pool-at-babel-4417831589
-https://cl.linkedin.com/jobs/view/analista-de-incorporaci%C3%B3n-rdt-at-red-de-alimentos-4410627717
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-it-at-getronics-4429412410
 https://cl.linkedin.com/jobs/view/analista-de-infraestructura-ti-at-empresa-confidencial-4420430389
 https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-melipilla-at-empresas-arizt%C3%ADa-4434020627
@@ -231,6 +227,7 @@ https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecno
 https://cl.linkedin.com/jobs/view/analista-sap-hcm-abap-at-accenture-chile-4431570617
 https://cl.linkedin.com/jobs/view/analista-sap-sd-reconversi%C3%B3n-sap-isu-at-accenture-chile-4390918432
 https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
+https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banchile-inversiones-4439364330
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
 https://cl.linkedin.com/jobs/view/analista-seguridad-sap-at-deloitte-4432417128
@@ -268,6 +265,7 @@ https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
+https://cl.linkedin.com/jobs/view/asistente-administrativo-%E2%80%94-pizarro-y-saldivar-ingenieros-at-pizarro-y-sald%C3%ADvar-compa%C3%B1ia-ltda-4435918431
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-de-e-commerce-marketplaces-y-operaciones-at-euroshine-4431969969
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
@@ -1427,6 +1425,7 @@ https://www.chiletrabajos.cl/trabajo/3848014
 https://www.chiletrabajos.cl/trabajo/3856472
 https://www.chiletrabajos.cl/trabajo/3856739
 https://www.chiletrabajos.cl/trabajo/3860067
+https://www.chiletrabajos.cl/trabajo/3866005
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1712,6 +1711,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote
+https://www.getonbrd.com/jobs/junior-data-engineer-grupo-mariposa-remote
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/lider-de-soporte-tecnico-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/lider-tecnico-devops-weblogic-bc-tecnologia-remote

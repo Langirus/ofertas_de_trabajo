@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-huechuraba-at-universidad-san-sebasti%C3%A1n-4430892819
-https://cl.linkedin.com/jobs/view/analista-de-datos-y-automatizaci%C3%B3n-huechuraba-at-universidad-san-sebasti%C3%A1n-4432757667
-https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesorer%C3%ADa-at-banchile-inversiones-4431700376
-https://cl.linkedin.com/jobs/view/analista-de-datos-y-mejoras-tesoreria-at-banchile-inversiones-4430576159
-https://cl.linkedin.com/jobs/view/analista-de-desarrollo-y-operaciones-at-empresa-confidencial-4433877011
-https://cl.linkedin.com/jobs/view/analista-de-desarrollo-y-operaciones-at-empresa-confidencial-4435109626
-https://cl.linkedin.com/jobs/view/analista-de-despliegue-y-explotaci%C3%B3n-at-actis-4418313618
 https://cl.linkedin.com/jobs/view/analista-de-eficiencia-operacional-cenco-malls-at-cencosud-s-a-4430738882
 https://cl.linkedin.com/jobs/view/analista-de-emisi%C3%B3n-at-empresa-confidencial-4415216446
 https://cl.linkedin.com/jobs/view/analista-de-estadisticas-importante-afp-comuna-las-condes-at-esencial-staff-4425144609
@@ -77,6 +70,7 @@ https://cl.linkedin.com/jobs/view/analista-de-operaciones-at-proyectum-chile-443
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-automatizaci%C3%B3n-at-larrainvial-4413739854
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-control-gesti%C3%B3n-operaciones-financieras-at-banco-de-chile-4431702845
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
+https://cl.linkedin.com/jobs/view/analista-de-operaciones-desembolsos-hipotecarios-at-banco-de-chile-4437944865
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-procesos-cambios-internacionales-at-banco-de-chile-4426923154
@@ -299,6 +293,7 @@ https://cl.linkedin.com/jobs/view/android-ml-engineer-remote-work-at-bairesdev-4
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/applications-development-sr-programmer-analyst-at-citi-4426062205
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4427282494
+https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4437952385
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
 https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
 https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
@@ -1544,6 +1539,7 @@ https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-aplicaciones-web-al
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-full-stack-con-experiencia-javascript-hibrido-3777820
 https://www.chiletrabajos.cl/trabajo/e391-ingeniero-ambiental-con-manejo-de-norma-iso-14001-copiapo-3836570
 https://www.chiletrabajos.cl/trabajo/ejecutivo-analista-de-pricing-3855986
+https://www.chiletrabajos.cl/trabajo/encargado-de-soporte-e-infraestructura-ti-3865489
 https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamiento-de-datos-y-ciberseguridad-3727290
 https://www.chiletrabajos.cl/trabajo/estamos-en-busca-de-practicantes-en-marketing-digital-3837338
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
@@ -1626,6 +1622,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electrico-santiago-3405950
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
+https://www.chiletrabajos.cl/trabajo/tecnico-en-enfermeria-full-time-3864131
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-mantenimiento-industrial-3860884
 https://www.chiletrabajos.cl/trabajo/tecnico-en-microinformatica-3853012
@@ -1760,6 +1757,7 @@ https://www.linkedin.com/jobs/view/ai-frontend-engineer-remote-at-quik-hire-staf
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4434951913
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4438175778
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4438592128
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439000245
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1770,6 +1768,7 @@ https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4435178688
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4437134848
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4438888860
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1809,6 +1808,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4437752004
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438155695
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438586416
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438895683
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374

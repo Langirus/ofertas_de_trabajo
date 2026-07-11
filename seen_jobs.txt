@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-operaciones-control-gesti%C3%B3n-operaciones-financieras-at-banco-de-chile-4431702845
-https://cl.linkedin.com/jobs/view/analista-de-operaciones-de-ti-at-siigsa-4410633014
-https://cl.linkedin.com/jobs/view/analista-de-operaciones-desembolsos-hipotecarios-at-banco-de-chile-4437944865
-https://cl.linkedin.com/jobs/view/analista-de-operaciones-financieras-r-at-ripley-chile-4413319727
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-operaciones-e-infraestructura-at-mutualidad-de-carabineros-mutucar-4413334674
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-procesos-cambios-internacionales-at-banco-de-chile-4426923154
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-ti-junior-reemplazo-at-go-4425151186
@@ -412,6 +408,7 @@ https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-ch
 https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289
 https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4435821283
 https://cl.linkedin.com/jobs/view/desarrollador-junior-en-inteligencia-artificial-computer-vision-at-kuidda-4426451384
+https://cl.linkedin.com/jobs/view/desarrollador-junior-full-stack-at-inge%21-4439583351
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
@@ -738,6 +735,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-uc-christus-4424586601
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-auditor%C3%ADa-interna-at-banco-falabella-4427997070
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-profesionales-santiago-at-limchile-4431393876
+https://cl.linkedin.com/jobs/view/practica-profesional-ingeniero-a-de-aplicaciones-y-conectividad-at-inprint-4439581500
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-4809-reclutamiento-y-atraccion-talentos-cel-at-banco-de-chile-4415132123
@@ -928,6 +926,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-30-hrs-5x2-falabella-ind
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
+https://cl.linkedin.com/jobs/view/trainee-t%C3%A9cnico-at-tk-elevator-4438945430
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
@@ -1997,4 +1996,5 @@ soporteti|nortrans
 soporteti|sermaluc
 soporte|bechtelcorporation
 tecnicoti|empresaconfidencial
+tecnicotrainee|tkelevator
 trainee|pisafarmacutica

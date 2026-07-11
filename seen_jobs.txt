@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-financial-group-4425838784
-https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-datos-at-ikea-4418538689
-https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-riesgo-financiero-at-banchile-inversiones-4432675057
 https://cl.linkedin.com/jobs/view/analista-de-inventario-chile-at-natura-4424105734
 https://cl.linkedin.com/jobs/view/analista-de-lectura-y-facturaci%C3%B3n-at-mcr-international-executive-search-4431680293
@@ -924,6 +921,7 @@ https://cl.linkedin.com/jobs/view/test-automation-engineer-java-at-epam-systems-
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
+https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-region-metropolitana-at-santander-chile-4439383886
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
 https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
@@ -977,6 +975,7 @@ https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colo
 https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323954574
 https://co.linkedin.com/jobs/view/junior-video-editor-ai-performance-content-%E2%80%94-remote-at-octo360-4418389422
 https://co.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4426146544
+https://co.linkedin.com/jobs/view/software-development-engineer-ii-full-stack-business-remote-%40-colombia-at-offerup-4439509750
 https://co.linkedin.com/jobs/view/supply-chain-analyst-colombia-remote-at-advatix-latam-4434944654
 https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-remoto-at-inetum-4428183557
 https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417817037
@@ -1424,6 +1423,7 @@ https://www.chiletrabajos.cl/trabajo/3848014
 https://www.chiletrabajos.cl/trabajo/3856472
 https://www.chiletrabajos.cl/trabajo/3856739
 https://www.chiletrabajos.cl/trabajo/3860067
+https://www.chiletrabajos.cl/trabajo/3865565
 https://www.chiletrabajos.cl/trabajo/3866005
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448

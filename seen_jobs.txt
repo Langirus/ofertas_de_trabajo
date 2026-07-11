@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-monitoreo-de-alertas-100%25-remoto-at-inpact-tecnolog%C3%ADas-y-procesos-spa-4417249924
-https://cl.linkedin.com/jobs/view/analista-de-monitoreo-de-redes-ccna-at-netmetrix-chile-4434849008
-https://cl.linkedin.com/jobs/view/analista-de-monitoreo-y-condiciones-equipos-mina-turno-7x7-santiago-at-vantaz-group-4416344416
 https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
 https://cl.linkedin.com/jobs/view/analista-de-negocio-en-medios-de-pago-fintech-at-mercado-libre-4428941967
 https://cl.linkedin.com/jobs/view/analista-de-negocios-asistente-at-gnf-worldwide-4418741946
@@ -1355,12 +1352,14 @@ https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
+https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421236881
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421252343
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
 https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
 https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam
 https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa
+https://weworkremotely.com/remote-jobs/aliqan-technologies-site-reliability-engineer
 https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
@@ -1376,6 +1375,7 @@ https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-research
 https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
+https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design

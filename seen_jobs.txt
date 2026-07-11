@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-n%C3%B3mina-t%C3%A9rmino-definido-1-a%C3%B1o-at-gallagher-4414657811
-https://cl.linkedin.com/jobs/view/analista-de-negocio-en-medios-de-pago-fintech-at-mercado-libre-4428941967
-https://cl.linkedin.com/jobs/view/analista-de-negocios-asistente-at-gnf-worldwide-4418741946
 https://cl.linkedin.com/jobs/view/analista-de-negocios-at-evertec-4416263994
 https://cl.linkedin.com/jobs/view/analista-de-negocios-y-datos-at-randstad-4435894660
 https://cl.linkedin.com/jobs/view/analista-de-operaciones-at-emat-4434253201
@@ -65,6 +62,7 @@ https://cl.linkedin.com/jobs/view/analista-de-siniestros-de-reaseguros-at-marsh-
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-afp-cuprum-4431133010
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
+https://cl.linkedin.com/jobs/view/analista-de-sistemas-junior-at-kinemed-4439569925
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-pos-at-farmacias-ahumada-4415063732
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-ev-tecnologica-at-banco-de-chile-4405046159
@@ -480,6 +478,7 @@ https://cl.linkedin.com/jobs/view/ia-engineer-remoto-at-genesys-4423168519
 https://cl.linkedin.com/jobs/view/ingeniero-a-backend-at-tazki-4434654355
 https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-aplicaciones-y-conectividad-junior-at-inprint-4439588064
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-control-operacional-at-chilexpress-4428303898
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-aws-big-data-at-bc-tecnolog%C3%ADa-4436960780
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
@@ -1283,6 +1282,7 @@ https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4434270857
 https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4438630520
 https://pr.linkedin.com/jobs/view/data-engineer-remote-us-based-role-at-macaw-labs-4432844694
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436955190
+https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439581085
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434270849
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436937720
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125

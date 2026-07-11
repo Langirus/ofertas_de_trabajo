@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-infraestructura-it-at-getronics-4429412410
-https://cl.linkedin.com/jobs/view/analista-de-infraestructura-ti-at-empresa-confidencial-4420430389
-https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-melipilla-at-empresas-arizt%C3%ADa-4434020627
-https://cl.linkedin.com/jobs/view/analista-de-innovaci%C3%B3n-tecnol%C3%B3gica-at-netsus-ti-4420118177
-https://cl.linkedin.com/jobs/view/analista-de-integraciones-y-automatizaci%C3%B3n-at-empresa-confidencial-4438642582
-https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-chile-4424055869
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-artificial-at-principal-financial-group-4425838784
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-datos-at-ikea-4418538689
 https://cl.linkedin.com/jobs/view/analista-de-inteligencia-de-negocios-at-sercomed-s-a-4417797712
@@ -311,6 +305,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-ludipek-4418353551
 https://cl.linkedin.com/jobs/view/asistente-de-tesoreria-at-youtopia-company-4423695460
 https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
+https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-independencia-at-falabella-4439391856
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
@@ -619,6 +614,7 @@ https://cl.linkedin.com/jobs/view/integration-analyst-at-buk-4436878142
 https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
 https://cl.linkedin.com/jobs/view/ios-engineer-at-jobgether-4437366728
+https://cl.linkedin.com/jobs/view/ios-engineer-at-jobscroller-4438399696
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-applications-operations-engineer-netsuite-at-signant-health-4425404613
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
@@ -661,6 +657,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-sermaluc-44347110
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4434363192
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23295171-at-bairesdev-4429725436
+https://cl.linkedin.com/jobs/view/manual-qa-engineer-remote-latin-america-at-fullstack-4439378117
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/marketing-content-intern-at-levera-web-4433900541
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
@@ -683,6 +680,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-h%C3%ADbrida-sant
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-automatizaci%C3%B3n-y-an%C3%A1lisis-de-datos-cencosud-at-cencosud-4439369134
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-business-analyst-de-innovaci%C3%B3n-cenco-malls-at-cencosud-4439358768
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-categor%C3%ADas-digitales-at-falabella-4438839183
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ferrovial-4438697703
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
@@ -1121,6 +1119,7 @@ https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-oracle-remoto-100%25-at-grupo-tecdata-engineering-4438390874
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-google-cloud-remoto-at-infortec-consultores-4432547381
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y-sistemas-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4426858127
@@ -1756,6 +1755,7 @@ https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
 https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%80%93-remote-latam-at-gracemark-solutions-4428393820
+https://www.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4438382961
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434156796

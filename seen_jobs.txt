@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-inteligencia-riesgo-financiero-at-banchile-inversiones-4432675057
-https://cl.linkedin.com/jobs/view/analista-de-inventario-chile-at-natura-4424105734
-https://cl.linkedin.com/jobs/view/analista-de-lectura-y-facturaci%C3%B3n-at-mcr-international-executive-search-4431680293
-https://cl.linkedin.com/jobs/view/analista-de-licitaci%C3%B3n-at-aramark-chile-4414290746
 https://cl.linkedin.com/jobs/view/analista-de-licitacion-at-holding-wiki-4434559334
 https://cl.linkedin.com/jobs/view/analista-de-mantenimiento-cenco-malls-at-cencosud-s-a-4413745601
 https://cl.linkedin.com/jobs/view/analista-de-market-intelligence-at-cmpc-4426530507
@@ -259,6 +255,7 @@ https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innov
 https://cl.linkedin.com/jobs/view/asistente-administrativo-%E2%80%94-pizarro-y-saldivar-ingenieros-at-pizarro-y-sald%C3%ADvar-compa%C3%B1ia-ltda-4435918431
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-de-e-commerce-marketplaces-y-operaciones-at-euroshine-4431969969
 https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
+https://cl.linkedin.com/jobs/view/asistente-administrativo-at-abbott-4439523394
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-distecna-chile-4434112162
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
@@ -487,6 +484,7 @@ https://cl.linkedin.com/jobs/view/functional-analyst-it-at-vr-group-chile-443458
 https://cl.linkedin.com/jobs/view/functional-analyst-sql-at-vr-group-chile-4435938379
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
 https://cl.linkedin.com/jobs/view/genai-platform-engineer-at-deloitte-4427029333
+https://cl.linkedin.com/jobs/view/gpex-oferta-una-plaza-de-analista-en-sistemas-inform%C3%A1ticos-at-infoprovincia-4439542409
 https://cl.linkedin.com/jobs/view/graduate-tailings-engineer-at-ghd-4427211489
 https://cl.linkedin.com/jobs/view/growth-marketing-analyst-at-kiosclub-american-supermarket-4432376457
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
@@ -1455,6 +1453,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaci
 https://www.chiletrabajos.cl/trabajo/analista-de-patologia-3849190
 https://www.chiletrabajos.cl/trabajo/analista-de-personas-para-chiloe-3855460
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
+https://www.chiletrabajos.cl/trabajo/analista-de-sistemas-junior-3866005
 https://www.chiletrabajos.cl/trabajo/analista-de-tesoreria-3861314
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
@@ -1806,6 +1805,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438155695
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438586416
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438895683
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4439553089
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374

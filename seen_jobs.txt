@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-proyectos-jr-back-office-%F0%9F%9A%80-at-apiux-tech-4433710350
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-y-mejora-continua-at-afp-planvital-4432442509
 https://cl.linkedin.com/jobs/view/analista-de-pruebas-de-productos-y-servicios-at-hitss-chile-4432796098
 https://cl.linkedin.com/jobs/view/analista-de-r-s-at-csi-ltda-4425911670
@@ -1647,6 +1646,7 @@ https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-rem
 https://www.getonbrd.com/jobs/cloud-operations-database-engineer-signant-health-remote
 https://www.getonbrd.com/jobs/contract-software-engineer-integrations-front-end-travefy-remote
 https://www.getonbrd.com/jobs/data-ai-platform-engineer-ia-engineer-penta-financiero-santiago
+https://www.getonbrd.com/jobs/data-analyst-3it-remote
 https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterrey
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote

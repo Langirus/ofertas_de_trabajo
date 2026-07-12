@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
-https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-y-control-de-proyectos-at-motorola-solutions-4427081545
 https://cl.linkedin.com/jobs/view/analista-de-protecci%C3%B3n-de-datos-at-hf-solutions-4437460835
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-abbott-4415579084
 https://cl.linkedin.com/jobs/view/analista-de-proyectos-at-banco-de-chile-4414703622
@@ -504,6 +502,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-witi-4438687913
 https://cl.linkedin.com/jobs/view/ingeniero-de-propuestas-trainee-at-freemaq-spa-4437109705
+https://cl.linkedin.com/jobs/view/ingeniero-de-proyectos-at-cmpc-4421228874
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
@@ -1877,6 +1876,7 @@ ingenieroprocesos|vigaflow
 ingenieroprocesos|witi
 ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
+ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo
 ingenierorancaguaredessoporteterrenoti|nttdata
 ingenieroredesseguridad|chiletrabajos

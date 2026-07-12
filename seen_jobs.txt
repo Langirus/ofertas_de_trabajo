@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-procesos-o2c-cenco-malls-at-cencosud-s-a-4420239488
-https://cl.linkedin.com/jobs/view/analista-de-procesos-protecci%C3%B3n-de-datos-at-genesys-4425301433
-https://cl.linkedin.com/jobs/view/analista-de-procesos-y-datos-contables-at-deloitte-4433328524
 https://cl.linkedin.com/jobs/view/analista-de-procesos-y-transformacion-digital-at-cibergestion-4436400731
 https://cl.linkedin.com/jobs/view/analista-de-productos-compras-revestimientos-pisos-y-terminaciones-at-mk-4436950265
 https://cl.linkedin.com/jobs/view/analista-de-programaci%C3%B3n-at-experis-chile-4412948214
@@ -847,6 +844,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc
 https://cl.linkedin.com/jobs/view/soporte-ti-at-nortrans-4434556092
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
+https://cl.linkedin.com/jobs/view/sql-functional-analyst-at-vr-group-chile-4436692020
 https://cl.linkedin.com/jobs/view/sr-fullstack-software-engineer-at-grupo-falabella-4436330944
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st14452-analista-contable-at-salfa-rent-4430351108
@@ -976,6 +974,7 @@ https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-443114115
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
 https://es.linkedin.com/jobs/view/analista-funcional-contenedores-administraci%C3%B3n-digital-teletrabajo-at-heyclue-4435375664
+https://es.linkedin.com/jobs/view/analista-funcional-en-medios-de-pago-sat-100%25-teletrabajo-at-minsait-4437209882
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
 https://es.linkedin.com/jobs/view/analista-programador-a-as400-remoto-galicia-at-ad4-oct%C3%B3gono-4435282467
@@ -1170,6 +1169,7 @@ https://mx.linkedin.com/jobs/view/financial-software-engineer-remote-at-quik-hir
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
+https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439734272
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4428450020
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805

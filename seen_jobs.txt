@@ -1,12 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-soporte-y-continuidad-operativa%F0%9F%92%A1-at-apiux-tech-4403268878
-https://cl.linkedin.com/jobs/view/analista-de-suscripci%C3%B3n-at-renta-nacional-seguros-generales-4416647819
-https://cl.linkedin.com/jobs/view/analista-de-tecnolog%C3%ADa-back-office-at-experis-chile-4426385433
-https://cl.linkedin.com/jobs/view/analista-de-tesoreria-at-sacyr-4384206323
-https://cl.linkedin.com/jobs/view/analista-de-ti-at-vr-group-chile-4437229696
-https://cl.linkedin.com/jobs/view/analista-de-visado-at-acl-4421151591
-https://cl.linkedin.com/jobs/view/analista-deposito-franco-at-swissport-4409942715
-https://cl.linkedin.com/jobs/view/analista-desarrollador-at-apex-group-ltd-4398862113
-https://cl.linkedin.com/jobs/view/analista-deuda-privada-at-larrainvial-4431748653
 https://cl.linkedin.com/jobs/view/analista-dialogo-comunitario-ii-proyecto-at-freeport-mcmoran-4429483027
 https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
 https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
@@ -438,6 +429,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-442
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
+https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-seguridad-de-la-informaci%C3%B3n-at-banco-de-chile-4439423933
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
 https://cl.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-y-transformaci%C3%B3n-digital-at-tata-consultancy-services-4438536296
@@ -462,6 +454,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-44187017
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-witi-4438687913
 https://cl.linkedin.com/jobs/view/ingeniero-de-propuestas-trainee-at-freemaq-spa-4437109705
 https://cl.linkedin.com/jobs/view/ingeniero-de-proyectos-at-cmpc-4421228874
+https://cl.linkedin.com/jobs/view/ingeniero-de-redes-de-ti-at-empresa-confidencial-4437287565
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
@@ -617,6 +610,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-corredora
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-transversales-at-ripley-chile-4422429216
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-dise%C3%B1o-digital-at-cencosud-s-a-4432017941
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-automatizaci%C3%B3n-riesgo-no-financiero-at-afp-planvital-4434407458
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-frontend-at-afp-planvital-4440302489
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-prevenci%C3%B3n-de-riesgo-at-airbus-helicopters-4430682663
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-soporte-t%C3%A9cnico-ti-at-afp-planvital-4434294816
@@ -791,6 +785,7 @@ https://cl.linkedin.com/jobs/view/soporte-al-cliente-at-keywe-4433900754
 https://cl.linkedin.com/jobs/view/soporte-al-cliente-part-time-at-alvear-jara-4433791971
 https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-4429120736
 https://cl.linkedin.com/jobs/view/soporte-de-aplicativos-ecommerce-ingles-b2-at-ada-4-solutions-head-hunting-4410605750
+https://cl.linkedin.com/jobs/view/soporte-de-infraestructura-ti-junior-at-experis-chile-4440049607
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-de-mesa-de-ayuda-at-cyd-ingenier%C3%ADa-4419360231
 https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-stefanini-group-4427211763
@@ -1389,6 +1384,7 @@ https://www.chiletrabajos.cl/trabajo/3856739
 https://www.chiletrabajos.cl/trabajo/3860067
 https://www.chiletrabajos.cl/trabajo/3865565
 https://www.chiletrabajos.cl/trabajo/3866005
+https://www.chiletrabajos.cl/trabajo/3866556
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1614,6 +1610,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-on
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
+https://www.getonbrd.com/jobs/analista-de-soporte-tecnico-grupo-mariposa-ciudad-de-guatemala-santiago-quito-bogota-buenos-aires-lima-ddd4
 https://www.getonbrd.com/jobs/analista-desarrollador-cobol-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab
@@ -1831,11 +1828,13 @@ informaticoingeniero|ingenieracuatro
 informaticoingeniero|intexaingeniera
 informaticoingeniero|techforceagentesiayplataformasweb
 informaticojuniormodalidadsitiosoporte|computrabajo
+informaticojuniortecnico|computrabajo
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informaticotecnico|terrefort
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructurainversionespractica|principal
+infraestructurajuniorsoporteti|experis
 infraestructurapracticaprofesionalrenovable|copec
 infraestructuratecnicotecnologicaterreno|accenture
 ingenierialidertecnico|nttdata
@@ -1879,6 +1878,7 @@ ingenieroredesseguridad|chiletrabajos
 ingenieroredessoporteterrenoti|nttdata
 ingenieroredessoporte|chiletrabajos
 ingenieroredessoporte|hitss
+ingenieroredesti|empresaconfidencial
 ingenieroredes|brass
 ingenieroredtelecomunicaciones|acl
 ingenierorpawebscraping|inteligenciaartificial

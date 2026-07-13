@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
-https://cl.linkedin.com/jobs/view/analista-de-seguridad-ofensiva-at-ey-4407028796
-https://cl.linkedin.com/jobs/view/analista-de-siniestros-de-reaseguros-at-marsh-risk-4419595403
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-afp-cuprum-4431133010
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-at-novasis-llc-4411250460
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-junior-at-kinemed-4439569925
 https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
@@ -387,6 +382,7 @@ https://cl.linkedin.com/jobs/view/enterprise-integration-engineer-at-shinkansen-
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434277609
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436997787
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4437103286
+https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440011992
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-ingenierojob-4430272865
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-vantaz-group-4432912296
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
@@ -1196,6 +1192,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436997492
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
+https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440027435
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
@@ -1256,6 +1253,7 @@ https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
 https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4434270857
 https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4438630520
+https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4440018685
 https://pr.linkedin.com/jobs/view/data-engineer-remote-us-based-role-at-macaw-labs-4432844694
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436955190
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439581085
@@ -1647,6 +1645,8 @@ https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote
+https://www.getonbrd.com/jobs/data-engineer-gcp-coderslab-io-remote
+https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-coderslab-io-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote

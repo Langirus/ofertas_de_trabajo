@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-dialogo-comunitario-ii-proyecto-at-freeport-mcmoran-4429483027
-https://cl.linkedin.com/jobs/view/analista-ejecutivo-a-de-asuntos-regulatorios-latam-at-layk-4422555019
-https://cl.linkedin.com/jobs/view/analista-en-automatizaci%C3%B3n-e-inteligencia-artificial-at-afp-planvital-4415893072
-https://cl.linkedin.com/jobs/view/analista-estrategia-de-salud-at-cl%C3%ADnicas-achs-salud-4426423688
-https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu-s-a-unimarc-m10-alvi-y-super10-4413652375
 https://cl.linkedin.com/jobs/view/analista-excelencia-operacional-at-grupo-falabella-4410946137
 https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
 https://cl.linkedin.com/jobs/view/analista-facturaci%C3%B3n-y-cobranza-at-engie-chile-4433335819
@@ -27,6 +22,7 @@ https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-y-control-emergencia-mai
 https://cl.linkedin.com/jobs/view/analista-gestion-de-personas-at-regionaliza-me-4429897296
 https://cl.linkedin.com/jobs/view/analista-gestion-del-tiempo-at-equans-4436024344
 https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
+https://cl.linkedin.com/jobs/view/analista-gobierno-de-datos-at-stefanini-latam-4439469215
 https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-identidades-y-accesos-at-romax-technologies-4429472418
@@ -282,6 +278,7 @@ https://cl.linkedin.com/jobs/view/customer-service-specialist-soporte-t%C3%A9cni
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/cyber-security-analyst-at-evertec-4437917273
 https://cl.linkedin.com/jobs/view/cybersecurity-engineer-%E2%80%93-risk-ai-at-baseline-4429477286
+https://cl.linkedin.com/jobs/view/data-analyst-at-ayesa-digital-4437289952
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4403110221
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4410224504
 https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
@@ -1204,10 +1201,13 @@ https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-al
 https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-apis-at-azumo-4432076749
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4428138018
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4430495986
+https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4439436495
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4438291199
+https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-4439432470
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4438283696
+https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4439441247
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074

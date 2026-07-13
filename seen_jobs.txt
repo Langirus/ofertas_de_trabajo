@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-remuneraciones-flexit-at-falabella-4414981835
-https://cl.linkedin.com/jobs/view/analista-de-reportabilidad-y-control-de-gesti%C3%B3n-at-pulso-salud-4421625959
-https://cl.linkedin.com/jobs/view/analista-de-repuesto-at-global-pacific-labour-4433707029
-https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4414526848
-https://cl.linkedin.com/jobs/view/analista-de-repuestos-at-finning-4435810967
-https://cl.linkedin.com/jobs/view/analista-de-riesgo-at-vinci-compass-4436891170
-https://cl.linkedin.com/jobs/view/analista-de-riesgo-operacional-protecci%C3%B3n-de-datos-at-genesys-4424808412
-https://cl.linkedin.com/jobs/view/analista-de-riesgos-at-banco-de-chile-4407081114
 https://cl.linkedin.com/jobs/view/analista-de-riesgos-y-auditor%C3%ADa-ti-at-deloitte-4426529861
 https://cl.linkedin.com/jobs/view/analista-de-sap-at-empresa-confidencial-4435916269
 https://cl.linkedin.com/jobs/view/analista-de-seguridad-de-la-informaci%C3%B3n-at-banco-falabella-4387489101
@@ -984,6 +976,7 @@ https://es.linkedin.com/jobs/view/backend-engineer-remote-spain-at-online-life-c
 https://es.linkedin.com/jobs/view/business-analyst-ingeniero-nextgen-banca-teletrabajo-at-ingenierojob-4414060160
 https://es.linkedin.com/jobs/view/business-analyst-revenue-operations-remote-at-bizneo-hr-4410834393
 https://es.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4437344191
+https://es.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439125142
 https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
@@ -1120,6 +1113,7 @@ https://mx.linkedin.com/jobs/view/analista-desarrollador-net-m%C3%A9xico-remoto-
 https://mx.linkedin.com/jobs/view/analyst-processor-underwriter-commercial-mortgage-brokerage-remote-pst-at-emma-of-torre-ai-4436912568
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402075981
 https://mx.linkedin.com/jobs/view/application-backend-engineer-remote-mexico-at-yelp-4402093336
+https://mx.linkedin.com/jobs/view/application-support-engineer-trilogy-remote-%2460-000-year-usd-at-crossover-4437309197
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-4405289567
 https://mx.linkedin.com/jobs/view/azure-data-platform-engineer-serbia-mexico-remote-at-worldwide-clinical-trials-4390719736
@@ -1158,6 +1152,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
 https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
+https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4437302382
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/financial-software-engineer-remote-at-quik-hire-staffing-4434014094
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
@@ -1492,6 +1487,7 @@ https://www.chiletrabajos.cl/trabajo/ayudante-tecnico-climatizacion-faena-minera
 https://www.chiletrabajos.cl/trabajo/bodeguero-junior-la-granja-santiago-3827326
 https://www.chiletrabajos.cl/trabajo/castro-chiloe-se-necesita-asistente-dental-tens-con-experiencia-dental-3848478
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
+https://www.chiletrabajos.cl/trabajo/commercial-intelligence-analyst-3866283
 https://www.chiletrabajos.cl/trabajo/comprador-asistente-administrativo-3854620
 https://www.chiletrabajos.cl/trabajo/conductor-y-asistente-operativo-3859325
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fi-junior-3852828
@@ -1585,6 +1581,7 @@ https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferre
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
+https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
@@ -1735,6 +1732,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4438175778
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4438592128
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439000245
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439538342
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439796148
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1787,6 +1785,7 @@ https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4438577705
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439703769
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439783390
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1798,6 +1797,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4438895683
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4439553089
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4439716085
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4439783315
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374

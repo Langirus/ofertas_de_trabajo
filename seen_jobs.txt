@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-con-conocimiento-en-sistemas-financieros-at-sonda-4410773205
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-junior-at-kinemed-4439569925
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-por-reemplazo-at-cencosud-scotiabank-4406098867
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-pos-at-farmacias-ahumada-4415063732
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-ev-tecnologica-at-banco-de-chile-4405046159
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-sr-desarrollo-sistemas-mantenimiento-y-evoluci%C3%B3n-tecnologica-at-banco-de-chile-4408546723
-https://cl.linkedin.com/jobs/view/analista-de-sistemas-y-control-de-gesti%C3%B3n-at-agency-network-4413722871
-https://cl.linkedin.com/jobs/view/analista-de-soluciones-tecnol%C3%B3gicas-at-silocydata-4434886744
 https://cl.linkedin.com/jobs/view/analista-de-soporte-at-bk-servicios-financieros-4410637946
 https://cl.linkedin.com/jobs/view/analista-de-soporte-e-implementaci%C3%B3n-ti-at-mundotransfer-4434546646
 https://cl.linkedin.com/jobs/view/analista-de-soporte-en-sitio-at-softwareone-4409713856
@@ -33,6 +25,7 @@ https://cl.linkedin.com/jobs/view/analista-estudios-presencial-las-condes-at-smu
 https://cl.linkedin.com/jobs/view/analista-excelencia-operacional-at-grupo-falabella-4410946137
 https://cl.linkedin.com/jobs/view/analista-externo-at-s3-groups-4422397060
 https://cl.linkedin.com/jobs/view/analista-facturaci%C3%B3n-y-cobranza-at-engie-chile-4433335819
+https://cl.linkedin.com/jobs/view/analista-fidelidad-cliente-pro-at-cencosud-4436422468
 https://cl.linkedin.com/jobs/view/analista-financiero-at-metlife-chile-4434756447
 https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
 https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4428302371
@@ -577,6 +570,7 @@ https://cl.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4
 https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
 https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
 https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
+https://cl.linkedin.com/jobs/view/junior-web-developer-at-veta-virtual-4439405720
 https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-latin-america-at-fullstack-4436105866
 https://cl.linkedin.com/jobs/view/l%C3%ADder-de-ciberseguridad-y-soporte-ti-at-it-hunter-4435468407
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-fullstack-at-caja-los-andes-4435986334
@@ -1024,6 +1018,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-teletrabajo-at-irium-443746
 https://es.linkedin.com/jobs/view/ingeniero-a-mlops-teletrabajo-at-irium-4437110232
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
+https://es.linkedin.com/jobs/view/ingeniero-de-datos-teletrabajo-espa%C3%B1a-at-akkodis-4437270293
 https://es.linkedin.com/jobs/view/ingeniero-de-simulaci%C3%B3n-mec%C3%A1nica-y-estructural-openfoam-opensees-%E2%80%93-remoto-at-alignerr-4429194421
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
 https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427212009
@@ -1092,6 +1087,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4439755001
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-4433664405
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4418274323
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4436235342
+https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4439425505
 https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
@@ -1186,6 +1182,7 @@ https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436997494
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436999376
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437100396
+https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440028325
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4436215418
@@ -1211,6 +1208,7 @@ https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico
 https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4436292216
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
+https://mx.linkedin.com/jobs/view/remote-ai-developer-internship-at-emma-of-torre-ai-4440033417
 https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-apis-at-azumo-4432076749
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4428138018
@@ -1483,6 +1481,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/ayudante-tecnico-climatizacion-faena-minera-ii-region-3855909
 https://www.chiletrabajos.cl/trabajo/bodeguero-junior-la-granja-santiago-3827326
 https://www.chiletrabajos.cl/trabajo/castro-chiloe-se-necesita-asistente-dental-tens-con-experiencia-dental-3848478
+https://www.chiletrabajos.cl/trabajo/chaiten-tecnicos-en-telecomunicaciones-3845888
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/commercial-intelligence-analyst-3866283
 https://www.chiletrabajos.cl/trabajo/comprador-asistente-administrativo-3854620
@@ -1575,6 +1574,7 @@ https://www.chiletrabajos.cl/trabajo/reemplazo-asistente-de-abastecimiento-y-sop
 https://www.chiletrabajos.cl/trabajo/sap-gr-consultor-analista-de-negocios-3851856
 https://www.chiletrabajos.cl/trabajo/se-solicita-tens-o-auxiliar-para-cuidado-en-hogar-de-adultos-mayores-3652896
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
+https://www.chiletrabajos.cl/trabajo/soporte-ti-junior-3866556
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764

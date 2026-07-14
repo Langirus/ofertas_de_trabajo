@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-labor-reemplazo-pre-y-post-natal-at-aramark-chile-4425925523
-https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
 https://cl.linkedin.com/jobs/view/analista-mejora-continua-at-empresas-sb-4436411274
 https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662
@@ -284,6 +282,7 @@ https://cl.linkedin.com/jobs/view/data-operation-analyst-at-salfa-rent-443797499
 https://cl.linkedin.com/jobs/view/data-platform-engineer-at-buk-4435460395
 https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-internship-at-hp-4434085875
+https://cl.linkedin.com/jobs/view/data-scientist-junior-at-coca-cola-andina-4440583374
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4437641021
 https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
@@ -1728,6 +1727,7 @@ https://www.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434156796
+https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4439852949
 https://www.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4439090394
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439092256

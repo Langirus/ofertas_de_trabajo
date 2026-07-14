@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
-https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
-https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-ti-operaciones-qa-integraciones-y-release-management-at-atcom-chile-4436356281
-https://cl.linkedin.com/jobs/view/analista-funcional-itsm-at-grupo-falabella-4438672499
-https://cl.linkedin.com/jobs/view/analista-funcional-mejoras-de-sistemas-programa-fresh-graduates-at-sonda-4420685041
-https://cl.linkedin.com/jobs/view/analista-funcional-qa-at-akzio-4435225093
 https://cl.linkedin.com/jobs/view/analista-funcional-ti-at-genesys-global-4434635015
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-aeropuertos-at-latam-airlines-4423181036
 https://cl.linkedin.com/jobs/view/analista-gesti%C3%B3n-de-demanda-at-redsalud-cchc-4433317839
@@ -433,6 +427,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sa
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-computer-vision-at-deliryum-ai-4426422158
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-generativa-at-isapre-nueva-masvida-4433892100
+https://cl.linkedin.com/jobs/view/ingeniero-de-infraestructura-it-f-m-d-at-porsche-chile-4439475966
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
@@ -626,12 +621,14 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-comerical-
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-inform%C3%A1tica-at-mindco-4438179360
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-4436900491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-s-a-4436900491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
@@ -846,6 +843,7 @@ https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-44171109
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-region-metropolitana-at-santander-chile-4439383886
+https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-1-at-santander-chile-4440366273
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
 https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
@@ -1778,6 +1776,7 @@ https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4438577705
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439703769
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439783390
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4440385993
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1832,6 +1831,7 @@ informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informaticotecnico|terrefort
 informjuniormodalidadsitiosoportetico|computrabajo
+infraestructuraingenieroit|porsche
 infraestructurainversionespractica|principal
 infraestructurajuniorsoporteti|experis
 infraestructurapracticaprofesionalrenovable|copec

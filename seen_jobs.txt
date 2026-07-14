@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-gestion-de-personas-at-regionaliza-me-4429897296
-https://cl.linkedin.com/jobs/view/analista-gestion-del-tiempo-at-equans-4436024344
-https://cl.linkedin.com/jobs/view/analista-gestion-santiago-at-santander-chile-4409178918
-https://cl.linkedin.com/jobs/view/analista-gobierno-de-datos-at-stefanini-latam-4439469215
-https://cl.linkedin.com/jobs/view/analista-gtm-at-claro-chile-s-a-4415116606
 https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
 https://cl.linkedin.com/jobs/view/analista-identidades-y-accesos-at-romax-technologies-4429472418
 https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-hr-digital-4418972190
@@ -117,6 +112,7 @@ https://cl.linkedin.com/jobs/view/analistas-de-datos-at-deloitte-4440335444
 https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-at-deloitte-4413742403
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
 https://cl.linkedin.com/jobs/view/analistas-supply-chain-inventory-planning-at-deloitte-4430959905
+https://cl.linkedin.com/jobs/view/analyst-production-process-improvement-at-metso-4437316438
 https://cl.linkedin.com/jobs/view/android-ml-engineer-remote-work-at-bairesdev-4436814458
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/applications-development-sr-programmer-analyst-at-citi-4426062205
@@ -1040,6 +1036,7 @@ https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-ci
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
 https://es.linkedin.com/jobs/view/soporte-aplicaciones-microservicios-24x7-remoto-madrid-madrid-00000-es-at-grupo-digital-4432676512
 https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec-consultores-4435122769
+https://es.linkedin.com/jobs/view/sre-engineer-docker-python-ingles-b2-remoto-espa%C3%B1a-h-m-x-at-experis-espa%C3%B1a-4435662869
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
@@ -1129,6 +1126,7 @@ https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439734272
+https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440532848
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4428450020
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
@@ -1173,6 +1171,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
+https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4440531867
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
@@ -1241,6 +1240,7 @@ https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439581085
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434270849
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436937720
+https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440542425
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://remoteOK.com/remote-jobs/remote-analista-pleno-de-negocios-offshore-c6-bank-1131925
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512

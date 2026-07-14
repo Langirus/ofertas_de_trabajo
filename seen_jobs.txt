@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
-https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
-https://cl.linkedin.com/jobs/view/analista-monitoreo-datos-anti-fraude-at-cmpc-4436110323
-https://cl.linkedin.com/jobs/view/analista-motor-y-parametr%C3%ADa-at-banco-falabella-4399438924
-https://cl.linkedin.com/jobs/view/analista-motores-at-latam-airlines-4434801972
-https://cl.linkedin.com/jobs/view/analista-onboarding-at-scotiabank-4424431997
 https://cl.linkedin.com/jobs/view/analista-openshift-virtualization-at-del-mar-technology-group-4418184292
 https://cl.linkedin.com/jobs/view/analista-operaciones-at-banchile-inversiones-4396316673
 https://cl.linkedin.com/jobs/view/analista-pagos-y-contratos-at-sangmyung-university-4436963476
@@ -501,6 +495,7 @@ https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
 https://cl.linkedin.com/jobs/view/junior-ai-agent-engineer-at-epam-systems-4431582534
 https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
+https://cl.linkedin.com/jobs/view/junior-developer-at-visionone-chile-s-a-4438017783
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
@@ -642,6 +637,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-auditor%C3%ADa-interna-at-ban
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-profesionales-santiago-at-limchile-4431393876
 https://cl.linkedin.com/jobs/view/practica-profesional-ingeniero-a-de-aplicaciones-y-conectividad-at-inprint-4439581500
+https://cl.linkedin.com/jobs/view/practica-profesional-tecnico-soporte-ti-at-tigroup-4440835291
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-4809-reclutamiento-y-atraccion-talentos-cel-at-banco-de-chile-4415132123
@@ -734,6 +730,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
+https://cl.linkedin.com/jobs/view/software-engineer-full-stack-at-ic-payment-4438007812
 https://cl.linkedin.com/jobs/view/software-engineer-go-at-commandlink-4423342216
 https://cl.linkedin.com/jobs/view/software-engineer-ii-at-comscore-inc-4414747548
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
@@ -1180,6 +1177,7 @@ https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico
 https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4436292216
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
+https://mx.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4440576939
 https://mx.linkedin.com/jobs/view/remote-ai-developer-internship-at-emma-of-torre-ai-4440033417
 https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-apis-at-azumo-4432076749
@@ -1370,6 +1368,7 @@ https://www.chiletrabajos.cl/trabajo/3860067
 https://www.chiletrabajos.cl/trabajo/3865565
 https://www.chiletrabajos.cl/trabajo/3866005
 https://www.chiletrabajos.cl/trabajo/3866556
+https://www.chiletrabajos.cl/trabajo/3867404
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1960,6 +1959,7 @@ practicaprofesionalreclutamientoseleccion|bancode
 practicaprofesionalreclutamientoseleccion|grupomacleanserviciosintegrales
 practicaprofesionalriesgos|principal
 practicaprofesionalriesgotecnologico|ey
+practicaprofesionalsoportetecnicoti|tigroup
 practicaprofesionaltecnologia|ripley
 practicaprofesionalti|bancoripley
 practicaprofesionalti|ripley

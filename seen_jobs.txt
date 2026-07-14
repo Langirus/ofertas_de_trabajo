@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-fidelidad-cliente-pro-at-cencosud-4436422468
-https://cl.linkedin.com/jobs/view/analista-financiero-at-metlife-chile-4434756447
-https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4413130702
-https://cl.linkedin.com/jobs/view/analista-financiero-at-sonda-4428302371
-https://cl.linkedin.com/jobs/view/analista-fondos-at-apex-group-ltd-4398840987
 https://cl.linkedin.com/jobs/view/analista-forestal-at-freya-consulting-4414953930
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-at-salfacorp-4432294074
 https://cl.linkedin.com/jobs/view/analista-funcional-de-procesos-ti-operaciones-qa-integraciones-y-release-management-at-atcom-chile-4436356281
@@ -214,6 +209,7 @@ https://cl.linkedin.com/jobs/view/associate-engineer-at-principal-chile-43868851
 https://cl.linkedin.com/jobs/view/associate-internship-chile-2026-at-boston-consulting-group-bcg-4368747430
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4423417115
 https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4435291598
+https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4439495524
 https://cl.linkedin.com/jobs/view/auditor-interno-%E2%80%93-procesos-operacionales-at-banco-de-chile-4422019640
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
@@ -318,6 +314,7 @@ https://cl.linkedin.com/jobs/view/data-platform-engineer-at-buk-4435460395
 https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-internship-at-hp-4434085875
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
+https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4437641021
 https://cl.linkedin.com/jobs/view/data-services-analyst-at-cloudbeds-4432526648
 https://cl.linkedin.com/jobs/view/derma-trainee-at-beiersdorf-4432307777
 https://cl.linkedin.com/jobs/view/desarrollador-de-sw-programa-fresh-graduates-at-sonda-4438815482
@@ -452,6 +449,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-proyectos-at-cmpc-4421228874
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-de-ti-at-empresa-confidencial-4437287565
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
+https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-at-pares-alvarez-4437626578
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-at-axity-4424644257
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-produccion-pasivos-y-servicios-at-banco-de-chile-4436868251
@@ -1582,6 +1580,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-enfermeria-full-time-3864131
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
+https://www.chiletrabajos.cl/trabajo/tecnico-en-mantenimiento-en-cortinas-electricas-de-retail-rm-3866954
 https://www.chiletrabajos.cl/trabajo/tecnico-en-mantenimiento-industrial-3860884
 https://www.chiletrabajos.cl/trabajo/tecnico-en-microinformatica-3853012
 https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-3848526
@@ -1885,6 +1884,7 @@ ingenierorpawebscraping|inteligenciaartificial
 ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision
 ingenierosistemasteletrabajo|heyclue
+ingenierosistemas|paresalvarez
 ingenierosoftwaresoporte|despapeliza
 ingenierosoftware|fundacininvica
 ingenierosoftware|innomar

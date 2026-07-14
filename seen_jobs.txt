@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
-https://cl.linkedin.com/jobs/view/analista-mejora-continua-at-empresas-sb-4436411274
-https://cl.linkedin.com/jobs/view/analista-mejora-continua-redsalud-casa-matriz-at-empresas-sb-4418622662
-https://cl.linkedin.com/jobs/view/analista-mejoras-up-at-banchile-inversiones-4414492706
-https://cl.linkedin.com/jobs/view/analista-mesa-cross-asset-at-btg-pactual-chile-4428193717
-https://cl.linkedin.com/jobs/view/analista-mesa-de-dinero-at-banco-de-chile-4407638659
 https://cl.linkedin.com/jobs/view/analista-modelo-gesti%C3%B3n-at-veltis-latam-4414915490
 https://cl.linkedin.com/jobs/view/analista-monitoreo-condiciones-at-finning-4404989183
 https://cl.linkedin.com/jobs/view/analista-monitoreo-datos-anti-fraude-at-cmpc-4436110323
@@ -73,6 +67,7 @@ https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-44
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254
 https://cl.linkedin.com/jobs/view/analista-soporte-ingenier%C3%ADa-operaciones-y-despacho-at-latam-airlines-4435910590
+https://cl.linkedin.com/jobs/view/analista-soporte-scada-at-aes-andes-4439898467
 https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
@@ -887,6 +882,8 @@ https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully
 https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
 https://cr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434484331
 https://cr.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-costa-rica-at-everai-4409060698
+https://cr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440588635
+https://cr.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4440593247
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4415012837
 https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
 https://do.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-bairesdev-4430581342
@@ -919,6 +916,7 @@ https://es.linkedin.com/jobs/view/analista-programador-java-microservicios-telet
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4432278352
 https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
+https://es.linkedin.com/jobs/view/application-development-engineer-remoto-at-experience-it-solutions-4440585125
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/automation-devops-engineer-remoto-at-knowmad-mood-4436880419
 https://es.linkedin.com/jobs/view/aws-big-data-engineer-remote-35-42k-at-the-board-people-talent-4427054292
@@ -1704,6 +1702,7 @@ https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
+https://www.getonbrd.com/jobs/soporte-de-redes-y-telecomunicaciones-tarapaca-bc-tecnologia-iquique
 https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
@@ -1976,6 +1975,7 @@ productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
+redessoportetarapacatelecomunicaciones|na
 redessoporte|computrabajo
 redessubterraneatecnico|sonda
 redestecnico|prontopaga

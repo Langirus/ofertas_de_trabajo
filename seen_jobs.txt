@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-ia-y-automatizaci%C3%B3n-at-full-funnel-4406717376
-https://cl.linkedin.com/jobs/view/analista-identidades-y-accesos-at-romax-technologies-4429472418
-https://cl.linkedin.com/jobs/view/analista-implementador-de-proyectos-at-genera-hr-digital-4418972190
-https://cl.linkedin.com/jobs/view/analista-informatico-codigo-shell-logs-control-m-at-tecnologia-informatica-4429123738
-https://cl.linkedin.com/jobs/view/analista-infraestructura-onsite-jr-at-ecosistemas-4413139544
-https://cl.linkedin.com/jobs/view/analista-inteligencia-de-personas-people-analytics-at-gildemeister-chile-4431537429
-https://cl.linkedin.com/jobs/view/analista-it-junior-inter%C3%A9s-en-auditor%C3%ADa-at-deloitte-4425644017
-https://cl.linkedin.com/jobs/view/analista-junior-cmdb-at-kti-hunter-4414346410
 https://cl.linkedin.com/jobs/view/analista-junior-crm-at-plin-co-4433712380
 https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
 https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
@@ -94,6 +86,7 @@ https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
 https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4429330679
+https://cl.linkedin.com/jobs/view/analista-sr-torre-de-control-automatizaci%C3%B3n-y-procesos-at-grupo-falabella-4440560665
 https://cl.linkedin.com/jobs/view/analista-ssr-de-datos-y-analitica-at-banchile-inversiones-4430036243
 https://cl.linkedin.com/jobs/view/analista-supply-chain-at-puma-group-4365349273
 https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-%E2%80%93-aplicaci%C3%B3n-mypass-at-airbook-spa-4406496482
@@ -197,6 +190,7 @@ https://cl.linkedin.com/jobs/view/auditor-interno-%E2%80%93-procesos-operacional
 https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-engineer-at-blend-4436166302
+https://cl.linkedin.com/jobs/view/automation-internship-at-orion-latam-4437688554
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
 https://cl.linkedin.com/jobs/view/automations-engineer-open-source-at-searchapi-4431716372
 https://cl.linkedin.com/jobs/view/auxiliar-administrativo-a-npsa3-at-undp-careers-4429833856
@@ -312,6 +306,7 @@ https://cl.linkedin.com/jobs/view/desarrollador-junior-full-stack-at-inge%21-443
 https://cl.linkedin.com/jobs/view/desarrollador-pr%C3%A1ctica-profesional-en-%C3%A1rea-de-agilidad-at-banco-bice-4440078378
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
+https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4439861595
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/developer-fullstack-ai-product-engineer-at-axity-4425542708
 https://cl.linkedin.com/jobs/view/development-security-and-operations-engineer-at-dxc-technology-4330940039
@@ -620,6 +615,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamie
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ciberseguridad-soc-at-nebulan-4437687564
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405379571
@@ -688,6 +684,7 @@ https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
+https://cl.linkedin.com/jobs/view/practicante-riesgos-corporativos-at-latam-airlines-4437675592
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
@@ -1525,6 +1522,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-junior-para-depto-ti-
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-soporte-ti-junior-3661542
 https://www.chiletrabajos.cl/trabajo/ingeniero-inspector-concepcion-3664297
 https://www.chiletrabajos.cl/trabajo/ingeniero-junior-desarrollador-de-software-3620077
+https://www.chiletrabajos.cl/trabajo/ingeniero-nfpa-proyectos-de-sistemas-de-incendio-3826055
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-proyectos-integrados-3850655
 https://www.chiletrabajos.cl/trabajo/ingeniero-programacion-y-control-deseable-experiencia-obra-ferroviaria-vina-3846121
@@ -1697,6 +1695,7 @@ https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
+https://www.getonbrd.com/jobs/real-time-ai-orchestration-engineer-sugarshan-inc-remote
 https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
 https://www.getonbrd.com/jobs/senior-full-stack-ruby-on-rails-engineer-autoraptor-remote
 https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote
@@ -1858,6 +1857,7 @@ ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromlopsteletrabajo|irium
 ingenieromultidisciplina|ghd
 ingenieronetremotosoftwaretrabajo|bairesdev
+ingenieronfpaproyectossistemas|chiletrabajos
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenierooperacionalsoporte|na

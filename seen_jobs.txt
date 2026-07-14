@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-junior-crm-at-plin-co-4433712380
-https://cl.linkedin.com/jobs/view/analista-junior-de-canales-digitales-at-afp-planvital-4423021554
-https://cl.linkedin.com/jobs/view/analista-junior-de-datos-business-analyst-at-deloitte-4421218558
-https://cl.linkedin.com/jobs/view/analista-junior-de-proyectos-y-mejora-continua-at-afp-planvital-4423563346
-https://cl.linkedin.com/jobs/view/analista-junior-de-renta-variable-at-afp-planvital-4430748027
-https://cl.linkedin.com/jobs/view/analista-junior-de-seguridad-sap-at-deloitte-4433877686
-https://cl.linkedin.com/jobs/view/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-at-importadora-y-exportadora-intermex-s-a-4418757968
 https://cl.linkedin.com/jobs/view/analista-labor-reemplazo-pre-y-post-natal-at-aramark-chile-4425925523
 https://cl.linkedin.com/jobs/view/analista-legal-at-apex-group-ltd-4398875877
 https://cl.linkedin.com/jobs/view/analista-licitaciones-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4411236960
@@ -881,6 +874,7 @@ https://co.linkedin.com/jobs/view/junior-inventory-purchasing-specialist-remote-
 https://co.linkedin.com/jobs/view/junior-marketing-assistant-remote-at-emma-of-torre-ai-4435307184
 https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434228112
 https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437101331
+https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440536631
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
@@ -980,9 +974,11 @@ https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
 https://es.linkedin.com/jobs/view/ingeniero-a-de-integraciones-itsm-full-remote-spain-%E2%82%AC40k-%E2%82%AC48k-at-joppy-4435047603
+https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-3d-teletrabajo-100%25-at-keapps-4440545976
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
 https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
+https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439868096
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-teletrabajo-at-irium-4437465030
@@ -1017,6 +1013,8 @@ https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC3
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4431274231
 https://es.linkedin.com/jobs/view/pr%C3%A1cticas-en-ciberseguridad-%E2%80%93-startup-healthtech-remoto-at-temotiva-4436791793
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
+https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
+https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027
 https://es.linkedin.com/jobs/view/remote-airline-standards-engineer-%E2%80%94-m-e-data-compliance-at-cae-defence-security-%E2%80%93-indo-pacific-4436012011
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
@@ -1041,6 +1039,7 @@ https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-oracle-remoto-100%2
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-google-cloud-remoto-at-infortec-consultores-4432547381
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y-sistemas-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4426858127
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-funcional-y-t%C3%A9cnico-adobe-campaign-classic-100%25-remoto-at-abalia-4437687750
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-unix-linux-shell-scripting-remote-at-abalia-4433338928
 https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832
 https://hn.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427855862
@@ -1654,6 +1653,7 @@ https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-mlops-engineer-cloud-sre-sidis-ai-remote
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
 https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-south-america-remote
+https://www.getonbrd.com/jobs/full-stack-developer-react-aws-serverless-ryc-tech-group-santiago
 https://www.getonbrd.com/jobs/full-stack-java-angularjs-angular-17-3it-santiago
 https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a444
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote

@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-rentabilidad-e2e-at-ripley-chile-4434887840
-https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecnol%C3%B3gicos-at-banco-de-chile-4430584022
-https://cl.linkedin.com/jobs/view/analista-sap-hcm-abap-at-accenture-chile-4431570617
-https://cl.linkedin.com/jobs/view/analista-sap-sd-reconversi%C3%B3n-sap-isu-at-accenture-chile-4390918432
-https://cl.linkedin.com/jobs/view/analista-scoring-at-scotiabank-4426169425
-https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banchile-inversiones-4439364330
-https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-banco-ripley-chile-4421216404
 https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
 https://cl.linkedin.com/jobs/view/analista-seguridad-sap-at-deloitte-4432417128
 https://cl.linkedin.com/jobs/view/analista-servicio-al-cliente-at-banchile-inversiones-4430034214
@@ -176,6 +169,7 @@ https://cl.linkedin.com/jobs/view/commercial-data-analyst-at-procter-gamble-4430
 https://cl.linkedin.com/jobs/view/commercial-ops-analyst-home-care-chile-at-unilever-4431495277
 https://cl.linkedin.com/jobs/view/concurso-e-242026-desarrollador-junior-de-sistemas-at-universidad-austral-de-chile-4435685682
 https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
+https://cl.linkedin.com/jobs/view/consultor-appian-junior%F0%9F%92%A1-at-apiux-tech-4438437075
 https://cl.linkedin.com/jobs/view/convi%C3%A9rtete-en-el-pr%C3%B3ximo-trainee-ripley-valpara%C3%ADso-at-ripley-chile-4437803732
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/coordinador-a-de-proyectos-y-analista-funcional-pmo-at-e-digital-4429408560
@@ -1064,6 +1058,7 @@ https://mx.linkedin.com/jobs/view/data-business-analyst-remote-at-martine-law-pl
 https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
+https://mx.linkedin.com/jobs/view/desarrollador-java-backend-jr-remoto-at-ntt-data-europe-latam-4440258489
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4423222637
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4439444238
@@ -1304,6 +1299,7 @@ https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-a
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer
 https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher
+https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app
 https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform
 https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
@@ -1326,6 +1322,7 @@ https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only
+https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://www.chiletrabajos.cl/encuentra-un-empleo/120?2=t%C3%A9cnico+en+inform%C3%A1tica
 https://www.chiletrabajos.cl/encuentra-un-empleo/60?2=junior&13=1022&f=2
@@ -1546,6 +1543,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-en-climatizacion-hvac-7x7-mineria
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
+https://www.chiletrabajos.cl/trabajo/tecnico-de-monitoreo-geotecnico-3867265
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
 https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
@@ -1757,10 +1755,12 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remot
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994974
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
+https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
 https://www.linkedin.com/jobs/view/mobile-engineer-latam-all-levels-at-sezzle-4082657907
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4422952637
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4435805851
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4438232746
+https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4441205487
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4438577705

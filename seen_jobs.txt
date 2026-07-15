@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-pss-at-ingenierojob-4422212814
-https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
-https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
-https://cl.linkedin.com/jobs/view/analista-qa-automatizador-mobile-at-kti-hunter-4436463787
 https://cl.linkedin.com/jobs/view/analista-qa-funcional-medios-de-pago-at-bc-tecnolog%C3%ADa-4424799496
 https://cl.linkedin.com/jobs/view/analista-qa-manual-at-sii-group-chile-4440849475
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
@@ -701,6 +697,7 @@ https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-
 https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4436622196
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
 https://cl.linkedin.com/jobs/view/software-engineer-at-checkr-inc-4422661500
+https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178
 https://cl.linkedin.com/jobs/view/software-engineer-at-geovictoria-4435446736
@@ -1147,6 +1144,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436997492
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440027435
+https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440963608
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
@@ -1218,9 +1216,11 @@ https://pr.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4440018685
 https://pr.linkedin.com/jobs/view/data-engineer-remote-us-based-role-at-macaw-labs-4432844694
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436955190
 https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439581085
+https://pr.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440972249
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434270849
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436937720
 https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440542425
+https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440965397
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://remoteOK.com/remote-jobs/remote-analista-pleno-de-negocios-offshore-c6-bank-1131925
 https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512

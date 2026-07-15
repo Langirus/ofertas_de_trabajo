@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
-https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
-https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
-https://cl.linkedin.com/jobs/view/analista-proveedores-y-tesorer%C3%ADa-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4434246360
-https://cl.linkedin.com/jobs/view/analista-proyectos-nimod-at-altodesempe%C3%B1o-consultores-4434037099
 https://cl.linkedin.com/jobs/view/analista-pss-at-ingenierojob-4422212814
 https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
@@ -684,6 +679,7 @@ https://cl.linkedin.com/jobs/view/ratings-and-research-intern-at-passfort-a-mood
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
 https://cl.linkedin.com/jobs/view/reemplazo-pre-y-post-natal-analista-entrenamiento-at-enaex-4424001302
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
+https://cl.linkedin.com/jobs/view/req14378-ingeniero-proyecto-at-salfa-rent-4440205295
 https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
 https://cl.linkedin.com/jobs/view/sales-ai-operations-intern-at-smartup-holdings-inc-4422243747
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
@@ -961,6 +957,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-de-integraciones-itsm-full-remote-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-3d-teletrabajo-100%25-at-keapps-4440545976
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
 https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
+https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-de-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439993888
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439868096
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
@@ -1548,6 +1545,7 @@ https://www.chiletrabajos.cl/trabajo/se-solicita-tens-o-auxiliar-para-cuidado-en
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
 https://www.chiletrabajos.cl/trabajo/soporte-ti-junior-3866556
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
+https://www.chiletrabajos.cl/trabajo/tecnico-a-en-climatizacion-hvac-7x7-mineria-3864903
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
@@ -1787,6 +1785,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440505445
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440943981
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979
@@ -1866,6 +1865,7 @@ ingenieroprocesos|vigaflow
 ingenieroprocesos|witi
 ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
+ingenieroproyectoreq14378|salfarent
 ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo
 ingenierorancaguaredessoporteterrenoti|nttdata

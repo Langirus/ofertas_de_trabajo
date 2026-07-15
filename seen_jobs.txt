@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-seguridad-de-la-informaci%C3%B3n-at-femsa-salud-chile-4420989293
-https://cl.linkedin.com/jobs/view/analista-seguridad-sap-at-deloitte-4432417128
-https://cl.linkedin.com/jobs/view/analista-servicio-al-cliente-at-banchile-inversiones-4430034214
-https://cl.linkedin.com/jobs/view/analista-servicio-alcliente-at-softline-consultores-gerenciales-4434255085
-https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-4415245382
-https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
-https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254
-https://cl.linkedin.com/jobs/view/analista-soporte-ingenier%C3%ADa-operaciones-y-despacho-at-latam-airlines-4435910590
 https://cl.linkedin.com/jobs/view/analista-soporte-operacional-at-air-products-4440905166
 https://cl.linkedin.com/jobs/view/analista-soporte-scada-at-aes-andes-4439898467
 https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
@@ -328,6 +320,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-tecnolog%C3%ADa-at-fi
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-prevencion-de-riesgos-nivel-junior-antofagasta-at-sacyr-4387742339
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-redes-at-brass-chile-4434014872
+https://cl.linkedin.com/jobs/view/ingeniero-a-inform%C3%A1tico-a-junior-formaci%C3%B3n-en-gemelos-digitales-y-tecnolog%C3%ADas-at-segsal-latam-spa-4441243874
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
@@ -690,6 +683,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-nablus-4434595372
 https://cl.linkedin.com/jobs/view/software-engineer-at-nubox-spa-4437945255
 https://cl.linkedin.com/jobs/view/software-engineer-at-ria-money-transfer-4430652484
 https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
+https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4438438047
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
@@ -946,6 +940,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-te
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-teletrabajo-at-irium-4437465030
 https://es.linkedin.com/jobs/view/ingeniero-a-mlops-teletrabajo-at-irium-4437110232
+https://es.linkedin.com/jobs/view/ingeniero-a-python-aws-100%25-remoto-at-grupo-digital-4438097883
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
 https://es.linkedin.com/jobs/view/ingeniero-de-datos-teletrabajo-espa%C3%B1a-at-akkodis-4437270293
@@ -986,6 +981,7 @@ https://es.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-assisted-develo
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4432269577
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
+https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-full-remote-at-knowmad-mood-4440271158
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remote-at-bizneo-hr-4432363706
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
@@ -1283,6 +1279,7 @@ https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullst
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421252343
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
+https://ve.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4441219664
 https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
 https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam
 https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa
@@ -1520,6 +1517,7 @@ https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farm
 https://www.chiletrabajos.cl/trabajo/postular/3809354
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
+https://www.chiletrabajos.cl/trabajo/practica-profesional-tecnico-o-ingeniero-en-prevencion-de-riesgos-3861745
 https://www.chiletrabajos.cl/trabajo/practica-turismo-valle-de-montanas-cabanas-cajon-del-maipo-3843672
 https://www.chiletrabajos.cl/trabajo/practicante-de-desarrollo-full-stack-3572160
 https://www.chiletrabajos.cl/trabajo/practicante-de-marketing-y-comunicaciones-3848547
@@ -1845,6 +1843,7 @@ ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortableauvisualizacion|apiuxtech
 ingenierojuniortrabajos|portal
+ingenierojunior|computrabajo
 ingenieroklass|farmaciasahumada
 ingenierolearningmachine|innomotics
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
@@ -1858,6 +1857,7 @@ ingenieronube|zentagroup
 ingenierooperacionalsoporte|na
 ingenierooperacionesti|onemarketer
 ingenieropasivosproduccionserviciossistemas|bancode
+ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieroprevencionriesgos|chiletrabajos
 ingenieropreventa|chiletrabajos
 ingenieroprocesos|apiuxtech

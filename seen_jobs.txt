@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-recepci%C3%B3n-y-transferencia-aviones-sr-at-latam-airlines-4427390889
-https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
-https://cl.linkedin.com/jobs/view/analista-remuneraciones-rexmas-at-resiter-4431338340
-https://cl.linkedin.com/jobs/view/analista-renta-fija-at-banca-inversiones-wealth-management-4417951961
-https://cl.linkedin.com/jobs/view/analista-renta-variable-at-randstad-chile-4429887382
 https://cl.linkedin.com/jobs/view/analista-rentabilidad-e2e-at-ripley-chile-4434887840
 https://cl.linkedin.com/jobs/view/analista-riesgo-tecnol%C3%B3gico-activos-tecnol%C3%B3gicos-at-banco-de-chile-4430584022
 https://cl.linkedin.com/jobs/view/analista-sap-hcm-abap-at-accenture-chile-4431570617
@@ -34,6 +29,7 @@ https://cl.linkedin.com/jobs/view/analista-t%C3%A9cnico-de-negocio-at-mt2-inteli
 https://cl.linkedin.com/jobs/view/analista-tecnico-mineria-at-sandvik-4398400937
 https://cl.linkedin.com/jobs/view/analista-tecnologico-control-ti-at-principal-chile-4382826105
 https://cl.linkedin.com/jobs/view/analista-ti-%E2%80%93-control-de-gesti%C3%B3n-at-inge%21-4419499896
+https://cl.linkedin.com/jobs/view/analista-ti-cumplimiento-y-gestion-de-informacion-at-banco-de-chile-4440239656
 https://cl.linkedin.com/jobs/view/analista-ti-spa-pwc-chile-at-pwc-chile-4429147157
 https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-lean-at-achs-seguro-laboral-4430121592
 https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-negocios-agf-at-banchile-inversiones-4426097977
@@ -46,6 +42,7 @@ https://cl.linkedin.com/jobs/view/analistas-supply-chain-inventory-planning-at-d
 https://cl.linkedin.com/jobs/view/analyst-production-process-improvement-at-metso-4437316438
 https://cl.linkedin.com/jobs/view/android-ml-engineer-remote-work-at-bairesdev-4436814458
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
+https://cl.linkedin.com/jobs/view/application-support-engineer-at-octave-4440241980
 https://cl.linkedin.com/jobs/view/applications-development-sr-programmer-analyst-at-citi-4426062205
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4427282494
 https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4437952385
@@ -628,6 +625,7 @@ https://cl.linkedin.com/jobs/view/practicante-full-stack-next-js-desarrollo-de-s
 https://cl.linkedin.com/jobs/view/practicante-gestion-de-prensa-at-presse-4437723420
 https://cl.linkedin.com/jobs/view/practicante-ia-operaciones-at-credit%C3%BA-4426854416
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
+https://cl.linkedin.com/jobs/view/practicante-it-bpo-at-dhl-global-forwarding-4440984765
 https://cl.linkedin.com/jobs/view/practicante-log%C3%ADstico-a-repuestos-temuco-at-salfa-rent-4438978288
 https://cl.linkedin.com/jobs/view/practicante-marketing-digital-growth-junior-at-ell-cl-4433913139
 https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-at-grupo-falabella-4432143308
@@ -645,6 +643,7 @@ https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epir
 https://cl.linkedin.com/jobs/view/practicantes-y-memoristas-epiroc-chile-at-epiroc-4426051050
 https://cl.linkedin.com/jobs/view/prevencionista-de-riesgo-sin-experiencia-at-inprint-4431125757
 https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4423582015
+https://cl.linkedin.com/jobs/view/product-engineer-full-stack-trainee-junior-at-who-co-4440989270
 https://cl.linkedin.com/jobs/view/product-operations-engineer-at-egenya-4431035473
 https://cl.linkedin.com/jobs/view/programa-de-estudiantes-ingeniero-a-de-datos-at-ibm-4417966859
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-en-formaci%C3%B3n-chile-at-dhl-global-forwarding-4420242049
@@ -1576,6 +1575,7 @@ https://www.chiletrabajos.cl/trabajo/tecnicos-electricos-con-licencia-de-conduci
 https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3857137
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec
+https://www.getonbrd.com/jobs/ai-engineering-intern-puente-talent-partners-remote
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
 https://www.getonbrd.com/jobs/alumno-en-practica-ing-informatica-area-observabilidad-bice-vida-santiago
 https://www.getonbrd.com/jobs/analista-bi-power-bi-sql-coderslab-io-santiago

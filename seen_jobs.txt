@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-qa-reemplazo-pre-y-post-natal-at-autofact-4436964444
-https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-at-novofarma-service-s-a-4436973251
-https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-gesti%C3%B3n-de-est%C3%A1ndares-e-insumos-at-novofarma-service-s-a-4439569919
-https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-preparador-at-abbott-4424919469
-https://cl.linkedin.com/jobs/view/analista-quimico-b-nova-andino-litio-at-sqm-litio-4420441889
-https://cl.linkedin.com/jobs/view/analista-reabastecimiento-gerencia-omnichannel-supply-chain-at-walmart-chile-4428102676
 https://cl.linkedin.com/jobs/view/analista-recepci%C3%B3n-y-transferencia-aviones-sr-at-latam-airlines-4427390889
 https://cl.linkedin.com/jobs/view/analista-regional-de-control-de-gesti%C3%B3n-junior-at-nubox-spa-4423407287
 https://cl.linkedin.com/jobs/view/analista-remuneraciones-rexmas-at-resiter-4431338340
@@ -1108,6 +1102,7 @@ https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-
 https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308
 https://mx.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-de-operaciones-it-%E2%80%93-remoto-con-una-visita-al-mes-at-corus-consulting-an-alten-company-4427651335
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
+https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4440238064
 https://mx.linkedin.com/jobs/view/ingeniero-de-software-java-trabajo-remoto-at-bairesdev-4436095614
 https://mx.linkedin.com/jobs/view/ingeniero-de-software-net-trabajo-remoto-at-bairesdev-4436218044
 https://mx.linkedin.com/jobs/view/ingeniero-de-soporte-t%C3%A9cnico-alpha-remote-%2460-000-year-usd-at-crossover-4434392552
@@ -1125,6 +1120,7 @@ https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4427010973
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4435814338
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4438234476
+https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4440997607
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
@@ -1143,6 +1139,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440027435
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440963608
+https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440976292
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
@@ -1191,6 +1188,7 @@ https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-h
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-funnelcake-4415587975
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
+https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4441210503
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-ref%23297179-at-bairesdev-4438270291
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
@@ -1257,6 +1255,7 @@ https://remoteOK.com/remote-jobs/remote-fraud-waste-and-abuse-data-analyst-hhaex
 https://remoteOK.com/remote-jobs/remote-genai-security-engineer-point72-1130087
 https://remoteOK.com/remote-jobs/remote-graduate-business-operations-associate-bezos-ai-1134231
 https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114
+https://remoteOK.com/remote-jobs/remote-jr-creative-strategist-trivium-group-1134870
 https://remoteOK.com/remote-jobs/remote-junior-data-analyst-caterpillar-inc-1134008
 https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663
 https://remoteOK.com/remote-jobs/remote-junior-data-engineer-satelligence-1129831
@@ -1744,6 +1743,7 @@ https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-sta
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-indi-staffing-services-4441203387
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
+https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-indi-staffing-services-4440986941
 https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941

@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
-https://cl.linkedin.com/jobs/view/analista-prevencion-fraude-y-monitoreo-at-claro-chile-s-a-4433884907
-https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
-https://cl.linkedin.com/jobs/view/analista-programador-cobol-cics-at-tata-consultancy-services-4432867054
-https://cl.linkedin.com/jobs/view/analista-programador-php-at-hf-solutions-4425330084
 https://cl.linkedin.com/jobs/view/analista-programador-sql-%F0%9F%9A%80-at-sii-group-chile-4435302597
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
 https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-czech-republic-4434596107
@@ -50,6 +45,7 @@ https://cl.linkedin.com/jobs/view/analista-sistemas-at-teck-resources-limited-44
 https://cl.linkedin.com/jobs/view/analista-soporte-cobranza-at-banco-falabella-4387780381
 https://cl.linkedin.com/jobs/view/analista-soporte-funcional-agf-at-banchile-inversiones-4430136254
 https://cl.linkedin.com/jobs/view/analista-soporte-ingenier%C3%ADa-operaciones-y-despacho-at-latam-airlines-4435910590
+https://cl.linkedin.com/jobs/view/analista-soporte-operacional-at-air-products-4440905166
 https://cl.linkedin.com/jobs/view/analista-soporte-scada-at-aes-andes-4439898467
 https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
@@ -940,6 +936,7 @@ https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madr
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-remote-at-qaracter-beyond-your-challenge-4435966637
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
+https://es.linkedin.com/jobs/view/database-reliability-engineer-dbre-remote-at-finom-4440892108
 https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
@@ -1076,6 +1073,7 @@ https://mx.linkedin.com/jobs/view/cloud-engineer-remote-at-quik-hire-staffing-44
 https://mx.linkedin.com/jobs/view/cloud-security-engineer-remote-at-hire-feed-4431393080
 https://mx.linkedin.com/jobs/view/cloud-security-engineer-remote-at-hire-feed-4439566583
 https://mx.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439103917
+https://mx.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439956478
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4431392249
@@ -1388,6 +1386,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-calidad-sector-norte-3861223
 https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-metro-manquehue-3838576
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
+https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3856739
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-ti-42-horas-santiago-centro-sip-3854652
 https://www.chiletrabajos.cl/trabajo/analista-de-diseno-y-marketing-3852721
 https://www.chiletrabajos.cl/trabajo/analista-de-experiencia-del-solicitante-3853767
@@ -1716,6 +1715,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439000245
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439538342
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439796148
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440502282
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440907670
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977

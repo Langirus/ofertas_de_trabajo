@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-soporte-operacional-at-air-products-4440905166
 https://cl.linkedin.com/jobs/view/analista-soporte-scada-at-aes-andes-4439898467
 https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
 https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
@@ -1280,6 +1279,7 @@ https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullst
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
 https://ve.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4441219664
+https://ve.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4441220578
 https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
 https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam
 https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa

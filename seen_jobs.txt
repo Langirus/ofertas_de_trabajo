@@ -1,12 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-programador-sql-%F0%9F%9A%80-at-sii-group-chile-4435302597
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-groupe-sii-4417484676
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-czech-republic-4434596107
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-germany-4437845079
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-belgium-4436838409
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-chile-4424003971
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-romania-4419651450
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-switzerland-4437875408
-https://cl.linkedin.com/jobs/view/analista-programador-sql-at-sii-group-uk-4434555242
 https://cl.linkedin.com/jobs/view/analista-programador-web-php-at-siigsa-4415216624
 https://cl.linkedin.com/jobs/view/analista-proveedores-reempalzo-at-constructora-gonz%C3%A1lez-garc%C3%ADa-ltda-4413715940
 https://cl.linkedin.com/jobs/view/analista-proveedores-y-contratos-at-grupo-falabella-4419893994
@@ -214,6 +205,7 @@ https://cl.linkedin.com/jobs/view/coordinador-de-soporte-y-mejora-continua-at-tr
 https://cl.linkedin.com/jobs/view/customer-service-specialist-soporte-t%C3%A9cnico-at-jbt-marel-4433520871
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
 https://cl.linkedin.com/jobs/view/cyber-security-analyst-at-evertec-4437917273
+https://cl.linkedin.com/jobs/view/cyber-security-engineer-at-wdgroup-4440906457
 https://cl.linkedin.com/jobs/view/cybersecurity-engineer-%E2%80%93-risk-ai-at-baseline-4429477286
 https://cl.linkedin.com/jobs/view/data-analyst-at-ayesa-digital-4437289952
 https://cl.linkedin.com/jobs/view/data-analyst-at-banco-falabella-4403110221
@@ -517,6 +509,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%2329
 https://cl.linkedin.com/jobs/view/manual-qa-engineer-remote-latin-america-at-fullstack-4439378117
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/marketing-content-intern-at-levera-web-4433900541
+https://cl.linkedin.com/jobs/view/marketing-trainee-health-systems-at-aiesec-in-panama-4440917192
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
 https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
 https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-at-sezzle-4082662210
@@ -583,6 +576,8 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-administraci%C3%B3n-gerencia-finanzas-at-cencosud-4440887801
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-superficies-gerencia-finanzas-at-cencosud-4440902381
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
@@ -657,6 +652,7 @@ https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
+https://cl.linkedin.com/jobs/view/practicante-proyectos-operacionales-at-vinci-compass-4439986617
 https://cl.linkedin.com/jobs/view/practicante-riesgos-corporativos-at-latam-airlines-4437675592
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
@@ -1487,6 +1483,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-integracion-azure-apis-azure
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-redes-y-seguridad-proyecto-sase-ztna-3854522
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-a-junior-formacion-en-gemelos-digitales-y-tecnologias-3867404
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-automatizacion-e-iot-3845391
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-sre-ssr-nivel-ingles-avanzado-3823795
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
@@ -1737,6 +1734,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%232
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439740246
+https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440920107
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4437147530
@@ -1784,6 +1782,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4439716085
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4439783315
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4440397514
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4440901884
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
@@ -1946,6 +1945,7 @@ navieroshippingtrainee|ultranav
 negociospracticanteprocesos|nttdata
 nivelpresencialsoportetecnico|ada4solutionsheadhunting
 ofertapracticatitulotrabajo|theoptimal
+operacionalespracticanteproyectos|vincicompass
 operacionespracticaprofesional|juegosdevideolatinoamricajvlat
 operationspeopletrainee|roche
 planificacionpracticantesoporte|airlines

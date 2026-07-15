@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-planificaci%C3%B3n-financiera-at-banco-falabella-4429704049
-https://cl.linkedin.com/jobs/view/analista-planta-superintendencia-%C3%A1rea-humeda-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4427140184
-https://cl.linkedin.com/jobs/view/analista-plataforma-cority-santiago-at-ingenierojob-4423174537
-https://cl.linkedin.com/jobs/view/analista-predictivo-en-formaci%C3%B3n-at-imc-ingenier%C3%ADa-en-monitoreo-de-condiciones-4426411263
-https://cl.linkedin.com/jobs/view/analista-predictivo-puerto-at-teck-resources-limited-4423132797
-https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-lavado-de-dinero-at-banco-falabella-4377008027
-https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-de-riesgo-reemplazo-pre-y-post-natal-at-grupo-falabella-4430994386
-https://cl.linkedin.com/jobs/view/analista-prevenci%C3%B3n-fraude-banchile-pago-at-banco-de-chile-4429390548
 https://cl.linkedin.com/jobs/view/analista-prevencion-de-delitos-afp-at-afp-cuprum-4423547078
 https://cl.linkedin.com/jobs/view/analista-prevencion-fraude-y-monitoreo-at-claro-chile-s-a-4433884907
 https://cl.linkedin.com/jobs/view/analista-programador-as400-at-sii-group-chile-4423570191
@@ -30,6 +22,7 @@ https://cl.linkedin.com/jobs/view/analista-pss-at-vantaz-group-4425532717
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-junior-at-getronics-4419283781
 https://cl.linkedin.com/jobs/view/analista-qa-automatizador-mobile-at-kti-hunter-4436463787
 https://cl.linkedin.com/jobs/view/analista-qa-funcional-medios-de-pago-at-bc-tecnolog%C3%ADa-4424799496
+https://cl.linkedin.com/jobs/view/analista-qa-manual-at-sii-group-chile-4440849475
 https://cl.linkedin.com/jobs/view/analista-qa-net-sql-server-at-unbc-ltda-4415271214
 https://cl.linkedin.com/jobs/view/analista-qa-reemplazo-pre-y-post-natal-at-autofact-4436964444
 https://cl.linkedin.com/jobs/view/analista-qu%C3%ADmico-at-novofarma-service-s-a-4436973251
@@ -311,6 +304,7 @@ https://cl.linkedin.com/jobs/view/estimating-analyst-at-ingenierojob-4430272865
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-vantaz-group-4432912296
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-de-qa-y-automatizaci%C3%B3n-de-pruebas-de-software-at-testgroup-s-a-4435832584
+https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-inform%C3%A1tica-santiago-at-liebherr-mining-4439941050
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-ing-inform%C3%A1tica-programaci%C3%B3n-at-banco-bice-4431757396
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-analista-at-bsponsor-4432267691
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
@@ -383,6 +377,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-44
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
 https://cl.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-y-transformaci%C3%B3n-digital-at-tata-consultancy-services-4438536296
 https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
+https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-banco-bice-4438018774
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-cobranza-at-ripley-chile-4433711802
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
@@ -394,6 +389,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-infraestructura-it-f-m-d-at-porsc
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
 https://cl.linkedin.com/jobs/view/ingeniero-de-integraci%C3%B3n-at-taglermaq-spa-4416684291
+https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-banco-ripley-chile-4440850012
 https://cl.linkedin.com/jobs/view/ingeniero-de-inteligencia-artificial-at-negocios-ia-4410319368
 https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-%E8%80%90%E5%85%8B%E6%A3%AE%E4%B8%AD%E5%9B%BD-4431155764
 https://cl.linkedin.com/jobs/view/ingeniero-de-investigaci%C3%B3n-y-desarrollo-at-nexans-4430779637
@@ -427,6 +423,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-continuidad-operacional-t
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4431444049
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4431445035
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4434388784
+https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4439965439
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-sistemas-aguas-andinas-at-motorola-solutions-4411848627
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliza-4423185390
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-5ta-regi%C3%B3n-at-ntt-data-inc-4409280504
@@ -779,7 +776,9 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-7x7-mel-at-motorola-solutions-4432502241
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-en-terreno-tier-2-at-consultora-tu-psicolaboral-4440856037
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-subterr%C3%A1nea-at-sonda-4346336994
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-tier-1-data-center-at-consultora-tu-psicolaboral-4440835829
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-servicios-at-diprotec-chile-4426894693
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-the-email-company-4432431628
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-vigatec-4432433590
@@ -1978,6 +1977,7 @@ qaproyecto3meses|na
 redessoportetarapacatelecomunicaciones|na
 redessoporte|computrabajo
 redessubterraneatecnico|sonda
+redestecnicoterrenotier|consultoratupsicolaboral
 redestecnico|prontopaga
 remotosoportetecnico|inetum
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions

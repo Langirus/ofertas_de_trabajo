@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-ti-%E2%80%93-control-de-gesti%C3%B3n-at-inge%21-4419499896
-https://cl.linkedin.com/jobs/view/analista-ti-cumplimiento-y-gestion-de-informacion-at-banco-de-chile-4440239656
-https://cl.linkedin.com/jobs/view/analista-ti-spa-pwc-chile-at-pwc-chile-4429147157
 https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-lean-at-achs-seguro-laboral-4430121592
 https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-negocios-agf-at-banchile-inversiones-4426097977
 https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-natal-at-autofin-chile-4419509005
@@ -861,6 +858,7 @@ https://es.linkedin.com/jobs/view/analista-programador-a-as400-remoto-galicia-at
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-swift-100%25-remoto-at-altia-4439820464
 https://es.linkedin.com/jobs/view/analista-programador-a-gravity-remoto-at-plexus-tech-4434842958
+https://es.linkedin.com/jobs/view/analista-programador-java-100%25-teletrabajo-at-entelgy-4440665165
 https://es.linkedin.com/jobs/view/analista-programador-java-microservicios-teletrabajo-ingl%C3%A9s-b2-c1-at-knowmad-mood-4430004706
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4432278352
@@ -919,6 +917,7 @@ https://es.linkedin.com/jobs/view/generative-ai-engineer-python-%C2%B7-llms-%C2%
 https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4416115977
 https://es.linkedin.com/jobs/view/help-desk-n1-soporte-de-aplicaciones-remoto-at-between-group-4438675201
 https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
+https://es.linkedin.com/jobs/view/ingeniero-a-de-bases-de-datos-nosql-mongodb-teletrabajo-100%25-at-keapps-4441431852
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
 https://es.linkedin.com/jobs/view/ingeniero-a-de-integraciones-itsm-full-remote-spain-%E2%82%AC40k-%E2%82%AC48k-at-joppy-4435047603
@@ -1781,6 +1780,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440505445
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440651344
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440943981
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798

@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4427282494
-https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-java-at-citi-4437952385
-https://cl.linkedin.com/jobs/view/apps-dev-intmd-programmer-analyst-net-java-at-citi-4413574836
-https://cl.linkedin.com/jobs/view/asesor-a-t%C3%A9cnico-a-gr%C3%BAas-mar%C3%ADtimas-santiago-at-liebherr-mining-4422502028
-https://cl.linkedin.com/jobs/view/asistemte-de-soporte-inform%C3%A1tico-at-innovex-spa-4412014565
-https://cl.linkedin.com/jobs/view/asistente-administrativo-%E2%80%94-pizarro-y-saldivar-ingenieros-at-pizarro-y-sald%C3%ADvar-compa%C3%B1ia-ltda-4435918431
-https://cl.linkedin.com/jobs/view/asistente-administrativo-a-de-e-commerce-marketplaces-y-operaciones-at-euroshine-4431969969
-https://cl.linkedin.com/jobs/view/asistente-administrativo-a-tesla-at-people-match-4418631612
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-abbott-4439523394
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-casanova-group-chile-4414809615
 https://cl.linkedin.com/jobs/view/asistente-administrativo-at-distecna-chile-4434112162
@@ -314,6 +306,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sa
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-computer-vision-at-deliryum-ai-4426422158
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-generativa-at-isapre-nueva-masvida-4433892100
+https://cl.linkedin.com/jobs/view/ingeniero-de-infraestructura-at-autofin-chile-4441655397
 https://cl.linkedin.com/jobs/view/ingeniero-de-infraestructura-it-f-m-d-at-porsche-chile-4439475966
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-ia-at-movizzon-4410634184
 https://cl.linkedin.com/jobs/view/ingeniero-de-innovaci%C3%B3n-y-desarrollo-at-fda-ingenieros-4421597186
@@ -799,6 +792,7 @@ https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434288610
 https://co.linkedin.com/jobs/view/aprendiz-sena-remoto-colombia-at-empresa-confidencial-4431878229
 https://co.linkedin.com/jobs/view/consultor-a-junior-de-aplicaciones-empresariales-remoto-at-sperto-consulting-4433420464
+https://co.linkedin.com/jobs/view/data-engineer-microsoft-fabric-pyspark-remoto-colombia-at-ntt-data-europe-latam-4440766528
 https://co.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4440836643
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
@@ -930,6 +924,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-a
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
 https://es.linkedin.com/jobs/view/ingeniero-de-datos-teletrabajo-espa%C3%B1a-at-akkodis-4437270293
 https://es.linkedin.com/jobs/view/ingeniero-de-simulaci%C3%B3n-mec%C3%A1nica-y-estructural-openfoam-opensees-%E2%80%93-remoto-at-alignerr-4429194421
+https://es.linkedin.com/jobs/view/ingeniero-software-java-hexagonal-100%25-remoto-at-knowmad-mood-4440794433
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
 https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427212009
 https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427439842
@@ -1066,6 +1061,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4437302382
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
+https://mx.linkedin.com/jobs/view/fbs-information-security-analyst-remote-at-capgemini-4438735970
 https://mx.linkedin.com/jobs/view/financial-software-engineer-remote-at-quik-hire-staffing-4434014094
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
@@ -1150,6 +1146,7 @@ https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-441848
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4438283696
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4439441247
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
+https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-flavor-solutions-4440772899
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4434726074
 https://mx.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4435115870
@@ -1401,6 +1398,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
 https://www.chiletrabajos.cl/trabajo/asistente-de-venta-part-time-mall-alto-las-condes-3858600
 https://www.chiletrabajos.cl/trabajo/asistente-de-venta-part-time-mall-cenco-costanera-3858216
 https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
+https://www.chiletrabajos.cl/trabajo/asistente-ejecutivo-a-3868371
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
@@ -1665,6 +1663,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
+https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
@@ -1823,6 +1822,7 @@ informaticosoportetecnico|act
 informaticotecnico|terrefort
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructuraingenieroit|porsche
+infraestructuraingeniero|autofin
 infraestructurainversionespractica|principal
 infraestructurajuniorsoporteti|experis
 infraestructurapracticaprofesionalrenovable|copec

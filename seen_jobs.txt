@@ -1,8 +1,4 @@
-https://cl.linkedin.com/jobs/view/analistas-de-datos-at-deloitte-4440335444
-https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-at-deloitte-4413742403
-https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
-https://cl.linkedin.com/jobs/view/analistas-supply-chain-inventory-planning-at-deloitte-4430959905
-https://cl.linkedin.com/jobs/view/analyst-production-process-improvement-at-metso-4437316438
+https://cl.linkedin.com/jobs/view/analytics-engineer-at-epiroc-4440733692
 https://cl.linkedin.com/jobs/view/android-ml-engineer-remote-work-at-bairesdev-4436814458
 https://cl.linkedin.com/jobs/view/apoyo-t%C3%A9cnico-para-adm-y-an%C3%A1lisis-informaci%C3%B3n-media-jornada-cdc-mca-angol-at-ciudad-del-ni%C3%B1o-4416950053
 https://cl.linkedin.com/jobs/view/application-support-engineer-at-octave-4440241980
@@ -33,6 +29,7 @@ https://cl.linkedin.com/jobs/view/asistente-administrativo-rol-caja-antofagasta-
 https://cl.linkedin.com/jobs/view/asistente-administrativo-vespertino-de-seguridad-operacional-at-deloitte-4422996037
 https://cl.linkedin.com/jobs/view/asistente-administrativo-vespertino-de-seguridad-operacional-at-deloitte-4438818359
 https://cl.linkedin.com/jobs/view/asistente-atenci%C3%B3n-banca-personal-%E2%80%93-casa-matriz-santiago-at-banco-de-chile-4411790106
+https://cl.linkedin.com/jobs/view/asistente-contable-administrativo-at-resemin-4441465875
 https://cl.linkedin.com/jobs/view/asistente-cuidado-al-cliente-filial-blue-express-at-copec-s-a-4431984239
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
@@ -505,6 +502,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-experiencia-de-clientes-cencosud
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-full-stack-at-deliryum-ai-4428254521
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-gesti%C3%B3n-marcas-propias-tottus-at-tottus-4391385351
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inform%C3%A1tica-programaci%C3%B3n-regi%C3%B3n-de-antofagasta-at-enaex-4429688938
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-infraestructura-linux-changemakers-internship-program-ing-inform%C3%A1tica-at-accenture-chile-4440684705
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
@@ -948,6 +946,7 @@ https://es.linkedin.com/jobs/view/junior-developer-ai-app-web-cloud-data-machine
 https://es.linkedin.com/jobs/view/junior-devops-aws-%2B-databricks-100%25-remoto-espa%C3%B1a-at-ust-4433107092
 https://es.linkedin.com/jobs/view/junior-devops-aws-%2B-databricks-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4435207134
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
+https://es.linkedin.com/jobs/view/junior-fortinet-automation-engineer-terraform-python-100%25-remoto-at-alstech-4441438992
 https://es.linkedin.com/jobs/view/junior-java-developer-%2B-ia-100%25-remoto-at-knowmad-mood-4427244605
 https://es.linkedin.com/jobs/view/junior-mid-ai-legal-specialist-full-remote-spain-at-everai-4437461302
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
@@ -984,6 +983,7 @@ https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-iri
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-oracle-remoto-100%25-at-grupo-tecdata-engineering-4438390874
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-de-aplicaciones-l2-teletrabajo-100%25-at-plexus-tech-4438706852
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-google-cloud-remoto-at-infortec-consultores-4432547381
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y-sistemas-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4426858127

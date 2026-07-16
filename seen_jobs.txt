@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-lean-at-achs-seguro-laboral-4430121592
-https://cl.linkedin.com/jobs/view/analista-transformaci%C3%B3n-negocios-agf-at-banchile-inversiones-4426097977
-https://cl.linkedin.com/jobs/view/analista-validaci%C3%B3n-y-pago-reemplazo-pre-natal-at-autofin-chile-4419509005
-https://cl.linkedin.com/jobs/view/analista-web-gerencia-marketing-y-canales-reemplazo-pre-y-post-natal-santiago-at-salfa-rent-4430326213
 https://cl.linkedin.com/jobs/view/analistas-de-datos-at-deloitte-4440335444
 https://cl.linkedin.com/jobs/view/analistas-de-supply-chain-network-operations-at-deloitte-4413742403
 https://cl.linkedin.com/jobs/view/analistas-de-tecnolog%C3%ADa-human-capital-management-hcm-at-deloitte-4418191602
@@ -274,6 +270,7 @@ https://cl.linkedin.com/jobs/view/growth-marketing-analyst-at-kiosclub-american-
 https://cl.linkedin.com/jobs/view/hr-intern-practicante-de-comunicaciones-internas-at-dhl-global-forwarding-4416372002
 https://cl.linkedin.com/jobs/view/ia-engineer-at-mallplaza-4424743503
 https://cl.linkedin.com/jobs/view/ia-engineer-remoto-at-genesys-4423168519
+https://cl.linkedin.com/jobs/view/industrial-robotics-engineer-santiago-at-rex-zone-4440653428
 https://cl.linkedin.com/jobs/view/ingeniero-a-backend-at-tazki-4434654355
 https://cl.linkedin.com/jobs/view/ingeniero-a-compras-at-enaex-4413182172
 https://cl.linkedin.com/jobs/view/ingeniero-a-control-de-proyecto-at-ghd-4369163583
@@ -290,6 +287,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-integraciones-at-cl%C3%ADnica-meds-4439708173
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-provisi%C3%B3n-at-artikos-4428077329
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-proyectos-institucionales-huechuraba-presencial-universidad-san-sebasti%C3%A1n-at-universidad-san-sebasti%C3%A1n-4438482683
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
@@ -1761,6 +1759,7 @@ https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439703769
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439783390
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4440385993
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4440644521
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1789,6 +1788,7 @@ https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote
 https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4436491060
 https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4436997134
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
+huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados

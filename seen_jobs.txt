@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/analista-soporte-scada-at-aes-andes-4439898467
-https://cl.linkedin.com/jobs/view/analista-sox-at-claro-chile-s-a-4431247744
-https://cl.linkedin.com/jobs/view/analista-sr-de-operaciones-at-mailamericas-4417714909
-https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4415100246
-https://cl.linkedin.com/jobs/view/analista-sr-soporte-productivo-agf-at-banchile-inversiones-4429330679
 https://cl.linkedin.com/jobs/view/analista-sr-torre-de-control-automatizaci%C3%B3n-y-procesos-at-grupo-falabella-4440560665
 https://cl.linkedin.com/jobs/view/analista-ssr-de-datos-y-analitica-at-banchile-inversiones-4430036243
 https://cl.linkedin.com/jobs/view/analista-supply-chain-at-puma-group-4365349273
@@ -437,6 +432,7 @@ https://cl.linkedin.com/jobs/view/it-infrastructure-analyst-at-solventum-4422781
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
 https://cl.linkedin.com/jobs/view/it-support-trainee-at-cumplo-4422214414
 https://cl.linkedin.com/jobs/view/java-engineer-at-plan-a-technologies-4427224610
+https://cl.linkedin.com/jobs/view/java-trainee-j%C3%B3ven-profesional-ingenier%C3%ADa-inform%C3%A1tica-at-indra-group-4438422838
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-administraci%C3%B3n-y-finanzas-at-sacyr-4318395894
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
@@ -602,6 +598,7 @@ https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-f
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
 https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
+https://cl.linkedin.com/jobs/view/practicante-de-power-bi-at-vi%C3%B1a-concha-y-toro-4441410480
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-software-at-geolize-4431973418
@@ -1371,6 +1368,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-produ
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3856739
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-ti-42-horas-santiago-centro-sip-3854652
+https://www.chiletrabajos.cl/trabajo/analista-de-diseno-corporativo-3864024
 https://www.chiletrabajos.cl/trabajo/analista-de-diseno-y-marketing-3852721
 https://www.chiletrabajos.cl/trabajo/analista-de-experiencia-del-solicitante-3853767
 https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221
@@ -1418,6 +1416,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-anexo-arturo-del-rio-iquique-3839738
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-en-colina-martes-y-jueves-3421370
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-huechuraba-3626484
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-jornada-completa-3868153
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
@@ -1799,6 +1798,7 @@ iaoperacionespracticante|credit
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
 industrialmantenimientotecnico|chiletrabajos
+informaticaingenieriajavajovenprofesionaltrainee|indragroup
 informaticaingeniero|mcn
 informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal

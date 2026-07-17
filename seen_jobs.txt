@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-de-control-interno-full-time-jumbo-apoquindo-at-cencosud-s-a-4433512493
-https://cl.linkedin.com/jobs/view/asistente-de-control-interno-part-time-jumbo-apoquindo-at-cencosud-s-a-4433508592
-https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
-https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4434990128
-https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-idmotion-4434764036
 https://cl.linkedin.com/jobs/view/asistente-de-gerencia-at-mallplaza-4418454701
 https://cl.linkedin.com/jobs/view/asistente-de-gesti%C3%B3n-de-personas-at-colegio-san-benito-4417649284
 https://cl.linkedin.com/jobs/view/asistente-de-inventarios-at-reliper-s-a-4439348329
@@ -24,6 +19,7 @@ https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-ejecutiva-at-proyecta-inmobiliaria-4426852130
 https://cl.linkedin.com/jobs/view/asistente-ejecutivo-a-at-tecpromin-s-a-4419643322
+https://cl.linkedin.com/jobs/view/asistente-ejecutivo-a-de-gerencia-finanzas-an%C3%A1lisis-y-gesti%C3%B3n-estrat%C3%A9gica-at-atcom-chile-4442118733
 https://cl.linkedin.com/jobs/view/asistente-en-prevenci%C3%B3n-de-riesgos-santiago-at-plaenge-chile-4417668496
 https://cl.linkedin.com/jobs/view/asistente-log%C3%ADstico-at-ingesat-simm-4436979041
 https://cl.linkedin.com/jobs/view/asistente-logistico-at-sika-4433962563
@@ -135,6 +131,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-perform-4406402742
 https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
 https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
+https://cl.linkedin.com/jobs/view/data-engineer-cl-co-at-imagemaker-4442122303
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-at-deloitte-4420445787
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-1-at-ey-4436881165
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
@@ -553,6 +550,7 @@ https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
 https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-agentes-de-ia-%E2%80%93-planning-at-falabella-4436472928
+https://cl.linkedin.com/jobs/view/practicante-de-finanzas-internacionales-at-latam-airlines-4439246817
 https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
 https://cl.linkedin.com/jobs/view/practicante-de-optimizaci%C3%B3n-de-procesos-%C3%A1rea-de-proyectos-at-eticsa-4442105650
@@ -759,6 +757,7 @@ https://cl.linkedin.com/jobs/view/trainee-t%C3%A9cnico-at-tk-elevator-4438945430
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
+https://co.linkedin.com/jobs/view/ai-agent-engineer-python-gcp-llm-%E2%80%94-mcp-claude-%C2%B7-remoto-colombia-at-grupo-deacero-4441312237
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371013921
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371021540
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
@@ -1367,6 +1366,7 @@ https://www.chiletrabajos.cl/trabajo/analista-qa-junior-3861880
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-automatizacion-y-rpa-3846992
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-santiago-3865565
+https://www.chiletrabajos.cl/trabajo/apoyo-tecnico-administrativo-pozo-almonte-reemplazo-3868011
 https://www.chiletrabajos.cl/trabajo/aprendiz-de-escariador-3845421
 https://www.chiletrabajos.cl/trabajo/asesor-tecnico-herramientas-rubro-ferretero-santiago-3837786
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3840630

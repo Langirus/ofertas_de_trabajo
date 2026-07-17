@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-bostoneduca-4418344146
-https://cl.linkedin.com/jobs/view/asistente-administrativo-at-fundaci%C3%B3n-triangular-inclusiva-4428374582
-https://cl.linkedin.com/jobs/view/asistente-administrativo-at-ibis-ibis-styles-ibis-budget-4424576029
-https://cl.linkedin.com/jobs/view/asistente-administrativo-at-licencias-online-4431833602
-https://cl.linkedin.com/jobs/view/asistente-administrativo-at-rvq-spa-4433996621
-https://cl.linkedin.com/jobs/view/asistente-administrativo-contable-at-resemin-4436914376
-https://cl.linkedin.com/jobs/view/asistente-administrativo-contable-santiago-at-salfa-rent-4433447940
-https://cl.linkedin.com/jobs/view/asistente-administrativo-de-operaciones-at-corteva-agriscience-4399057765
 https://cl.linkedin.com/jobs/view/asistente-administrativo-de-proveedores-at-kiosclub-american-supermarket-4430609851
 https://cl.linkedin.com/jobs/view/asistente-administrativo-ii-%C3%A1rea-de-capacitaci%C3%B3n-at-freeport-mcmoran-4410198515
 https://cl.linkedin.com/jobs/view/asistente-administrativo-laboratorio-at-sgs-4438738596
@@ -571,6 +563,7 @@ https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airl
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
+https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-agentes-de-ia-%E2%80%93-planning-at-falabella-4436472928
 https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
 https://cl.linkedin.com/jobs/view/practicante-de-power-bi-at-vi%C3%B1a-concha-y-toro-4441410480
@@ -951,6 +944,7 @@ https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-traine
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4431274231
 https://es.linkedin.com/jobs/view/pr%C3%A1cticas-en-ciberseguridad-%E2%80%93-startup-healthtech-remoto-at-temotiva-4436791793
+https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
 https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027
@@ -1420,8 +1414,12 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-quilicura-3855484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-chiloe-3865326
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-comuna-arauco-3867088
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-comuna-constitucion-3867090
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-generales-nocturno-puente-alto-3771913
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-minera-escondida-3861912
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-punta-arenas-3866116
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
@@ -1505,6 +1503,7 @@ https://www.chiletrabajos.cl/trabajo/oferta-laboral-secretario-a-tecnico-a-admin
 https://www.chiletrabajos.cl/trabajo/paid-media-junior-creato-3853242
 https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farmacia-maipu-3844418
 https://www.chiletrabajos.cl/trabajo/postular/3809354
+https://www.chiletrabajos.cl/trabajo/practica-profesional-ciberseguridad-informatica-3861828
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practica-profesional-tecnico-o-ingeniero-en-prevencion-de-riesgos-3861745
@@ -1780,6 +1779,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440505445
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440651344
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440943981
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4441923867
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

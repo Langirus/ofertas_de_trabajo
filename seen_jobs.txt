@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-de-visual-30-hrs-falabella-valdivia-at-falabella-4416079142
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
 https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-independencia-at-falabella-4439391856
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
@@ -860,6 +859,7 @@ https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madr
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-python-%C2%B7-genai-%C2%B7-langchain-%C2%B7-rag-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4439223302
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-remote-at-qaracter-beyond-your-challenge-4435966637
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
+https://es.linkedin.com/jobs/view/data-scientist-ml-engineer-forecasting-genai-remoto-at-everfield-4408695171
 https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
 https://es.linkedin.com/jobs/view/database-reliability-engineer-dbre-remote-at-finom-4440892108
 https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719

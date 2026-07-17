@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-atenci%C3%B3n-banca-personal-%E2%80%93-casa-matriz-santiago-at-banco-de-chile-4411790106
-https://cl.linkedin.com/jobs/view/asistente-contable-administrativo-at-resemin-4441465875
-https://cl.linkedin.com/jobs/view/asistente-cuidado-al-cliente-filial-blue-express-at-copec-s-a-4431984239
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
 https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
 https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
@@ -400,6 +397,7 @@ https://cl.linkedin.com/jobs/view/junior-developer-at-visionone-chile-s-a-443801
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
+https://cl.linkedin.com/jobs/view/junior-renewals-specialist-at-clio-4424398689
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
 https://cl.linkedin.com/jobs/view/junior-sales-representative-at-quectel-4433285813
 https://cl.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436933939
@@ -866,6 +864,7 @@ https://es.linkedin.com/jobs/view/data-engineers-100%25-teletrabajo-incorporaci%
 https://es.linkedin.com/jobs/view/data-loss-prevention-dlp-analyst-insider-threat-risk-100%25-remote-within-spain-at-ust-4417956364
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-100%25-remote-at-ust-4428240980
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madrid-remoto-at-it-partner-4430839286
+https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-python-%C2%B7-genai-%C2%B7-langchain-%C2%B7-rag-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4439223302
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-remote-at-qaracter-beyond-your-challenge-4435966637
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
@@ -1917,6 +1916,7 @@ juniormonitoreotecnico|nttdata
 juniormonitorieooperador|computrabajo
 juniorpmoti|biometraaplicada
 juniorqa|na
+juniorrenewalsspecialist|clio
 juniorrepartidor|chiletrabajos
 juniorrepresentativesales|quectel
 juniorsantiagosoporteti|portal

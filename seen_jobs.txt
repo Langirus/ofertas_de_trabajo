@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-de-bodega-30-horas-media-jornada-ma%C3%B1ana-lunes-a-viernes-falabella-puerto-montt-at-falabella-4370892719
-https://cl.linkedin.com/jobs/view/asistente-de-bodega-44-horas-rotativo-5x2-falabella-costanera-at-falabella-4410762648
-https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4370722707
-https://cl.linkedin.com/jobs/view/asistente-de-calidad-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-santiago-at-sacyr-4435728033
-https://cl.linkedin.com/jobs/view/asistente-de-capacitaci%C3%B3n-at-ey-4398835193
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-full-time-jumbo-apoquindo-at-cencosud-s-a-4433512493
 https://cl.linkedin.com/jobs/view/asistente-de-control-interno-part-time-jumbo-apoquindo-at-cencosud-s-a-4433508592
 https://cl.linkedin.com/jobs/view/asistente-de-garant%C3%ADas-sucursal-vespucio-maip%C3%BA-at-salfa-rent-4415951799
@@ -202,6 +197,7 @@ https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-de-qa-y-automatizaci%C3%B3n-de-pruebas-de-software-at-testgroup-s-a-4435832584
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-inform%C3%A1tica-santiago-at-liebherr-mining-4439941050
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-ing-inform%C3%A1tica-programaci%C3%B3n-at-banco-bice-4431757396
+https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-paid-media-at-mmg-moov-media-group-4441998659
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-analista-at-bsponsor-4432267691
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4438268835
@@ -438,6 +434,7 @@ https://cl.linkedin.com/jobs/view/oferta-de-pr%C3%A1ctica-trabajo-de-t%C3%ADtulo
 https://cl.linkedin.com/jobs/view/oficial-soporte-administrativo-santiago-at-banco-popular-dominicano-4438991606
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
 https://cl.linkedin.com/jobs/view/operations-logistics-intern-3rd-4th-master-at-uber-4432321046
+https://cl.linkedin.com/jobs/view/pasante-practicante-analista-de-inversiones-at-grupo-palm-4439232766
 https://cl.linkedin.com/jobs/view/people-culture-oneroche-trainee-at-roche-4418440004
 https://cl.linkedin.com/jobs/view/people-operations-trainee-at-roche-4430405046
 https://cl.linkedin.com/jobs/view/personal-de-apoyo-para-gesti%C3%B3n-de-proyectos-y-l%C3%ADderes-t%C3%A9cnicos-at-unbc-ltda-4431547222
@@ -458,6 +455,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analyst-at-grupo-falabella-
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-at-falabella-4409123396
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-fork-at-fork-chile-4426402421
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-gesti%C3%B3n-de-personas-at-grupo-falabella-4441678335
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-drimo-4439235544
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-backend-para-desarrollo-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-at-ecoalliance-spa-4436958786
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
@@ -557,6 +555,7 @@ https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-fin
 https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-agentes-de-ia-%E2%80%93-planning-at-falabella-4436472928
 https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423533548
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
+https://cl.linkedin.com/jobs/view/practicante-de-optimizaci%C3%B3n-de-procesos-%C3%A1rea-de-proyectos-at-eticsa-4442105650
 https://cl.linkedin.com/jobs/view/practicante-de-power-bi-at-vi%C3%B1a-concha-y-toro-4441410480
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
@@ -1603,6 +1602,7 @@ https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-react-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/desarrollador-a-full-stack-manosya-chile-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-java-spring-boot-aws-tcit-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-junior-con-foco-en-ia-nico-seguros-santiago
 https://www.getonbrd.com/jobs/desarrollador-back-end-python-agencia-de-aduanas-felipe-serrano-santiago

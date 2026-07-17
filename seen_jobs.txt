@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-arauco-maip%C3%BA-at-falabella-4410299125
-https://cl.linkedin.com/jobs/view/asistente-de-visual-ft-42-hrs-falabella-independencia-at-falabella-4439391856
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
 https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
@@ -803,6 +801,7 @@ https://es.linkedin.com/jobs/view/ai-automation-engineer-remote-es-uk-only-at-qu
 https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-work-at-bairesdev-4424255475
 https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
 https://es.linkedin.com/jobs/view/ai-engineer-backend-remote-es-uk-only-at-quadrivia-ai-4424887846
+https://es.linkedin.com/jobs/view/ai-engineer-copilot-studio-100%25-remoto-at-it-partner-4441381044
 https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
 https://es.linkedin.com/jobs/view/ai-engineer-full-remote-at-everfield-4408695171
 https://es.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-4433667320
@@ -1014,6 +1013,7 @@ https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4431392249
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4433837800
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
+https://mx.linkedin.com/jobs/view/data-and-robotics-operations-analyst-100%25-remote-latin-america-based-at-glacier-4442185589
 https://mx.linkedin.com/jobs/view/data-business-analyst-remote-at-martine-law-pllc-criminal-defense-and-family-attorneys-4423960501
 https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993

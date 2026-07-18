@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
-https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-telecomunicaciones-talca-at-servicios-de-telecomunicaciones-olitel-4426037691
-https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-telecomunicaciones-valpara%C3%ADso-at-servicios-de-telecomunicaciones-olitel-4436871916
-https://cl.linkedin.com/jobs/view/asistente-ti-at-international-schools-partnership-limited-4435469331
-https://cl.linkedin.com/jobs/view/associate-consultant-intern-2027-%E2%80%93-santiago-chile-at-mastercard-4435623821
 https://cl.linkedin.com/jobs/view/associate-consultant-intern-at-simon-kucher-4401208401
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-afp-cuprum-4419805056
 https://cl.linkedin.com/jobs/view/associate-engineer-afp-at-principal-chile-4424638710
@@ -266,6 +261,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-operaciones-de-ti-at-onemarketer-
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-apiux-tech-4354281040
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-vigaflow-s-a-4418701715
 https://cl.linkedin.com/jobs/view/ingeniero-de-procesos-at-witi-4438687913
+https://cl.linkedin.com/jobs/view/ingeniero-de-producci%C3%B3n-pg-at-air-products-4424734778
 https://cl.linkedin.com/jobs/view/ingeniero-de-propuestas-trainee-at-freemaq-spa-4437109705
 https://cl.linkedin.com/jobs/view/ingeniero-de-proyectos-at-cmpc-4421228874
 https://cl.linkedin.com/jobs/view/ingeniero-de-redes-de-ti-at-empresa-confidencial-4437287565
@@ -687,6 +683,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-ti-concepci%C3%B3n-at-
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-telecomunicaciones-at-f-d-tecnolog%C3%ADa-spa-4436688376
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-terreno-infraestructura-tecnol%C3%B3gica-at-accenture-chile-4426178885
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-ti-at-empresa-confidencial-4433198229
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-ingenier%C3%ADa-mantenimiento-at-teva-pharmaceuticals-4432822923
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-at-prontopaga-4419950434
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-telecomunicaciones-y-redes-fibra-%C3%B3ptica-networking-soporte-ti-at-atcom-chile-4429127857
@@ -1740,6 +1737,7 @@ https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4438232746
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4441205487
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441947111
+https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442436393
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4442433426
@@ -1823,6 +1821,7 @@ infraestructurajuniorsoporteti|experis
 infraestructurapracticaprofesionalrenovable|copec
 infraestructuratecnicotecnologicaterreno|accenture
 ingenierialidertecnico|nttdata
+ingenieriamantenimientotecnico|tevapharmaceuticals
 ingenieriamodernizacionpracticantertuscada|siemens
 ingenieriaofertastrainee|siemens
 ingenieroinglesnivelsressr|chiletrabajos
@@ -1858,6 +1857,7 @@ ingenieropreventa|chiletrabajos
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroprocesos|witi
+ingenieroproduccion|airproducts
 ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent

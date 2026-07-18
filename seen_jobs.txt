@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/associate-product-analyst-at-principal-chile-4439495524
-https://cl.linkedin.com/jobs/view/auditor-interno-%E2%80%93-procesos-operacionales-at-banco-de-chile-4422019640
-https://cl.linkedin.com/jobs/view/automation-developer-con-automation-anywhere-junior-at-accenture-chile-4416514527
-https://cl.linkedin.com/jobs/view/automation-developer-rpa-ai-junior-at-accenture-chile-4416514527
 https://cl.linkedin.com/jobs/view/automation-engineer-at-blend-4436166302
 https://cl.linkedin.com/jobs/view/automation-internship-at-orion-latam-4437688554
 https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
@@ -197,6 +193,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-aplicaciones-y-conectividad-jun
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-control-operacional-at-chilexpress-4428303898
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-aws-big-data-at-bc-tecnolog%C3%ADa-4436960780
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-e-implementaci%C3%B3n-ti-zona-lacustre-at-sur-talent-4442483515
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-ia-at-faro-consultor%C3%ADa-selecci%C3%B3n-4430233762
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-ia-intermedio-at-r-y-c-consultores-asociados-4434618923
@@ -469,6 +466,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-de-software-at-forcast-4436973247
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-dise%C3%B1o-tur-com-at-copec-s-a-4433907344
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-automatizaci%C3%B3n-power-bi-e-inteligencia-artificial-at-sangmyung-university-4442488172
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-operaciones-at-juegos-de-video-latinoam%C3%A9rica-jvlat-4439320138
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-prevenci%C3%B3n-de-riesgos-at-automotriz-guillermo-morales-ltda-4428547998
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-riesgo-tecnol%C3%B3gico-at-ey-4422068517
@@ -719,6 +717,7 @@ https://cl.linkedin.com/jobs/view/trainee-identity-access-management-iam-cyberse
 https://cl.linkedin.com/jobs/view/trainee-mantenedor-a-mina-minera-spence-at-bhp-4439286235
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4434627649
+https://cl.linkedin.com/jobs/view/trainee-riesgo-para-reci%C3%A9n-titulados-at-autofin-chile-4442474941
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4436290092
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4402579969
@@ -1974,6 +1973,7 @@ productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
 qaproyecto3meses|na
+recienriesgotituladostrainee|autofin
 redessoportetarapacatelecomunicaciones|na
 redessoporte|computrabajo
 redessubterraneatecnico|sonda

@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-log%C3%ADstico-at-ingesat-simm-4436979041
-https://cl.linkedin.com/jobs/view/asistente-logistico-at-sika-4433962563
-https://cl.linkedin.com/jobs/view/asistente-marketing-digital-at-sfl-consulting-limitada-4421626981
-https://cl.linkedin.com/jobs/view/asistente-operativo-de-medio-ambiente-y-sustentabilidad-at-pgic-4416823557
-https://cl.linkedin.com/jobs/view/asistente-servicio-cliente-25hrs-rotativo-ikea-parque-arauco-at-ikea-4419118508
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-gerencia-ingenier%C3%ADa-at-copec-s-a-4415672738
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-telecomunicaciones-talca-at-servicios-de-telecomunicaciones-olitel-4426037691
 https://cl.linkedin.com/jobs/view/asistente-t%C3%A9cnico-telecomunicaciones-valpara%C3%ADso-at-servicios-de-telecomunicaciones-olitel-4436871916
@@ -551,6 +546,7 @@ https://cl.linkedin.com/jobs/view/practicante-it-bpo-at-dhl-global-forwarding-44
 https://cl.linkedin.com/jobs/view/practicante-log%C3%ADstico-a-repuestos-temuco-at-salfa-rent-4438978288
 https://cl.linkedin.com/jobs/view/practicante-marketing-digital-growth-junior-at-ell-cl-4433913139
 https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-at-grupo-falabella-4432143308
+https://cl.linkedin.com/jobs/view/practicante-mro-airbus-helic%C3%B3pteros-at-airbus-helicopters-4439604358
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
@@ -726,6 +722,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falab
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-en-ingenier%C3%ADa-de-ofertas-at-siemens-4440624993
 https://cl.linkedin.com/jobs/view/trainee-identity-access-management-iam-cybersecurity-automation-at-btg-pactual-chile-4438513139
+https://cl.linkedin.com/jobs/view/trainee-mantenedor-a-mina-minera-spence-at-bhp-4439286235
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4434627649
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4436290092
@@ -1709,6 +1706,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439740
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440649235
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440920107
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4441935782
+https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4442433668
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4437147530
@@ -1751,6 +1749,7 @@ https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4440385993
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4440644521
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4441941490
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442433678
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1931,6 +1930,7 @@ lissoporte|owlteamsolutions
 logisticapracticatalcahuano|rosen
 logisticopracticanterepuestostemuco|salfarent
 mantencionsantiagotecnico|chiletrabajos
+mantenedorminamineraspencetrainee|bhp
 mantenimientotecnico|carlsjr
 mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational

@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-alto-las-condes-at-falabella-4391131252
-https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-44-hrs-falabella-vi%C3%B1a-del-mar-at-falabella-4383812710
-https://cl.linkedin.com/jobs/view/asistente-de-visual-full-time-5x2-falabella-plaza-norte-at-falabella-4383430892
 https://cl.linkedin.com/jobs/view/asistente-ejecutiva-at-proyecta-inmobiliaria-4426852130
 https://cl.linkedin.com/jobs/view/asistente-ejecutivo-a-at-tecpromin-s-a-4419643322
 https://cl.linkedin.com/jobs/view/asistente-ejecutivo-a-de-gerencia-finanzas-an%C3%A1lisis-y-gesti%C3%B3n-estrat%C3%A9gica-at-atcom-chile-4442118733
@@ -543,6 +540,7 @@ https://cl.linkedin.com/jobs/view/practicante-de-informatica-at-estandariso-4423
 https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%B3n-scada-y-rtu-at-siemens-4426036094
 https://cl.linkedin.com/jobs/view/practicante-de-optimizaci%C3%B3n-de-procesos-%C3%A1rea-de-proyectos-at-eticsa-4442105650
 https://cl.linkedin.com/jobs/view/practicante-de-power-bi-at-vi%C3%B1a-concha-y-toro-4441410480
+https://cl.linkedin.com/jobs/view/practicante-de-procesos-at-vinci-compass-4441396338
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-software-at-geolize-4431973418
@@ -560,6 +558,7 @@ https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
+https://cl.linkedin.com/jobs/view/practicante-profesional-de-contenido-at-nutri-co-4442183368
 https://cl.linkedin.com/jobs/view/practicante-proyectos-operacionales-at-vinci-compass-4439986617
 https://cl.linkedin.com/jobs/view/practicante-riesgos-corporativos-at-latam-airlines-4437675592
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
@@ -1949,6 +1948,7 @@ operacionespracticaprofesionalservicios|ikea
 operacionespracticaprofesional|juegosdevideolatinoamricajvlat
 operationspeopletrainee|roche
 planificacionpracticantesoporte|airlines
+practicanteprocesos|vincicompass
 practicanteseguridadtecnologica|segurosfalabella
 practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|automotrizguillermomorales

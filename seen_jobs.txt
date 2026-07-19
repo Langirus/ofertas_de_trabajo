@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/automation-internship-at-orion-latam-4437688554
-https://cl.linkedin.com/jobs/view/automation-qa-engineers-at-haka-lab-4420177985
-https://cl.linkedin.com/jobs/view/automations-engineer-open-source-at-searchapi-4431716372
 https://cl.linkedin.com/jobs/view/auxiliar-administrativo-a-npsa3-at-undp-careers-4429833856
 https://cl.linkedin.com/jobs/view/auxiliar-administrativo-at-vsi-instrumentaci%C3%B3n-ltda-4431266516
 https://cl.linkedin.com/jobs/view/auxiliar-administrativo-financiero-at-cjr-renewables-4434041511
@@ -1141,6 +1138,7 @@ https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
+https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
@@ -1771,6 +1769,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4440943981
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4441923867
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442433404
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442509380
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979
@@ -1900,6 +1899,7 @@ jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
 jrrecruiterremoteservicesshared|hudsonrpo
 juniordataengineer|remoteok
+juniorkamsantiago|portal
 juniorliderproyectosantiagoti|portal
 juniorlogisticotecnico|computrabajo
 juniormetropolitanaregionsantiagosantiagotrabajos|portal

@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/auxiliar-administrativo-a-npsa3-at-undp-careers-4429833856
-https://cl.linkedin.com/jobs/view/auxiliar-administrativo-at-vsi-instrumentaci%C3%B3n-ltda-4431266516
-https://cl.linkedin.com/jobs/view/auxiliar-administrativo-financiero-at-cjr-renewables-4434041511
-https://cl.linkedin.com/jobs/view/auxiliar-at-engine-car-4425745414
 https://cl.linkedin.com/jobs/view/auxiliar-at-sociedad-frigorifico-san-jose-limitada-4437627894
 https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-falabella-vi%C3%B1a-del-mar-mall-full-time-44-hrs-l-v-at-falabella-4421223436
@@ -1123,6 +1119,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-mexico-remote-at-georgiatek-
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4434966832
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4435535353
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442471647
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442507670
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1700,6 +1697,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440649
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440920107
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4441935782
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4442433668
+https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4442522082
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4437147530
@@ -1744,6 +1742,7 @@ https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4440644521
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4441941490
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442433678
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442505628
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1761,6 +1760,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4440901884
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4441929913
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442426774
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442518087
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311

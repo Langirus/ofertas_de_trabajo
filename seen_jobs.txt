@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/auxiliar-at-sociedad-frigorifico-san-jose-limitada-4437627894
-https://cl.linkedin.com/jobs/view/auxiliar-contable-y-facturaci%C3%B3n-chile-at-dropi-oficial-4431153807
-https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-falabella-vi%C3%B1a-del-mar-mall-full-time-44-hrs-l-v-at-falabella-4421223436
-https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-full-time-42-hrs-falabella-independencia-at-falabella-4439006735
 https://cl.linkedin.com/jobs/view/auxiliar-de-abastecimiento-jornada-full-time-44-hrs-l-a-v-falabella-puente-at-falabella-4379229637
 https://cl.linkedin.com/jobs/view/auxiliar-de-areas-publicas-y-mucama-at-accor-4441766252
 https://cl.linkedin.com/jobs/view/auxiliar-de-aseo-at-cleaner-club-4437226767
@@ -792,6 +788,7 @@ https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
 https://es.linkedin.com/jobs/view/analista-de-datos-junior-soporte-funcional-power-bi-excel-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4439203730
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
+https://es.linkedin.com/jobs/view/analista-devops-remoto-at-getronics-4414318159
 https://es.linkedin.com/jobs/view/analista-funcional-contenedores-administraci%C3%B3n-digital-teletrabajo-at-heyclue-4435375664
 https://es.linkedin.com/jobs/view/analista-funcional-en-medios-de-pago-sat-100%25-teletrabajo-at-minsait-4437209882
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
@@ -1672,6 +1669,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439796148
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440502282
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440642691
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440907670
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4442517204
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1732,6 +1730,7 @@ https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4441205487
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441947111
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442436393
+https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442499972
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4442433426
@@ -1774,6 +1773,7 @@ https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4438169723
+https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4442523071
 https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4436491060
 https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4436997134
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003

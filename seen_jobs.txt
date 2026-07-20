@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/cientifico-de-datos-junior-at-eva-learning-4425847681
-https://cl.linkedin.com/jobs/view/client-engagement-data-analyst-ai-at-kraken-4392112544
-https://cl.linkedin.com/jobs/view/cloud-engineer-at-atmira-4435667316
-https://cl.linkedin.com/jobs/view/cloud-ops-engineer-at-confidential-4436116775
-https://cl.linkedin.com/jobs/view/cloudops-analyst-%E2%80%93-cloud-engineering-at-dxc-technology-4436526815
-https://cl.linkedin.com/jobs/view/collections-intern-at-gm-financial-4328843696
 https://cl.linkedin.com/jobs/view/commercial-data-analyst-at-procter-gamble-4430658621
 https://cl.linkedin.com/jobs/view/commercial-ops-analyst-home-care-chile-at-unilever-4431495277
 https://cl.linkedin.com/jobs/view/concurso-e-242026-desarrollador-junior-de-sistemas-at-universidad-austral-de-chile-4435685682
@@ -172,6 +166,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-terreno-rancagua-redes-
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-ti-biling%C3%BCe-at-ntt-data-inc-4399986971
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-automatizaci%C3%B3n-it-at-dr-pet-4437227636
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-tecnolog%C3%ADa-at-finning-4432220763
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-transformaci%C3%B3n-de-procesos-at-banco-bci-4442782801
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-desarrollo-vi%C3%B1a-del-mar-at-grupo-belator-4430103986
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-prevencion-de-riesgos-nivel-junior-antofagasta-at-sacyr-4387742339
 https://cl.linkedin.com/jobs/view/ingeniero-a-en-redes-at-brass-chile-4434014872
@@ -189,6 +184,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-
 https://cl.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-y-transformaci%C3%B3n-digital-at-tata-consultancy-services-4438536296
 https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-banco-bice-4438018774
+https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-sii-group-chile-4442747754
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-cobranza-at-ripley-chile-4433711802
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
@@ -984,6 +980,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bai
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4439444238
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4442203805
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434164402
+https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442219565
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
@@ -1084,6 +1081,7 @@ https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing
 https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing-4430495986
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4439436495
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4441308706
+https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4442094997
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-at-turing-4442205555
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4438291199
@@ -1092,6 +1090,7 @@ https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-444220
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4438283696
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4439441247
+https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4442095987
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-flavor-solutions-4440772899
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763
@@ -1850,6 +1849,7 @@ ingenieropasivosproduccionserviciossistemas|bancode
 ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieroprevencionriesgos|chiletrabajos
 ingenieropreventa|chiletrabajos
+ingenieroprocesostransformacion|bancobci
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroprocesos|witi

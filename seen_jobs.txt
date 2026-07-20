@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/bi-engineer-cencosud-media-at-cencosud-s-a-4416959794
-https://cl.linkedin.com/jobs/view/business-analyst-digital-commerce-at-cencosud-4435685826
-https://cl.linkedin.com/jobs/view/business-analyst-exp-en-productos-bancarios-at-metrica-chile-4435621744
-https://cl.linkedin.com/jobs/view/business-partner-in-m-w-d-international-production-at-k%C3%A4rcher-4418360627
 https://cl.linkedin.com/jobs/view/business-process-solutions-analyst-at-chubb-4434044583
 https://cl.linkedin.com/jobs/view/campaign-analyst-crm-y-personalizaci%C3%B3n-at-banco-falabella-4428314092
 https://cl.linkedin.com/jobs/view/cargo-soporte-t%C3%A9cnico-at-smartlift-4427826955
@@ -138,6 +134,7 @@ https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-platforms-at-ey-4426999650
 https://cl.linkedin.com/jobs/view/field-aplication-engineer-at-links-field-4433699987
 https://cl.linkedin.com/jobs/view/field-services-engineer-santiago-chile-at-stryker-4426110057
 https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-spanish-english-at-google-4418804121
+https://cl.linkedin.com/jobs/view/forward-deployed-engineer-software-engineer-at-elevenlabs-4442569778
 https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
 https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
@@ -1110,6 +1107,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4435535353
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442471647
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442507670
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442580295
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1759,6 +1757,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442426774
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442518087
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442575411
+https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
@@ -1768,6 +1767,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4441923867
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442433404
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442509380
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442566789
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

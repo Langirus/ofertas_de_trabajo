@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
-https://cl.linkedin.com/jobs/view/data-engineer-analyst-consultant-at-deloitte-4434007878
-https://cl.linkedin.com/jobs/view/data-engineer-at-accenture-chile-4405395478
-https://cl.linkedin.com/jobs/view/data-engineer-at-acl-4440490154
-https://cl.linkedin.com/jobs/view/data-engineer-at-confidential-4428961549
 https://cl.linkedin.com/jobs/view/data-engineer-at-falabella-4436119221
 https://cl.linkedin.com/jobs/view/data-engineer-at-hitss-chile-4440483113
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
@@ -565,6 +560,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-44
 https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4441343619
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
+https://cl.linkedin.com/jobs/view/software-engineer-qa-automation-gerencia-tecnologia-at-walmart-chile-4443514408
 https://cl.linkedin.com/jobs/view/software-qa-automation-engineer-at-advendio-4424425648
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
 https://cl.linkedin.com/jobs/view/soporte-al-cliente-at-keywe-4433900754
@@ -635,6 +631,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434167735
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-2-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434171612
 https://cl.linkedin.com/jobs/view/tech-functional-analyst-at-vr-group-chile-4433141097
+https://cl.linkedin.com/jobs/view/technical-services-analyst-analista-de-servicios-t%C3%A9cnicos-at-wenco-international-mining-systems-4442690023
 https://cl.linkedin.com/jobs/view/technical-solution-engineer-chile-at-contemporary-amperex-technology-co-limited-4409558231
 https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
 https://cl.linkedin.com/jobs/view/technical-support-specialist-%E2%80%93-entry-level-at-sovos-4434078343
@@ -776,6 +773,7 @@ https://es.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-i
 https://es.linkedin.com/jobs/view/cybersecurity-incident-response-analyst-full-remote-spain-at-joppy-4440642656
 https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
+https://es.linkedin.com/jobs/view/data-engineer-analyst-100%25-remote-spain-at-ust-4442616705
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
 https://es.linkedin.com/jobs/view/data-engineer-databricks-100%25-remoto-at-capitole-4433922526
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
@@ -888,6 +886,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-fu
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remote-at-bizneo-hr-4432363706
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
+https://es.linkedin.com/jobs/view/software-engineer-python-aws-100%25-remote-at-ust-4440469463
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
@@ -1356,6 +1355,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-huechuraba-3626484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-jornada-completa-3868153
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-part-time-3866736
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-3277404
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789

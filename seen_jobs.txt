@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/commercial-ops-analyst-home-care-chile-at-unilever-4431495277
-https://cl.linkedin.com/jobs/view/concurso-e-242026-desarrollador-junior-de-sistemas-at-universidad-austral-de-chile-4435685682
-https://cl.linkedin.com/jobs/view/consultor-analista-de-sistemas-at-mayro-consulting-4418785306
-https://cl.linkedin.com/jobs/view/consultor-appian-junior%F0%9F%92%A1-at-apiux-tech-4438437075
 https://cl.linkedin.com/jobs/view/convi%C3%A9rtete-en-el-pr%C3%B3ximo-trainee-ripley-valpara%C3%ADso-at-ripley-chile-4437803732
 https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
 https://cl.linkedin.com/jobs/view/coordinador-a-de-proyectos-y-analista-funcional-pmo-at-e-digital-4429408560
@@ -40,6 +36,7 @@ https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
 https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
 https://cl.linkedin.com/jobs/view/data-engineer-cl-co-at-imagemaker-4442122303
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-at-deloitte-4420445787
+https://cl.linkedin.com/jobs/view/data-engineer-gcp-at-stefanini-group-4442224900
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-1-at-ey-4436881165
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
 https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
@@ -385,6 +382,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-soporte-t%C3%A9cnico-ti-at-af
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-equipo-desarrollo-y-producto-cencosud-media-at-cencosud-s-a-4419519814
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-experiencia-de-clientes-cencosud-at-cencosud-s-a-4429772023
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-full-stack-at-deliryum-ai-4428254521
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-gesti%C3%B3n-de-valor-y-bienestar-corporativo-at-larrainvial-4443002908
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-gesti%C3%B3n-marcas-propias-tottus-at-tottus-4391385351
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inform%C3%A1tica-programaci%C3%B3n-regi%C3%B3n-de-antofagasta-at-enaex-4429688938
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-infraestructura-linux-changemakers-internship-program-ing-inform%C3%A1tica-at-accenture-chile-4440684705
@@ -413,6 +411,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamie
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-belleza-ecommerce-at-ripley-chile-4443008091
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-cadena-de-valor-at-toyota-chile-s-a-4439267098
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ciberseguridad-soc-at-nebulan-4437687564
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
@@ -621,6 +620,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-aire-acondicionado-hvac-equipos-e
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-solutions-4427848623
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4443049331
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-7x7-mel-at-motorola-solutions-4432502241
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427

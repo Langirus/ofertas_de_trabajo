@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/convi%C3%A9rtete-en-el-pr%C3%B3ximo-trainee-ripley-valpara%C3%ADso-at-ripley-chile-4437803732
-https://cl.linkedin.com/jobs/view/convocatoria-abierta-de-talento-%C3%A1reas-de-soporte-at-atkinsr%C3%A9alis-4424337974
-https://cl.linkedin.com/jobs/view/coordinador-a-de-proyectos-y-analista-funcional-pmo-at-e-digital-4429408560
-https://cl.linkedin.com/jobs/view/coordinador-control-interno-ti-at-vi%C3%B1a-concha-y-toro-4438281826
 https://cl.linkedin.com/jobs/view/coordinador-de-soporte-y-mejora-continua-at-travel-security-s-a-4433985526
 https://cl.linkedin.com/jobs/view/customer-service-specialist-soporte-t%C3%A9cnico-at-jbt-marel-4433520871
 https://cl.linkedin.com/jobs/view/customer-support-specialist-soporte-t%C3%A9cnico-remoto-at-jbt-marel-4411784310
@@ -1122,6 +1118,7 @@ https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
+https://portal.chiletrabajos.cl/empresa/icetel/trabajo/santiago-ingeniero-junior-3208128
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://portal.chiletrabajos.cl/empresa/seischile/trabajo/reemplazo-pbmo-junior-3465082
@@ -1664,6 +1661,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440502282
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440642691
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440907670
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4442517204
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443314371
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1737,6 +1735,7 @@ https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4441941490
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442433678
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442505628
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4443096874
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1756,6 +1755,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442426774
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442518087
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442575411
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4443301735
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093

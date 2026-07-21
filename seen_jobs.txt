@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/data-analyst-at-deloitte-4440841121
-https://cl.linkedin.com/jobs/view/data-analyst-at-equifax-4424634449
-https://cl.linkedin.com/jobs/view/data-analyst-at-groupe-sii-4425917166
 https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4432144288
 https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4436417073
 https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
@@ -39,6 +36,7 @@ https://cl.linkedin.com/jobs/view/data-operation-analyst-at-salfa-rent-443797499
 https://cl.linkedin.com/jobs/view/data-platform-engineer-at-buk-4435460395
 https://cl.linkedin.com/jobs/view/data-qa-analyst-at-blend-4425915891
 https://cl.linkedin.com/jobs/view/data-scientist-internship-at-hp-4434085875
+https://cl.linkedin.com/jobs/view/data-scientist-jr-at-saam-s-a-4440469241
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-coca-cola-andina-4440583374
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4417259086
 https://cl.linkedin.com/jobs/view/data-scientist-junior-at-confidential-4437641021
@@ -864,6 +862,7 @@ https://es.linkedin.com/jobs/view/junior-java-developer-%2B-ia-100%25-remoto-at-
 https://es.linkedin.com/jobs/view/junior-mid-ai-legal-specialist-full-remote-spain-at-everai-4437461302
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
+https://es.linkedin.com/jobs/view/junior-procurement-specialist-100%25-remote-at-ubq-io-4443383799
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
 https://es.linkedin.com/jobs/view/machine-learning-engineer-at-ntt-data-europe-latam-4430374625
@@ -907,6 +906,7 @@ https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-google-cloud-remoto-at-infortec
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-junior-de-automatizaci%C3%B3n-y-sistemas-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4426858127
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-funcional-y-t%C3%A9cnico-adobe-campaign-classic-100%25-remoto-at-abalia-4437687750
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-unix-linux-shell-scripting-remote-at-abalia-4433338928
+https://es.linkedin.com/jobs/view/tco-de-soporte-inform%C3%A1tico-dinahosting-posibilidad-teletrabajo-at-dinahosting-s-l-4443365006
 https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelight-4422665832
 https://hn.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427855862
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740

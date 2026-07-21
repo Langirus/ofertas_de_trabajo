@@ -1,14 +1,10 @@
-https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4432144288
-https://cl.linkedin.com/jobs/view/data-analyst-at-ikea-4436417073
-https://cl.linkedin.com/jobs/view/data-analyst-at-mallplaza-4415542663
-https://cl.linkedin.com/jobs/view/data-analyst-at-seguros-falabella-4438286166
-https://cl.linkedin.com/jobs/view/data-analyst-coreops-at-sumup-4398856375
-https://cl.linkedin.com/jobs/view/data-base-analyst-car-at-ghd-4310245503
 https://cl.linkedin.com/jobs/view/data-center-controls-engineer-controls-team-at-amazon-web-services-aws-4376148159
 https://cl.linkedin.com/jobs/view/data-engineer-analyst-consultant-at-deloitte-4434007878
 https://cl.linkedin.com/jobs/view/data-engineer-at-accenture-chile-4405395478
+https://cl.linkedin.com/jobs/view/data-engineer-at-acl-4440490154
 https://cl.linkedin.com/jobs/view/data-engineer-at-confidential-4428961549
 https://cl.linkedin.com/jobs/view/data-engineer-at-falabella-4436119221
+https://cl.linkedin.com/jobs/view/data-engineer-at-hitss-chile-4440483113
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4411819108
 https://cl.linkedin.com/jobs/view/data-engineer-at-ita%C3%BA-chile-4437461388
 https://cl.linkedin.com/jobs/view/data-engineer-at-jobgether-4418251205
@@ -144,6 +140,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-g
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-de-redes-l2-at-hitss-chile-4430645038
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-linux-at-workcapit-4443518148
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-terreno-rancagua-redes-ti-at-ntt-data-inc-4409286279
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-ti-biling%C3%BCe-at-ntt-data-inc-4399986971
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-automatizaci%C3%B3n-it-at-dr-pet-4437227636
@@ -302,6 +299,7 @@ https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperst
 https://cl.linkedin.com/jobs/view/junior-web-developer-at-veta-virtual-4439405720
 https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-latin-america-at-fullstack-4436105866
 https://cl.linkedin.com/jobs/view/l%C3%ADder-de-ciberseguridad-y-soporte-ti-at-it-hunter-4435468407
+https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-de-ia-at-hitss-chile-4440479243
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-fullstack-at-caja-los-andes-4435986334
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-soporte-at-konos-4439628170
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
@@ -1780,6 +1778,7 @@ huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
+ialidertecnico|hitss
 iaoperacionespracticante|credit
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
@@ -1835,6 +1834,7 @@ ingenierojuniortrabajos|portal
 ingenierojunior|computrabajo
 ingenieroklass|farmaciasahumada
 ingenierolearningmachine|innomotics
+ingenierolinuxsoporte|workcapit
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromlopsteletrabajo|irium

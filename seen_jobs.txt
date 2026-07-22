@@ -1,11 +1,6 @@
-https://cl.linkedin.com/jobs/view/data-engineer-at-qibit-4417867882
-https://cl.linkedin.com/jobs/view/data-engineer-at-sodimac-4425616570
-https://cl.linkedin.com/jobs/view/data-engineer-aws-at-accenture-chile-4419800346
-https://cl.linkedin.com/jobs/view/data-engineer-cl-co-at-imagemaker-4442122303
-https://cl.linkedin.com/jobs/view/data-engineer-gcp-at-deloitte-4420445787
-https://cl.linkedin.com/jobs/view/data-engineer-gcp-at-stefanini-group-4442224900
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-1-at-ey-4436881165
 https://cl.linkedin.com/jobs/view/data-engineer-gcp-consultant-at-ey-4415231880
+https://cl.linkedin.com/jobs/view/data-engineer-insights-engineer-at-infosys-4441022045
 https://cl.linkedin.com/jobs/view/data-engineer-jr-at-accenture-chile-4423321252
 https://cl.linkedin.com/jobs/view/data-engineer-junior-at-ntt-data-inc-4413650882
 https://cl.linkedin.com/jobs/view/data-engineer-looker-at-accenture-chile-4424049146
@@ -453,6 +448,7 @@ https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-441921463
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4440494578
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-software-at-geolize-4431973418
+https://cl.linkedin.com/jobs/view/practicante-desarrollo-organizacional-at-afp-habitat-4443701328
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-full-stack-next-js-desarrollo-de-software-de-gesti%C3%B3n-interna-at-betterbites-4432275151
@@ -515,6 +511,7 @@ https://cl.linkedin.com/jobs/view/sap-hcm-trainee-at-accenture-chile-4433408039
 https://cl.linkedin.com/jobs/view/sbr-prg-8334-analista-gestion-at-santander-chile-4433536647
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/se-necesita-asistente-de-facturacion-y-atencion-a-clientes-at-importadora-nova-s-a-4434241622
+https://cl.linkedin.com/jobs/view/search-engineer-ai-remote-work-ref%23298600-at-bairesdev-4443587333
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/seo-trainee-at-dentsu-4432699724
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
@@ -1058,6 +1055,7 @@ https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
 https://mx.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4440576939
+https://mx.linkedin.com/jobs/view/react-engineer-remote-work-ref%23298566-at-bairesdev-4443587327
 https://mx.linkedin.com/jobs/view/remote-ai-developer-internship-at-emma-of-torre-ai-4440033417
 https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-apis-at-azumo-4432076749
@@ -1483,6 +1481,7 @@ https://www.chiletrabajos.cl/trabajo/soporte-tecnico-junior-3861819
 https://www.chiletrabajos.cl/trabajo/soporte-ti-junior-3866556
 https://www.chiletrabajos.cl/trabajo/supervisor-a-de-monitoreo-geotecnico-3839921
 https://www.chiletrabajos.cl/trabajo/tecnico-a-en-climatizacion-hvac-7x7-mineria-3864903
+https://www.chiletrabajos.cl/trabajo/tecnico-a-en-educacion-parvularia-cuidadora-infantil-las-condes-3870433
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
@@ -1686,6 +1685,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4442433
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4442522082
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4443307658
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-4434143494
+https://www.linkedin.com/jobs/view/frontend-engineer-svelte-remote-work-ref%23295595-at-bairesdev-4429739090
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4437147530
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884

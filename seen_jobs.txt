@@ -1,12 +1,3 @@
-https://cl.linkedin.com/jobs/view/developer-fullstack-ai-product-engineer-at-axity-4425542708
-https://cl.linkedin.com/jobs/view/development-security-and-operations-engineer-at-dxc-technology-4330940039
-https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
-https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
-https://cl.linkedin.com/jobs/view/devops-security-analyst-at-association-of-universities-for-research-in-astronomy-4428193357
-https://cl.linkedin.com/jobs/view/devops-security-analyst-at-gemini-observatory-4428323360
-https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
-https://cl.linkedin.com/jobs/view/digital-solutions-analyst-junior-at-ausenco-4443149277
-https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-1-at-grupo-inteligencia-4428512052
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4428586552
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-3-at-grupo-inteligencia-4428599812
@@ -362,6 +353,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-automatizaci%C3%B
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-operaciones-at-juegos-de-video-latinoam%C3%A9rica-jvlat-4439320138
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-prevenci%C3%B3n-de-riesgos-at-automotriz-guillermo-morales-ltda-4428547998
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-riesgo-tecnol%C3%B3gico-at-ey-4422068517
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-seguridad-de-la-informaci%C3%B3n-at-fondo-esperanza-4443979771
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-estudiante-publicidad-o-afin-at-the-hotel-boutique-ltd-4439766020
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4431127755
@@ -623,6 +615,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falab
 https://cl.linkedin.com/jobs/view/trainee-en-ingenier%C3%ADa-de-ofertas-at-siemens-4440624993
 https://cl.linkedin.com/jobs/view/trainee-identity-access-management-iam-cybersecurity-automation-at-btg-pactual-chile-4438513139
 https://cl.linkedin.com/jobs/view/trainee-mantenedor-a-mina-minera-spence-at-bhp-4439286235
+https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-private-at-seidor-4441085393
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4434627649
 https://cl.linkedin.com/jobs/view/trainee-riesgo-para-reci%C3%A9n-titulados-at-autofin-chile-4442474941
@@ -941,6 +934,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442219565
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
+https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-brasil-4444205664
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434773933
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434941263
@@ -1315,6 +1309,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-a
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-part-time-3863689
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
 https://www.chiletrabajos.cl/trabajo/asistente-de-credito-y-cobranzas-cerrillos-3863358
+https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-3870024
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-3859566
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
 https://www.chiletrabajos.cl/trabajo/asistente-de-hogar-casa-particular-puertas-adentro-3814392
@@ -1613,6 +1608,7 @@ https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/qa-junior-funcional-y-automatizacion-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/real-time-ai-orchestration-engineer-sugarshan-inc-remote
 https://www.getonbrd.com/jobs/ruby-on-rails-engineer-automatizacion-e-ia-grupo-amoble-santiago
@@ -1626,6 +1622,7 @@ https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiag
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.getonbrd.com/jobs/soporte-de-redes-y-telecomunicaciones-tarapaca-bc-tecnologia-iquique
+https://www.getonbrd.com/jobs/soporte-e-infraestructura-apex-group-chile-santiago
 https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
@@ -1779,6 +1776,7 @@ iaoperacionespracticante|credit
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
 industrialmantenimientotecnico|chiletrabajos
+informacionpracticaprofesionalseguridad|fondoesperanza
 informaticaingenieriajavajovenprofesionaltrainee|indragroup
 informaticaingenieriapracticante|chiletrabajos
 informaticaingeniero|mcn
@@ -1810,6 +1808,7 @@ infraestructuraingeniero|autofin
 infraestructurainversionespractica|principal
 infraestructurajuniorsoporteti|experis
 infraestructurapracticaprofesionalrenovable|copec
+infraestructurasoporte|na
 infraestructuratecnicotecnologicaterreno|accenture
 ingenierialidertecnico|nttdata
 ingenieriamantenimientotecnico|tevapharmaceuticals
@@ -1969,6 +1968,7 @@ practicati|ucchristus
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 presencialsoportetecnico|conytecconsultores
 prevencionriesgostecnicotrainee|chiletrabajos
+privateprogramsapseidortrainee|seidor
 productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4439861595
-https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/developer-fullstack-ai-product-engineer-at-axity-4425542708
 https://cl.linkedin.com/jobs/view/development-security-and-operations-engineer-at-dxc-technology-4330940039
 https://cl.linkedin.com/jobs/view/devops-engineer-at-epam-systems-4410399445
@@ -1269,6 +1267,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3863435
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
+https://www.chiletrabajos.cl/trabajo/analista-control-de-gestion-abastecimiento-renca-3792698
 https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-3856272
 https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
@@ -1691,6 +1690,7 @@ https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesde
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-indi-staffing-services-4441203387
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-indi-staffing-services-4440986941
+https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4443942301
 https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4408839941

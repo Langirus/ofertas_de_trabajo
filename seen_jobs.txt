@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/desarrollador-junior-full-stack-at-inge%21-4439583351
-https://cl.linkedin.com/jobs/view/desarrollador-pr%C3%A1ctica-profesional-en-%C3%A1rea-de-agilidad-at-banco-bice-4440078378
-https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
-https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4415669183
 https://cl.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4439861595
 https://cl.linkedin.com/jobs/view/developer-full-stack-junior-at-ironside-fitness-4412818831
 https://cl.linkedin.com/jobs/view/developer-fullstack-ai-product-engineer-at-axity-4425542708
@@ -793,9 +789,11 @@ https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-
 https://es.linkedin.com/jobs/view/ingeniero-a-de-bases-de-datos-nosql-mongodb-teletrabajo-100%25-at-keapps-4441431852
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
+https://es.linkedin.com/jobs/view/ingeniero-a-de-integraci%C3%B3n-y-automatizaci%C3%B3n-teletrabajo-at-irium-4443913722
 https://es.linkedin.com/jobs/view/ingeniero-a-de-integraciones-itsm-full-remote-spain-%E2%82%AC40k-%E2%82%AC48k-at-joppy-4435047603
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-3d-teletrabajo-100%25-at-keapps-4440545976
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
+https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-de-informaci%C3%B3n-al-viajero-pis-100%25-remoto-at-astek-4441048634
 https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-de-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439993888
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
@@ -1032,6 +1030,7 @@ https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoi
 https://mx.linkedin.com/jobs/view/python-%2Bai-fullstack-engineer-remote-in-mexico-at-pyramid-consulting-inc-4439308638
 https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
+https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4443950280
 https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4436292216
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
@@ -1617,6 +1616,7 @@ https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santia
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/real-time-ai-orchestration-engineer-sugarshan-inc-remote
+https://www.getonbrd.com/jobs/ruby-on-rails-engineer-automatizacion-e-ia-grupo-amoble-santiago
 https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
 https://www.getonbrd.com/jobs/senior-full-stack-ruby-on-rails-engineer-autoraptor-remote
 https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote

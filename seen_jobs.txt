@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/desarrollador-de-sw-programa-fresh-graduates-at-sonda-4439337968
-https://cl.linkedin.com/jobs/view/desarrollador-full-stack-trainee-at-getdata-cl-4433979231
-https://cl.linkedin.com/jobs/view/desarrollador-fullstack-junior-at-avos-tech-chile-4420407373
-https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4433524289
-https://cl.linkedin.com/jobs/view/desarrollador-jr-at-conkord-4435821283
-https://cl.linkedin.com/jobs/view/desarrollador-junior-en-inteligencia-artificial-computer-vision-at-kuidda-4426451384
 https://cl.linkedin.com/jobs/view/desarrollador-junior-full-stack-at-inge%21-4439583351
 https://cl.linkedin.com/jobs/view/desarrollador-pr%C3%A1ctica-profesional-en-%C3%A1rea-de-agilidad-at-banco-bice-4440078378
 https://cl.linkedin.com/jobs/view/desarrollador-python-jr-%F0%9F%90%9D-at-apiux-tech-4411529555
@@ -17,6 +11,7 @@ https://cl.linkedin.com/jobs/view/devops-engineer-aws-at-epam-systems-4406444822
 https://cl.linkedin.com/jobs/view/devops-security-analyst-at-association-of-universities-for-research-in-astronomy-4428193357
 https://cl.linkedin.com/jobs/view/devops-security-analyst-at-gemini-observatory-4428323360
 https://cl.linkedin.com/jobs/view/digital-media-trainee-at-beiersdorf-4418768891
+https://cl.linkedin.com/jobs/view/digital-solutions-analyst-junior-at-ausenco-4443149277
 https://cl.linkedin.com/jobs/view/ecommerce-new-business-intern-pr%C3%A1ctica-profesional-inicia-en-julio-at-samsung-electronics-chile-4417657347
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-1-at-grupo-inteligencia-4428512052
 https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4428586552
@@ -491,6 +486,7 @@ https://cl.linkedin.com/jobs/view/sbr-prg-8334-analista-gestion-at-santander-chi
 https://cl.linkedin.com/jobs/view/scouting-internacional-at-revival-football-4414811578
 https://cl.linkedin.com/jobs/view/se-necesita-asistente-de-facturacion-y-atencion-a-clientes-at-importadora-nova-s-a-4434241622
 https://cl.linkedin.com/jobs/view/search-engineer-ai-remote-work-ref%23298600-at-bairesdev-4443587333
+https://cl.linkedin.com/jobs/view/secretario-a-t%C3%A9cnico-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4443167070
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/seo-trainee-at-dentsu-4432699724
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
@@ -560,6 +556,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc
 https://cl.linkedin.com/jobs/view/soporte-ti-at-nortrans-4434556092
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
+https://cl.linkedin.com/jobs/view/soporte-y-administrador-servicenow-las-condes-at-ada-4-solutions-head-hunting-4443162240
 https://cl.linkedin.com/jobs/view/sql-functional-analyst-at-vr-group-chile-4436692020
 https://cl.linkedin.com/jobs/view/sql-tech-business-analyst-at-vr-group-chile-4437221734
 https://cl.linkedin.com/jobs/view/sr-fullstack-software-engineer-at-grupo-falabella-4436330944
@@ -1329,6 +1326,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-venta-part-time-mall-cenco-cos
 https://www.chiletrabajos.cl/trabajo/asistente-de-venta-presencial-3869498
 https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
 https://www.chiletrabajos.cl/trabajo/asistente-ejecutivo-a-3868371
+https://www.chiletrabajos.cl/trabajo/asistente-gestion-de-activos-san-sebastian-3852813
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
@@ -1402,6 +1400,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-autom
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-sre-ssr-nivel-ingles-avanzado-3823795
 https://www.chiletrabajos.cl/trabajo/ingeniero-certificado-nfpa-proyectos-de-sistemas-de-incendio-3826055
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3624108
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-junior-puerto-montt-3856472
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-preventa-3865825
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-proyectos-de-innovacion-y-desarrollo-pudahuel-3847717
@@ -1547,6 +1546,7 @@ https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote
+https://www.getonbrd.com/jobs/data-engineer-etl-ryc-tech-group-santiago
 https://www.getonbrd.com/jobs/data-engineer-gcp-coderslab-io-remote
 https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-coderslab-io-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a

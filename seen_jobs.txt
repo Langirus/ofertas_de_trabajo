@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/data-engineer-opentelemetry-at-accenture-chile-4424035877
-https://cl.linkedin.com/jobs/view/data-engineer-remote-latin-america-at-fullstack-4430148038
-https://cl.linkedin.com/jobs/view/data-intelligence-analyst-at-principal-chile-4414749407
-https://cl.linkedin.com/jobs/view/data-machine-learning-engineer-at-idt-corporation-4436439587
-https://cl.linkedin.com/jobs/view/data-management-analyst-advanced-english-at-ghd-4412863750
 https://cl.linkedin.com/jobs/view/data-management-analyst-at-experian-spanish-latam-4420681214
 https://cl.linkedin.com/jobs/view/data-operation-analyst-at-salfa-rent-4437974996
 https://cl.linkedin.com/jobs/view/data-platform-engineer-at-buk-4435460395
@@ -114,6 +109,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-de-proyectos-institucionales-huech
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
+https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-junior-media-jornada-at-direcci%C3%B3n-de-personas-uandes-4442993424
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-de-redes-l2-at-hitss-chile-4430645038
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-linux-at-workcapit-4443518148
@@ -1083,6 +1079,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442507670
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442580295
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4443308472
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4443745557
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1189,6 +1186,7 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-new-grad-production-in
 https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626
 https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096
 https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102
+https://uy.linkedin.com/jobs/view/ai-engineer-%F0%9F%92%BB-us-saas-startup-%F0%9F%9A%80%F0%9F%87%BA%F0%9F%87%B8-remote-at-atomic-remote-jobs-4443763390
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/graduate-sales-development-representative-canada-remote-at-canonical-4442564132
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
@@ -1652,6 +1650,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440642691
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440907670
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4442517204
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443314371
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443742883
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1823,6 +1822,7 @@ ingenierointegraciones|clnicameds
 ingenierointegracion|taglermaq
 ingenierointegradospreventaproyectos|chiletrabajos
 ingenierojavaremotosoftwaretrabajo|bairesdev
+ingenierojornadajuniormediasoftware|direccindepersonasuandes
 ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojrtableauvisualizacion|apiuxtech

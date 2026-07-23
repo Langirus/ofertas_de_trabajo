@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-analista-at-bsponsor-4432267691
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4438268835
-https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-business-transformation-at-ey-4428421153
-https://cl.linkedin.com/jobs/view/ey-fastpass-pr%C3%A1ctica-profesional-supply-chain-at-ey-4428420209
-https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ai-data-at-ey-4426988728
 https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-ciberseguridad-at-ey-4427203640
 https://cl.linkedin.com/jobs/view/ey-fastpass-trainee-platforms-at-ey-4426999650
 https://cl.linkedin.com/jobs/view/field-aplication-engineer-at-links-field-4433699987
@@ -71,6 +65,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-i%2Bdevops-at-banco-bci-4441413465
 https://cl.linkedin.com/jobs/view/ingeniero-a-inform%C3%A1tico-a-junior-formaci%C3%B3n-en-gemelos-digitales-y-tecnolog%C3%ADas-at-segsal-latam-spa-4441243874
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
+https://cl.linkedin.com/jobs/view/ingeniero-a-pod-junior-at-r-q-ingenier%C3%ADa-4441541197
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4431878182
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
@@ -512,6 +507,7 @@ https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-ste
 https://cl.linkedin.com/jobs/view/soporte-e-commerce-n1-n2-portuges-avanzado-at-acl-4434565080
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
+https://cl.linkedin.com/jobs/view/soporte-lis-at-eva-learning-4441530691
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-lis-at-randstad-chile-4440486704
 https://cl.linkedin.com/jobs/view/soporte-mesa-de-ayuda-santiago-at-grupo-avanza-4416945891
@@ -845,6 +841,7 @@ https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec
 https://es.linkedin.com/jobs/view/sre-engineer-docker-python-ingles-b2-remoto-espa%C3%B1a-h-m-x-at-experis-espa%C3%B1a-4435662869
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-monitorizaci%C3%B3n-24x7-remoto-at-aubay-spain-4412885387
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-oracle-remoto-100%25-at-grupo-tecdata-engineering-4438390874
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-de-aplicaciones-l2-teletrabajo-100%25-at-plexus-tech-4438706852
@@ -1329,6 +1326,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-o-tecnico-en-farmacia-
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-quilicura-3855484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-vitacura-3818863
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-pasteleria-pastelera-o-3809556
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-chiloe-3865326
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-comuna-arauco-3867088
@@ -1823,6 +1821,7 @@ ingenierojornadajuniormediasoftware|direccindepersonasuandes
 ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojrtableauvisualizacion|apiuxtech
+ingenierojuniorpod|rqingeniera
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortableauvisualizacion|apiuxtech
@@ -1923,6 +1922,7 @@ lidersoportetecnico|konos
 lidersoportetecnico|na
 lidertecnicoti|empresaconfidencial
 linuxremotescriptingshelltecnicounix|abalia
+lissoporte|evalearning
 lissoporte|owlteamsolutions
 lissoporte|randstad
 logisticapracticatalcahuano|rosen

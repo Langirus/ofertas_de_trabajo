@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/forward-deployed-engineer-iii-generative-ai-google-cloud-spanish-english-at-google-4418804121
-https://cl.linkedin.com/jobs/view/forward-deployed-engineer-software-engineer-at-elevenlabs-4442569778
-https://cl.linkedin.com/jobs/view/full-stack-ai-engineer-at-jobgether-4425082430
-https://cl.linkedin.com/jobs/view/full-stack-engineer-java-%2B-angular-remote-latin-america-at-fullstack-4419901221
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-imprescindible-full-ingles-at-svirtual-cl-4434864727
 https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4430790028
@@ -167,6 +163,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-programaci%C3%B3n-y-control-rysfa-02
 https://cl.linkedin.com/jobs/view/ingeniero-rpa-webscraping-at-inteligencia-artificial-chile-4426864657
 https://cl.linkedin.com/jobs/view/ingeniero-sistemas-y-seguridad-at-netline-4420128860
 https://cl.linkedin.com/jobs/view/ingeniero-supply-chain-at-cmpc-4436154760
+https://cl.linkedin.com/jobs/view/ingeniero-ti-desarrollo-anaplan-at-vi%C3%B1a-concha-y-toro-4444747040
 https://cl.linkedin.com/jobs/view/ingeniero-tibco-at-tata-consultancy-services-4430198302
 https://cl.linkedin.com/jobs/view/ingenieros-as-%C2%A0de%C2%A0gesti%C3%B3n%C2%A0y%C2%A0reportabilidad%C2%A0cod-7031-03-at-r-q-ingenier%C3%ADa-4431076118
 https://cl.linkedin.com/jobs/view/inserci%C3%B3n-de-becarios-at-centro-de-investigaci%C3%B3n-educativa-ciedu-aip-4435403446
@@ -343,6 +340,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-de-produ
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-subgerencia-finanzas-at-copec-s-a-4414888407
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-tecnolog%C3%ADa-at-ripley-chile-4428135167
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-banco-ripley-chile-4423513860
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-intersystems-4444736155
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ti-at-ripley-chile-4437279510
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-trainee-ai-engineer-%F0%9F%9A%80-at-apiux-tech-4409622036
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-programador-automatizador-at-banco-falabella-4425918627
@@ -1249,6 +1247,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-38562
 https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-calidad-sector-norte-3861223
+https://www.chiletrabajos.cl/trabajo/analista-de-clientes-y-subcontratos-finanzas-3871537
 https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-metro-manquehue-3838576
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
@@ -1958,6 +1957,7 @@ practicaprofesionalriesgotecnologico|ey
 practicaprofesionalsoportetecnicoti|tigroup
 practicaprofesionaltecnologia|ripley
 practicaprofesionalti|bancoripley
+practicaprofesionalti|intersystems
 practicaprofesionalti|ripley
 practicaprogramaciontecnologia|btgpactual
 practicariesgo|bancofalabella

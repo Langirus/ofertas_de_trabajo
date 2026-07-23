@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4440196096
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-de-qa-y-automatizaci%C3%B3n-de-pruebas-de-software-at-testgroup-s-a-4435832584
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-inform%C3%A1tica-santiago-at-liebherr-mining-4439941050
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-ing-inform%C3%A1tica-programaci%C3%B3n-at-banco-bice-4431757396
-https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-paid-media-at-mmg-moov-media-group-4441998659
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-analista-at-bsponsor-4432267691
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4419504494
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1cticas-at-sick-sensor-intelligence-4438268835
@@ -407,6 +401,7 @@ https://cl.linkedin.com/jobs/view/practicante-ia-operaciones-at-credit%C3%BA-442
 https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
 https://cl.linkedin.com/jobs/view/practicante-it-bpo-at-dhl-global-forwarding-4440984765
 https://cl.linkedin.com/jobs/view/practicante-log%C3%ADstico-a-repuestos-temuco-at-salfa-rent-4438978288
+https://cl.linkedin.com/jobs/view/practicante-marketing-digital-at-ikai-vr-foods-4444456028
 https://cl.linkedin.com/jobs/view/practicante-marketing-digital-growth-junior-at-ell-cl-4433913139
 https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-at-grupo-falabella-4432143308
 https://cl.linkedin.com/jobs/view/practicante-mro-airbus-helic%C3%B3pteros-at-airbus-helicopters-4439604358
@@ -475,6 +470,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4436622196
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
 https://cl.linkedin.com/jobs/view/software-engineer-at-checkr-inc-4422661500
 https://cl.linkedin.com/jobs/view/software-engineer-at-drimo-4440194015
+https://cl.linkedin.com/jobs/view/software-engineer-at-duemint-4441534114
 https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178
@@ -1418,6 +1414,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-junior-3792994
 https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-proyectos-integrados-3850655
 https://www.chiletrabajos.cl/trabajo/ingeniero-programacion-y-control-deseable-experiencia-obra-ferroviaria-vina-3846121
 https://www.chiletrabajos.cl/trabajo/ingeniero-qa-automatizador-3857784
+https://www.chiletrabajos.cl/trabajo/ingeniero-telecomunicaciones-3870623
 https://www.chiletrabajos.cl/trabajo/ingeniero-trabajo-estandarizado-equipo-pesado-3864602
 https://www.chiletrabajos.cl/trabajo/it-junior-3839667
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
@@ -1461,6 +1458,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-en-educacion-parvularia-cuidadora
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
+https://www.chiletrabajos.cl/trabajo/tecnico-climatizacion-y-o-ayudantes-con-conocimientos-3864989
 https://www.chiletrabajos.cl/trabajo/tecnico-de-monitoreo-geotecnico-3867265
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-onsite-faena-minera-las-tortolas-turno-7x7-3867586
@@ -1611,6 +1609,7 @@ https://www.getonbrd.com/jobs/senior-full-stack-ruby-on-rails-engineer-autorapto
 https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote
 https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
+https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-d014
 https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
@@ -1880,6 +1879,7 @@ ingenierosoportetecnologia|finning
 ingenierosoporte|apiuxtech
 ingenierosoporte|gausscontrol
 ingenierosoporte|tecnologiainformatica
+ingenierotelecomunicaciones|chiletrabajos
 ingenierotibco|tataconsultancyservices
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 inlcusionjrlaboralremotosoporteti|ferrostaalc

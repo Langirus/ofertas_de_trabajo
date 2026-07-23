@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-1-at-grupo-inteligencia-4428512052
-https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4428586552
-https://cl.linkedin.com/jobs/view/ejecutivas-o-asesoras-de-inversiones-con-experiencia-o-sin-experiencia-3-at-grupo-inteligencia-4428599812
-https://cl.linkedin.com/jobs/view/ejecutivo-a-asistente-de-contratos-at-go-4430113205
 https://cl.linkedin.com/jobs/view/ejecutivo-o-asesor-de-inversiones-trainee-at-grupo-inteligencia-4421905326
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4425718986
 https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-trainee-2026-18-at-grupo-inteligencia-4425349468
@@ -105,6 +101,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-baires
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-banco-bice-4438018774
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-sii-group-chile-4442747754
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-cobranza-at-ripley-chile-4433711802
+https://cl.linkedin.com/jobs/view/ingeniero-de-datos-sede-central-at-inacap-4443438244
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sat-job-consultancy-reclutamiento-y-selecci%C3%B3n-4433195246
@@ -317,6 +314,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a-4416901036
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-mejora-continua-y-power-apps-at-vi%C3%B1a-concha-y-toro-4444242820
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-pasant%C3%ADa-%C3%A1rea-legal-at-sacyr-4321283775
@@ -359,6 +357,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fi
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4431127755
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-infraestructura-renovable-at-copec-s-a-4421597787
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ingenier%C3%ADa-inform%C3%A1tica-programaci%C3%B3n-geograf%C3%ADa-o-carrera-a-f%C3%ADn-at-praxis-personas-4441080741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inventarios-y-control-de-gesti%C3%B3n-at-copec-s-a-4414880614
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-operaciones-servicios-at-ikea-4442134771
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-power-apps-transformaci%C3%B3n-digital-at-vi%C3%B1a-concha-y-toro-4437404587
@@ -1540,6 +1539,7 @@ https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote
 https://www.getonbrd.com/jobs/data-engineer-etl-ryc-tech-group-santiago
+https://www.getonbrd.com/jobs/data-engineer-factor-it-remote-33e7
 https://www.getonbrd.com/jobs/data-engineer-gcp-coderslab-io-remote
 https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-coderslab-io-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a

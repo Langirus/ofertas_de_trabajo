@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-con-experiencia-o-sin-experiencia-2-at-grupo-inteligencia-4425718986
-https://cl.linkedin.com/jobs/view/ejecutivos-o-asesores-de-inversiones-trainee-2026-18-at-grupo-inteligencia-4425349468
-https://cl.linkedin.com/jobs/view/encargado-de-postventa-y-soporte-ti-at-kubi-lockers-4422746817
-https://cl.linkedin.com/jobs/view/enterprise-integration-engineer-at-shinkansen-4426884740
-https://cl.linkedin.com/jobs/view/enterprise-solutions-engineer-chile-at-elevenlabs-4432112885
-https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434277609
-https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436997787
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4437103286
 https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440011992
 https://cl.linkedin.com/jobs/view/estimating-analyst-at-ingenierojob-4430272865
@@ -345,6 +338,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-traine
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-de-software-at-forcast-4436973247
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-web-at-candel-medical-company-4444277144
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-dise%C3%B1o-tur-com-at-copec-s-a-4433907344
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-automatizaci%C3%B3n-power-bi-e-inteligencia-artificial-at-sangmyung-university-4442488172
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-operaciones-at-juegos-de-video-latinoam%C3%A9rica-jvlat-4439320138
@@ -697,6 +691,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-
 https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
+https://es.linkedin.com/jobs/view/ai-infrastructure-platform-operations-engineer-remote-in-the-eu-at-mirantis-4443805715
 https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
 https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-activos-y-datos-full-remote-spain-at-joppy-4440644493
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
@@ -822,6 +817,7 @@ https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-sp
 https://es.linkedin.com/jobs/view/junior-procurement-specialist-100%25-remote-at-ubq-io-4443383799
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
+https://es.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ia-remoto-at-exportadora-data-base-s-a-4444278909
 https://es.linkedin.com/jobs/view/machine-learning-engineer-at-ntt-data-europe-latam-4430374625
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/mid-cloud-engineer-azure-y-o-aws-full-remote-spain-%E2%82%AC25k-%E2%82%AC30k-at-joppy-4441302984
@@ -1061,6 +1057,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442580295
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4443308472
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4443745557
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444295470
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1663,6 +1660,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-a
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4439599902
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4438888860
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4439715140
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444298314
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1723,6 +1721,7 @@ https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442433678
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442505628
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4443096874
+https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4444278577
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1771,6 +1770,7 @@ huechurabaingeniero|chiletrabajos
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
+ialiderremototecnico|exportadoradatabase
 ialidertecnico|hitss
 iaoperacionespracticante|credit
 implementacionsoporte|owlteamsolutions

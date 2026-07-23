@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4437103286
-https://cl.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4440011992
-https://cl.linkedin.com/jobs/view/estimating-analyst-at-ingenierojob-4430272865
-https://cl.linkedin.com/jobs/view/estimating-analyst-at-vantaz-group-4432912296
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4406094996
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-at-the-weir-group-plc-4440196096
 https://cl.linkedin.com/jobs/view/estudiante-en-pr%C3%A1ctica-de-qa-y-automatizaci%C3%B3n-de-pruebas-de-software-at-testgroup-s-a-4435832584
@@ -1403,6 +1399,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-en-entrenamiento-386443
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-experiencia-sistemas-ferroviarios-vina-3846122
 https://www.chiletrabajos.cl/trabajo/ingeniero-electronico-3841155
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-control-de-gestion-y-analisis-3831994
+https://www.chiletrabajos.cl/trabajo/ingeniero-en-desarrollo-de-software-en-informatica-especialista-en-paginas-web-3871207
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-electricidad-para-servicios-en-terreno-y-fabrica-3632041
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
@@ -1642,6 +1639,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440907670
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4442517204
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443314371
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443742883
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444295396
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1743,6 +1741,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4442575411
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4443301735
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4443754427
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4444285869
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
@@ -1755,6 +1754,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442509380
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442566789
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4443741799
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4444295141
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

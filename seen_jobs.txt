@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4426468037
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-instrumentaci%C3%B3n-y-control-at-ghd-4323021796
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-integraciones-at-cl%C3%ADnica-meds-4439708173
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-operaciones-accesos-at-geovictoria-4444353225
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
@@ -230,6 +228,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-at-falabella-4409
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-fork-at-fork-chile-4426402421
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-gesti%C3%B3n-de-personas-at-grupo-falabella-4441678335
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-drimo-4439235544
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-falabella-4435867026
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-backend-para-desarrollo-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-at-ecoalliance-spa-4436958786
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
@@ -773,6 +772,7 @@ https://es.linkedin.com/jobs/view/junior-devops-aws-%2B-databricks-100%25-remoto
 https://es.linkedin.com/jobs/view/junior-devops-aws-%2B-databricks-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4435207134
 https://es.linkedin.com/jobs/view/junior-devops-engineer-remoto-at-vermont-solutions-4418521898
 https://es.linkedin.com/jobs/view/junior-fortinet-automation-engineer-terraform-python-100%25-remoto-at-alstech-4441438992
+https://es.linkedin.com/jobs/view/junior-functional-analyst-100%25-remote-at-ust-4441810726
 https://es.linkedin.com/jobs/view/junior-java-developer-%2B-ia-100%25-remoto-at-knowmad-mood-4427244605
 https://es.linkedin.com/jobs/view/junior-mid-ai-legal-specialist-full-remote-spain-at-everai-4437461302
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527

@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-junior-media-jornada-at-direcci%C3%B3n-de-personas-uandes-4442993424
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-de-redes-l2-at-hitss-chile-4430645038
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-linux-at-workcapit-4443518148
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-terreno-rancagua-redes-ti-at-ntt-data-inc-4409286279
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-ti-biling%C3%BCe-at-ntt-data-inc-4399986971
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-automatizaci%C3%B3n-it-at-dr-pet-4437227636
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-y-tecnolog%C3%ADa-at-finning-4432220763
@@ -223,6 +218,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-gesti%C3%B3n-de-p
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-drimo-4439235544
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-falabella-4435867026
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-backend-para-desarrollo-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-at-ecoalliance-spa-4436958786
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-dise%C3%B1o-web-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445239084
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-frontend-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445229568
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
@@ -244,6 +240,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-gesti%C3%B3n-marcas-propias-tott
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inform%C3%A1tica-programaci%C3%B3n-regi%C3%B3n-de-antofagasta-at-enaex-4429688938
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-infraestructura-linux-changemakers-internship-program-ing-inform%C3%A1tica-at-accenture-chile-4440684705
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-inform%C3%A1tica-o-af%C3%ADn-compensaciones-cencosud-at-cencosud-4445251321
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a-4416901036
@@ -371,6 +368,7 @@ https://cl.linkedin.com/jobs/view/practicante-renta-variable-extrajera-at-afp-ha
 https://cl.linkedin.com/jobs/view/practicante-riesgo-corporativo-at-falabella-4434085299
 https://cl.linkedin.com/jobs/view/practicante-riesgos-corporativos-at-latam-airlines-4437675592
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
+https://cl.linkedin.com/jobs/view/practicante-soluciones-tecnol%C3%B3gicas-at-wsp-chile-y-argentina-4445246199
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
@@ -1223,6 +1221,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3858482
 https://www.chiletrabajos.cl/trabajo/analista-contable-3860368
 https://www.chiletrabajos.cl/trabajo/analista-contable-3861076
 https://www.chiletrabajos.cl/trabajo/analista-contable-3863435
+https://www.chiletrabajos.cl/trabajo/analista-contable-3868010
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
@@ -1944,6 +1943,7 @@ operationspeopletrainee|roche
 planificacionpracticantesoporte|airlines
 practicanteprocesos|vincicompass
 practicanteseguridadtecnologica|segurosfalabella
+practicantesolucionestecnologicas|wspyargentina
 practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|automotrizguillermomorales
 practicaprevencionprofesionalriesgos|chiletrabajos

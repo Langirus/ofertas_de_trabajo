@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/full-stack-software-engineer-at-grupo-falabella-4423570327
-https://cl.linkedin.com/jobs/view/full-stack-software-engineer-imprescindible-full-ingles-at-svirtual-cl-4434864727
-https://cl.linkedin.com/jobs/view/full-stack-software-engineer-mid-at-xe-com-4430790028
-https://cl.linkedin.com/jobs/view/fullstack-cloud-engineer-at-r-y-c-consultores-asociados-4420755778
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-fundaci%C3%B3n-phaway-4430657004
 https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
 https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
@@ -58,6 +54,7 @@ https://cl.linkedin.com/jobs/view/ingeniero-a-inform%C3%A1tico-a-junior-formaci%
 https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
 https://cl.linkedin.com/jobs/view/ingeniero-a-pod-junior-at-r-q-ingenier%C3%ADa-4441541197
+https://cl.linkedin.com/jobs/view/ingeniero-business-intelligence-at-abastible-s-a-4441569195
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4431878182
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
@@ -506,6 +503,7 @@ https://cl.linkedin.com/jobs/view/soporte-lis-at-eva-learning-4441530691
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-lis-at-randstad-chile-4440486704
 https://cl.linkedin.com/jobs/view/soporte-mesa-de-ayuda-santiago-at-grupo-avanza-4416945891
+https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-eva-learning-4441551771
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
 https://cl.linkedin.com/jobs/view/soporte-sap-n1-at-genesys-4417645740
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-4417980714
@@ -915,6 +913,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
 https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-brasil-4444205664
+https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-m%C3%A9xico-4443423864
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434773933
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434941263
@@ -1768,6 +1767,7 @@ iaingenierojunior|grupoo2
 ialiderremototecnico|exportadoradatabase
 ialidertecnico|hitss
 iaoperacionespracticante|credit
+implementacionsoporte|evalearning
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
 industrialmantenimientotecnico|chiletrabajos

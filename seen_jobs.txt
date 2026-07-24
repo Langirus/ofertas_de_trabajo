@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/fullstack-engineer-at-fundaci%C3%B3n-phaway-4430657004
-https://cl.linkedin.com/jobs/view/fullstack-engineer-at-kibernum-4419206222
-https://cl.linkedin.com/jobs/view/fullstack-software-engineer-at-grupo-falabella-4421877172
-https://cl.linkedin.com/jobs/view/functional-analyst-at-smith-4435609311
 https://cl.linkedin.com/jobs/view/functional-analyst-it-at-vr-group-chile-4434587869
 https://cl.linkedin.com/jobs/view/functional-analyst-sql-at-vr-group-chile-4435938379
 https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
@@ -176,6 +172,7 @@ https://cl.linkedin.com/jobs/view/it-applications-operations-engineer-netsuite-a
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4416829928
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-vr-group-chile-4433991198
+https://cl.linkedin.com/jobs/view/it-digital-product-operations-intern-at-procter-gamble-4444783571
 https://cl.linkedin.com/jobs/view/it-functional-analyst-at-vr-group-chile-4434868056
 https://cl.linkedin.com/jobs/view/it-infrastructure-analyst-at-solventum-4422781431
 https://cl.linkedin.com/jobs/view/it-support-engineer-m-w-d-at-embla-medical-4417594789
@@ -940,6 +937,7 @@ https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%2329
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439734272
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440532848
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4428450020
+https://mx.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782366
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
 https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-quik-hire-staffing-4434007774
@@ -1227,6 +1225,7 @@ https://www.chiletrabajos.cl/trabajo/3865565
 https://www.chiletrabajos.cl/trabajo/3866005
 https://www.chiletrabajos.cl/trabajo/3866556
 https://www.chiletrabajos.cl/trabajo/3867404
+https://www.chiletrabajos.cl/trabajo/3871836
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1336,6 +1335,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/ayudante-tecnico-climatizacion-faena-minera-ii-region-3855909
 https://www.chiletrabajos.cl/trabajo/bodeguero-junior-la-granja-santiago-3827326
+https://www.chiletrabajos.cl/trabajo/buscamos-2-practicantes-de-desarrollo-saas-3871752
 https://www.chiletrabajos.cl/trabajo/castro-chiloe-se-necesita-asistente-dental-tens-con-experiencia-dental-3848478
 https://www.chiletrabajos.cl/trabajo/chaiten-tecnicos-en-telecomunicaciones-3845888
 https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856

@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/functional-analyst-it-at-vr-group-chile-4434587869
-https://cl.linkedin.com/jobs/view/functional-analyst-sql-at-vr-group-chile-4435938379
-https://cl.linkedin.com/jobs/view/genai-engineer-at-epam-systems-4417222718
-https://cl.linkedin.com/jobs/view/genai-platform-engineer-at-deloitte-4427029333
-https://cl.linkedin.com/jobs/view/gpex-oferta-una-plaza-de-analista-en-sistemas-inform%C3%A1ticos-at-infoprovincia-4439542409
-https://cl.linkedin.com/jobs/view/gpex-oferta-una-plaza-de-analista-en-sistemas-inform%C3%A1ticos-at-infoprovincia-4439713153
-https://cl.linkedin.com/jobs/view/gpex-oferta-una-plaza-de-analista-inform%C3%A1tico-at-infoprovincia-4439714129
 https://cl.linkedin.com/jobs/view/graduate-tailings-engineer-at-ghd-4427211489
 https://cl.linkedin.com/jobs/view/growth-marketing-analyst-at-kiosclub-american-supermarket-4432376457
 https://cl.linkedin.com/jobs/view/growth-marketing-intern-at-instacrops-inc-yc-s21-4443079829
@@ -291,6 +284,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-4436900491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-s-a-4436900491
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-customer-experience-regional-at-cencosud-4444786776
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
@@ -299,6 +293,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicant
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-app-m%C3%B3vil-at-candel-medical-company-4444787500
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-belleza-ecommerce-at-ripley-chile-4443008091
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-cadena-de-valor-at-toyota-chile-s-a-4439267098
@@ -656,6 +651,7 @@ https://do.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-ba
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://es.linkedin.com/jobs/view/%F0%9F%92%BB-data-engineer-aws-100%25-remoto-proyecto-estable-at-keapps-4443333306
+https://es.linkedin.com/jobs/view/%F0%9F%93%B1-%C2%A1buscamos-programadores-as-y-l%C3%ADder-t%C3%A9cnico-java%21-sector-log%C3%ADstico-100%25-remoto-%F0%9F%9A%80-at-keapps-4444929053
 https://es.linkedin.com/jobs/view/%F0%9F%9A%80-frontend-developer-mid%E2%80%93junior-vue-%C2%B7-angular-%C2%B7-nuxt-teletrabajo-at-iahorro-com-4428938224
 https://es.linkedin.com/jobs/view/ai-assisted-code-analyst-100%25-remoto-desde-espa%C3%B1a-at-ust-4430221666
 https://es.linkedin.com/jobs/view/ai-automation-engineer-remote-es-uk-only-at-quadrivia-ai-4423653558
@@ -1584,6 +1580,7 @@ https://www.getonbrd.com/jobs/observability-engineer-junior-whitestack-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
 https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
+https://www.getonbrd.com/jobs/prompt-engineer-42labs-santiago
 https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611
 https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
@@ -1634,6 +1631,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4442517204
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443314371
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443742883
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444295396
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444919287
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1653,6 +1651,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-a
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4438888860
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4439715140
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444298314
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444911495
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1736,6 +1735,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4443301735
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4443754427
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4444285869
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4444919067
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093

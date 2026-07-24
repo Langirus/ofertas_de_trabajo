@@ -1,11 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-integraciones-at-cl%C3%ADnica-meds-4439708173
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-operaciones-accesos-at-geovictoria-4444353225
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-programaci%C3%B3n-mina-at-codelco-%E2%80%93-corporaci%C3%B3n-nacional-del-cobre-de-chile-4410361724
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-provisi%C3%B3n-at-artikos-4428077329
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-proyectos-institucionales-huechuraba-presencial-universidad-san-sebasti%C3%A1n-at-universidad-san-sebasti%C3%A1n-4438482683
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-e-integraciones-at-rr-chile-latam-resource-recourse-4421185724
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-full-stack-junior-at-grupo-o2-4428869771
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-gerencia-de-tecnolog%C3%ADa-banco-at-consorcio-4402292892
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-software-junior-media-jornada-at-direcci%C3%B3n-de-personas-uandes-4442993424
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-at-gauss-control-4418286292
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-soporte-de-redes-l2-at-hitss-chile-4430645038
@@ -218,6 +210,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-h%C3%ADbrida-sant
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-repuestos-renca-at-salfa-rent-4439104394
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-programador-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445238148
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-automatizaci%C3%B3n-y-an%C3%A1lisis-de-datos-cencosud-at-cencosud-4439369134
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-business-analyst-de-innovaci%C3%B3n-cenco-malls-at-cencosud-4439358768
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-categor%C3%ADas-digitales-at-falabella-4438839183
@@ -230,6 +223,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-gesti%C3%B3n-de-p
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-drimo-4439235544
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-falabella-4435867026
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-backend-para-desarrollo-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-at-ecoalliance-spa-4436958786
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-frontend-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445229568
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-%C3%A1rea-soporte-t%C3%A9cnico-at-falabella-4443565790
@@ -273,6 +267,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-administraci%C3%B3n-gerencia-finanzas-at-cencosud-4440887801
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-superficies-gerencia-finanzas-at-cencosud-4440902381
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-t%C3%A9cnico-a-en-inform%C3%A1tica-%E2%80%93-idiem-u-de-chile-at-idiem-4445218895
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-app-m%C3%B3vil-at-candel-medical-company-4444787500
@@ -338,6 +333,7 @@ https://cl.linkedin.com/jobs/view/practicante-at-stella-capital-advisory-4422720
 https://cl.linkedin.com/jobs/view/practicante-comunicaciones-at-rabobank-4371203175
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
 https://cl.linkedin.com/jobs/view/practicante-data-engineer-at-grupo-falabella-4420667710
+https://cl.linkedin.com/jobs/view/practicante-de-ciberseguridad-at-getdata-cl-4441849111
 https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
 https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-agentes-de-ia-%E2%80%93-planning-at-falabella-4436472928
@@ -421,6 +417,7 @@ https://cl.linkedin.com/jobs/view/secretario-a-t%C3%A9cnico-sacyr-ingenier%C3%AD
 https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
 https://cl.linkedin.com/jobs/view/seo-trainee-at-dentsu-4432699724
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
+https://cl.linkedin.com/jobs/view/servicio-t%C3%A9cnico-de-sistemas-at-eva-learning-4441833310
 https://cl.linkedin.com/jobs/view/shipping-trainee-naviero-at-ultranav-4435354604
 https://cl.linkedin.com/jobs/view/site-payment-analyst-at-iqvia-4427232598
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
@@ -434,6 +431,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
 https://cl.linkedin.com/jobs/view/software-engineer-at-checkr-inc-4422661500
 https://cl.linkedin.com/jobs/view/software-engineer-at-drimo-4440194015
 https://cl.linkedin.com/jobs/view/software-engineer-at-duemint-4441534114
+https://cl.linkedin.com/jobs/view/software-engineer-at-evalueserve-4444397397
 https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178
@@ -557,6 +555,7 @@ https://cl.linkedin.com/jobs/view/trainee-commercial-finance-at-roche-4442428374
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
 https://cl.linkedin.com/jobs/view/trainee-de-gesti%C3%B3n-y-operaciones-at-huevos-la-campestre-4425763360
+https://cl.linkedin.com/jobs/view/trainee-de-inversiones-afp-planvital-2026-at-afp-planvital-4445240001
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4435376344
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4440316069
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-rotativo-5x2-falabella-antofagasta-at-falabella-4414243843
@@ -1982,6 +1981,7 @@ remotosoportetecnico|inetum
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 sapsoporte|genesys
 seotrainee|dentsu
+serviciosistemastecnico|evalearning
 serviciostecnico|diprotec
 sistemassoporte|evalearning
 soportetecnicoterreno|tivit

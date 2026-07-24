@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-control-operacional-at-chilexpress-4428303898
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-datos-aws-big-data-at-bc-tecnolog%C3%ADa-4436960780
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-at-actis-4418310580
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-e-implementaci%C3%B3n-ti-zona-lacustre-at-sur-talent-4442483515
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-desarrollo-ia-at-faro-consultor%C3%ADa-selecci%C3%B3n-4430233762
-https://cl.linkedin.com/jobs/view/ingeniero-a-de-gesti%C3%B3n-t%C3%A9cnica-at-empresa-confidencial-4418394607
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-ia-intermedio-at-r-y-c-consultores-asociados-4434618923
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-ia-junior-at-grupo-o2-4429701112
 https://cl.linkedin.com/jobs/view/ingeniero-a-de-innovaci%C3%B3n-digital-at-copec-s-a-4426468037
@@ -435,6 +429,7 @@ https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-44028
 https://cl.linkedin.com/jobs/view/soc-tier-3-analyst-at-dxc-technology-4431459829
 https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
 https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-ingenierojob-4424884678
+https://cl.linkedin.com/jobs/view/software-development-engineer-in-test-ii-sdet-ii-pro-at-kraken-4415713645
 https://cl.linkedin.com/jobs/view/software-engineer-ai-accelerated-development-at-signant-health-4441427553
 https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4436622196
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
@@ -479,6 +474,7 @@ https://cl.linkedin.com/jobs/view/soporte-de-infraestructura-ti-junior-at-experi
 https://cl.linkedin.com/jobs/view/soporte-de-is-t-at-bechtel-corporation-4409662348
 https://cl.linkedin.com/jobs/view/soporte-de-mesa-de-ayuda-at-cyd-ingenier%C3%ADa-4419360231
 https://cl.linkedin.com/jobs/view/soporte-de-microinform%C3%A1tica-onsite-at-stefanini-group-4427211763
+https://cl.linkedin.com/jobs/view/soporte-de-sistemas-at-eva-learning-4441598972
 https://cl.linkedin.com/jobs/view/soporte-e-commerce-n1-n2-portuges-avanzado-at-acl-4434565080
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
@@ -1295,6 +1291,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-gestion-de-activos-san-sebastian-
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
+https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-30-horas-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-varon-part-time-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-20-horas-3865010
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897
@@ -1541,6 +1538,7 @@ https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/desarrollador-sql-it-convergence-ciudad-de-mexico
 https://www.getonbrd.com/jobs/developer-portugues-espanol-magnar-remote
 https://www.getonbrd.com/jobs/devops-engineer-e-commerce-interfell-remote
+https://www.getonbrd.com/jobs/devops-engineer-full-stack-developer-informat-s-a-santiago
 https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-mlops-engineer-cloud-sre-sidis-ai-remote
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
@@ -1585,6 +1583,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
+https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago
 https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote
 https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
@@ -1984,6 +1983,7 @@ representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 sapsoporte|genesys
 seotrainee|dentsu
 serviciostecnico|diprotec
+sistemassoporte|evalearning
 soportetecnicoterreno|tivit
 soportetecnicoti|chiletrabajos
 soportetecnicoti|tataconsultancyservices

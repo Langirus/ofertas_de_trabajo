@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
-https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-protecci%C3%B3n-de-activos-tecnol%C3%B3gicos-at-banco-de-chile-4411774599
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-seguridad-de-la-informaci%C3%B3n-at-banco-de-chile-4439423933
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
 https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
@@ -574,6 +572,7 @@ https://cl.linkedin.com/jobs/view/vagas-para-auxiliar-administrativo-fun%C3%A7%C
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
+https://co.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-colombia-at-fullstack-4377023879
 https://co.linkedin.com/jobs/view/ai-agent-engineer-python-gcp-llm-%E2%80%94-mcp-claude-%C2%B7-remoto-colombia-at-grupo-deacero-4441312237
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371013921
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371021540
@@ -1644,6 +1643,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-f
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4439715140
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444298314
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444911495
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445341023
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176

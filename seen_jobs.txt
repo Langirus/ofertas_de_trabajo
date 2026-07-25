@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-sii-group-chile-4442747754
-https://cl.linkedin.com/jobs/view/ingeniero-de-datos-cobranza-at-ripley-chile-4433711802
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-sede-central-at-inacap-4443438244
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
@@ -455,6 +453,7 @@ https://cl.linkedin.com/jobs/view/soporte-de-sistemas-at-eva-learning-4441598972
 https://cl.linkedin.com/jobs/view/soporte-e-commerce-n1-n2-portuges-avanzado-at-acl-4434565080
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
+https://cl.linkedin.com/jobs/view/soporte-inform%C3%A1tico-nivel-1-at-tecnologia-informatica-4445350604
 https://cl.linkedin.com/jobs/view/soporte-lis-at-eva-learning-4441530691
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-lis-at-randstad-chile-4440486704
@@ -1785,6 +1784,7 @@ informaticoingeniero|intexaingeniera
 informaticoingeniero|techforceagentesiayplataformasweb
 informaticojuniormodalidadsitiosoporte|computrabajo
 informaticojuniortecnico|computrabajo
+informaticonivelsoporte|tecnologiainformatica
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informaticotecnico|terrefort

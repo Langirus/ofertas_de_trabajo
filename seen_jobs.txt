@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-a-inform%C3%A1tico-a-junior-formaci%C3%B3n-en-gemelos-digitales-y-tecnolog%C3%ADas-at-segsal-latam-spa-4441243874
-https://cl.linkedin.com/jobs/view/ingeniero-a-informatico-sistema-o-redes-experiencia-implementaci%C3%B3n-de-siste-at-itg-ltda-4427088338
 https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
 https://cl.linkedin.com/jobs/view/ingeniero-a-pod-junior-at-r-q-ingenier%C3%ADa-4441541197
 https://cl.linkedin.com/jobs/view/ingeniero-business-intelligence-at-abastible-s-a-4441569195
@@ -226,6 +224,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-a
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-prevenci%C3%B3n-de-riesgo-at-airbus-helicopters-4430682663
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-soporte-t%C3%A9cnico-ti-at-afp-planvital-4434294816
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-equipo-desarrollo-y-producto-cencosud-media-at-cencosud-s-a-4419519814
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-estrategia-2do-semestre-2026-at-grupo-falabella-4445285362
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-experiencia-de-clientes-cencosud-at-cencosud-s-a-4429772023
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-full-stack-at-deliryum-ai-4428254521
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-gesti%C3%B3n-de-valor-y-bienestar-corporativo-at-larrainvial-4443002908
@@ -1626,6 +1625,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443314371
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443742883
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444295396
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444919287
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445302733
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977

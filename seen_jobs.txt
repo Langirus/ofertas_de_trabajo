@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-seguridad-de-la-informaci%C3%B3n-at-banco-de-chile-4439423933
-https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-at-bas-ingenieros-4428584476
-https://cl.linkedin.com/jobs/view/ingeniero-de-aplicaciones-y-desarrollo-at-air-products-4423062022
 https://cl.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-y-transformaci%C3%B3n-digital-at-tata-consultancy-services-4438536296
 https://cl.linkedin.com/jobs/view/ingeniero-de-big-data-trabajo-remoto-at-bairesdev-4431734810
 https://cl.linkedin.com/jobs/view/ingeniero-de-datos-at-banco-bice-4438018774
@@ -250,6 +247,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicant
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-superficies-gerencia-finanzas-at-cencosud-4440902381
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-t%C3%A9cnico-a-en-inform%C3%A1tica-%E2%80%93-idiem-u-de-chile-at-idiem-4445218895
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-administraci%C3%B3n-at-usecap-4445349677
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-app-m%C3%B3vil-at-candel-medical-company-4444787500
@@ -355,6 +353,7 @@ https://cl.linkedin.com/jobs/view/practicante-riesgo-corporativo-at-falabella-44
 https://cl.linkedin.com/jobs/view/practicante-riesgos-corporativos-at-latam-airlines-4437675592
 https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
 https://cl.linkedin.com/jobs/view/practicante-soluciones-tecnol%C3%B3gicas-at-wsp-chile-y-argentina-4445246199
+https://cl.linkedin.com/jobs/view/practicante-t%C3%A9cnico-de-microinform%C3%A1tica-at-avalora-chile-4445342919
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
@@ -1929,6 +1928,7 @@ marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
 mesamonitoreonocoperadoressoporte|netmetrix
 microinformaticaonsitesoporte|stefaninigroup
+microinformaticapracticantetecnico|avalora
 microinformaticatecnico|chiletrabajos
 monitoreotecnicoti|computrabajo
 navieroshippingtrainee|ultranav

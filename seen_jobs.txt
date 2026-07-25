@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-a-machine-learning-at-innomotics-4428267218
-https://cl.linkedin.com/jobs/view/ingeniero-a-pod-junior-at-r-q-ingenier%C3%ADa-4441541197
-https://cl.linkedin.com/jobs/view/ingeniero-business-intelligence-at-abastible-s-a-4441569195
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4415732254
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-at-banco-de-chile-4431878182
 https://cl.linkedin.com/jobs/view/ingeniero-ciberseguridad-planificaci%C3%B3n-y-gesti%C3%B3n-ciberseguridad-at-banco-de-chile-4422069023
@@ -1020,6 +1017,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4443745557
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444295470
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444921140
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445322093
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1465,6 +1463,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herra
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-sec-calefont-honorarios-3857699
 https://www.chiletrabajos.cl/trabajo/tecnico-soporte-informatico-en-terreno-iv-region-ovalle-3839770
+https://www.chiletrabajos.cl/trabajo/tecnico-terreno-en-mantenimiento-3872412
 https://www.chiletrabajos.cl/trabajo/tecnico-trainee-prevencion-de-riesgos-3843652
 https://www.chiletrabajos.cl/trabajo/tecnicos-electricos-con-licencia-de-conducir-clase-b-3850802
 https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3857137
@@ -1923,6 +1922,7 @@ logisticapracticatalcahuano|rosen
 logisticopracticanterepuestostemuco|salfarent
 mantencionsantiagotecnico|chiletrabajos
 mantenedorminamineraspencetrainee|bhp
+mantenimientotecnicoterreno|chiletrabajos
 mantenimientotecnico|carlsjr
 mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational

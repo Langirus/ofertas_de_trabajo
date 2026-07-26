@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-at-larrainvial-4402503438
-https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-at-loter%C3%ADa-de-concepci%C3%B3n-4414896968
-https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sat-job-consultancy-reclutamiento-y-selecci%C3%B3n-4433195246
 https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sat-job-consultancy-reclutamiento-y-selecci%C3%B3n-4440132828
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-computer-vision-at-deliryum-ai-4426422158
@@ -1620,6 +1617,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4443742883
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444295396
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444919287
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445302733
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445381624
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1641,6 +1639,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-f
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444298314
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444911495
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445341023
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445387613
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1727,6 +1726,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4444919067
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445306610
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445600416
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311

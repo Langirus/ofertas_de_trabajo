@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-soluciones-ia-at-sat-job-consultancy-reclutamiento-y-selecci%C3%B3n-4440132828
-https://cl.linkedin.com/jobs/view/ingeniero-de-ia-aplicada-at-it-hunter-4424262597
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-computer-vision-at-deliryum-ai-4426422158
 https://cl.linkedin.com/jobs/view/ingeniero-de-ia-generativa-at-isapre-nueva-masvida-4433892100
 https://cl.linkedin.com/jobs/view/ingeniero-de-infraestructura-at-autofin-chile-4441655397
@@ -1009,6 +1007,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444295470
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444921140
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445322093
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445389577
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1654,6 +1653,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-44
 https://www.linkedin.com/jobs/view/frontend-engineer-svelte-remote-work-ref%23295595-at-bairesdev-4429739090
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4437147530
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445600617
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905

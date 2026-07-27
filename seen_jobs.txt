@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-redes-de-ti-at-empresa-confidencial-4437287565
-https://cl.linkedin.com/jobs/view/ingeniero-de-redes-junior-chile-at-servicios-de-telecomunicaciones-olitel-4426927782
 https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-at-pares-alvarez-4437626578
 https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
@@ -760,6 +758,7 @@ https://es.linkedin.com/jobs/view/pr%C3%A1cticas-en-ciberseguridad-%E2%80%93-sta
 https://es.linkedin.com/jobs/view/programador-a-junior-jee-remoto-at-exportadora-data-base-s-a-4443768901
 https://es.linkedin.com/jobs/view/programador-a-uipath-junior-teletrabajo-100%25-at-plexus-tech-4440103663
 https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
+https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
 https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027
@@ -896,6 +895,7 @@ https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4
 https://mx.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782366
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378039909
+https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378040888
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
 https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-quik-hire-staffing-4434007774
 https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308

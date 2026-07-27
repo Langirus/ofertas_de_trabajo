@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-servicio-t%C3%A9cnico-at-accuvision-4418398444
-https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-at-pares-alvarez-4437626578
-https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-analista-itgc-at-axity-4427767619
-https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-junior-at-axity-4424644257
-https://cl.linkedin.com/jobs/view/ingeniero-de-sistemas-produccion-pasivos-y-servicios-at-banco-de-chile-4436868251
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-fundaci%C3%B3n-invica-4437714495
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-innomar-4435385778
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-prudential-agf-4427860122
@@ -579,6 +574,7 @@ https://co.linkedin.com/jobs/view/junior-marketing-assistant-remote-at-emma-of-t
 https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434228112
 https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437101331
 https://co.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440536631
+https://co.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4445132909
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
@@ -637,6 +633,8 @@ https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-e
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4432278352
 https://es.linkedin.com/jobs/view/analista-programador-salesforce-remoto-at-grupo-tecdata-engineering-4442917851
 https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
+https://es.linkedin.com/jobs/view/analyst-developer-java-spring-boot-100%25-remoto-desde-espa%C3%B1a-at-ust-4442864009
+https://es.linkedin.com/jobs/view/analyst-developer-java-spring-boot-100%25-remoto-desde-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4445134921
 https://es.linkedin.com/jobs/view/application-development-engineer-remoto-at-experience-it-solutions-4440585125
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
 https://es.linkedin.com/jobs/view/automation-devops-engineer-remoto-at-knowmad-mood-4436880419
@@ -1657,6 +1655,7 @@ https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-h
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905
 https://www.linkedin.com/jobs/view/indie-game-studio-hiring-junior-gameplay-systems-programmer-remote-full-time-entry-level-training-%2B-mentorship-at-salasgames-4420604100
+https://www.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bairesdev-4445150939
 https://www.linkedin.com/jobs/view/it-support-analyst-remote-work-at-indi-staffing-services-4438221744
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
@@ -1811,6 +1810,7 @@ ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojrtableauvisualizacion|apiuxtech
 ingenierojuniorpod|rqingeniera
+ingenierojuniorreactremototrabajo|bairesdev
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortableauvisualizacion|apiuxtech

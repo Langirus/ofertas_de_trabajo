@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
-https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
-https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
-https://cl.linkedin.com/jobs/view/ingeniero-dominio-crm-at-banco-bci-4442928771
 https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
 https://cl.linkedin.com/jobs/view/ingeniero-en-automatizaci%C3%B3n-inteligente-at-chilexpress-4434736760
 https://cl.linkedin.com/jobs/view/ingeniero-en-desarrollo-de-sistemas-at-bur%C3%B3-executive-4426547045
@@ -466,6 +462,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-inform%C3%A1tico-at-act-s
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-antofagasta-atacama-at-accenture-chile-4434160916
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434167735
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-2-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434171612
+https://cl.linkedin.com/jobs/view/talent-pool-agente-de-soporte-a-usuarios-stgo-chile-at-rankmi-4446385200
 https://cl.linkedin.com/jobs/view/tech-functional-analyst-at-vr-group-chile-4433141097
 https://cl.linkedin.com/jobs/view/technical-services-analyst-analista-de-servicios-t%C3%A9cnicos-at-wenco-international-mining-systems-4442690023
 https://cl.linkedin.com/jobs/view/technical-solution-engineer-chile-at-contemporary-amperex-technology-co-limited-4409558231
@@ -535,6 +532,8 @@ https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at
 https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370889259
 https://co.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373972765
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
+https://co.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23290353-at-bairesdev-4446390838
+https://co.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23290354-at-bairesdev-4446513127
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-kubikware-a-5-time-inc-5000-company-4424764945
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434288610
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4442517714
@@ -1251,6 +1250,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-30-horas-colegio-maipu-3722398
+https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-part-time-residencia-lactantes-y-preescolares-illapel-disponibili-3864889
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-varon-part-time-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-20-horas-3865010
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897

@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte%F0%9F%92%A1-at-apiux-tech-4430813133
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-continuidad-operacional-ti-at-acl-4433114653
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4431444049
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4431445035
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4434388784
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4439965439
@@ -609,6 +605,7 @@ https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-443114115
 https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-activos-y-datos-full-remote-spain-at-joppy-4440644493
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
 https://es.linkedin.com/jobs/view/analista-de-datos-junior-soporte-funcional-power-bi-excel-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4439203730
+https://es.linkedin.com/jobs/view/analista-de-datos-junior-soporte-funcional-power-bi-excel-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4443269307
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
 https://es.linkedin.com/jobs/view/analista-devops-remoto-at-getronics-4414318159
 https://es.linkedin.com/jobs/view/analista-funcional-contenedores-administraci%C3%B3n-digital-teletrabajo-at-heyclue-4435375664
@@ -691,6 +688,7 @@ https://es.linkedin.com/jobs/view/generative-ai-engineer-python-%C2%B7-llms-%C2%
 https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4416115977
 https://es.linkedin.com/jobs/view/help-desk-n1-soporte-de-aplicaciones-remoto-at-between-group-4438675201
 https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
+https://es.linkedin.com/jobs/view/iam-analyst-100%25-teletrabajo-horario-de-tarde-at-ncs-consultor%C3%ADa-tecnol%C3%B3gica-4445474102
 https://es.linkedin.com/jobs/view/ingeniero-a-de-bases-de-datos-nosql-mongodb-teletrabajo-100%25-at-keapps-4441431852
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
@@ -1633,6 +1631,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-f
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444911495
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445341023
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445387613
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445471596
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445680126
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
@@ -1648,6 +1647,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-remote-work-at-bairesdev-44
 https://www.linkedin.com/jobs/view/frontend-engineer-svelte-remote-work-ref%23295595-at-bairesdev-4429739090
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4435175097
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-4437147530
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445457905
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445600617
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445675537
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-software-at-vimagen-consultores-4428901456
-https://cl.linkedin.com/jobs/view/ingeniero-de-software-ia-agentes-at-devaid-4430356653
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-nivel-2-at-apiux-tech-4432290942
 https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
@@ -379,6 +377,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-drimo-4440194015
 https://cl.linkedin.com/jobs/view/software-engineer-at-duemint-4441534114
 https://cl.linkedin.com/jobs/view/software-engineer-at-evalueserve-4444397397
 https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723
+https://cl.linkedin.com/jobs/view/software-engineer-at-finapsys-4442896705
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178
 https://cl.linkedin.com/jobs/view/software-engineer-at-geovictoria-4435446736
@@ -682,6 +681,7 @@ https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427081120
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427561409
+https://es.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445428347
 https://es.linkedin.com/jobs/view/full-stack-software-engineer-ingl%C3%A9s-alto-remoto-at-ingenierojob-4423190172
 https://es.linkedin.com/jobs/view/fullremote-ml-engineer-data-scientist-at-capitole-4421922333
 https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411

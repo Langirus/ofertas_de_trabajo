@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-software-net-angular-at-it-hunter-4417162449
-https://cl.linkedin.com/jobs/view/ingeniero-de-software-nivel-2-at-apiux-tech-4432290942
-https://cl.linkedin.com/jobs/view/ingeniero-de-software-ref-1092-at-acl-4414362143
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte%F0%9F%92%A1-at-apiux-tech-4430813133
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-at-tecnologia-informatica-4429123731
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-continuidad-operacional-ti-at-acl-4433114653
@@ -454,6 +451,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-s
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4443049331
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-tecnologica-antofagasta-at-accenture-chile-4444876062
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-5x2-calama-at-motorola-solutions-4446174262
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-7x7-mel-at-motorola-solutions-4432502241
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
@@ -1610,6 +1608,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444295396
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444919287
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445302733
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445381624
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445461800
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
@@ -1724,6 +1723,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4444919067
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445306610
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445472014
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445600416
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093

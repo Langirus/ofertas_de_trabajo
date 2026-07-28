@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-t%C3%A9cnico-alpha-remote-%2460-000-year-usd-at-crossover-4442693483
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-5ta-regi%C3%B3n-at-ntt-data-inc-4409280504
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-ti-junior-at-experis-4416255151
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-y-desarrollo-at-rational-information-technology-4433764334
-https://cl.linkedin.com/jobs/view/ingeniero-de-telecomunicaciones-de-red-at-acl-4423168550
-https://cl.linkedin.com/jobs/view/ingeniero-desarrollador-oracle-apex-at-160k-4432592881
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-confidencial-4433193783
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
@@ -217,6 +210,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-prevenci%C3%B3n-d
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-riesgo-tecnol%C3%B3gico-at-ey-4422068517
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-seguridad-de-la-informaci%C3%B3n-at-fondo-esperanza-4443979771
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-estudiante-publicidad-o-afin-at-the-hotel-boutique-ltd-4439766020
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-gerencia-analytics-y-bi-data-science-at-banco-ripley-chile-4446349934
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4431127755
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
@@ -295,6 +289,7 @@ https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-contenido-at-nutri-co-4442183368
+https://cl.linkedin.com/jobs/view/practicante-proyectos-de-integracion-y-servicios-de-negocio-at-banchile-inversiones-4445731865
 https://cl.linkedin.com/jobs/view/practicante-proyectos-operacionales-at-vinci-compass-4439986617
 https://cl.linkedin.com/jobs/view/practicante-renta-variable-extrajera-at-afp-habitat-4444941687
 https://cl.linkedin.com/jobs/view/practicante-riesgo-corporativo-at-falabella-4434085299
@@ -317,6 +312,7 @@ https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-%E2%80%93-talento-e
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-pasant%C3%ADas-%C3%A1rea-legal-at-quezadaduran-abogados-4425303472
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
 https://cl.linkedin.com/jobs/view/programa-trainee-de-alto-nivel-para-mujeres-en-grupo-inteligencia-at-grupo-inteligencia-4437283293
+https://cl.linkedin.com/jobs/view/programador-jr-%E2%80%93-desarrollo-moodle-y-web-at-ecrgroup%C2%AE-chile-4443617101
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421238685
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421251489
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
@@ -1443,6 +1439,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-terreno-en-mantenimiento-3872412
 https://www.chiletrabajos.cl/trabajo/tecnico-trainee-prevencion-de-riesgos-3843652
 https://www.chiletrabajos.cl/trabajo/tecnicos-electricos-con-licencia-de-conducir-clase-b-3850802
 https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3857137
+https://www.chiletrabajos.cl/trabajo/vendedor-a-tecnico-a-industrial-3873434
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec
 https://www.getonbrd.com/jobs/ai-engineering-intern-puente-talent-partners-remote
@@ -1758,6 +1755,7 @@ implementacionsoporte|evalearning
 implementacionsoporte|owlteamsolutions
 incendiojuniorsistemastecnico|chiletrabajos
 industrialmantenimientotecnico|chiletrabajos
+industrialtecnicovendedor|chiletrabajos
 informacionpracticaprofesionalseguridad|fondoesperanza
 informaticaingenieriajavajovenprofesionaltrainee|indragroup
 informaticaingenieriapracticante|chiletrabajos
@@ -1856,6 +1854,7 @@ ingenieroserviciotecnico|accuvision
 ingenierosistemasteletrabajo|heyclue
 ingenierosistemas|paresalvarez
 ingenierosoftwaresoporte|despapeliza
+ingenierosoftware|esmart
 ingenierosoftware|fundacininvica
 ingenierosoftware|innomar
 ingenierosoftware|prudentialagf
@@ -1870,6 +1869,7 @@ ingenierotelecomunicaciones|chiletrabajos
 ingenierotibco|tataconsultancyservices
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 inlcusionjrlaboralremotosoporteti|ferrostaalc
+integracionnegociopracticanteproyectosservicios|banchileinversiones
 internacionalscouting|revivalfootball
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany

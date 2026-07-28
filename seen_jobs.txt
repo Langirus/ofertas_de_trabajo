@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-devops-at-confidencial-4433193783
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-grupo-falabella-4425552883
 https://cl.linkedin.com/jobs/view/ingeniero-devops-at-tsoft-4411599921
 https://cl.linkedin.com/jobs/view/ingeniero-devops-aws-at-empresa-confidencial-4417645929
@@ -1854,6 +1853,7 @@ ingenieroserviciotecnico|accuvision
 ingenierosistemasteletrabajo|heyclue
 ingenierosistemas|paresalvarez
 ingenierosoftwaresoporte|despapeliza
+ingenierosoftware|bipboplabs
 ingenierosoftware|esmart
 ingenierosoftware|fundacininvica
 ingenierosoftware|innomar

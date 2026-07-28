@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-sistemas-aguas-andinas-at-motorola-solutions-4411848627
-https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-de-software-at-despapeliza-4423185390
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-t%C3%A9cnico-alpha-remote-%2460-000-year-usd-at-crossover-4442693483
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-5ta-regi%C3%B3n-at-ntt-data-inc-4409280504
 https://cl.linkedin.com/jobs/view/ingeniero-de-soporte-terreno-redes-ti-at-ntt-data-inc-4409276624
@@ -597,6 +595,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
 https://es.linkedin.com/jobs/view/ai-infrastructure-platform-operations-engineer-remote-in-the-eu-at-mirantis-4443805715
+https://es.linkedin.com/jobs/view/ai-software-engineer-100%25-remoto-at-qaracter-beyond-your-challenge-4443603228
 https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
 https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-activos-y-datos-full-remote-spain-at-joppy-4440644493
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
@@ -1483,6 +1482,7 @@ https://www.getonbrd.com/jobs/data-ai-platform-engineer-ia-engineer-penta-financ
 https://www.getonbrd.com/jobs/data-analyst-3it-remote
 https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterrey
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
+https://www.getonbrd.com/jobs/data-engineer-42labs-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote

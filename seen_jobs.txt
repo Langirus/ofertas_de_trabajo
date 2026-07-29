@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
-https://cl.linkedin.com/jobs/view/ingeniero-inteligencia-artificial-generativa-aws-at-kpaz-4433509409
-https://cl.linkedin.com/jobs/view/ingeniero-jr-de-procesos-%E2%80%93-parque-enea-pudahuel-at-dhl-supply-chain-4418464482
 https://cl.linkedin.com/jobs/view/ingeniero-jr-de-visualizaci%C3%B3n-%E2%80%93-tableau-%F0%9F%99%8C-at-apiux-tech-4435904557
 https://cl.linkedin.com/jobs/view/ingeniero-jr-en-procesos-at-dhl-supply-chain-4436914626
 https://cl.linkedin.com/jobs/view/ingeniero-junior-de-visualizaci%C3%B3n-%E2%80%93-tableau-at-apiux-tech-4437060510
@@ -45,6 +42,7 @@ https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
 https://cl.linkedin.com/jobs/view/junior-developer-at-visionone-chile-s-a-4438017783
 https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
 https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
+https://cl.linkedin.com/jobs/view/junior-net-developer-remote-work-at-indi-staffing-services-4446801319
 https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
 https://cl.linkedin.com/jobs/view/junior-renewals-specialist-at-clio-4424398689
 https://cl.linkedin.com/jobs/view/junior-sales-development-representative-at-ef-4416708693
@@ -75,6 +73,7 @@ https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-sermaluc-44347110
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-large-language-models-at-jobgether-4444877687
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4434363192
+https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4446070951
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23295171-at-bairesdev-4429725436
 https://cl.linkedin.com/jobs/view/manual-qa-engineer-remote-latin-america-at-fullstack-4439378117
 https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
@@ -297,6 +296,7 @@ https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-pasant%C3%ADas-%C3%
 https://cl.linkedin.com/jobs/view/programa-de-pr%C3%A1cticas-segundo-semestre-2026-at-banco-falabella-4422499669
 https://cl.linkedin.com/jobs/view/programa-trainee-de-alto-nivel-para-mujeres-en-grupo-inteligencia-at-grupo-inteligencia-4437283293
 https://cl.linkedin.com/jobs/view/programador-jr-%E2%80%93-desarrollo-moodle-y-web-at-ecrgroup%C2%AE-chile-4443617101
+https://cl.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4446812226
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421238685
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421251489
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027

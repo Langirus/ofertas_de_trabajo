@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
-https://cl.linkedin.com/jobs/view/ingeniero-full-stack-at-dprime-4439690549
-https://cl.linkedin.com/jobs/view/ingeniero-full-stack-junior-at-apiux-tech-4390073180
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-cyd-ingenier%C3%ADa-4437569467
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-ingenier%C3%ADa-cuatro-s-a-4425135631
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-intexa-ingenier%C3%ADa-4430138264
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-techforce-agentes-ia-y-plataformas-web-4428551812
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-con-experiencia-en-sccm-at-end-user-services-eus-4433964836
 https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
@@ -174,6 +168,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-customer-e
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-marketing-jumbo-supermercados-at-cencosud-4446541416
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-administraci%C3%B3n-gerencia-finanzas-at-cencosud-4440887801
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-superficies-gerencia-finanzas-at-cencosud-4440902381
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
@@ -235,6 +230,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-auditor%C3%ADa-interna-at-ban
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwhale-4416253509
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-profesionales-santiago-at-limchile-4431393876
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-ti-at-apiux-tech-4444392646
+https://cl.linkedin.com/jobs/view/practica-an%C3%A1lisis-de-datos-changemakers-internship-program-at-accenture-chile-4426675324
 https://cl.linkedin.com/jobs/view/practica-profesional-ingeniero-a-de-aplicaciones-y-conectividad-at-inprint-4439581500
 https://cl.linkedin.com/jobs/view/practica-profesional-tecnico-soporte-ti-at-tigroup-4440835291
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
@@ -483,6 +479,7 @@ https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cn
 https://cl.linkedin.com/jobs/view/trainee-de-gesti%C3%B3n-y-operaciones-at-huevos-la-campestre-4425763360
 https://cl.linkedin.com/jobs/view/trainee-de-inversiones-afp-planvital-2026-at-afp-planvital-4445240001
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-de-probadores-y-cajas-autoservicio-42-hrs-5x2-rotativo-falabella-arauco-maip%C3%BA-at-falabella-4416364009
+https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-30-horas-jornada-tarde-lunes-a-viernes-falabella-costanera-at-falabella-4446520872
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4435376344
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4440316069
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-rotativo-5x2-falabella-antofagasta-at-falabella-4414243843
@@ -981,6 +978,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444921140
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445322093
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445389577
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4446550522
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1373,6 +1371,7 @@ https://www.chiletrabajos.cl/trabajo/paid-media-junior-creato-3853242
 https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farmacia-maipu-3844418
 https://www.chiletrabajos.cl/trabajo/pmo-junior-gestion-y-seguimiento-de-proyectos-ti-3871836
 https://www.chiletrabajos.cl/trabajo/postular/3809354
+https://www.chiletrabajos.cl/trabajo/practica-administracion-project-management-y-produccion-de-eventos-3873954
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ciberseguridad-informatica-3861828
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
@@ -1883,6 +1882,7 @@ jeejuniorprogramadorremoto|exportadoradatabase
 jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
 jrrecruiterremoteservicesshared|hudsonrpo
+jumbomarketingpracticaprofesionalsupermercados|cencosud
 juniordataengineer|remoteok
 juniorkamsantiago|portal
 juniorliderproyectosantiagoti|portal

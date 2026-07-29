@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-at-techforce-agentes-ia-y-plataformas-web-4428551812
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-con-experiencia-en-sccm-at-end-user-services-eus-4433964836
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-desarrollador-at-experis-chile-4418492988
-https://cl.linkedin.com/jobs/view/ingeniero-inform%C3%A1tico-junior-at-fundamenta-4435897583
 https://cl.linkedin.com/jobs/view/ingeniero-informatica-at-mcn-4423029362
 https://cl.linkedin.com/jobs/view/ingeniero-informatico-at-industrial-4428368615
 https://cl.linkedin.com/jobs/view/ingeniero-inteligencia-artificial-generativa-aws-at-kpaz-4433509409
@@ -27,6 +23,7 @@ https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4
 https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
 https://cl.linkedin.com/jobs/view/ios-engineer-at-jobgether-4437366728
 https://cl.linkedin.com/jobs/view/ios-engineer-at-jobscroller-4438399696
+https://cl.linkedin.com/jobs/view/ios-software-engineer-at-epam-systems-4446050326
 https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
 https://cl.linkedin.com/jobs/view/it-analyst-sql-at-vr-group-chile-4437223989
 https://cl.linkedin.com/jobs/view/it-applications-operations-engineer-netsuite-at-signant-health-4425404613
@@ -1600,6 +1597,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4444919287
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445302733
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445381624
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445461800
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446550668
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
@@ -1626,6 +1624,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-a
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445387613
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445471596
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445680126
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4446545970
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1643,6 +1642,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hire-feed-
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445457905
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445600617
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445675537
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446545796
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905

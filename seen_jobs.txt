@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-jr-de-visualizaci%C3%B3n-%E2%80%93-tableau-%F0%9F%99%8C-at-apiux-tech-4435904557
-https://cl.linkedin.com/jobs/view/ingeniero-jr-en-procesos-at-dhl-supply-chain-4436914626
-https://cl.linkedin.com/jobs/view/ingeniero-junior-de-visualizaci%C3%B3n-%E2%80%93-tableau-at-apiux-tech-4437060510
-https://cl.linkedin.com/jobs/view/ingeniero-klass-x-at-farmacias-ahumada-4430530995
 https://cl.linkedin.com/jobs/view/ingeniero-multidisciplina-at-ghd-4360497656
 https://cl.linkedin.com/jobs/view/ingeniero-networking-l2-ccna-at-ntt-data-inc-4409289201
 https://cl.linkedin.com/jobs/view/ingeniero-procesos-jr-at-wisetrack-corp-4427347932
@@ -1314,6 +1310,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contra
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-integracion-azure-apis-azure-integration-3865587
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-procesos-y-operaciones-ti-3873896
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-redes-y-seguridad-proyecto-sase-ztna-3854522
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-a-junior-formacion-en-gemelos-digitales-y-tecnologias-3867404
@@ -1674,6 +1671,7 @@ https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4435805851
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4438232746
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4441205487
+https://www.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4446815107
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441947111
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442436393
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442499972
@@ -1822,6 +1820,7 @@ ingenieronfpaproyectossistemas|chiletrabajos
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenierooperacionalsoporte|na
+ingenierooperacionesprocesosti|chiletrabajos
 ingenierooperacionesti|onemarketer
 ingenieropasivosproduccionserviciossistemas|bancode
 ingenieropracticaprofesionaltecnico|chiletrabajos
@@ -1839,6 +1838,7 @@ ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo
 ingenieroqa|na
 ingenierorancaguaredessoporteterrenoti|nttdata
+ingenieroredessalud|owlteamsolutions
 ingenieroredesseguridad|chiletrabajos
 ingenieroredessoporteterrenoti|nttdata
 ingenieroredessoporte|chiletrabajos

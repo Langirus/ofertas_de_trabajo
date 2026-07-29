@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/ingeniero-el%C3%A9ctrico-de-proyectos-pmgd-at-andes-solar-4414833978
-https://cl.linkedin.com/jobs/view/ingeniero-en-automatizaci%C3%B3n-inteligente-at-chilexpress-4434736760
-https://cl.linkedin.com/jobs/view/ingeniero-en-desarrollo-de-sistemas-at-bur%C3%B3-executive-4426547045
 https://cl.linkedin.com/jobs/view/ingeniero-en-inform%C3%A1tica-at-orbis-data-4419613642
 https://cl.linkedin.com/jobs/view/ingeniero-en-seguridad-fortinet-at-sonda-4413781645
 https://cl.linkedin.com/jobs/view/ingeniero-full-stack-at-dprime-4439690549
@@ -617,6 +614,7 @@ https://es.linkedin.com/jobs/view/analyst-developer-java-spring-boot-100%25-remo
 https://es.linkedin.com/jobs/view/analyst-developer-java-spring-boot-100%25-remoto-desde-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4445134921
 https://es.linkedin.com/jobs/view/application-development-engineer-remoto-at-experience-it-solutions-4440585125
 https://es.linkedin.com/jobs/view/application-support-engineer-remote-spain-at-hbx-group-4411598639
+https://es.linkedin.com/jobs/view/application-support-engineer-trilogy-remote-%2460-000-year-usd-at-crossover-4445758930
 https://es.linkedin.com/jobs/view/automation-devops-engineer-remoto-at-knowmad-mood-4436880419
 https://es.linkedin.com/jobs/view/aws-big-data-engineer-remote-35-42k-at-the-board-people-talent-4427054292
 https://es.linkedin.com/jobs/view/backend-devops-engineer-java-kotlin-kubernetes-azure-100%25-remoto-at-knowmad-mood-4441332850
@@ -703,6 +701,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-t%C3%A9cnico-a-ia-100%25-remoto-pr
 https://es.linkedin.com/jobs/view/ingeniero-de-datos-teletrabajo-espa%C3%B1a-at-akkodis-4437270293
 https://es.linkedin.com/jobs/view/ingeniero-de-simulaci%C3%B3n-mec%C3%A1nica-y-estructural-openfoam-opensees-%E2%80%93-remoto-at-alignerr-4429194421
 https://es.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4439919473
+https://es.linkedin.com/jobs/view/ingeniero-de-soporte-de-aplicaciones-trilogy-remote-%2460-000-year-usd-at-crossover-4445755977
 https://es.linkedin.com/jobs/view/ingeniero-software-java-hexagonal-100%25-remoto-at-knowmad-mood-4440794433
 https://es.linkedin.com/jobs/view/java-software-engineer-junior-spring-boot-aws-remoto-at-ingenierojob-4420111423
 https://es.linkedin.com/jobs/view/junior-ai-developer-java-remoto-at-knowmad-mood-4427212009
@@ -1543,6 +1542,7 @@ https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
 https://www.getonbrd.com/jobs/observability-engineer-junior-whitestack-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
 https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
+https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/prompt-engineer-42labs-santiago
 https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago

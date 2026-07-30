@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/java-trainee-j%C3%B3ven-profesional-ingenier%C3%ADa-inform%C3%A1tica-at-indra-group-4438422838
-https://cl.linkedin.com/jobs/view/joven-profesional-trainee-administraci%C3%B3n-y-finanzas-at-sacyr-4318395894
 https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
 https://cl.linkedin.com/jobs/view/junior-administrativo-at-atcom-chile-4445948711
@@ -250,6 +248,7 @@ https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-segu
 https://cl.linkedin.com/jobs/view/practicante-soluciones-tecnol%C3%B3gicas-at-wsp-chile-y-argentina-4445246199
 https://cl.linkedin.com/jobs/view/practicante-t%C3%A9cnico-de-microinform%C3%A1tica-at-avalora-chile-4445342919
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
+https://cl.linkedin.com/jobs/view/practicante-transformaci%C3%B3n-digital-at-latam-airlines-4445036715
 https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4439323689
@@ -327,6 +326,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4438438047
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-backend-core-api-process-automation-at-jobgether-4442016778
+https://cl.linkedin.com/jobs/view/software-engineer-backend-machbank-at-machbank-4447087720
 https://cl.linkedin.com/jobs/view/software-engineer-chile-at-xpendit-4442371158
 https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618

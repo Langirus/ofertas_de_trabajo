@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/integration-analyst-at-buk-4436878142
-https://cl.linkedin.com/jobs/view/internal-software-developer-at-plutto-yc-s22-4410321111
-https://cl.linkedin.com/jobs/view/international-pricing-analyst-at-commandlink-4420696760
-https://cl.linkedin.com/jobs/view/ios-engineer-at-jobgether-4437366728
 https://cl.linkedin.com/jobs/view/ios-engineer-at-jobscroller-4438399696
 https://cl.linkedin.com/jobs/view/ios-software-engineer-at-epam-systems-4446050326
 https://cl.linkedin.com/jobs/view/it-analyst-at-cabify-4446821091
@@ -211,6 +207,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-en-internet-de-las-cosas-at-bwh
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-profesionales-santiago-at-limchile-4431393876
 https://cl.linkedin.com/jobs/view/pr%C3%A1cticas-ti-at-apiux-tech-4444392646
 https://cl.linkedin.com/jobs/view/practica-an%C3%A1lisis-de-datos-changemakers-internship-program-at-accenture-chile-4426675324
+https://cl.linkedin.com/jobs/view/practica-dise%C3%B1o-gr%C3%A1fico-changemakers-internship-program-at-accenture-chile-4426673434
 https://cl.linkedin.com/jobs/view/practica-profesional-ingeniero-a-de-aplicaciones-y-conectividad-at-inprint-4439581500
 https://cl.linkedin.com/jobs/view/practica-profesional-tecnico-soporte-ti-at-tigroup-4440835291
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
@@ -288,6 +285,7 @@ https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullst
 https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
 https://cl.linkedin.com/jobs/view/qa-analyst-%F0%9F%9A%80-at-sii-group-chile-4432888323
 https://cl.linkedin.com/jobs/view/qa-analyst-at-experian-spanish-latam-4423308263
+https://cl.linkedin.com/jobs/view/qa-analyst-at-ria-money-transfer-4444501123
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
 https://cl.linkedin.com/jobs/view/qa-engineer-mid-at-xe-com-4442477555
 https://cl.linkedin.com/jobs/view/qa-engineer-saas-at-impulsa-suite-4431034660
@@ -465,6 +463,7 @@ https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-de-probador
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-30-horas-jornada-tarde-lunes-a-viernes-falabella-costanera-at-falabella-4446520872
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4435376344
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4440316069
+https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-temuco-at-falabella-4446452668
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-rotativo-5x2-falabella-antofagasta-at-falabella-4414243843
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falabella-quilpu%C3%A9-at-falabella-4418447853
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-42-hrs-5x2-lunes-a-viernes-falabella-plaza-oeste-at-falabella-4427152131
@@ -782,6 +781,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-441827432
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4436235342
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4439425505
 https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
+https://mx.linkedin.com/jobs/view/ai-financial-operations-analyst-remote-at-quora-4444194535
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624

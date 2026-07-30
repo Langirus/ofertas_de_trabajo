@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/it-analyst-at-grupo-falabella-4416272523
-https://cl.linkedin.com/jobs/view/it-analyst-sql-at-vr-group-chile-4437223989
-https://cl.linkedin.com/jobs/view/it-applications-operations-engineer-netsuite-at-signant-health-4425404613
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4413685102
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-gm-financial-4416829928
 https://cl.linkedin.com/jobs/view/it-business-analyst-at-vr-group-chile-4433991198
@@ -715,6 +712,7 @@ https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC3
 https://es.linkedin.com/jobs/view/mid-software-engineer-python-aws-100%25-remote-at-ust-espa%C3%B1a-latam-4443145153
 https://es.linkedin.com/jobs/view/pr%C3%A1cticas-en-ciberseguridad-%E2%80%93-startup-healthtech-remoto-at-temotiva-4436791793
 https://es.linkedin.com/jobs/view/programador-a-junior-jee-remoto-at-exportadora-data-base-s-a-4443768901
+https://es.linkedin.com/jobs/view/programador-a-junior-pl-i-mainframe-100%25-remoto-at-krell-4446726140
 https://es.linkedin.com/jobs/view/programador-a-uipath-junior-teletrabajo-100%25-at-plexus-tech-4440103663
 https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
 https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
@@ -747,6 +745,7 @@ https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-know
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-monitorizaci%C3%B3n-24x7-remoto-at-aubay-spain-4412885387
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-oracle-remoto-100%25-at-grupo-tecdata-engineering-4438390874
+https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-de-aplicaciones-java-100%25-teletrabajo-at-keapps-4444529873
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-de-aplicaciones-l2-teletrabajo-100%25-at-plexus-tech-4438706852
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-devops-remoto-at-getronics-4414340103
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-google-cloud-remoto-at-infortec-consultores-4432547381
@@ -1715,6 +1714,7 @@ https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-a
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445306610
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445472014
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445600416
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4446719412
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311

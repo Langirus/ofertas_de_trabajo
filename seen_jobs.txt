@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/joven-profesional-trainee-at-sacyr-4318397783
 https://cl.linkedin.com/jobs/view/junior-administrative-at-epiroc-4427723794
 https://cl.linkedin.com/jobs/view/junior-administrativo-at-atcom-chile-4445948711
 https://cl.linkedin.com/jobs/view/junior-ai-agent-engineer-at-epam-systems-4431582534
@@ -1099,6 +1098,7 @@ https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-sof
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer
+https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design

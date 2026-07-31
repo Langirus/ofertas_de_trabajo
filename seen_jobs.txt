@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-chile-at-sezzle-4323967263
-https://cl.linkedin.com/jobs/view/junior-test-automation-engineer-in-java-at-epam-systems-4424876062
-https://cl.linkedin.com/jobs/view/junior-trading-operations-engineer-at-pepperstone-4419150285
-https://cl.linkedin.com/jobs/view/junior-web-developer-at-veta-virtual-4439405720
-https://cl.linkedin.com/jobs/view/junior-web-developer-wix-enterprise-remote-latin-america-at-fullstack-4436105866
 https://cl.linkedin.com/jobs/view/l%C3%ADder-de-ciberseguridad-y-soporte-ti-at-it-hunter-4435468407
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-de-ia-at-hitss-chile-4440479243
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-fullstack-at-caja-los-andes-4435986334
@@ -109,6 +104,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-s-a-4436900491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-customer-experience-regional-at-cencosud-4444786776
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4447579772
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-marketing-jumbo-supermercados-at-cencosud-4446541416
@@ -354,6 +350,7 @@ https://cl.linkedin.com/jobs/view/soporte-nivel-1-jr-t%C3%A9cnico-en-soporte-de-
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-eva-learning-4441551771
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
 https://cl.linkedin.com/jobs/view/soporte-sap-n1-at-genesys-4417645740
+https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-cliente-interno-at-maconline-chile-4447578792
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-4417980714
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-n2-integraciones-api-transacciones-de-pago-at-flowpagos-4433981581
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-nivel-1-presencial-at-ada-4-solutions-head-hunting-4434593009
@@ -922,15 +919,18 @@ https://mx.linkedin.com/jobs/view/remote-quality-analyst-multimodality-at-turing
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4439436495
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4441308706
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4442094997
+https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4447188327
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-at-turing-4442205555
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4438291199
 https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-4439432470
 https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-4442200824
+https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-4447192160
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418482277
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4438283696
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4439441247
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4442095987
+https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4447181270
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-flavor-solutions-4440772899
 https://mx.linkedin.com/jobs/view/shopify-agency-partnerships-associate-intern-remote-at-axentra-os-4428450763

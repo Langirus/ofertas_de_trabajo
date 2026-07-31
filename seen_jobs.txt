@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/junior-data-engineer-at-yellowipe-4414236319
-https://cl.linkedin.com/jobs/view/junior-developer-at-visionone-chile-s-a-4438017783
-https://cl.linkedin.com/jobs/view/junior-devops-engineer-aws-at-softserve-4379688988
-https://cl.linkedin.com/jobs/view/junior-mobile-engineer-chile-at-sezzle-4422495746
 https://cl.linkedin.com/jobs/view/junior-net-developer-remote-work-at-indi-staffing-services-4446801319
 https://cl.linkedin.com/jobs/view/junior-python-developer-at-evalueserve-4427227365
 https://cl.linkedin.com/jobs/view/junior-renewals-specialist-at-clio-4424398689
@@ -47,6 +43,7 @@ https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
 https://cl.linkedin.com/jobs/view/mobility-analyst-at-csm-globals-4348072388
 https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-4426419773
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
+https://cl.linkedin.com/jobs/view/observability-engineer-mx-at-whitestack-4446977634
 https://cl.linkedin.com/jobs/view/oferta-de-pr%C3%A1ctica-trabajo-de-t%C3%ADtulo-at-the-optimal-4437605308
 https://cl.linkedin.com/jobs/view/oficial-soporte-administrativo-santiago-at-banco-popular-dominicano-4438991606
 https://cl.linkedin.com/jobs/view/operador-analista-cctv-at-clicksolutions-seguridad-inteligente-4423156836
@@ -726,6 +723,7 @@ https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remot
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
 https://es.linkedin.com/jobs/view/software-engineer-python-aws-100%25-remote-at-ust-4440469463
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
+https://es.linkedin.com/jobs/view/software-engineer-synthetic-monitoring-spain-remote-at-grafana-labs-4447085641
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
 https://es.linkedin.com/jobs/view/soporte-aplicaciones-microservicios-24x7-remoto-madrid-madrid-00000-es-at-grupo-digital-4432676512
@@ -1712,6 +1710,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-444
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445472014
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445600416
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4446719412
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4447263390
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
@@ -1734,6 +1733,7 @@ https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-h
 https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4443744527
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hire-feed-4443753638
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4445394614
+https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447281333
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos

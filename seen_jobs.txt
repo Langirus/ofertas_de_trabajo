@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/machine-learning-engineer-large-language-models-at-jobgether-4444877687
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4434363192
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4446070951
@@ -946,6 +945,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
 https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-hired-4414900606
+https://mx.linkedin.com/jobs/view/solutions-engineer-latam-remote-at-telnyx-4430774596
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-funnelcake-4415587975
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311

@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
-https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ti-at-empresa-confidencial-4426471019
-https://cl.linkedin.com/jobs/view/labor-productivity-analyst-at-ikea-4423552797
-https://cl.linkedin.com/jobs/view/lider-t%C3%A9cnico-de-ingenieria-at-ntt-data-inc-4419202830
 https://cl.linkedin.com/jobs/view/lider-t%C3%A9cnico-react-native-at-accenture-chile-4437345845
 https://cl.linkedin.com/jobs/view/lider-torre-soporte-tecnol%C3%B3gico-regi%C3%B3n-metropolitana-at-accenture-chile-4436508474
 https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
@@ -598,6 +594,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remoto-at-capitole-4433180436
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
 https://es.linkedin.com/jobs/view/data-engineers-100%25-teletrabajo-incorporaci%C3%B3n-septiembre-at-infortec-consultores-4438239718
 https://es.linkedin.com/jobs/view/data-infrastructure-engineer-remote-at-hired-4447262592
+https://es.linkedin.com/jobs/view/data-infrastructure-engineer-remote-at-hired-4447785013
 https://es.linkedin.com/jobs/view/data-loss-prevention-dlp-analyst-insider-threat-risk-100%25-remote-within-spain-at-ust-4417956364
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-100%25-remote-at-ust-4428240980
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madrid-remoto-at-it-partner-4430839286
@@ -949,6 +946,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445322093
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445389577
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4446550522
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447778109
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1710,6 +1708,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-444
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445600416
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4446719412
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4447263390
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4447765952
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
@@ -1733,6 +1732,7 @@ https://www.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-h
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hire-feed-4443753638
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4445394614
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447281333
+https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447765958
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos

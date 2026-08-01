@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/lider-t%C3%A9cnico-react-native-at-accenture-chile-4437345845
-https://cl.linkedin.com/jobs/view/lider-torre-soporte-tecnol%C3%B3gico-regi%C3%B3n-metropolitana-at-accenture-chile-4436508474
-https://cl.linkedin.com/jobs/view/logistic-analyst-at-vantive-4407375517
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-achs-4435885880
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-sermaluc-4434711032
@@ -1580,6 +1577,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445381624
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445461800
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446550668
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446703598
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4447773746
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
@@ -1609,6 +1607,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-a
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4445680126
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4446545970
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4446705607
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447765963
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1628,6 +1627,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445675537
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446545796
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446706566
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447790033
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905

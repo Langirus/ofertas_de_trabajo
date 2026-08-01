@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-de-ia-at-hitss-chile-4440479243
-https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-a-fullstack-at-caja-los-andes-4435986334
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-soporte-at-konos-4439628170
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-react-y-node-js-at-acl-4421110794
 https://cl.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ti-at-empresa-confidencial-4426471019
@@ -27,6 +25,7 @@ https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
 https://cl.linkedin.com/jobs/view/mobility-analyst-at-csm-globals-4348072388
 https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-4426419773
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
+https://cl.linkedin.com/jobs/view/observability-engineer-cl-at-whitestack-4447418852
 https://cl.linkedin.com/jobs/view/observability-engineer-mx-at-whitestack-4446977634
 https://cl.linkedin.com/jobs/view/oferta-de-pr%C3%A1ctica-trabajo-de-t%C3%ADtulo-at-the-optimal-4437605308
 https://cl.linkedin.com/jobs/view/oficial-soporte-administrativo-santiago-at-banco-popular-dominicano-4438991606
@@ -966,6 +965,7 @@ https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
+https://pe.linkedin.com/jobs/view/remote-junior-android-developer-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%B2-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B5-at-teacher-army-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B2-it-4447193688
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846

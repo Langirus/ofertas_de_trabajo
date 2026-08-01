@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-achs-4435885880
-https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-adipa-4417798652
-https://cl.linkedin.com/jobs/view/machine-learning-engineer-at-sermaluc-4434711032
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-large-language-models-at-jobgether-4444877687
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4430542958
 https://cl.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4434363192
@@ -246,6 +243,7 @@ https://cl.linkedin.com/jobs/view/qa-engineer-saas-at-impulsa-suite-4431034660
 https://cl.linkedin.com/jobs/view/qa-funcional-junior-at-kibernum-4433113450
 https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046
 https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511
+https://cl.linkedin.com/jobs/view/r-2025-4046-t%C3%A9cnico-a-a-ensayo-no-destructivo-at-finning-4419973496
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/ratings-and-research-intern-at-passfort-a-moody-s-company-4418306472
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
@@ -1404,6 +1402,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-vent
 https://www.chiletrabajos.cl/trabajo/tecnico-mantencion-santiago-3105595
 https://www.chiletrabajos.cl/trabajo/tecnico-mantenimiento-electrico-transformadores-en-aceite-3869459
 https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herramientas-3850704
+https://www.chiletrabajos.cl/trabajo/tecnico-o-ingeniero-en-informatica-3875826
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-sec-calefont-honorarios-3857699
 https://www.chiletrabajos.cl/trabajo/tecnico-soporte-informatico-en-terreno-iv-region-ovalle-3839770
@@ -1751,6 +1750,7 @@ industrialtecnicovendedor|chiletrabajos
 informacionpracticaprofesionalseguridad|fondoesperanza
 informaticaingenieriajavajovenprofesionaltrainee|indragroup
 informaticaingenieriapracticante|chiletrabajos
+informaticaingenierotecnico|chiletrabajos
 informaticaingeniero|mcn
 informaticaingeniero|orbisdata
 informaticajuniortelecomunicacionestrabajos|portal

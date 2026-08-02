@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/manual-qa-engineer-remote-latin-america-at-fullstack-4439378117
-https://cl.linkedin.com/jobs/view/marketing-analyst-at-cabify-4421285061
 https://cl.linkedin.com/jobs/view/marketing-content-intern-at-levera-web-4433900541
 https://cl.linkedin.com/jobs/view/marketing-trainee-health-systems-at-aiesec-in-panama-4440917192
 https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
@@ -71,6 +69,7 @@ https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-44
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-digital-at-costera-4441850661
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-vopero-at-cencosud-s-a-4416901036
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-mejora-continua-y-power-apps-at-vi%C3%B1a-concha-y-toro-4444242820
+https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-merchandising-planning-at-puma-group-4447824804
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-pasant%C3%ADa-%C3%A1rea-legal-at-sacyr-4321283775
@@ -1923,6 +1922,7 @@ mantenimientotecnico|chiletrabajos
 mantenimientotecnico|epiroc
 marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
+merchandisingplanningpractica|pumagroup
 mesamonitoreonocoperadoressoporte|netmetrix
 microinformaticaonsitesoporte|stefaninigroup
 microinformaticapracticantetecnico|avalora

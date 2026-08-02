@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/mid-level-golang-engineer-remote-latin-america-at-fullstack-4414207788
-https://cl.linkedin.com/jobs/view/middle-ruby-software-engineer-at-softserve-4413047003
-https://cl.linkedin.com/jobs/view/mobile-engineer-chile-all-levels-at-sezzle-4082662210
-https://cl.linkedin.com/jobs/view/mobile-engineer-chile-at-sezzle-4369260518
-https://cl.linkedin.com/jobs/view/mobility-analyst-at-csm-globals-4348072388
-https://cl.linkedin.com/jobs/view/monitor-gps-t%C3%A9cnico-ti-at-nortrans-4426419773
 https://cl.linkedin.com/jobs/view/my-pfizer-experience-practicante-marketing-at-pfizer-4416475669
 https://cl.linkedin.com/jobs/view/observability-engineer-cl-at-whitestack-4447418852
 https://cl.linkedin.com/jobs/view/observability-engineer-mx-at-whitestack-4446977634
@@ -350,6 +344,7 @@ https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st14452-analista-contable-at-salfa-rent-4430351108
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
 https://cl.linkedin.com/jobs/view/subgerente-soporte-canales-digitales-gerencia-tecnologia-at-walmart-chile-4430993495
+https://cl.linkedin.com/jobs/view/system-reliability-engineer-at-protection-game-4445825743
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-climatizaci%C3%B3n-hvac-eq-estacionarios-minera-collahuasi-puerto-at-johnson-controls-4418328239
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-ti-at-universidad-de-las-am%C3%A9ricas-cl-4437886575
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-aire-acondicionado-hvac-equipos-estacionarios-collahuasi-iquique-at-johnson-controls-4418311396
@@ -394,6 +389,7 @@ https://cl.linkedin.com/jobs/view/tech-functional-analyst-at-vr-group-chile-4433
 https://cl.linkedin.com/jobs/view/technical-services-analyst-analista-de-servicios-t%C3%A9cnicos-at-wenco-international-mining-systems-4442690023
 https://cl.linkedin.com/jobs/view/technical-solution-engineer-chile-at-contemporary-amperex-technology-co-limited-4409558231
 https://cl.linkedin.com/jobs/view/technical-support-engineer-blockchain-backend-development-at-binance-4326127130
+https://cl.linkedin.com/jobs/view/technical-support-engineer-sec-ai-portuguese-speaking-at-protection-game-4445815927
 https://cl.linkedin.com/jobs/view/technical-support-specialist-%E2%80%93-entry-level-at-sovos-4434078343
 https://cl.linkedin.com/jobs/view/tecnico-de-soporte-mininco-los-angeles-at-motorola-solutions-4412414770
 https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
@@ -1575,7 +1571,9 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4445461800
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446550668
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446703598
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4447773746
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4447886113
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
+https://www.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4447886067
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
@@ -1605,6 +1603,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-a
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4446545970
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4446705607
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447765963
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447871918
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1625,6 +1624,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4445
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446545796
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446706566
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447790033
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447873284
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905

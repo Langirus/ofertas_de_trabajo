@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-repuestos-renca-at-salfa-rent-4439104394
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-administrativa-vespucio-at-salfa-rent-4424352518
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-de-soporte-t%C3%A9cnico-at-grupo-falabella-4422132600
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-analista-programador-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445238148
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-automatizaci%C3%B3n-y-an%C3%A1lisis-de-datos-cencosud-at-cencosud-4439369134
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-business-analyst-de-innovaci%C3%B3n-cenco-malls-at-cencosud-4439358768
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-categor%C3%ADas-digitales-at-falabella-4438839183
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ferrovial-4438697703
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ciberseguridad-at-ripley-chile-4422436722
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analyst-at-grupo-falabella-4436929011
@@ -924,6 +917,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4446550522
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447778109
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447883097
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448145122
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1566,6 +1560,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446550668
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4446703598
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4447773746
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4447886113
+https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4448149124
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4447886067
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
@@ -1587,6 +1582,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-a
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4437134848
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4439599902
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4448104127
+https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4448144689
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4438888860
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4439715140
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444298314
@@ -1599,6 +1595,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-a
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4446705607
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447765963
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447871918
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4448135983
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1620,6 +1617,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446706566
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447790033
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447873284
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4448134925
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905
@@ -1702,6 +1700,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-444
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4447263390
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4447765952
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4447879162
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4448140562
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436312602
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4436701093
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4439790311
@@ -1728,6 +1727,7 @@ https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447281333
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447765958
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447886014
 https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-jobs-ai-4448111196
+https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-jobs-ai-4448152036
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-frontend-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445229568
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollador-%C3%A1rea-soporte-t%C3%A9cnico-at-falabella-4443565790
@@ -1625,6 +1624,7 @@ https://www.linkedin.com/jobs/view/ingeniero-react-junior-trabajo-remoto-at-bair
 https://www.linkedin.com/jobs/view/it-support-analyst-remote-work-at-indi-staffing-services-4438221744
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
+https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4447992726
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-indi-staffing-services-4441203387
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-indi-staffing-services-4440986941

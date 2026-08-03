@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-analytics-gesti%C3%B3n-de-personas-at-grupo-falabella-4441678335
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-drimo-4439235544
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-data-engineer-at-falabella-4435867026
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-backend-para-desarrollo-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-at-ecoalliance-spa-4436958786
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-dise%C3%B1o-web-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445239084
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-frontend-100%25-presencial-vi%C3%B1a-del-mar-ecoalliance-spa-at-ecoalliance-spa-4445229568
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-inform%C3%A1tica-soporte-at-voxa-4414366579
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-de-monitoreo-y-estrategia-de-precios-inicia-junio-2026-at-samsung-electronics-chile-4415211797
@@ -591,6 +586,7 @@ https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-
 https://es.linkedin.com/jobs/view/help-desk-n1-soporte-de-aplicaciones-remoto-at-between-group-4438675201
 https://es.linkedin.com/jobs/view/ia-engineer-ingl%C3%A9s-alto-at-claire-joster-4428929050
 https://es.linkedin.com/jobs/view/iam-analyst-100%25-teletrabajo-horario-de-tarde-at-ncs-consultor%C3%ADa-tecnol%C3%B3gica-4445474102
+https://es.linkedin.com/jobs/view/ingeniero-a-de-automatizaci%C3%B3n-it-remoto-at-experience-it-solutions-4448199584
 https://es.linkedin.com/jobs/view/ingeniero-a-de-bases-de-datos-nosql-mongodb-teletrabajo-100%25-at-keapps-4441431852
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-generativa-python-remoto-at-between-technology-4424547074
 https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
@@ -718,6 +714,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4418274323
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4436235342
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4439425505
+https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4448235088
 https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
 https://mx.linkedin.com/jobs/view/ai-financial-operations-analyst-remote-at-quora-4444194535
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
@@ -1407,6 +1404,7 @@ https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
 https://www.getonbrd.com/jobs/analista-de-soporte-tecnico-grupo-mariposa-ciudad-de-guatemala-santiago-quito-bogota-buenos-aires-lima-ddd4
 https://www.getonbrd.com/jobs/analista-desarrollador-cobol-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/analista-operacional-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab
 https://www.getonbrd.com/jobs/analista-qa-funcional-3it-santiago-dae9
@@ -1484,6 +1482,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-redes-lisit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
+https://www.getonbrd.com/jobs/ingeniero-gobierno-de-datos-agrosuper-rancagua
 https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote
 https://www.getonbrd.com/jobs/junior-data-engineer-grupo-mariposa-remote
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
@@ -1574,6 +1573,7 @@ https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4439852949
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442224475
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446422154
+https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4448205611
 https://www.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4439090394
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439092256

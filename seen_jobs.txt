@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-dise%C3%B1o-digital-at-cencosud-s-a-4432017941
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-automatizaci%C3%B3n-riesgo-no-financiero-at-afp-planvital-4434407458
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-frontend-at-afp-planvital-4440302489
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-inform%C3%A1tico-at-getram-grupo-4417243254
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-prevenci%C3%B3n-de-riesgo-at-airbus-helicopters-4430682663
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-soporte-t%C3%A9cnico-ti-at-afp-planvital-4434294816
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-equipo-desarrollo-y-producto-cencosud-media-at-cencosud-s-a-4419519814
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-estrategia-2do-semestre-2026-at-grupo-falabella-4445285362
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-experiencia-de-clientes-cencosud-at-cencosud-s-a-4429772023
@@ -505,6 +499,7 @@ https://es.linkedin.com/jobs/view/analista-programador-a-gravity-remoto-at-plexu
 https://es.linkedin.com/jobs/view/analista-programador-java-100%25-teletrabajo-at-entelgy-4440665165
 https://es.linkedin.com/jobs/view/analista-programador-java-microservicios-teletrabajo-ingl%C3%A9s-b2-c1-at-knowmad-mood-4430004706
 https://es.linkedin.com/jobs/view/analista-programador-java-python-active-viam-100%25-remoto-espa%C3%B1a-at-ust-4443776514
+https://es.linkedin.com/jobs/view/analista-programador-oracle-osb-oracle-service-bus-o-java-oracle-middleware-teletrabajo-at-heyclue-4448802813
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4432278352
 https://es.linkedin.com/jobs/view/analista-programador-salesforce-remoto-at-grupo-tecdata-engineering-4442917851
@@ -532,6 +527,7 @@ https://es.linkedin.com/jobs/view/consultor-sistemas-sap-junior-%E2%80%93-sap-ba
 https://es.linkedin.com/jobs/view/cybersecurity-incident-response-analyst-full-remote-spain-at-joppy-4440642656
 https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
+https://es.linkedin.com/jobs/view/data-engineer-100%25-teletrabajo-at-aubay-spain-4448813187
 https://es.linkedin.com/jobs/view/data-engineer-analyst-100%25-remote-spain-at-ust-4442616705
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
 https://es.linkedin.com/jobs/view/data-engineer-databricks-100%25-remoto-at-capitole-4433922526
@@ -1593,6 +1589,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-a
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447765963
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4447871918
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4448135983
+https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-jobs-ai-4448826232
 https://www.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290631-at-bairesdev-4420456762
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-crossing-hurdles-4422817223
 https://www.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4422330176
@@ -1615,6 +1612,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4446
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447790033
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4447873284
 https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4448134925
+https://www.linkedin.com/jobs/view/frontend-engineer-vue-js-remote-at-hired-4448821242
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4434927884
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4436983793
 https://www.linkedin.com/jobs/view/full-stack-software-engineer-remote-at-quik-hire-staffing-4437756905
@@ -1724,8 +1722,10 @@ https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4445394614
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447281333
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447765958
 https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4447886014
+https://www.linkedin.com/jobs/view/software-engineer-remote-at-hired-4448811445
 https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-jobs-ai-4448111196
 https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-jobs-ai-4448152036
+https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-jobs-ai-4448820315
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos

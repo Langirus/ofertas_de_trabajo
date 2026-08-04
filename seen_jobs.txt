@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-mejora-continua-y-power-apps-at-vi%C3%B1a-concha-y-toro-4444242820
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-merchandising-planning-at-puma-group-4447824804
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-negocios-digitales-easy-at-cencosud-s-a-4412900940
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-para-ingeniero-en-electricidad-at-ciac-chile-4418903057
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-pasant%C3%ADa-%C3%A1rea-legal-at-sacyr-4321283775
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-planificaci%C3%B3n-y-control-financiero-at-banco-falabella-4430124055
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-procurement-at-grupo-falabella-4436902043
@@ -589,6 +585,7 @@ https://es.linkedin.com/jobs/view/ingeniero-a-mlops-teletrabajo-at-irium-4437110
 https://es.linkedin.com/jobs/view/ingeniero-a-pruebas-de-software-%E2%82%AC30-000-al-a%C3%B1o-remoto-at-landra-sistemas-4447610027
 https://es.linkedin.com/jobs/view/ingeniero-a-python-aws-100%25-remoto-at-grupo-digital-4438097883
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
+https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4448577126
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
 https://es.linkedin.com/jobs/view/ingeniero-a-t%C3%A9cnico-a-ia-100%25-remoto-proyectos-de-inteligencia-artificial-at-keapps-4444923006
 https://es.linkedin.com/jobs/view/ingeniero-de-datos-teletrabajo-espa%C3%B1a-at-akkodis-4437270293
@@ -1291,6 +1288,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-qa-automatizador-3857784
 https://www.chiletrabajos.cl/trabajo/ingeniero-sistema-3875947
 https://www.chiletrabajos.cl/trabajo/ingeniero-telecomunicaciones-3870623
 https://www.chiletrabajos.cl/trabajo/ingeniero-trabajo-estandarizado-equipo-pesado-3864602
+https://www.chiletrabajos.cl/trabajo/instalador-de-parabrisas-sin-experiencia-3754203
 https://www.chiletrabajos.cl/trabajo/it-junior-3839667
 https://www.chiletrabajos.cl/trabajo/it-junior-sierra-gorda-antofagasta-3839667
 https://www.chiletrabajos.cl/trabajo/junior-administrativo-3812088
@@ -1377,6 +1375,7 @@ https://www.chiletrabajos.cl/trabajo/tecnicos-electricos-con-licencia-de-conduci
 https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3857137
 https://www.chiletrabajos.cl/trabajo/vendedor-a-tecnico-a-industrial-3873434
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
+https://www.getonbrd.com/jobs/ai-automation-engineer-manukora-remote
 https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec
 https://www.getonbrd.com/jobs/ai-engineering-intern-puente-talent-partners-remote
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
@@ -1732,6 +1731,7 @@ iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
 iaingenierosoluciones|uyustools
+iaingeniero|ionixsolucionesdigitales
 ialiderremototecnico|exportadoradatabase
 ialidertecnico|hitss
 iaoperacionespracticante|credit

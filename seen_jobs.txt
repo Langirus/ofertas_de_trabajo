@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-gesti%C3%B3n-marcas-propias-tottus-at-tottus-4391385351
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inform%C3%A1tica-programaci%C3%B3n-regi%C3%B3n-de-antofagasta-at-enaex-4429688938
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-infraestructura-linux-changemakers-internship-program-ing-inform%C3%A1tica-at-accenture-chile-4440684705
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-inform%C3%A1tica-o-af%C3%ADn-compensaciones-cencosud-at-cencosud-4445251321
@@ -903,6 +901,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447778109
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447883097
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448145122
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448809576
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
@@ -1708,6 +1707,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4442566789
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4443741799
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4444295141
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4448853728
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

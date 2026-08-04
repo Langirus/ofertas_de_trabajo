@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-infraestructura-linux-changemakers-internship-program-ing-inform%C3%A1tica-at-accenture-chile-4440684705
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-de-datos-at-vi%C3%B1a-concha-y-toro-4416241208
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ingenier%C3%ADa-inform%C3%A1tica-o-af%C3%ADn-compensaciones-cencosud-at-cencosud-4445251321
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-inversiones-e-infraestructura-at-principal-chile-4398166818
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-logistica-talcahuano-at-rosen-4415891196
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-marketing-digital-at-costera-4441850661
@@ -656,6 +653,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-fu
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remote-at-bizneo-hr-4432363706
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
+https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4446639455
 https://es.linkedin.com/jobs/view/software-engineer-python-aws-100%25-remote-at-ust-4440469463
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-engineer-synthetic-monitoring-spain-remote-at-grafana-labs-4447085641
@@ -1212,6 +1210,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-transporte-y-pasteleria-3850502
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
+https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-rancagua-3876742
 https://www.chiletrabajos.cl/trabajo/ayudante-tecnico-climatizacion-faena-minera-ii-region-3855909
 https://www.chiletrabajos.cl/trabajo/bodeguero-junior-la-granja-santiago-3827326
 https://www.chiletrabajos.cl/trabajo/buscamos-2-practicantes-de-desarrollo-saas-3871752
@@ -1345,6 +1344,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-climatizacion-y-o-ayudantes-con-con
 https://www.chiletrabajos.cl/trabajo/tecnico-de-mantenimiento-3875313
 https://www.chiletrabajos.cl/trabajo/tecnico-de-monitoreo-geotecnico-3867265
 https://www.chiletrabajos.cl/trabajo/tecnico-de-proyectos-automatizacion-industrial-3874656
+https://www.chiletrabajos.cl/trabajo/tecnico-de-servicio-tecnico-electrodomesticos-de-alta-gama-3876716
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-onsite-faena-minera-las-tortolas-turno-7x7-3867586
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969

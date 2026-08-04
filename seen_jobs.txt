@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-pasant%C3%ADa-%C3%A1rea-legal-at-sacyr-4321283775
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-planificaci%C3%B3n-y-control-financiero-at-banco-falabella-4430124055
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-procurement-at-grupo-falabella-4436902043
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-product-analyst-at-principal-chile-4421087305
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesiona-iot-at-bwhale-4440079363
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-comerical-y-operaciones-reparatuauto-at-reparatuauto-4422233413
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-inform%C3%A1tica-at-mindco-4438179360
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
@@ -264,6 +258,7 @@ https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-eva-learni
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
 https://cl.linkedin.com/jobs/view/soporte-sap-n1-at-genesys-4417645740
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-cliente-interno-at-maconline-chile-4447578792
+https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-cliente-interno-at-maconline-chile-4449044707
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-junior-at-actis-4417980714
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-n2-integraciones-api-transacciones-de-pago-at-flowpagos-4433981581
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-nivel-1-presencial-at-ada-4-solutions-head-hunting-4434593009
@@ -364,6 +359,7 @@ https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-private-at-seidor-4
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4413623598
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4434627649
 https://cl.linkedin.com/jobs/view/trainee-riesgo-para-reci%C3%A9n-titulados-at-autofin-chile-4442474941
+https://cl.linkedin.com/jobs/view/trainee-sap-%E2%80%93-seguridad-roles-y-perfiles-at-seidor-4447301425
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4436290092
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4402579969
@@ -1054,6 +1050,7 @@ https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-prod
 https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
+https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
@@ -1387,6 +1384,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santi
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
+https://www.getonbrd.com/jobs/analista-de-observabilidad-y-operaciones-ti-riskamerica-remote
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
 https://www.getonbrd.com/jobs/analista-de-soporte-tecnico-grupo-mariposa-ciudad-de-guatemala-santiago-quito-bogota-buenos-aires-lima-ddd4
 https://www.getonbrd.com/jobs/analista-desarrollador-cobol-bc-tecnologia-remote
@@ -1495,6 +1493,7 @@ https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote
 https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago
+https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro
 https://www.getonbrd.com/jobs/qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-junior-funcional-y-automatizacion-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
@@ -1936,6 +1935,7 @@ operacionalespracticanteproyectos|vincicompass
 operacionespracticaprofesionalservicios|ikea
 operacionespracticaprofesional|juegosdevideolatinoamricajvlat
 operationspeopletrainee|roche
+perfilesrolessapseguridadtrainee|seidor
 planificacionpracticantesoporte|airlines
 practicanteprocesos|vincicompass
 practicanteseguridadtecnologica|segurosfalabella

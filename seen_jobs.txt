@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-corredora-de-bolsa-it-at-btg-pactual-chile-4438290969
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-desarrollo-de-sistemas-transversales-at-ripley-chile-4422429216
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-dise%C3%B1o-digital-at-cencosud-s-a-4432017941
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-automatizaci%C3%B3n-riesgo-no-financiero-at-afp-planvital-4434407458
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-en-desarrollo-frontend-at-afp-planvital-4440302489
@@ -248,6 +246,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-chile-at-xpendit-4442371158
 https://cl.linkedin.com/jobs/view/software-engineer-de-continuidad-operativa-at-geovictoria-4446963203
 https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-latin-america-remote-at-bluelight-4448115621
+https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-remote-latin-america-at-bluelight-4448613787
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
 https://cl.linkedin.com/jobs/view/software-engineer-full-stack-at-ic-payment-4438007812
 https://cl.linkedin.com/jobs/view/software-engineer-go-at-commandlink-4423342216
@@ -1815,6 +1814,7 @@ ingenieronube|zentagroup
 ingenierooperacionalsoporte|na
 ingenierooperacionesprocesosti|chiletrabajos
 ingenierooperacionesti|onemarketer
+ingenierooperaciones|geovictoria
 ingenieropasivosproduccionserviciossistemas|bancode
 ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieroprevencionriesgos|chiletrabajos

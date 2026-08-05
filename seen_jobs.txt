@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ciberseguridad-soc-at-nebulan-4437687564
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-crm-growth-marketing-at-ripley-chile-4442706766
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405366851
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-data-strategy-trainee-supply-chain-at-sodimac-4405379571
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-bpa-at-backspace-4418354573
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollador-web-cms-y-soporte-t%C3%A9cnico-at-enexum-4413624671
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-desarrollo-de-software-at-forcast-4436973247
@@ -459,6 +454,7 @@ https://es.linkedin.com/jobs/view/analista-programador-a-as400-remoto-galicia-at
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-swift-100%25-remoto-at-altia-4439820464
 https://es.linkedin.com/jobs/view/analista-programador-a-gravity-remoto-at-plexus-tech-4434842958
+https://es.linkedin.com/jobs/view/analista-programador-a-oracle-osb-remoto-at-ad4-oct%C3%B3gono-4448998720
 https://es.linkedin.com/jobs/view/analista-programador-java-100%25-teletrabajo-at-entelgy-4440665165
 https://es.linkedin.com/jobs/view/analista-programador-java-microservicios-teletrabajo-ingl%C3%A9s-b2-c1-at-knowmad-mood-4430004706
 https://es.linkedin.com/jobs/view/analista-programador-java-python-active-viam-100%25-remoto-espa%C3%B1a-at-ust-4443776514
@@ -505,6 +501,7 @@ https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-44173157
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417323315
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-capitole-4433180436
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
+https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4449102674
 https://es.linkedin.com/jobs/view/data-engineers-100%25-teletrabajo-incorporaci%C3%B3n-septiembre-at-infortec-consultores-4438239718
 https://es.linkedin.com/jobs/view/data-infrastructure-engineer-remote-at-hired-4447262592
 https://es.linkedin.com/jobs/view/data-infrastructure-engineer-remote-at-hired-4447785013
@@ -1042,6 +1039,7 @@ https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformat
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security
+https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
@@ -1352,6 +1350,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-seguridad-electronica-cctv-28807
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-san-fernando-3849745
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
+https://www.chiletrabajos.cl/trabajo/tecnico-instalador-seguridad-electronica-3850329
 https://www.chiletrabajos.cl/trabajo/tecnico-mantencion-santiago-3105595
 https://www.chiletrabajos.cl/trabajo/tecnico-mantenimiento-electrico-transformadores-en-aceite-3869459
 https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herramientas-3850704
@@ -1444,6 +1443,7 @@ https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a44
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ia-engineer-penta-financiero-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-bc-tecnologia-remote-743c
+https://www.getonbrd.com/jobs/ingeniero-a-de-datos-ot-dmz-it-2brains-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-estudios-actuariales-bnp-paribas-cardif-santiago-4435
 https://www.getonbrd.com/jobs/ingeniero-a-de-integraciones-y-automatizacion-ia-grupo-amoble-santiago

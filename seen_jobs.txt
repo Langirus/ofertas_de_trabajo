@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4447579772
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-marketing-jumbo-supermercados-at-cencosud-4446541416
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-administraci%C3%B3n-gerencia-finanzas-at-cencosud-4440887801
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-practicante-de-superficies-gerencia-finanzas-at-cencosud-4440902381
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-reclutamiento-y-selecci%C3%B3n-at-grupo-maclean-servicios-integrales-4436902741
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-t%C3%A9cnico-a-en-inform%C3%A1tica-%E2%80%93-idiem-u-de-chile-at-idiem-4445218895
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-administraci%C3%B3n-at-usecap-4445349677
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-an%C3%A1lisis-de-datos-at-toyota-chile-s-a-4433114789
@@ -454,6 +447,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
 https://es.linkedin.com/jobs/view/ai-infrastructure-platform-operations-engineer-remote-in-the-eu-at-mirantis-4443805715
 https://es.linkedin.com/jobs/view/ai-software-engineer-100%25-remoto-at-qaracter-beyond-your-challenge-4443603228
+https://es.linkedin.com/jobs/view/ai-solutions-engineer-100%25-remoto-at-oliver-james-4447372293
 https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
 https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-activos-y-datos-full-remote-spain-at-joppy-4440644493
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
@@ -620,6 +614,7 @@ https://es.linkedin.com/jobs/view/programador-a-junior-jee-remoto-at-exportadora
 https://es.linkedin.com/jobs/view/programador-a-junior-pl-i-mainframe-100%25-remoto-at-krell-4446726140
 https://es.linkedin.com/jobs/view/programador-a-uipath-junior-teletrabajo-100%25-at-plexus-tech-4440103663
 https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
+https://es.linkedin.com/jobs/view/qa-ai-engineer-teletrabajo-at-alten-4447372377
 https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
@@ -666,6 +661,7 @@ https://gy.linkedin.com/jobs/view/react-engineer-remote-latin-america-at-bluelig
 https://hn.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427855862
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431399118
+https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-%0Amexico-remote-at-sezzle-la-4447362586
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373969904
 https://mx.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4443132629
@@ -824,6 +820,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexi
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4440531867
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
+https://mx.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-mexico-%0Amexico-remote-at-sezzle-la-4447364490
 https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
@@ -1512,6 +1509,7 @@ https://www.getonbrd.com/jobs/soporte-e-infraestructura-apex-group-chile-santiag
 https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
+https://www.linkedin.com/jobs/view/ai-engineer-i-remote-%0Alatin-america-at-sezzle-la-4447357920
 https://www.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373970867
 https://www.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4440099128
 https://www.linkedin.com/jobs/view/ai-engineer-rag-remote-work-ref%23295617-at-bairesdev-4429735318
@@ -1632,6 +1630,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4229
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4423884631
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-quik-hire-staffing-4428639079
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994974
+https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Alatin-america-at-sezzle-la-4447367447
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
@@ -1706,6 +1705,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4443741799
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4444295141
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4448853728
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4448945497
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-analista-sar-supermercados-at-cencosud-4440383624
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-app-m%C3%B3vil-at-candel-medical-company-4444787500
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-automatizaci%C3%B3n-de-procesos-at-volta-chile-4417422174
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-belleza-ecommerce-at-ripley-chile-4443008091
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-cadena-de-valor-at-toyota-chile-s-a-4439267098
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-ciberseguridad-soc-at-nebulan-4437687564
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-comercio-exterior-at-skc-insumos-grupo-sigdo-koppers-4418936837
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-crm-growth-marketing-at-ripley-chile-4442706766
@@ -193,6 +188,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-ria-money-transfer-443065
 https://cl.linkedin.com/jobs/view/software-engineer-at-ria-money-transfer-4438757783
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4449496335
 https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
+https://cl.linkedin.com/jobs/view/software-engineer-azure-at-mantu-4448018637
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4438438047
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-backend-core-api-process-automation-at-jobgether-4442016778
@@ -599,6 +595,7 @@ https://es.linkedin.com/jobs/view/junior-mid-ai-legal-specialist-full-remote-spa
 https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
 https://es.linkedin.com/jobs/view/junior-procurement-specialist-100%25-remote-at-ubq-io-4443383799
+https://es.linkedin.com/jobs/view/junior-react-frontend-developer-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4448022370
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
 https://es.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ia-remoto-at-exportadora-data-base-s-a-4444278909
@@ -1327,6 +1324,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-en-educacion-parvularia-cuidadora
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
+https://www.chiletrabajos.cl/trabajo/tecnico-b-gruas-generacion-copiapo-3877435
 https://www.chiletrabajos.cl/trabajo/tecnico-climatizacion-y-o-ayudantes-con-conocimientos-3864989
 https://www.chiletrabajos.cl/trabajo/tecnico-de-mantenimiento-3875313
 https://www.chiletrabajos.cl/trabajo/tecnico-de-monitoreo-geotecnico-3867265
@@ -1456,6 +1454,7 @@ https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e
 https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
+https://www.getonbrd.com/jobs/ingeniero-de-infraestructura-cloud-azure-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-redes-lisit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
@@ -1617,6 +1616,7 @@ https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesde
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-indi-staffing-services-4441203387
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-bairesdev-4413571912
 https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-indi-staffing-services-4440986941
+https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-indi-staffing-services-4449638469
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4443942301
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4446593625
 https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050

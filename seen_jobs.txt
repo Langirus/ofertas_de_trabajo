@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%C3%A1rea-inform%C3%A1tica-at-mindco-4438179360
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-%C3%A1rea-administrativa-y-de-facturaci%C3%B3n-at-imagemaker-4421835766
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-4436900491
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-s-a-4436900491
@@ -651,6 +649,7 @@ https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-ci
 https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
 https://es.linkedin.com/jobs/view/soporte-aplicaciones-microservicios-24x7-remoto-madrid-madrid-00000-es-at-grupo-digital-4432676512
 https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec-consultores-4435122769
+https://es.linkedin.com/jobs/view/sr-fullstack-ai-engineer-remote-at-knowmad-mood-4448554972
 https://es.linkedin.com/jobs/view/sre-engineer-docker-python-ingles-b2-remoto-espa%C3%B1a-h-m-x-at-experis-espa%C3%B1a-4435662869
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
@@ -1562,6 +1561,7 @@ https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442224475
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446422154
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4448205611
+https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4448556161
 https://www.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4439090394
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887
 https://www.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4439092256

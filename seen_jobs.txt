@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-automatizaci%C3%B3n-power-bi-e-inteligencia-artificial-at-sangmyung-university-4442488172
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-operaciones-at-juegos-de-video-latinoam%C3%A9rica-jvlat-4439320138
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-prevenci%C3%B3n-de-riesgos-at-automotriz-guillermo-morales-ltda-4428547998
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-riesgo-tecnol%C3%B3gico-at-ey-4422068517
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-en-seguridad-de-la-informaci%C3%B3n-at-fondo-esperanza-4443979771
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-estudiante-publicidad-o-afin-at-the-hotel-boutique-ltd-4439766020
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-gerencia-analytics-y-bi-data-science-at-banco-ripley-chile-4446349934
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
@@ -1377,11 +1372,13 @@ https://www.getonbrd.com/jobs/analista-de-observabilidad-y-operaciones-ti-riskam
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
 https://www.getonbrd.com/jobs/analista-de-soporte-tecnico-grupo-mariposa-ciudad-de-guatemala-santiago-quito-bogota-buenos-aires-lima-ddd4
 https://www.getonbrd.com/jobs/analista-desarrollador-cobol-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/analista-funcional-qa-hf-solutions-santiago
 https://www.getonbrd.com/jobs/analista-operacional-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-operador-de-monitoreo-noc-factor-it-bogota-3d10
 https://www.getonbrd.com/jobs/analista-qa-coderslab-io-santiago-9bab
 https://www.getonbrd.com/jobs/analista-qa-funcional-3it-santiago-dae9
 https://www.getonbrd.com/jobs/analista-qa-funcional-junior-ecommerce-y-medios-de-pago-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/analista-qa-funcional-manual-tcit-santiago
 https://www.getonbrd.com/jobs/analista-qa-junior-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-qa-senior-factor-it-remote
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768
@@ -1404,6 +1401,7 @@ https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterre
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-42labs-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/data-engineer-cloud-especializado-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote
 https://www.getonbrd.com/jobs/data-engineer-etl-ryc-tech-group-santiago
@@ -1854,6 +1852,7 @@ ingenierosoftware|thecne
 ingenierosoftware|vimagenconsultores
 ingenierosoportetecnologia|finning
 ingenierosoporte|apiuxtech
+ingenierosoporte|falabella
 ingenierosoporte|gausscontrol
 ingenierosoporte|tecnologiainformatica
 ingenierotelecomunicaciones|chiletrabajos
@@ -1869,6 +1868,7 @@ internsdet|remoteok
 inventoryjuniorpurchasingremotespecialist|mprtoolsequipment
 iotpracticaprofesiona|bwhale
 itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
+itpractica|pumagroup
 itremotosoportetecnico|michaelpage
 itsupporttrainee|cumplo
 jeejuniorprogramadorremoto|exportadoradatabase

@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analista-en-medio-ambiente-y-sostenibilidad-at-r-q-ingenier%C3%ADa-4417235491
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-4436900491
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-analytics-cencosud-media-at-cencosud-s-a-4436900491
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-customer-experience-regional-at-cencosud-4444786776
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4422486467
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-desarrollo-software-at-forcast-4447579772
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-digital-y-creaci%C3%B3n-de-contenidos-at-marketing-people-4418352950
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-%E2%80%93-dise%C3%B1o-ux-ui-at-uc-christus-4432153919
@@ -72,6 +67,7 @@ https://cl.linkedin.com/jobs/view/practica-an%C3%A1lisis-de-datos-changemakers-i
 https://cl.linkedin.com/jobs/view/practica-dise%C3%B1o-gr%C3%A1fico-changemakers-internship-program-at-accenture-chile-4426673434
 https://cl.linkedin.com/jobs/view/practica-profesional-ingeniero-a-de-aplicaciones-y-conectividad-at-inprint-4439581500
 https://cl.linkedin.com/jobs/view/practica-profesional-tecnico-soporte-ti-at-tigroup-4440835291
+https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-automatizaci%C3%B3n-y-control-de-procesos-at-banco-de-chile-4448584305
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
 https://cl.linkedin.com/jobs/view/practicante-1049-analitica-avanzada-empresas-at-banco-de-chile-4445785295
@@ -212,6 +208,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-backend-core-api-process-aut
 https://cl.linkedin.com/jobs/view/software-engineer-backend-machbank-at-machbank-4447087720
 https://cl.linkedin.com/jobs/view/software-engineer-chile-at-xpendit-4442371158
 https://cl.linkedin.com/jobs/view/software-engineer-de-continuidad-operativa-at-geovictoria-4446963203
+https://cl.linkedin.com/jobs/view/software-engineer-django-remote-work-ref%23299432-at-bairesdev-4449076970
 https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-latin-america-remote-at-bluelight-4448115621
 https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-remote-latin-america-at-bluelight-4448613787
@@ -845,6 +842,7 @@ https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-q
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
 https://mx.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4440576939
 https://mx.linkedin.com/jobs/view/react-engineer-remote-work-ref%23298566-at-bairesdev-4443587327
+https://mx.linkedin.com/jobs/view/remote-ai-automation-solutions-engineer-at-rtm-connect-by-betterwho-4449424599
 https://mx.linkedin.com/jobs/view/remote-ai-developer-internship-at-emma-of-torre-ai-4440033417
 https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-apis-at-azumo-4432076749
@@ -1344,6 +1342,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-santiago-3405950
+https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-3877346
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
@@ -1549,6 +1548,7 @@ https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4447886067
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4448542155
+https://www.linkedin.com/jobs/view/artificial-intelligence-%2B-python-engineer-remote-work-ref%23296750-at-bairesdev-4435334809
 https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-latam-at-bingx-4422591459
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
 https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%80%93-remote-latam-at-gracemark-solutions-4428393820

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-estudiante-publicidad-o-afin-at-the-hotel-boutique-ltd-4439766020
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-gerencia-analytics-y-bi-data-science-at-banco-ripley-chile-4446349934
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4430732719
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-growth-analyst-at-fingo-4431127755
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-profesional-inform%C3%A1tica-desarrollo-web-y-soporte-at-enexum-4408555214
@@ -303,6 +301,7 @@ https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santand
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-region-metropolitana-at-santander-chile-4439383886
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-1-at-santander-chile-4440366273
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
+https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4449949327
 https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-commercial-finance-at-roche-4442428374
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
@@ -616,6 +615,7 @@ https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowma
 https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-full-remote-at-knowmad-mood-4440271158
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
 https://es.linkedin.com/jobs/view/software-engineer-junior-ruby-ror-25-35k-remote-at-bizneo-hr-4432363706
+https://es.linkedin.com/jobs/view/software-engineer-platform-productivity-spain-remote-at-grafana-labs-4449963687
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4446639455
 https://es.linkedin.com/jobs/view/software-engineer-python-aws-100%25-remote-at-ust-4440469463

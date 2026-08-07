@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-4809-reclutamiento-y-atraccion-talentos-cel-at-banco-de-chile-4415132123
-https://cl.linkedin.com/jobs/view/practicante-analista-de-datos-maestros-at-sodimac-4384368364
-https://cl.linkedin.com/jobs/view/practicante-analista-en-sistemas-o-programador-quilicura-presencial-at-relix-water-4428826888
-https://cl.linkedin.com/jobs/view/practicante-area-ti-at-textil-las-americas-4424794538
 https://cl.linkedin.com/jobs/view/practicante-at-stella-capital-advisory-4422720070
 https://cl.linkedin.com/jobs/view/practicante-comunicaciones-at-rabobank-4371203175
 https://cl.linkedin.com/jobs/view/practicante-control-gesti%C3%B3n-at-latam-airlines-4413640621
@@ -16,6 +12,7 @@ https://cl.linkedin.com/jobs/view/practicante-de-ingenier%C3%ADa-modernizaci%C3%
 https://cl.linkedin.com/jobs/view/practicante-de-optimizaci%C3%B3n-de-procesos-%C3%A1rea-de-proyectos-at-eticsa-4442105650
 https://cl.linkedin.com/jobs/view/practicante-de-power-bi-at-vi%C3%B1a-concha-y-toro-4441410480
 https://cl.linkedin.com/jobs/view/practicante-de-procesos-at-vinci-compass-4441396338
+https://cl.linkedin.com/jobs/view/practicante-de-revenue-management-at-latam-airlines-4449214873
 https://cl.linkedin.com/jobs/view/practicante-de-ti-at-marlene-mewes-agencia-de-aduanas-4446406763
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4419214630
 https://cl.linkedin.com/jobs/view/practicante-desarrollador-at-geolize-4440494578
@@ -1421,6 +1418,7 @@ https://www.getonbrd.com/jobs/full-stack-java-angularjs-angular-17-3it-santiago
 https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a444
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ia-engineer-penta-financiero-santiago
+https://www.getonbrd.com/jobs/ingeniero-a-cloud-riskamerica-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-bc-tecnologia-remote-743c
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-big-data-aws-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-ot-dmz-it-2brains-santiago
@@ -1774,6 +1772,7 @@ ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
 ingenierointegraciones|clnicameds
 ingenierointegracion|taglermaq
+ingenierointegradorsoftware|acl
 ingenierointegradospreventaproyectos|chiletrabajos
 ingenierojavaremotosoftwaretrabajo|bairesdev
 ingenierojornadajuniormediasoftware|direccindepersonasuandes
@@ -1908,6 +1907,7 @@ lissoporte|owlteamsolutions
 lissoporte|randstad
 logisticapracticatalcahuano|rosen
 logisticopracticanterepuestostemuco|salfarent
+managementpracticanterevenue|airlines
 mantencionsantiagotecnico|chiletrabajos
 mantenedorminamineraspencetrainee|bhp
 mantenimientotecnicoterreno|chiletrabajos

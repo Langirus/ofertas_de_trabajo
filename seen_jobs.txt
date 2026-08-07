@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-audiovisual-archive-documentalist-at-warner-bros-discovery-4395712559
-https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-ingest-operator-at-warner-bros-discovery-4398074549
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-t%C3%A9cnica-profesional-operador-a-de-boc-at-warner-bros-discovery-4398066885
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-tecnolog%C3%ADa-programaci%C3%B3n-at-btg-pactual-chile-4437718694
 https://cl.linkedin.com/jobs/view/pr%C3%A1ctica-ti-at-maihue%C2%AE-4430112051
@@ -359,6 +357,7 @@ https://co.linkedin.com/jobs/view/consultor-junior-desarrollador-oracle-apex-rem
 https://co.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4448235366
 https://co.linkedin.com/jobs/view/data-engineer-microsoft-fabric-pyspark-remoto-colombia-at-ntt-data-europe-latam-4440766528
 https://co.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4440836643
+https://co.linkedin.com/jobs/view/jr-e-commerce-developer-remote-at-helios-partners-4450063997
 https://co.linkedin.com/jobs/view/junior-consultant-remote-colombia-at-andean-recruiting-4444621212
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
 https://co.linkedin.com/jobs/view/junior-cybersecurity-analyst-%2419-hr-remote-at-crossing-hurdles-4414447995
@@ -851,6 +850,7 @@ https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hi
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447883097
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448145122
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448809576
+https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4450071066
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170

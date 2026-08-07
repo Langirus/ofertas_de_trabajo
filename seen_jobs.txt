@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/practica-profesional-tecnico-soporte-ti-at-tigroup-4440835291
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-automatizaci%C3%B3n-y-control-de-procesos-at-banco-de-chile-4448584305
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-de-riesgo-at-capital-express-4413332843
 https://cl.linkedin.com/jobs/view/practicante-%C3%A1rea-ti-base-de-datos-at-global-talent-4414976326
@@ -869,6 +868,7 @@ https://pe.linkedin.com/jobs/view/trabajo-100-por-ciento-remoto-atenci%C3%B3n-al
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
+https://portal.chiletrabajos.cl/empresa/abenisbusquedayseleccion/trabajo/backend-junior-python-3858073
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/icetel/trabajo/santiago-ingeniero-junior-3208128

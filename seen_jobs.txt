@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-de-ciberseguridad-at-getdata-cl-4441849111
-https://cl.linkedin.com/jobs/view/practicante-de-data-analytics-engineering-at-falabella-4400610509
 https://cl.linkedin.com/jobs/view/practicante-de-de-an%C3%A1lisis-y-reportes-finanzas-at-epiroc-4371395400
 https://cl.linkedin.com/jobs/view/practicante-de-desarrollo-de-agentes-de-ia-%E2%80%93-planning-at-falabella-4436472928
 https://cl.linkedin.com/jobs/view/practicante-de-finanzas-internacionales-at-latam-airlines-4439246817
@@ -354,6 +352,7 @@ https://co.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
+https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Acolombia-remote-at-sezzle-la-4451040605
 https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323954574
 https://co.linkedin.com/jobs/view/junior-video-editor-ai-performance-content-%E2%80%94-remote-at-octo360-4418389422
 https://co.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4426146544
@@ -1690,6 +1689,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4448945497
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4449991438
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4450038796
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4451049411
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

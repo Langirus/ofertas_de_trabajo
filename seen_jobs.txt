@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-desarrollador-ia-quilicura-presencial-at-relix-water-4427960257
-https://cl.linkedin.com/jobs/view/practicante-desarrollador-software-at-geolize-4431973418
 https://cl.linkedin.com/jobs/view/practicante-desarrollo-organizacional-at-afp-habitat-4443701328
 https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
@@ -855,6 +853,7 @@ https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-co
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3262938
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
+https://portal.chiletrabajos.cl/empresa/79587202/trabajo/tecnico-soporte-ti-junior-3355266
 https://portal.chiletrabajos.cl/empresa/abenisbusquedayseleccion/trabajo/backend-junior-python-3858073
 https://portal.chiletrabajos.cl/empresa/acl/trabajo/analista-de-datos-junior-3461983
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
@@ -1884,6 +1883,7 @@ juniorqa|na
 juniorrenewalsspecialist|clio
 juniorrepartidor|chiletrabajos
 juniorrepresentativesales|quectel
+juniorsantiagosoportetecnicoti|portal
 juniorsantiagosoporteti|portal
 juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-en-inteligencia-artificial-at-ntt-data-inc-4409284399
 https://cl.linkedin.com/jobs/view/practicante-en-procesos-de-negocios-at-ntt-data-inc-4413650004
 https://cl.linkedin.com/jobs/view/practicante-full-stack-next-js-desarrollo-de-software-de-gesti%C3%B3n-interna-at-betterbites-4432275151
 https://cl.linkedin.com/jobs/view/practicante-gestion-de-prensa-at-presse-4437723420
@@ -1540,6 +1539,7 @@ https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-a
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4439599902
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4448104127
 https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4448144689
+https://www.linkedin.com/jobs/view/frontend-engineer-angular-javascript-remote-at-hire-feed-4451331836
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4438888860
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4439715140
 https://www.linkedin.com/jobs/view/frontend-engineer-javascript-remote-at-hire-feed-4444298314

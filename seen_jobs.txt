@@ -1,8 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-seguridad-tecnol%C3%B3gica-at-seguros-falabella-4422970240
-https://cl.linkedin.com/jobs/view/practicante-soluciones-tecnol%C3%B3gicas-at-wsp-chile-y-argentina-4445246199
-https://cl.linkedin.com/jobs/view/practicante-t%C3%A9cnico-de-microinform%C3%A1tica-at-avalora-chile-4445342919
-https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
-https://cl.linkedin.com/jobs/view/practicante-transformaci%C3%B3n-digital-at-latam-airlines-4445036715
 https://cl.linkedin.com/jobs/view/practicante-universitaria-at-schwarzkopf-comunicaciones-4449507888
 https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
@@ -123,7 +118,9 @@ https://cl.linkedin.com/jobs/view/software-engineer-qa-automation-gerencia-tecno
 https://cl.linkedin.com/jobs/view/software-intern-at-stella-capital-advisory-4450715090
 https://cl.linkedin.com/jobs/view/software-qa-automation-engineer-at-advendio-4424425648
 https://cl.linkedin.com/jobs/view/software-technical-support-analyst-at-murex-4424042842
+https://cl.linkedin.com/jobs/view/sofware-engineer-backend-machbank-at-machbank-4451877671
 https://cl.linkedin.com/jobs/view/solutions-engineer-at-schaman-4441034321
+https://cl.linkedin.com/jobs/view/soporte-ai-at-agendapro-4451838659
 https://cl.linkedin.com/jobs/view/soporte-al-cliente-at-keywe-4433900754
 https://cl.linkedin.com/jobs/view/soporte-al-cliente-part-time-at-alvear-jara-4433791971
 https://cl.linkedin.com/jobs/view/soporte-control-m-at-tecnologia-informatica-4429120736
@@ -212,6 +209,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-software-n2-at-vigatec-44
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-antofagasta-atacama-at-accenture-chile-4434160916
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434167735
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-2-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434171612
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-ti-at-empresa-confidencial-4451429388
 https://cl.linkedin.com/jobs/view/talent-pool-agente-de-soporte-a-usuarios-stgo-chile-at-rankmi-4446385200
 https://cl.linkedin.com/jobs/view/tech-functional-analyst-at-vr-group-chile-4433141097
 https://cl.linkedin.com/jobs/view/technical-services-analyst-analista-de-servicios-t%C3%A9cnicos-at-wenco-international-mining-systems-4442690023
@@ -1423,6 +1421,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-redes-lisit-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
+https://www.getonbrd.com/jobs/ingeniero-devops-junior-transvip-santiago
 https://www.getonbrd.com/jobs/ingeniero-gobierno-de-datos-agrosuper-rancagua
 https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote
 https://www.getonbrd.com/jobs/junior-data-engineer-grupo-mariposa-remote
@@ -1985,6 +1984,7 @@ softwaresoportetecnico|vigatec
 soportetecnicoterreno|tivit
 soportetecnicoti|alertplus
 soportetecnicoti|chiletrabajos
+soportetecnicoti|empresaconfidencial
 soportetecnicoti|tataconsultancyservices
 soportetecnicoti|universidaddelasamricas
 soportetecnicousuario|chiletrabajos

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-desarrollo-at-sodimac-4385188030
 https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
 https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
 https://cl.linkedin.com/jobs/view/practicante-profesional-de-contenido-at-nutri-co-4442183368
@@ -1392,6 +1391,7 @@ https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-s
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/desarrollador-sql-it-convergence-ciudad-de-mexico
+https://www.getonbrd.com/jobs/developer-magnar-lima-santiago-buenos-aires-ciudad-de-mexico-bogota-c4fd
 https://www.getonbrd.com/jobs/developer-portugues-espanol-magnar-remote
 https://www.getonbrd.com/jobs/devops-engineer-e-commerce-interfell-remote
 https://www.getonbrd.com/jobs/devops-engineer-full-stack-developer-informat-s-a-santiago

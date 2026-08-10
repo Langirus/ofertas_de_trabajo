@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-planificaci%C3%B3n-y-soporte-at-latam-airlines-4433112859
-https://cl.linkedin.com/jobs/view/practicante-produccion-audiovisual-at-bidii-studios-4435621035
-https://cl.linkedin.com/jobs/view/practicante-profesional-de-contenido-at-nutri-co-4442183368
 https://cl.linkedin.com/jobs/view/practicante-proyectos-de-integracion-y-servicios-de-negocio-at-banchile-inversiones-4445731865
 https://cl.linkedin.com/jobs/view/practicante-proyectos-operacionales-at-vinci-compass-4439986617
 https://cl.linkedin.com/jobs/view/practicante-renta-variable-extrajera-at-afp-habitat-4444941687
@@ -56,6 +53,7 @@ https://cl.linkedin.com/jobs/view/restructuring-analyst-ai-trainer-at-dataannota
 https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
 https://cl.linkedin.com/jobs/view/sales-ai-operations-intern-at-smartup-holdings-inc-4422243747
 https://cl.linkedin.com/jobs/view/sales-operation-analyst-at-mondel%C4%93z-international-4417022117
+https://cl.linkedin.com/jobs/view/sales-support-trainee-at-siemens-energy-4451404690
 https://cl.linkedin.com/jobs/view/salesforce-operations-analyst-at-jobgether-4425559755
 https://cl.linkedin.com/jobs/view/sap-commerce-cloud-technical-support-engineer-at-epam-systems-4432286510
 https://cl.linkedin.com/jobs/view/sap-hcm-trainee-at-accenture-chile-4433408039
@@ -1482,6 +1480,7 @@ https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4431391972
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434294403
 https://www.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4439748294
 https://www.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4448216978
+https://www.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4451402147
 https://www.linkedin.com/jobs/view/ai-frontend-engineer-remote-at-quik-hire-staffing-4433585500
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4434951913
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4438175778
@@ -1975,6 +1974,7 @@ redestecnicoterrenotier|consultoratupsicolaboral
 redestecnico|prontopaga
 remotosoportetecnico|inetum
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions
+salessupporttrainee|siemensenergy
 sapsoporte|genesys
 seotrainee|dentsu
 serenatecnicotelecomunicaciones|chiletrabajos

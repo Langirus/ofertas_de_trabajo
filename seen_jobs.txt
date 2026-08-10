@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-ingeniero-a-inform%C3%A1tico-at-occimiano-4413126606
-https://cl.linkedin.com/jobs/view/practicante-it-bpo-at-dhl-global-forwarding-4440984765
-https://cl.linkedin.com/jobs/view/practicante-log%C3%ADstico-a-repuestos-temuco-at-salfa-rent-4438978288
 https://cl.linkedin.com/jobs/view/practicante-marketing-digital-at-ikai-vr-foods-4444456028
 https://cl.linkedin.com/jobs/view/practicante-marketing-digital-growth-junior-at-ell-cl-4433913139
 https://cl.linkedin.com/jobs/view/practicante-marketplace-internacional-belleza-at-grupo-falabella-4432143308
@@ -19,6 +16,7 @@ https://cl.linkedin.com/jobs/view/practicante-soluciones-tecnol%C3%B3gicas-at-ws
 https://cl.linkedin.com/jobs/view/practicante-t%C3%A9cnico-de-microinform%C3%A1tica-at-avalora-chile-4445342919
 https://cl.linkedin.com/jobs/view/practicante-trade-marketing-6-meses-at-mondel%C4%93z-international-4400611520
 https://cl.linkedin.com/jobs/view/practicante-transformaci%C3%B3n-digital-at-latam-airlines-4445036715
+https://cl.linkedin.com/jobs/view/practicante-universitaria-at-schwarzkopf-comunicaciones-4449507888
 https://cl.linkedin.com/jobs/view/practicante-voice-of-employee-at-grupo-falabella-4436270988
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4395311784
 https://cl.linkedin.com/jobs/view/practicantes-de-tecnolog%C3%ADa-consultor%C3%ADa-at-deloitte-4439323689
@@ -172,6 +170,7 @@ https://cl.linkedin.com/jobs/view/soporte-ti-at-nortrans-4434556092
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
 https://cl.linkedin.com/jobs/view/soporte-y-administrador-servicenow-las-condes-at-ada-4-solutions-head-hunting-4443162240
+https://cl.linkedin.com/jobs/view/spec-in-engineer-hvac-solutions-at-lg-electronics-chile-4449529136
 https://cl.linkedin.com/jobs/view/specialist-data-analyst-bhp-chile-at-bhp-4450016836
 https://cl.linkedin.com/jobs/view/sql-functional-analyst-at-vr-group-chile-4436692020
 https://cl.linkedin.com/jobs/view/sql-tech-business-analyst-at-vr-group-chile-4437221734
@@ -1936,6 +1935,7 @@ practicanteprocesos|vincicompass
 practicanteseguridadtecnologica|segurosfalabella
 practicantesolucionestecnologicas|wspyargentina
 practicanteti|marlenemewesagenciadeaduanas
+practicanteuniversitaria|schwarzkopfcomunicaciones
 practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|automotrizguillermomorales
 practicaprevencionprofesionalriesgos|chiletrabajos

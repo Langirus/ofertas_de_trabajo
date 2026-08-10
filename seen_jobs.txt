@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/practicante-proyectos-de-integracion-y-servicios-de-negocio-at-banchile-inversiones-4445731865
-https://cl.linkedin.com/jobs/view/practicante-proyectos-operacionales-at-vinci-compass-4439986617
 https://cl.linkedin.com/jobs/view/practicante-renta-variable-extrajera-at-afp-habitat-4444941687
 https://cl.linkedin.com/jobs/view/practicante-riesgo-corporativo-at-falabella-4434085299
 https://cl.linkedin.com/jobs/view/practicante-riesgos-corporativos-at-latam-airlines-4437675592
@@ -143,6 +141,7 @@ https://cl.linkedin.com/jobs/view/soporte-e-commerce-n1-n2-portuges-avanzado-at-
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4431949632
 https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
 https://cl.linkedin.com/jobs/view/soporte-inform%C3%A1tico-nivel-1-at-tecnologia-informatica-4445350604
+https://cl.linkedin.com/jobs/view/soporte-it-filial-blue-express-at-copec-s-a-4449812282
 https://cl.linkedin.com/jobs/view/soporte-lis-at-eva-learning-4441530691
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-lis-at-randstad-chile-4440486704
@@ -984,6 +983,7 @@ https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology
+https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester

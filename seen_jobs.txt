@@ -1,10 +1,8 @@
-https://cl.linkedin.com/jobs/view/qa-funcional-junior-at-kibernum-4433113450
-https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046
-https://cl.linkedin.com/jobs/view/quantitative-analyst-at-jobgether-4422826511
 https://cl.linkedin.com/jobs/view/r-2025-4046-t%C3%A9cnico-a-a-ensayo-no-destructivo-at-finning-4419973496
 https://cl.linkedin.com/jobs/view/r-2026-1899-analista-de-repuestos-at-finning-4414540096
 https://cl.linkedin.com/jobs/view/ratings-and-research-intern-at-passfort-a-moody-s-company-4418306472
 https://cl.linkedin.com/jobs/view/recien-egresados-universitarios-at-td-synnex-multi-country-area-espa%C3%B1ol-4410612862
+https://cl.linkedin.com/jobs/view/recruiting-analyst-remote-work-at-bairesdev-4451943265
 https://cl.linkedin.com/jobs/view/reemplazo-pre-y-post-natal-analista-entrenamiento-at-enaex-4424001302
 https://cl.linkedin.com/jobs/view/referente-t%C3%A9cnico-de-mantenimiento-para-importante-industria-at-secretaria-de-extensi%C3%B3n-universitaria-utn-frc-4445806927
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
@@ -63,6 +61,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
 https://cl.linkedin.com/jobs/view/software-engineer-at-truckercloud-4451311893
 https://cl.linkedin.com/jobs/view/software-engineer-azure-at-mantu-4448018637
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4438438047
+https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4449882527
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-backend-core-api-process-automation-at-jobgether-4442016778
 https://cl.linkedin.com/jobs/view/software-engineer-backend-machbank-at-machbank-4447087720
@@ -823,6 +822,7 @@ https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-t
 https://portal.chiletrabajos.cl/empresa/icetel/trabajo/santiago-ingeniero-junior-3208128
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-qa-agil-junior-2937881
+https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/desarrollador-net-core-angular-junior-3480454
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/lider-de-proyecto-ti-junior-3809354
 https://portal.chiletrabajos.cl/empresa/seischile/trabajo/reemplazo-pbmo-junior-3465082
 https://portal.chiletrabajos.cl/empresa/sip/trabajo/analista-de-datos-junior-ti-42-horas-santiago-centro-sip-3854652

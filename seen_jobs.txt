@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/qa-analyst-at-ria-money-transfer-4444501123
-https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
-https://cl.linkedin.com/jobs/view/qa-engineer-mid-at-xe-com-4442477555
 https://cl.linkedin.com/jobs/view/qa-engineer-saas-at-impulsa-suite-4431034660
 https://cl.linkedin.com/jobs/view/qa-funcional-junior-at-kibernum-4433113450
 https://cl.linkedin.com/jobs/view/quality-assurance-engineer-trabajo-remoto-at-bairesdev-4427759046
@@ -821,6 +818,7 @@ https://portal.chiletrabajos.cl/empresa/79587202/trabajo/tecnico-soporte-ti-juni
 https://portal.chiletrabajos.cl/empresa/abenisbusquedayseleccion/trabajo/backend-junior-python-3858073
 https://portal.chiletrabajos.cl/empresa/acl/trabajo/analista-de-datos-junior-3461983
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
+https://portal.chiletrabajos.cl/empresa/coderhub/trabajo/fullstack-developer-junior-3711633
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/icetel/trabajo/santiago-ingeniero-junior-3208128
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868
@@ -1082,6 +1080,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-venta-part-time-mall-alto-las-
 https://www.chiletrabajos.cl/trabajo/asistente-de-venta-part-time-mall-cenco-costanera-3858216
 https://www.chiletrabajos.cl/trabajo/asistente-de-venta-presencial-3869498
 https://www.chiletrabajos.cl/trabajo/asistente-dental-administativo-3844371
+https://www.chiletrabajos.cl/trabajo/asistente-dental-tecnico-en-odontologia-3880829
 https://www.chiletrabajos.cl/trabajo/asistente-ejecutivo-a-3868371
 https://www.chiletrabajos.cl/trabajo/asistente-gestion-de-activos-san-sebastian-3852813
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
@@ -1951,6 +1950,7 @@ practicariesgo|bancofalabella
 practicasoportetecnicoti|afpplanvital
 practicasprofesionalessantiago|limchile
 practicasti|apiuxtech
+practicatecnologiatransformacion|airlines
 practicati|maihue
 practicati|ucchristus
 prcticaprofesionalinformticadesarrollowebysoporte|enexum

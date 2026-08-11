@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421256027
-https://cl.linkedin.com/jobs/view/qa-analyst-%F0%9F%9A%80-at-sii-group-chile-4432888323
-https://cl.linkedin.com/jobs/view/qa-analyst-at-experian-spanish-latam-4423308263
 https://cl.linkedin.com/jobs/view/qa-analyst-at-mobdev-4450640109
 https://cl.linkedin.com/jobs/view/qa-analyst-at-ria-money-transfer-4444501123
 https://cl.linkedin.com/jobs/view/qa-automation-engineer-pro-at-kraken-4416714972
@@ -1366,6 +1363,7 @@ https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-coderslab-io-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
+https://www.getonbrd.com/jobs/data-engineer-zaelot-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-react-bc-tecnologia-santiago
@@ -1411,6 +1409,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-infraestructura-cloud-azure-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-redes-lisit-santiago
+https://www.getonbrd.com/jobs/ingeniero-de-software-agilistik-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
@@ -1829,6 +1828,7 @@ ingenierosoftware|bipboplabs
 ingenierosoftware|esmart
 ingenierosoftware|fundacininvica
 ingenierosoftware|innomar
+ingenierosoftware|na
 ingenierosoftware|prudentialagf
 ingenierosoftware|sercomed
 ingenierosoftware|thecne

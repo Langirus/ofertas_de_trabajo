@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-ai-accelerated-development-at-signant-health-4441427553
-https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4436622196
 https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4445634882
 https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4450601812
 https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
@@ -323,6 +321,7 @@ https://es.linkedin.com/jobs/view/analista-funcional-en-medios-de-pago-sat-100%2
 https://es.linkedin.com/jobs/view/analista-funcional-junior-ingl%C3%A9s-b2-100%25-teletrabajo-at-heyclue-4446112929
 https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
 https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
+https://es.linkedin.com/jobs/view/analista-programador-a-altitude-scripting-net-c%23-contact-center-%C2%B7-100%25-teletrabajo-at-beigar-4452379443
 https://es.linkedin.com/jobs/view/analista-programador-a-as400-remoto-galicia-at-ad4-oct%C3%B3gono-4435282467
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-swift-100%25-remoto-at-altia-4439820464
@@ -893,6 +892,7 @@ https://uy.linkedin.com/jobs/view/ai-engineer-%F0%9F%92%BB-us-saas-startup-%F0%9
 https://uy.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371021530
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/graduate-sales-development-representative-canada-remote-at-canonical-4442564132
+https://uy.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4452720862
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421236881

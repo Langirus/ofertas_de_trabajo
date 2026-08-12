@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/reemplazo-pre-y-post-natal-analista-entrenamiento-at-enaex-4424001302
-https://cl.linkedin.com/jobs/view/referente-t%C3%A9cnico-de-mantenimiento-para-importante-industria-at-secretaria-de-extensi%C3%B3n-universitaria-utn-frc-4445806927
 https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
 https://cl.linkedin.com/jobs/view/req14378-ingeniero-proyecto-at-salfa-rent-4440205295
 https://cl.linkedin.com/jobs/view/research-analyst-santiago-at-santander-chile-4450236848
@@ -54,6 +52,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451358930
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451470440
 https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
 https://cl.linkedin.com/jobs/view/software-engineer-at-truckercloud-4451311893
+https://cl.linkedin.com/jobs/view/software-engineer-at-yourdevs-4416857164
 https://cl.linkedin.com/jobs/view/software-engineer-azure-at-mantu-4448018637
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4438438047
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-4449882527
@@ -915,6 +914,7 @@ https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-a
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421236881
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421252343
 https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullstack-4421253355
+https://uy.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-remote-latin-america-at-fullstack-4451942770
 https://uy.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-remote-latin-america-at-fullstack-4451945697
 https://uy.linkedin.com/jobs/view/software-engineer-elixir-phoenix-latin-america-remote-at-bluelight-4448102838
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161

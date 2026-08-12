@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/search-engineer-ai-remote-work-ref%23298600-at-bairesdev-4443587333
-https://cl.linkedin.com/jobs/view/secretario-a-t%C3%A9cnico-sacyr-ingenier%C3%ADa-e-infraestructura-talagante-chile-at-sacyr-4443167070
-https://cl.linkedin.com/jobs/view/security-engineer-at-audienceview-4413991806
-https://cl.linkedin.com/jobs/view/sell-side-analyst-ai-trainer-at-dataannotation-4438679561
 https://cl.linkedin.com/jobs/view/seo-trainee-at-dentsu-4432699724
 https://cl.linkedin.com/jobs/view/service-excellence-operations-analyst-las-condes-chile-at-johnson-johnson-medtech-4424740501
 https://cl.linkedin.com/jobs/view/servicio-t%C3%A9cnico-de-sistemas-at-eva-learning-4441833310
@@ -93,6 +89,7 @@ https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
 https://cl.linkedin.com/jobs/view/soporte-lis-at-randstad-chile-4440486704
 https://cl.linkedin.com/jobs/view/soporte-mesa-de-ayuda-santiago-at-grupo-avanza-4416945891
 https://cl.linkedin.com/jobs/view/soporte-n1-at-eva-learning-4449862057
+https://cl.linkedin.com/jobs/view/soporte-n1-presencial-at-eva-learning-4450145736
 https://cl.linkedin.com/jobs/view/soporte-nivel-1-jr-t%C3%A9cnico-en-soporte-de-computadores-at-avos-tech-chile-4445336044
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-eva-learning-4441551771
 https://cl.linkedin.com/jobs/view/soporte-para-implementaci%C3%B3n-at-owl-team-solutions-4412817532
@@ -1042,6 +1039,7 @@ https://www.chiletrabajos.cl/trabajo/analista-qa-junior-3861880
 https://www.chiletrabajos.cl/trabajo/analista-qa-testing-junior-100-remoto-1774911
 https://www.chiletrabajos.cl/trabajo/analista-quimico-san-francisco-de-mostazal-3870626
 https://www.chiletrabajos.cl/trabajo/analista-servicio-al-cliente-3880105
+https://www.chiletrabajos.cl/trabajo/analista-sr-calidad-iso-9001-iso-27001-3881389
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-automatizacion-y-rpa-3846992
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-santiago-3865565
 https://www.chiletrabajos.cl/trabajo/apoyo-tecnico-administrativo-pozo-almonte-reemplazo-3868011
@@ -1572,6 +1570,7 @@ https://www.linkedin.com/jobs/view/junior-javascript-developer-remote-work-at-in
 https://www.linkedin.com/jobs/view/junior-machine-learning-engineer-remote-work-at-bairesdev-4451913797
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4443942301
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4446593625
+https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4452396881
 https://www.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4449641500
 https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675
@@ -1955,6 +1954,7 @@ practicati|maihue
 practicati|ucchristus
 prcticaprofesionalinformticadesarrollowebysoporte|enexum
 presencialsoportetecnico|conytecconsultores
+presencialsoporte|evalearning
 prevencionriesgostecnicotrainee|chiletrabajos
 privateprogramsapseidortrainee|seidor
 productdataanalyst|remoteok

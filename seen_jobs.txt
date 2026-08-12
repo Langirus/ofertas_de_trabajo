@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/representante-de-soporte-tecnico-de-terreno-at-toshiba-global-commerce-solutions-4416365186
-https://cl.linkedin.com/jobs/view/req14378-ingeniero-proyecto-at-salfa-rent-4440205295
 https://cl.linkedin.com/jobs/view/research-analyst-santiago-at-santander-chile-4450236848
 https://cl.linkedin.com/jobs/view/restructuring-analyst-ai-trainer-at-dataannotation-4438668940
 https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
@@ -132,6 +130,7 @@ https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st14452-analista-contable-at-salfa-rent-4430351108
 https://cl.linkedin.com/jobs/view/st547-analista-canales-at-salfa-rent-4424657681
 https://cl.linkedin.com/jobs/view/subgerente-soporte-canales-digitales-gerencia-tecnologia-at-walmart-chile-4430993495
+https://cl.linkedin.com/jobs/view/supply-chain-analyst-at-isdin-4450109192
 https://cl.linkedin.com/jobs/view/system-reliability-engineer-at-protection-game-4445825743
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-climatizaci%C3%B3n-hvac-eq-estacionarios-minera-collahuasi-puerto-at-johnson-controls-4418328239
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-de-centro-de-datos-dcc-communities-at-amazon-web-services-aws-4450790722
@@ -800,6 +799,7 @@ https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
+https://pe.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295736-at-bairesdev-4449082602
 https://pe.linkedin.com/jobs/view/remote-junior-android-developer-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%B2-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B5-at-teacher-army-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B2-it-4447193688
 https://pe.linkedin.com/jobs/view/sin-experiencia-remoto-atenci%C3%B3n-al-cliente-at-gea-per%C3%BA-4447853690
 https://pe.linkedin.com/jobs/view/trabajo-100-por-ciento-remoto-atenci%C3%B3n-al-cliente-%C2%A1postula-sin-experiencia%21-at-gea-per%C3%BA-4447851670

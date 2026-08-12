@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/servicio-t%C3%A9cnico-de-sistemas-at-eva-learning-4441833310
-https://cl.linkedin.com/jobs/view/shipping-trainee-naviero-at-ultranav-4435354604
 https://cl.linkedin.com/jobs/view/site-payment-analyst-at-iqvia-4427232598
 https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
 https://cl.linkedin.com/jobs/view/soc-tier-3-analyst-at-dxc-technology-4431459829
@@ -1266,6 +1264,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-y-refrigeracion-3879193
+https://www.chiletrabajos.cl/trabajo/tecnico-en-enfermeria-atencion-domiciliaria-3845477
 https://www.chiletrabajos.cl/trabajo/tecnico-en-enfermeria-full-time-3864131
 https://www.chiletrabajos.cl/trabajo/tecnico-en-informatica-junior-3321116
 https://www.chiletrabajos.cl/trabajo/tecnico-en-mantenimiento-en-cortinas-electricas-de-retail-rm-3866954
@@ -1596,6 +1595,7 @@ https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4438232746
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4441205487
 https://www.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4446815107
+https://www.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4452390926
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441947111
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442436393
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4442499972

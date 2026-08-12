@@ -1,10 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4445634882
-https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4450601812
-https://cl.linkedin.com/jobs/view/software-engineer-at-boe-4427384337
-https://cl.linkedin.com/jobs/view/software-engineer-at-checkr-inc-4422661500
-https://cl.linkedin.com/jobs/view/software-engineer-at-drimo-4440194015
-https://cl.linkedin.com/jobs/view/software-engineer-at-duemint-4441534114
-https://cl.linkedin.com/jobs/view/software-engineer-at-evalueserve-4444397397
 https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723
 https://cl.linkedin.com/jobs/view/software-engineer-at-finapsys-4442896705
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
@@ -90,6 +83,7 @@ https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-nivel-1-presencial-at-ada
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-presencial-at-conytec-consultores-4430718120
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-%E2%80%93-antofagasta-at-bc-tecnolog%C3%ADa-4418639616
 https://cl.linkedin.com/jobs/view/soporte-t%C3%A9cnico-terreno-providencia-at-bc-tecnolog%C3%ADa-4414247755
+https://cl.linkedin.com/jobs/view/soporte-ti-at-altia-4453145952
 https://cl.linkedin.com/jobs/view/soporte-ti-at-nortrans-4434556092
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
@@ -1001,6 +995,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-renca-3875911
 https://www.chiletrabajos.cl/trabajo/analista-contable-santa-cruz-palmilla-3839023
 https://www.chiletrabajos.cl/trabajo/analista-control-de-gestion-abastecimiento-renca-3792698
 https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-3856272
+https://www.chiletrabajos.cl/trabajo/analista-de-administracion-y-finanzas-la-batea-deco-3881760
 https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-calidad-sector-norte-3861223
@@ -1082,6 +1077,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-huechuraba-3626484
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-jornada-completa-3868153
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-para-san-antonio-mananas-3881641
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-part-time-3866736
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-3277404
@@ -1417,6 +1413,7 @@ https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
 https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/prompt-engineer-42labs-santiago
+https://www.getonbrd.com/jobs/python-engineer-ml-infrastructure-improving-remote
 https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611
 https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
@@ -1755,6 +1752,7 @@ ingenieriaofertastrainee|siemens
 ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
 ingenierointegraciones|clnicameds
+ingenierointegracion|sermaluc
 ingenierointegracion|taglermaq
 ingenierointegradorsoftware|acl
 ingenierointegradospreventaproyectos|chiletrabajos
@@ -1791,6 +1789,7 @@ ingenierooperaciones|geovictoria
 ingenierooperativaplanificacion|ikea
 ingenieropasivosproduccionserviciossistemas|bancode
 ingenieropracticaprofesionaltecnico|chiletrabajos
+ingenieropracticas|kadevstudio
 ingenieroprevencionriesgos|chiletrabajos
 ingenieropreventa|chiletrabajos
 ingenieroprocesostransformacion|bancobci
@@ -1989,6 +1988,7 @@ soportetecnico|empresaconfidencial
 soportetecnico|imunicipalidadderecoleta
 soportetecnico|theemailcompany
 soportetecnico|vigatec
+soporteti|altia
 soporteti|nortrans
 soporteti|sermaluc
 soporte|bechtelcorporation

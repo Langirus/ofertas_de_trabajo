@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/sales-support-trainee-at-siemens-energy-4451404690
-https://cl.linkedin.com/jobs/view/salesforce-operations-analyst-at-jobgether-4425559755
 https://cl.linkedin.com/jobs/view/sap-commerce-cloud-technical-support-engineer-at-epam-systems-4432286510
 https://cl.linkedin.com/jobs/view/sap-hcm-trainee-at-accenture-chile-4433408039
 https://cl.linkedin.com/jobs/view/sbr-prg-8334-analista-gestion-at-santander-chile-4433536647
@@ -43,6 +41,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4450216981
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451311178
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451358930
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451470440
+https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4453098145
 https://cl.linkedin.com/jobs/view/software-engineer-at-toku-4318534675
 https://cl.linkedin.com/jobs/view/software-engineer-at-truckercloud-4451311893
 https://cl.linkedin.com/jobs/view/software-engineer-at-yourdevs-4416857164
@@ -1670,6 +1669,7 @@ https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4451333084
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4451386514
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4452185590
+https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-quik-hire-staffing-4453071462
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436177374
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436944798
 https://www.linkedin.com/jobs/view/software-engineer-human-data-platforms-remote-at-hired-4436977979

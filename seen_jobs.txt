@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/site-payment-analyst-at-iqvia-4427232598
-https://cl.linkedin.com/jobs/view/site-reliability-engineer-sre-at-infosys-4402821633
-https://cl.linkedin.com/jobs/view/soc-tier-3-analyst-at-dxc-technology-4431459829
-https://cl.linkedin.com/jobs/view/software-developer-analyst-at-alsa-4416888452
-https://cl.linkedin.com/jobs/view/software-developer-junior-java-spring-boot-at-ingenierojob-4424884678
-https://cl.linkedin.com/jobs/view/software-development-engineer-in-test-ii-sdet-ii-pro-at-kraken-4415713645
 https://cl.linkedin.com/jobs/view/software-engineer-ai-accelerated-development-at-signant-health-4441427553
 https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4436622196
 https://cl.linkedin.com/jobs/view/software-engineer-at-agendapro-4445634882
@@ -120,6 +114,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-ti-at-universidad-de
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-aire-acondicionado-hvac-equipos-estacionarios-collahuasi-iquique-at-johnson-controls-4418311396
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-solutions-4427848623
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-computaci%C3%B3n-e-impresoras-at-serviceone-spa-4450163103
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4443049331
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-tecnologica-antofagasta-at-accenture-chile-4444876062
@@ -276,6 +271,7 @@ https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-exper
 https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323954574
 https://co.linkedin.com/jobs/view/junior-video-editor-ai-performance-content-%E2%80%94-remote-at-octo360-4418389422
 https://co.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4426146544
+https://co.linkedin.com/jobs/view/mobile-ai-engineer-remote-work-at-bairesdev-4452724455
 https://co.linkedin.com/jobs/view/software-development-engineer-ii-full-stack-business-remote-%40-colombia-at-offerup-4439509750
 https://co.linkedin.com/jobs/view/supply-chain-analyst-colombia-remote-at-advatix-latam-4434944654
 https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-remoto-at-inetum-4428183557
@@ -310,6 +306,7 @@ https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-en-espa%C3%B1a-at-sngular-4426058959
 https://es.linkedin.com/jobs/view/ai-infrastructure-platform-operations-engineer-remote-in-the-eu-at-mirantis-4443805715
 https://es.linkedin.com/jobs/view/ai-ml-engineer-uipath-rpa-specialist-remoto-h-m-x-at-experis-espa%C3%B1a-4450122201
+https://es.linkedin.com/jobs/view/ai-ml-engineer-uipath-rpa-specialist-remoto-h-m-x-at-experis-espa%C3%B1a-4450150914
 https://es.linkedin.com/jobs/view/ai-software-engineer-100%25-remoto-at-qaracter-beyond-your-challenge-4443603228
 https://es.linkedin.com/jobs/view/ai-solutions-engineer-%E2%80%93-100%25-remoto-at-oliver-james-4449609143
 https://es.linkedin.com/jobs/view/ai-solutions-engineer-100%25-remoto-at-oliver-james-4447372293
@@ -502,6 +499,7 @@ https://es.linkedin.com/jobs/view/snowflake-data-engineer-remote-at-ust-44115490
 https://es.linkedin.com/jobs/view/soc-analyst-l1-l2-%E2%80%93-incident-response-%E2%80%94-100%25-remote-spain-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4426981543
 https://es.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-assisted-development-100%25-remote-at-astek-4427380214
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
+https://es.linkedin.com/jobs/view/software-engineer-in-test-remoto-at-isprox-4450157511
 https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4432269577
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-full-remote-at-knowmad-mood-4440271158
@@ -781,6 +779,7 @@ https://pe.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-at-bairesdev-4
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
+https://pe.linkedin.com/jobs/view/ingeniero-ml-trabajo-remoto-at-bairesdev-4452713980
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
@@ -1815,6 +1814,7 @@ ingenieroredessoporte|hitss
 ingenieroredesti|empresaconfidencial
 ingenieroredes|brass
 ingenieroredtelecomunicaciones|acl
+ingenieroremototrabajo|bairesdev
 ingenierorpawebscraping|inteligenciaartificial
 ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/research-analyst-santiago-at-santander-chile-4450236848
 https://cl.linkedin.com/jobs/view/restructuring-analyst-ai-trainer-at-dataannotation-4438668940
 https://cl.linkedin.com/jobs/view/ruby-on-rails-golang-support-engineer-at-equifax-4423264001
 https://cl.linkedin.com/jobs/view/sales-ai-operations-intern-at-smartup-holdings-inc-4422243747
@@ -1806,6 +1805,7 @@ ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent
 ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo
+ingenieroqa|factorlt
 ingenieroqa|na
 ingenierorancaguaredessoporteterrenoti|nttdata
 ingenieroredessalud|owlteamsolutions

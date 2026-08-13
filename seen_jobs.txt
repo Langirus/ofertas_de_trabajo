@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451311178
-https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451358930
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4451470440
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4453098145
 https://cl.linkedin.com/jobs/view/software-engineer-at-tessera-data-4453691641
@@ -12,6 +10,7 @@ https://cl.linkedin.com/jobs/view/software-engineer-backend-at-mercado-libre-444
 https://cl.linkedin.com/jobs/view/software-engineer-backend-at-xepelin-4363845156
 https://cl.linkedin.com/jobs/view/software-engineer-backend-core-api-process-automation-at-jobgether-4442016778
 https://cl.linkedin.com/jobs/view/software-engineer-backend-machbank-at-machbank-4447087720
+https://cl.linkedin.com/jobs/view/software-engineer-backend-machbank-at-machbank-4454017780
 https://cl.linkedin.com/jobs/view/software-engineer-chile-at-xpendit-4442371158
 https://cl.linkedin.com/jobs/view/software-engineer-de-continuidad-operativa-at-geovictoria-4446963203
 https://cl.linkedin.com/jobs/view/software-engineer-django-remote-work-ref%23299432-at-bairesdev-4449076970
@@ -1687,6 +1686,7 @@ https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4451513250
 https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4452423251
 https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4453071778
+https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4454001015
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos

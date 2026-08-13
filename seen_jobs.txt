@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-de-continuidad-operativa-at-geovictoria-4446963203
-https://cl.linkedin.com/jobs/view/software-engineer-django-remote-work-ref%23299432-at-bairesdev-4449076970
-https://cl.linkedin.com/jobs/view/software-engineer-dynamics-365-junior-at-avos-tech-chile-4429171587
 https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-latin-america-remote-at-bluelight-4448115621
 https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-remote-latin-america-at-bluelight-4448613787
 https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
@@ -1050,6 +1047,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-gestion-de-activos-san-sebastian-
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
+https://www.chiletrabajos.cl/trabajo/auditor-interno-3882096
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-30-horas-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-part-time-residencia-lactantes-y-preescolares-illapel-disponibili-3864889
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-varon-part-time-colegio-maipu-3722398
@@ -1241,6 +1239,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-ang
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-santiago-3405950
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-3877346
+https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-faena-minera-turno-7x7-3882385
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
@@ -1489,6 +1488,7 @@ https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446422154
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4448205611
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4448556161
+https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4452992935
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4452998975
 https://www.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4439090394
 https://www.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hire-feed-4412940887

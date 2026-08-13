@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-at-everseek-4438072723
 https://cl.linkedin.com/jobs/view/software-engineer-at-finapsys-4442896705
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436426026
 https://cl.linkedin.com/jobs/view/software-engineer-at-fingo-4436799178
@@ -1797,6 +1796,7 @@ ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroprocesos|witi
 ingenieroproduccion|airproducts
+ingenieropronosticosupermercados|cencosud
 ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-elixir-phoenix-remote-latin-america-at-bluelight-4448613787
-https://cl.linkedin.com/jobs/view/software-engineer-frontend-payments-at-kraken-4417648618
 https://cl.linkedin.com/jobs/view/software-engineer-full-stack-at-ic-payment-4438007812
 https://cl.linkedin.com/jobs/view/software-engineer-go-at-commandlink-4423342216
 https://cl.linkedin.com/jobs/view/software-engineer-ii-at-comscore-inc-4414747548
@@ -182,6 +180,7 @@ https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costaner
 https://cl.linkedin.com/jobs/view/trainee-t%C3%A9cnico-at-tk-elevator-4438945430
 https://cl.linkedin.com/jobs/view/transformation-analyst-at-grupo-falabella-4450750937
 https://cl.linkedin.com/jobs/view/vagas-para-auxiliar-administrativo-fun%C3%A7%C3%B5es-sal%C3%A1rio-e-como-se-candidatar-at-emprego-centro-4444253017
+https://cl.linkedin.com/jobs/view/vendor-operations-analyst-at-commandlink-4454397004
 https://cl.linkedin.com/jobs/view/winnership-logistics-intern-at-beiersdorf-4446299259
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
@@ -1597,6 +1596,7 @@ https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4442505628
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4443096874
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4444278577
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4454382103
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591

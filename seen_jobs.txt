@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-ii-at-comscore-inc-4414747548
 https://cl.linkedin.com/jobs/view/software-engineer-ii-chile-at-sezzle-4337015025
 https://cl.linkedin.com/jobs/view/software-engineer-ii-marketing-mobile-at-sezzle-4404528205
 https://cl.linkedin.com/jobs/view/software-engineer-ii-with-accounting-experience-chile-at-sezzle-4340336457
@@ -1923,6 +1922,7 @@ planificacionpracticantesoporte|airlines
 practicanteprocesos|vincicompass
 practicanteseguridadtecnologica|segurosfalabella
 practicantesolucionestecnologicas|wspyargentina
+practicantesostenibilidad|sgs
 practicanteti|marlenemewesagenciadeaduanas
 practicanteuniversitaria|schwarzkopfcomunicaciones
 practicante|stellacapitaladvisory

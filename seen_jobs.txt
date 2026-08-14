@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4428101576
-https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4434680261
 https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4441343619
 https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4446422566
 https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4447136578
@@ -113,6 +111,7 @@ https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-1-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434167735
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-2-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434171612
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-ti-at-empresa-confidencial-4451429388
+https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-ti-at-i-municipalidad-de-recoleta-4451240663
 https://cl.linkedin.com/jobs/view/talent-pool-agente-de-soporte-a-usuarios-stgo-chile-at-rankmi-4446385200
 https://cl.linkedin.com/jobs/view/tech-functional-analyst-at-vr-group-chile-4433141097
 https://cl.linkedin.com/jobs/view/technical-services-analyst-analista-de-servicios-t%C3%A9cnicos-at-wenco-international-mining-systems-4442690023
@@ -1979,6 +1978,7 @@ soportetecnicoterreno|tivit
 soportetecnicoti|alertplus
 soportetecnicoti|chiletrabajos
 soportetecnicoti|empresaconfidencial
+soportetecnicoti|imunicipalidadderecoleta
 soportetecnicoti|tataconsultancyservices
 soportetecnicoti|universidaddelasamricas
 soportetecnicousuario|chiletrabajos

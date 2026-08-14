@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4441343619
-https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4446422566
 https://cl.linkedin.com/jobs/view/software-engineer-infrastructure-at-topsort-4447136578
 https://cl.linkedin.com/jobs/view/software-engineer-intermediate-at-equifax-4413819037
 https://cl.linkedin.com/jobs/view/software-engineer-mobile-ios-machbank-at-machbank-4414980871
@@ -1464,6 +1462,7 @@ https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4448149124
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4448832003
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4449997793
 https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hired-4450072401
+https://www.linkedin.com/jobs/view/ai-ml-platform-engineer-100%25-remote-at-georgia-it-inc-4451241987
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4447886067
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
@@ -1921,6 +1920,7 @@ planificacionpracticantesoporte|airlines
 practicanteprocesos|vincicompass
 practicanteseguridadtecnologica|segurosfalabella
 practicantesolucionestecnologicas|wspyargentina
+practicantesoporteti|verisure
 practicantesostenibilidad|sgs
 practicanteti|marlenemewesagenciadeaduanas
 practicanteuniversitaria|schwarzkopfcomunicaciones

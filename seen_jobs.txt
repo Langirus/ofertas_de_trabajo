@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4432565713
-https://cl.linkedin.com/jobs/view/soporte-ecommerce-at-avos-tech-chile-4454883956
-https://cl.linkedin.com/jobs/view/soporte-inform%C3%A1tico-nivel-1-at-tecnologia-informatica-4445350604
-https://cl.linkedin.com/jobs/view/soporte-informatico-lis-at-randstad-chile-4451265889
 https://cl.linkedin.com/jobs/view/soporte-it-filial-blue-express-at-copec-s-a-4449812282
 https://cl.linkedin.com/jobs/view/soporte-lis-at-eva-learning-4441530691
 https://cl.linkedin.com/jobs/view/soporte-lis-at-owl-team-solutions-4411185811
@@ -161,6 +157,8 @@ https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387996617
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4388209090
+https://co.linkedin.com/jobs/view/agentic-software-engineer-claude-code-remote-colombia-at-fullstack-4377029528
+https://co.linkedin.com/jobs/view/agentic-software-engineer-cursor-remote-colombia-at-fullstack-4377106288
 https://co.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-colombia-at-fullstack-4377023879
 https://co.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-colombia-at-fullstack-4377030530
 https://co.linkedin.com/jobs/view/ai-agent-engineer-python-gcp-llm-%E2%80%94-mcp-claude-%C2%B7-remoto-colombia-at-grupo-deacero-4441312237
@@ -843,6 +841,7 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-new-grad-production-in
 https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626
 https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096
 https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102
+https://sv.linkedin.com/jobs/view/robotics-engineer-el-salvador-remote-%E2%80%94-full-time-at-rex-zone-4455117955
 https://uy.linkedin.com/jobs/view/ai-engineer-%F0%9F%92%BB-us-saas-startup-%F0%9F%9A%80%F0%9F%87%BA%F0%9F%87%B8-remote-at-atomic-remote-jobs-4443763390
 https://uy.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371021530
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
@@ -899,6 +898,7 @@ https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology
 https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast
 https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter
+https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester

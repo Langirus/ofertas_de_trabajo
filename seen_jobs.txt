@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
-https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
 https://cl.linkedin.com/jobs/view/soporte-ti-junior-at-softtek-4454809472
 https://cl.linkedin.com/jobs/view/soporte-y-administrador-servicenow-las-condes-at-ada-4-solutions-head-hunting-4443162240
 https://cl.linkedin.com/jobs/view/spec-in-engineer-hvac-solutions-at-lg-electronics-chile-4449529136
@@ -321,6 +319,7 @@ https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
 https://es.linkedin.com/jobs/view/desarrollador-java-jr-teletrabajo-at-optimissa-4433189237
+https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-4452235476
 https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-espa%C3%B1a-latam-4454252031
 https://es.linkedin.com/jobs/view/developer-data-analyst-pyhton-ingl%C3%A9s-50%25-presencial-y-remoto-at-sandav-4428813429
 https://es.linkedin.com/jobs/view/devops-engineer-aws-cloud-100%25-remoto-at-experience-it-solutions-4451709668
@@ -641,6 +640,7 @@ https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%2329
 https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
+https://mx.linkedin.com/jobs/view/practicante-de-talento-y-desarrollo-latam-at-sigma-4436232737
 https://mx.linkedin.com/jobs/view/python-%2Bai-fullstack-engineer-remote-in-mexico-at-pyramid-consulting-inc-4439308638
 https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/sql-tech-business-analyst-at-vr-group-chile-4437221734
-https://cl.linkedin.com/jobs/view/sr-fullstack-software-engineer-at-grupo-falabella-4436330944
 https://cl.linkedin.com/jobs/view/sr-site-reliability-engineer-cloud-engineer-at-gradient-ai-4447892223
 https://cl.linkedin.com/jobs/view/sr-software-engineer-at-xepelin-4403521647
 https://cl.linkedin.com/jobs/view/st14452-analista-contable-at-salfa-rent-4430351108
@@ -714,6 +712,7 @@ https://pe.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-at-bairesdev-4
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
+https://pe.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454292311
 https://pe.linkedin.com/jobs/view/ingeniero-ml-trabajo-remoto-at-bairesdev-4452713980
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
@@ -1749,6 +1748,7 @@ ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojrtableauvisualizacion|apiuxtech
 ingenierojuniorpod|rqingeniera
+ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
 ingenierojuniorreactremototrabajo|bairesdev
 ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/soporte-ti-at-altia-4453145952
-https://cl.linkedin.com/jobs/view/soporte-ti-at-nortrans-4434556092
 https://cl.linkedin.com/jobs/view/soporte-ti-at-sermaluc-4429106039
 https://cl.linkedin.com/jobs/view/soporte-ti-jr-inlcusion-laboral-remoto-at-ferrostaal-chile-s-a-c-4429076821
 https://cl.linkedin.com/jobs/view/soporte-ti-junior-at-softtek-4454809472
@@ -1407,6 +1405,7 @@ https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.linkedin.com/jobs/view/accounting-analyst-remote-work-at-indi-staffing-services-4453112594
 https://www.linkedin.com/jobs/view/ai-analyst-remote-at-quik-hire-staffing-4454865329
 https://www.linkedin.com/jobs/view/ai-analyst-remote-at-quik-hire-staffing-4455171459
+https://www.linkedin.com/jobs/view/ai-analyst-remote-at-quik-hire-staffing-4455218980
 https://www.linkedin.com/jobs/view/ai-automation-engineer-freelance-remote-at-gunia-consulting-4417253931
 https://www.linkedin.com/jobs/view/ai-engineer-i-remote-%0Alatin-america-at-sezzle-la-4447357920
 https://www.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373970867
@@ -1760,6 +1759,7 @@ ingenieroklass|farmaciasahumada
 ingenierolearningmachine|innomotics
 ingenierolinuxsoporte|workcapit
 ingenieromaculoficinatecnica|aguasandinas
+ingenieromecatronicooperaciones|princetoncriticalmineralspureli
 ingenieromelipillaoficinaoperacionestecnicavialidad|sacyr
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede

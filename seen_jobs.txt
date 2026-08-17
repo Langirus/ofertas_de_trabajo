@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/supply-chain-analyst-at-isdin-4450109192
-https://cl.linkedin.com/jobs/view/system-reliability-engineer-at-protection-game-4445825743
 https://cl.linkedin.com/jobs/view/systems-trainee-at-softtek-4454581540
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-climatizaci%C3%B3n-hvac-eq-estacionarios-minera-collahuasi-puerto-at-johnson-controls-4418328239
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-de-centro-de-datos-dcc-communities-at-amazon-web-services-aws-4450790722
@@ -956,6 +954,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834
 https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaciones-junior-3823250
 https://www.chiletrabajos.cl/trabajo/analista-de-patologia-3849190
 https://www.chiletrabajos.cl/trabajo/analista-de-personas-para-chiloe-3855460
+https://www.chiletrabajos.cl/trabajo/analista-de-propuestas-electricas-3756360
 https://www.chiletrabajos.cl/trabajo/analista-de-remuneraciones-3839907
 https://www.chiletrabajos.cl/trabajo/analista-de-sistemas-junior-3866005
 https://www.chiletrabajos.cl/trabajo/analista-de-talento-rh-supletech-3883657
@@ -1819,6 +1818,7 @@ ingenierosoftware|prudentialagf
 ingenierosoftware|sercomed
 ingenierosoftware|thecne
 ingenierosoftware|vimagenconsultores
+ingenierosoportetecnicoti|nttdata
 ingenierosoportetecnologia|finning
 ingenierosoporte|apiuxtech
 ingenierosoporte|falabella

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-en-terreno-tier-2-at-consultora-tu-psicolaboral-4440856037
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-subterr%C3%A1nea-at-sonda-4346336994
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-tier-1-data-center-at-consultora-tu-psicolaboral-4440835829
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-servicios-at-diprotec-chile-4426894693
@@ -1860,6 +1859,7 @@ juniormonitoreotecnico|nttdata
 juniormonitorieooperador|computrabajo
 juniorpbmoreemplazosantiago|portal
 juniorpmoti|biometraaplicada
+juniorqa|evolvit
 juniorqa|na
 juniorrenewalsspecialist|clio
 juniorrepartidor|chiletrabajos

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4443049331
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-tecnologica-antofagasta-at-accenture-chile-4444876062
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-5x2-calama-at-motorola-solutions-4446174262
@@ -1697,6 +1696,7 @@ informaticajuniortelecomunicacionestrabajos|portal
 informaticajuniortrabajos|portal
 informaticapracticantesistemas|glasstech
 informaticapracticante|estandariso
+informaticapracticaprofesional|centromedicoformed
 informaticapracticasoporte|voxa
 informaticaredessoportetecnico|mafem
 informaticatecnicotrabajos|portal

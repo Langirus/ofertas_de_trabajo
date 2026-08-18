@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-de-centro-de-datos-dcc-communities-at-amazon-web-services-aws-4450790722
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-a-de-soporte-ti-at-universidad-de-las-am%C3%A9ricas-cl-4437886575
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-aire-acondicionado-hvac-equipos-estacionarios-collahuasi-iquique-at-johnson-controls-4418311396
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-asesor-capacitador-de-herramientas-talca-y-rancagua-at-grupo-360-4425750071
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-solutions-4427848623
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-computaci%C3%B3n-e-impresoras-at-serviceone-spa-4450163103
@@ -1190,6 +1187,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-en-climatizacion-hvac-7x7-mineria
 https://www.chiletrabajos.cl/trabajo/tecnico-a-en-educacion-parvularia-cuidadora-infantil-las-condes-3870433
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
+https://www.chiletrabajos.cl/trabajo/tecnico-auxiliar-de-farmacia-3827502
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
 https://www.chiletrabajos.cl/trabajo/tecnico-b-gruas-generacion-copiapo-3877435
 https://www.chiletrabajos.cl/trabajo/tecnico-climatizacion-y-o-ayudantes-con-conocimientos-3864989
@@ -1574,6 +1572,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-f
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4454872554
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4455166524
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4455234060
+https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4455557908
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4434928829
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435180594
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4435514591
@@ -1602,6 +1601,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4453668916
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4455286956
+https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4455571789
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445306610
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445472014
 https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445600416

@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-tecnologica-antofagasta-at-accenture-chile-4444876062
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-5x2-calama-at-motorola-solutions-4446174262
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-7x7-mel-at-motorola-solutions-4432502241
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-carl-s-jr-chile-4406476496
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-en-terreno-tier-2-at-consultora-tu-psicolaboral-4440856037
@@ -298,7 +295,9 @@ https://es.linkedin.com/jobs/view/database-reliability-engineer-dbre-remote-at-f
 https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
 https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
 https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
+https://es.linkedin.com/jobs/view/desarrollador-a-rpa-junior-uipath-teletrabajo-at-hasten-group-4452802125
 https://es.linkedin.com/jobs/view/desarrollador-java-jr-teletrabajo-at-optimissa-4433189237
+https://es.linkedin.com/jobs/view/developer-analyst-%E2%80%93-java-c%2B%2B-linux-market-risk-remoto-at-vermont-solutions-4454755031
 https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-4452235476
 https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-espa%C3%B1a-latam-4454252031
 https://es.linkedin.com/jobs/view/developer-data-analyst-pyhton-ingl%C3%A9s-50%25-presencial-y-remoto-at-sandav-4428813429
@@ -399,6 +398,7 @@ https://es.linkedin.com/jobs/view/programador-junior-java-fullstack-teletrabajo-
 https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
 https://es.linkedin.com/jobs/view/qa-ai-engineer-teletrabajo-at-alten-4447372377
 https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
+https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4452599386
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
 https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027

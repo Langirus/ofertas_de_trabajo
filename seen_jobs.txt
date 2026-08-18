@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-at-epiroc-4323165427
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-en-terreno-tier-2-at-consultora-tu-psicolaboral-4440856037
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-subterr%C3%A1nea-at-sonda-4346336994
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-tier-1-data-center-at-consultora-tu-psicolaboral-4440835829
@@ -1331,6 +1330,7 @@ https://www.getonbrd.com/jobs/ingeniero-a-de-plataforma-y-automatizacion-ia-hypn
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-desarrollo-y-calidad-nncc-agrosuper-rancagua
 https://www.getonbrd.com/jobs/ingeniero-a-operacional-del2-agilistik-santiago
+https://www.getonbrd.com/jobs/ingeniero-a-productos-digitales-agrosuper-rancagua
 https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e
 https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago-4997

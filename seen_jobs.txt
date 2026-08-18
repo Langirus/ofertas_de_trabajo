@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-the-email-company-4432431628
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-vigatec-4432433590
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-ti-at-alertplus-4444589336
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-ti-at-tata-consultancy-services-4437183379
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-de-ti-biling%C3%BCe-at-seidor-4432274031
@@ -690,6 +688,7 @@ https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-s
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-ref%23297179-at-bairesdev-4438270291
 https://pe.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-at-bairesdev-4451665824
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
+https://pe.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23299133-at-bairesdev-4449077689
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
 https://pe.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454292311
@@ -1923,6 +1922,7 @@ practicantesoporteti|verisure
 practicantesostenibilidad|sgs
 practicanteti|marlenemewesagenciadeaduanas
 practicanteuniversitaria|schwarzkopfcomunicaciones
+practicantevisado|bancode
 practicante|stellacapitaladvisory
 practicaprevencionprofesionalriesgos|automotrizguillermomorales
 practicaprevencionprofesionalriesgos|chiletrabajos

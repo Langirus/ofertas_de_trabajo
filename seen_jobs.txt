@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-redes-tier-1-data-center-at-consultora-tu-psicolaboral-4440835829
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-servicios-at-diprotec-chile-4426894693
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-i-municipalidad-de-recoleta-4449852401
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-the-email-company-4432431628
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-at-vigatec-4432433590
@@ -451,6 +449,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-%0Amexico-remote-at-sezzl
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-at-sezzle-4373986294
 https://mx.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373969904
 https://mx.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4443132629
+https://mx.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23290357-at-bairesdev-4440860492
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4431394164
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4434011913
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
@@ -1681,6 +1680,7 @@ implementacionsoporte|evalearning
 implementacionsoporte|owlteamsolutions
 importanteindustriamantenimientoreferentetecnico|secretariadeextensinuniversitariautnfrc
 incendiojuniorsistemastecnico|chiletrabajos
+incidentesingenieroti|ita
 industrialingenierosimplifica|pisafarmacutica
 industrialmantenimientotecnico|chiletrabajos
 industrialtecnicovendedor|chiletrabajos

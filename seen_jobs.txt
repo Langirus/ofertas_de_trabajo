@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-avanzado-de-soporte-at-owl-team-solutions-4427848623
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-computaci%C3%B3n-e-impresoras-at-serviceone-spa-4450163103
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4314884759
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4443049331
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-tecnologica-antofagasta-at-accenture-chile-4444876062
@@ -983,6 +981,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3840630
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3850999
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3864208
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3277631
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3855960
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-freelance-teletrabajo-3840060
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
@@ -1448,6 +1447,7 @@ https://www.linkedin.com/jobs/view/associate-junior-growth-business-development-
 https://www.linkedin.com/jobs/view/backend-engineer-contract-latam-at-nexus-4429469977
 https://www.linkedin.com/jobs/view/backend-software-engineer-clojure-python-%E2%80%93-remote-latam-at-gracemark-solutions-4428393820
 https://www.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4438382961
+https://www.linkedin.com/jobs/view/customer-data-engineer-latam-20629-at-somewhere-4455534901
 https://www.linkedin.com/jobs/view/data-analyst-business-remote-at-jobs-ai-4455171415
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4453685903

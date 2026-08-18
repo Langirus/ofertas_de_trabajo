@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-centro-de-datos-at-amazon-web-services-aws-4443049331
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-infraestructura-tecnologica-antofagasta-at-accenture-chile-4444876062
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-5x2-calama-at-motorola-solutions-4446174262
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-de-mantenimiento-7x7-mel-at-motorola-solutions-4432502241
@@ -1683,6 +1682,7 @@ implementacionsoporte|evalearning
 implementacionsoporte|owlteamsolutions
 importanteindustriamantenimientoreferentetecnico|secretariadeextensinuniversitariautnfrc
 incendiojuniorsistemastecnico|chiletrabajos
+industrialingenierosimplifica|pisafarmacutica
 industrialmantenimientotecnico|chiletrabajos
 industrialtecnicovendedor|chiletrabajos
 informacionpracticaprofesionalseguridad|fondoesperanza

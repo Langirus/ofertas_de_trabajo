@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-redes-coyhaique-at-gocar-ltda-4414249663
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-telecomunicaciones-y-redes-fibra-%C3%B3ptica-networking-soporte-ti-at-atcom-chile-4429127857
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-compchile-4450498863
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-softtek-4454317166
@@ -146,6 +144,7 @@ https://co.linkedin.com/jobs/view/junior-software-engineer-with-accounting-exper
 https://co.linkedin.com/jobs/view/junior-video-editor-ai-performance-content-%E2%80%94-remote-at-octo360-4418389422
 https://co.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4426146544
 https://co.linkedin.com/jobs/view/mobile-ai-engineer-remote-work-at-bairesdev-4452724455
+https://co.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4456326361
 https://co.linkedin.com/jobs/view/software-development-engineer-ii-full-stack-business-remote-%40-colombia-at-offerup-4439509750
 https://co.linkedin.com/jobs/view/supply-chain-analyst-colombia-remote-at-advatix-latam-4434944654
 https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-remoto-at-inetum-4428183557
@@ -1445,6 +1444,7 @@ https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam
 https://www.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4453685903
 https://www.linkedin.com/jobs/view/data-engineer-remote-at-crossing-hurdles-4408640490
 https://www.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4445168846
+https://www.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4455413117
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434156796
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4439852949
 https://www.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442224475

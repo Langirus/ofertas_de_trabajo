@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-en-video-conferencia-at-avos-tech-chile-4425125209
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-compchile-4450498863
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-softtek-4454317166
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-at-terrefort-spa-4428520462
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-inform%C3%A1tico-junior-at-softtek-4454590221
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-jr-mantenimiento-hvac-equipos-m%C3%B3viles-zald%C3%ADvar-antofagasta-at-johnson-controls-4418326259
@@ -161,6 +158,7 @@ https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4
 https://cr.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4454224953
 https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
 https://do.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-bairesdev-4430581342
+https://ec.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-ref%23298242-at-bairesdev-4440846953
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://ec.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-bairesdev-4454429309
@@ -1307,6 +1305,7 @@ https://www.getonbrd.com/jobs/devops-engineer-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/devops-mlops-engineer-cloud-sre-sidis-ai-remote
 https://www.getonbrd.com/jobs/devops-tools-engineer-autoptic-remote
 https://www.getonbrd.com/jobs/full-stack-cloud-platform-engineer-iot-improving-south-america-remote
+https://www.getonbrd.com/jobs/full-stack-developer-python-nodejs-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/full-stack-developer-react-aws-serverless-ryc-tech-group-santiago
 https://www.getonbrd.com/jobs/full-stack-java-angularjs-angular-17-3it-santiago
 https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a444
@@ -1518,6 +1517,7 @@ https://www.linkedin.com/jobs/view/junior-machine-learning-engineer-remote-work-
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4443942301
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4446593625
 https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4452396881
+https://www.linkedin.com/jobs/view/junior-python-developer-remote-work-at-indi-staffing-services-4456317275
 https://www.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4449641500
 https://www.linkedin.com/jobs/view/junior-servicenow-developer-remote-work-ref%23296690-at-bairesdev-4435348050
 https://www.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hire-feed-4412943675

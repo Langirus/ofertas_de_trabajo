@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/technical-support-specialist-%E2%80%93-entry-level-at-sovos-4434078343
 https://cl.linkedin.com/jobs/view/tecnico-de-soporte-mininco-los-angeles-at-motorola-solutions-4412414770
 https://cl.linkedin.com/jobs/view/tecnico-en-informatica-soporte-y-redes-at-mafem-limitada-4426517221
 https://cl.linkedin.com/jobs/view/tecnico-o-ingeniero-en-informatica-at-telecable-4448118419
@@ -842,6 +841,7 @@ https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american
 https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
+https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only

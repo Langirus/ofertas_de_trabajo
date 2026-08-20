@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/test-automation-engineer-java-at-epam-systems-4424876065
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
@@ -1738,6 +1737,7 @@ ingenierojavaremotosoftwaretrabajo|bairesdev
 ingenierojornadajuniormediasoftware|direccindepersonasuandes
 ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
+ingenierojrsoftware|direccindepersonasuandes
 ingenierojrtableauvisualizacion|apiuxtech
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-terreno-nivel-2-regi%C3%B3n-metropolitana-o-higgins-valpara%C3%ADso-at-accenture-chile-4434171612
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-ti-at-empresa-confidencial-4451429388
 https://cl.linkedin.com/jobs/view/t%C3%A9cnico-soporte-ti-at-i-municipalidad-de-recoleta-4451240663
 https://cl.linkedin.com/jobs/view/talent-pool-agente-de-soporte-a-usuarios-stgo-chile-at-rankmi-4446385200
@@ -1822,6 +1821,7 @@ ingenierosoporte|gausscontrol
 ingenierosoporte|tecnologiainformatica
 ingenierotelecomunicaciones|chiletrabajos
 ingenierotibco|tataconsultancyservices
+ingenierotrainee|weir
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 inlcusionjrlaboralremotosoporteti|ferrostaalc
 integracionnegociopracticanteproyectosservicios|banchileinversiones

@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/tecnico-soporte-cio-cas-at-motorola-solutions-4416299833
-https://cl.linkedin.com/jobs/view/tens-analista-en-coordinaci%C3%B3n-at-layner-4418347634
 https://cl.linkedin.com/jobs/view/test-automation-engineer-java-at-epam-systems-4424876065
 https://cl.linkedin.com/jobs/view/testing-engineer-at-enertis-applus%2B-4417110934
 https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
@@ -1346,6 +1344,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
+https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago
 https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago
 https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote
 https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito
@@ -1728,6 +1727,7 @@ ingenieriamodernizacionpracticantertuscada|siemens
 ingenieriaofertastrainee|siemens
 ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
+ingenieroinnovacion|experis
 ingenierointegraciones|clnicameds
 ingenierointegracion|sermaluc
 ingenierointegracion|taglermaq

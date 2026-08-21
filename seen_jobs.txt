@@ -1,9 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4435376344
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4440316069
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-temuco-at-falabella-4446452668
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-rotativo-5x2-falabella-antofagasta-at-falabella-4414243843
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-tim-l-v-42-hrs-falabella-quilpu%C3%A9-at-falabella-4418447853
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-42-hrs-5x2-lunes-a-viernes-falabella-plaza-oeste-at-falabella-4427152131
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-en-ingenier%C3%ADa-de-ofertas-at-siemens-4440624993
 https://cl.linkedin.com/jobs/view/trainee-identity-access-management-iam-cybersecurity-automation-at-btg-pactual-chile-4438513139
@@ -523,6 +517,7 @@ https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-qui
 https://mx.linkedin.com/jobs/view/javascript-frontend-engineer-remote-at-hire-feed-4433899930
 https://mx.linkedin.com/jobs/view/javascript-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431384423
 https://mx.linkedin.com/jobs/view/jr-recruiter-remote-shared-services-at-hudson-talent-solutions-4431511446
+https://mx.linkedin.com/jobs/view/jr-software-engineer-biligual-remote-at-iron-mountain-4457509616
 https://mx.linkedin.com/jobs/view/junior-ai-llm-integration-developer-%E2%80%94-remote-latam-time-zone-russian-speaking-team-at-covouch-4433310962
 https://mx.linkedin.com/jobs/view/junior-conversion-rate-optimization-cro-specialist-remote-at-invesp-4447960193
 https://mx.linkedin.com/jobs/view/junior-it-support-associate-remote-at-aspiringit-4447029431
@@ -1042,6 +1037,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contra
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-implementacion-ai-cloud-3886560
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-integracion-azure-apis-azure-integration-3865587
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-de-mantenimiento-y-confiabilidad-3886992
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-procesos-y-operaciones-ti-3873896
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-redes-y-seguridad-proyecto-sase-ztna-3854522
@@ -1265,6 +1261,7 @@ https://www.getonbrd.com/jobs/desarrollador-a-full-stack-manosya-chile-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-java-spring-boot-aws-tcit-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-junior-con-foco-en-ia-nico-seguros-santiago
 https://www.getonbrd.com/jobs/desarrollador-back-end-python-agencia-de-aduanas-felipe-serrano-santiago
+https://www.getonbrd.com/jobs/desarrollador-backend-go-5-meses-agilistik-santiago
 https://www.getonbrd.com/jobs/desarrollador-backend-java-spring-boot-3it-santiago-019a
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
@@ -1750,6 +1747,7 @@ ingenierolearningmachine|axity
 ingenierolearningmachine|innomotics
 ingenierolinuxsoporte|workcapit
 ingenieromaculoficinatecnica|aguasandinas
+ingenieromantenimientoplanificacion|chiletrabajos
 ingenieromecatronicooperaciones|princetoncriticalmineralspureli
 ingenieromelipillaoficinaoperacionestecnicavialidad|sacyr
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
@@ -1988,12 +1986,14 @@ soportetecnico|vigatec
 soporteti|altia
 soporteti|nortrans
 soporteti|sermaluc
+soporteti|tunichefruits
 soporte|bechtelcorporation
 soporte|evalearning
 soporte|sermaluc
 systemstrainee|softtek
 tecnicotelecomunicaciones|chiletrabajos
 tecnicotelecomunicaciones|fdtecnologa
+tecnicoti|anticipa
 tecnicoti|empresaconfidencial
 tecnicoti|tivit
 tecnicotrainee|tkelevator

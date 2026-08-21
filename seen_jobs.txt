@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-full-time-5x2-42hrs-falabella-plaza-vespucio-at-falabella-4418451798
 https://cl.linkedin.com/jobs/view/trainee-en-ingenier%C3%ADa-de-ofertas-at-siemens-4440624993
 https://cl.linkedin.com/jobs/view/trainee-identity-access-management-iam-cybersecurity-automation-at-btg-pactual-chile-4438513139
 https://cl.linkedin.com/jobs/view/trainee-mantenedor-a-mina-minera-spence-at-bhp-4439286235
@@ -1345,6 +1344,7 @@ https://www.getonbrd.com/jobs/qa-junior-funcional-y-automatizacion-bc-tecnologia
 https://www.getonbrd.com/jobs/qa-proyecto-3-meses-leytonmedia-santiago
 https://www.getonbrd.com/jobs/real-time-ai-orchestration-engineer-sugarshan-inc-remote
 https://www.getonbrd.com/jobs/ruby-on-rails-engineer-automatizacion-e-ia-grupo-amoble-santiago
+https://www.getonbrd.com/jobs/sdet-software-development-engineer-in-test-improving-remote
 https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-8e87
 https://www.getonbrd.com/jobs/senior-full-stack-ruby-on-rails-engineer-autoraptor-remote
 https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote

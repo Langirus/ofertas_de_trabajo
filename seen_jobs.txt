@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4449949327
-https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4454516446
-https://cl.linkedin.com/jobs/view/trainee-at-pisa-farmac%C3%A9utica-4426716790
 https://cl.linkedin.com/jobs/view/trainee-commercial-finance-at-roche-4442428374
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
 https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
@@ -1107,6 +1104,7 @@ https://www.chiletrabajos.cl/trabajo/junior-developer-ps-grupo-hunting-3835272
 https://www.chiletrabajos.cl/trabajo/junior-motorista-externo-licitado-reemplazo-back-up-3556983
 https://www.chiletrabajos.cl/trabajo/junior-repartidor-3851975
 https://www.chiletrabajos.cl/trabajo/junior-tramites-terreno-3862616
+https://www.chiletrabajos.cl/trabajo/lampa-ingeniero-a-de-administracion-y-finanzas-3860058
 https://www.chiletrabajos.cl/trabajo/oferta-laboral-secretario-a-tecnico-a-administrativo-a-3852792
 https://www.chiletrabajos.cl/trabajo/paid-media-junior-creato-3853242
 https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farmacia-maipu-3844418
@@ -1583,6 +1581,7 @@ https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-
 https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4453668916
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-hire-feed-4456320300
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-hire-feed-4456753149
+https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-hire-feed-4457080255
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4442580114
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4455286956
 https://www.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-quik-hire-staffing-4455571789
@@ -1748,6 +1747,7 @@ ingenierojuniortableauvisualizacion|apiuxtech
 ingenierojuniortrabajos|portal
 ingenierojunior|computrabajo
 ingenieroklass|farmaciasahumada
+ingenierolearningmachine|axity
 ingenierolearningmachine|innomotics
 ingenierolinuxsoporte|workcapit
 ingenieromaculoficinatecnica|aguasandinas

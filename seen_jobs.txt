@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-funcional-at-seidor-4423660887
-https://cl.linkedin.com/jobs/view/trainee-consultor-a-sap-business-one-t%C3%A9cnico-at-seidor-4423671306
-https://cl.linkedin.com/jobs/view/trainee-de-gesti%C3%B3n-y-operaciones-at-huevos-la-campestre-4425763360
-https://cl.linkedin.com/jobs/view/trainee-de-inversiones-afp-planvital-2026-at-afp-planvital-4445240001
 https://cl.linkedin.com/jobs/view/trainee-de-operaciones-y-mantenimiento-e%C3%B3lico-chl-at-siemens-gamesa-4451628429
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-de-probadores-y-cajas-autoservicio-42-hrs-5x2-rotativo-falabella-arauco-maip%C3%BA-at-falabella-4416364009
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-30-horas-jornada-tarde-lunes-a-viernes-falabella-costanera-at-falabella-4446520872
@@ -1003,6 +999,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-minera-escondida-3861
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-punta-arenas-3866116
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-transporte-y-pasteleria-3850502
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
+https://www.chiletrabajos.cl/trabajo/auxiliar-recinto-deportivo-3886525
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-rancagua-3876742
@@ -1182,6 +1179,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-parvulos-media-jornada-pm-384852
 https://www.chiletrabajos.cl/trabajo/tecnico-en-rehabilitacion-pdc-avir-san-bernardo-3873984
 https://www.chiletrabajos.cl/trabajo/tecnico-en-seguridad-electronica-cctv-2880711
 https://www.chiletrabajos.cl/trabajo/tecnico-en-sistemas-de-seguridad-cctv-y-alarmas-3785893
+https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-3886620
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-antofagasta-3875261
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-chillan-3875258
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-la-serena-3875259
@@ -1514,6 +1512,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remot
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-quik-hire-staffing-4428639079
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994974
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4456355091
+https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457349208
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Alatin-america-at-sezzle-la-4447367447
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
@@ -1993,6 +1992,7 @@ soporte|bechtelcorporation
 soporte|evalearning
 soporte|sermaluc
 systemstrainee|softtek
+tecnicotelecomunicaciones|chiletrabajos
 tecnicotelecomunicaciones|fdtecnologa
 tecnicoti|empresaconfidencial
 tecnicoti|tivit

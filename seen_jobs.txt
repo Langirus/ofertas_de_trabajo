@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-de-operaciones-y-mantenimiento-e%C3%B3lico-chl-at-siemens-gamesa-4451628429
-https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-de-probadores-y-cajas-autoservicio-42-hrs-5x2-rotativo-falabella-arauco-maip%C3%BA-at-falabella-4416364009
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-30-horas-jornada-tarde-lunes-a-viernes-falabella-costanera-at-falabella-4446520872
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4435376344
 https://cl.linkedin.com/jobs/view/trainee-de-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-curic%C3%B3-at-falabella-4440316069
@@ -982,6 +980,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-3277404
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-cocina-y-aseo-3839789
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-conserjeria-lunes-a-sabado-turno-manana-3875817
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-enfermeria-arsenalera-3583959
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-2-vacantes-mundo-farmacia-local-2-puente-alto-3862642
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-certificado-part-time-30-horas-maipu-3866244
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-farmacia-full-time-3865590
@@ -1243,6 +1242,7 @@ https://www.getonbrd.com/jobs/cloud-operations-database-engineer-signant-health-
 https://www.getonbrd.com/jobs/contract-software-engineer-integrations-front-end-travefy-remote
 https://www.getonbrd.com/jobs/data-ai-platform-engineer-ia-engineer-penta-financiero-santiago
 https://www.getonbrd.com/jobs/data-analyst-3it-remote
+https://www.getonbrd.com/jobs/data-analyst-en-42labs-42labs-santiago
 https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterrey
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-42labs-santiago

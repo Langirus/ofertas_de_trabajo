@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/testing-engineer-consultant-at-murex-4372575684
-https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-at-santander-chile-4422163690
 https://cl.linkedin.com/jobs/view/tra-8422-ejecutivo-personas-trainee-region-metropolitana-at-santander-chile-4439383886
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-1-at-santander-chile-4440366273
 https://cl.linkedin.com/jobs/view/tra-8435-ejecutivo-select-trainee-at-santander-chile-4424709614
@@ -1051,6 +1049,7 @@ https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-3842267
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-ind-3841944
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-implementacion-ai-cloud-3886560
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-integracion-azure-apis-azure-integration-3865587
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-procesos-y-operaciones-ti-3873896
@@ -1838,6 +1837,7 @@ iotpracticaprofesiona|bwhale
 itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
 itpractica|pumagroup
 itremotosoportetecnico|michaelpage
+itsoporte|blueexpress
 itsupporttrainee|cumplo
 jeejuniorprogramadorremoto|exportadoradatabase
 jornadamediaparvulostecnico|chiletrabajos

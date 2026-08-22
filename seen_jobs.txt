@@ -1,6 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
-https://cl.linkedin.com/jobs/view/trainee-seguridad-jornada-full-time-44-hrs-5x2-rotativo-falabella-puente-at-falabella-4380601265
-https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-30-hrs-5x2-falabella-independencia-at-falabella-4388597070
 https://cl.linkedin.com/jobs/view/trainee-seguridad-mjt-falabella-costanera-center-at-falabella-4385805445
 https://cl.linkedin.com/jobs/view/trainee-seguridad-para-probadores-jornada-part-time-20-horas-fin-de-semana-falabella-la-dehesa-at-falabella-4393570418
 https://cl.linkedin.com/jobs/view/trainee-seguridad-pt-20-hrs-falabella-costanera-center-at-falabella-4388590165
@@ -743,6 +740,7 @@ https://sv.linkedin.com/jobs/view/robotics-engineer-el-salvador-remote-%E2%80%94
 https://uy.linkedin.com/jobs/view/ai-engineer-%F0%9F%92%BB-us-saas-startup-%F0%9F%9A%80%F0%9F%87%BA%F0%9F%87%B8-remote-at-atomic-remote-jobs-4443763390
 https://uy.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371021530
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
+https://uy.linkedin.com/jobs/view/elixir-backend-engineer-remote-latin-america-at-fullstack-4447549515
 https://uy.linkedin.com/jobs/view/graduate-sales-development-representative-canada-remote-at-canonical-4442564132
 https://uy.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4452720862
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
@@ -1529,6 +1527,7 @@ https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-444249997
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4443313382
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4456459144
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4457066688
+https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4457844109
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4442433426
@@ -1732,6 +1731,7 @@ ingenierojrprocesos|wisetrack
 ingenierojrsoftware|direccindepersonasuandes
 ingenierojrtableauvisualizacion|apiuxtech
 ingenierojunioroperaciones|chiletrabajos
+ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
 ingenierojuniorreactremototrabajo|bairesdev

@@ -1,4 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-5x2-falabella-plaza-tr%C3%A9bol-at-falabella-4400603787
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-l-a-v-44-hrs-falabella-puerto-montt-at-falabella-4385167948
 https://cl.linkedin.com/jobs/view/trainee-seguridad-full-time-de-lunes-a-viernes-44-hrs-falabella-alto-las-condes-at-falabella-4385544097
 https://cl.linkedin.com/jobs/view/trainee-seguridad-jornada-full-time-44-hrs-5x2-rotativo-falabella-puente-at-falabella-4380601265
@@ -768,6 +767,7 @@ https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
+https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack
 https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack-1
 https://weworkremotely.com/remote-jobs/clo-virtual-fashion-devops-engineer
 https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1

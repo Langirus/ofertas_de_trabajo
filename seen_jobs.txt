@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-en-ingenier%C3%ADa-de-ofertas-at-siemens-4440624993
-https://cl.linkedin.com/jobs/view/trainee-identity-access-management-iam-cybersecurity-automation-at-btg-pactual-chile-4438513139
 https://cl.linkedin.com/jobs/view/trainee-mantenedor-a-mina-minera-spence-at-bhp-4439286235
 https://cl.linkedin.com/jobs/view/trainee-pathology-lab-program-at-roche-4445284908
 https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-private-at-seidor-4441085393
@@ -661,6 +659,7 @@ https://portal.chiletrabajos.cl/empresa/exrayconsultores/trabajo/desarrollador-b
 https://portal.chiletrabajos.cl/empresa/exrayconsultores/trabajo/desarrollador-web-front-end-junior-3387648
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/icetel/trabajo/santiago-ingeniero-junior-3208128
+https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/administrador-de-redes-y-soporte-junior-3471817
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-de-datos-junior-3831868
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/analista-qa-agil-junior-2937881
 https://portal.chiletrabajos.cl/empresa/kibernumchile/trabajo/desarrollador-a-react-native-junior-3869733
@@ -1510,6 +1509,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remot
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436994974
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4456355091
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457349208
+https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457550795
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Alatin-america-at-sezzle-la-4447367447
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854

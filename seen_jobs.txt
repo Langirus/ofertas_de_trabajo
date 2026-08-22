@@ -1,5 +1,3 @@
-https://cl.linkedin.com/jobs/view/trainee-program-seidor-sap-public-cloud-at-seidor-4434627649
-https://cl.linkedin.com/jobs/view/trainee-riesgo-para-reci%C3%A9n-titulados-at-autofin-chile-4442474941
 https://cl.linkedin.com/jobs/view/trainee-sap-%E2%80%93-seguridad-roles-y-perfiles-at-seidor-4447301425
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-42-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4436290092
 https://cl.linkedin.com/jobs/view/trainee-seguridad-atenci%C3%B3n-probadores-y-cajas-autoservicio-44-horas-lunes-a-viernes-falabella-alto-las-condes-at-falabella-4398599077
@@ -788,7 +786,9 @@ https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-crea
 https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
+https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem
 https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer
+https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery
 https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer

@@ -1,7 +1,3 @@
-https://cl.linkedin.com/jobs/view/transformation-analyst-at-grupo-falabella-4450750937
-https://cl.linkedin.com/jobs/view/vagas-para-auxiliar-administrativo-fun%C3%A7%C3%B5es-sal%C3%A1rio-e-como-se-candidatar-at-emprego-centro-4444253017
-https://cl.linkedin.com/jobs/view/vendor-operations-analyst-at-commandlink-4454397004
-https://cl.linkedin.com/jobs/view/winnership-logistics-intern-at-beiersdorf-4446299259
 https://cl.linkedin.com/jobs/view/young-professional-%E2%80%93-trainee-recruiter-remote-work-at-bairesdev-4415904271
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387989951
 https://co.linkedin.com/jobs/view/agentic-elixir-engineer-remote-colombia-at-fullstack-4387996617
@@ -306,6 +302,7 @@ https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
 https://es.linkedin.com/jobs/view/qa-ai-engineer-teletrabajo-at-alten-4447372377
 https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
 https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4452599386
+https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse-4457886035
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
 https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027
@@ -759,6 +756,7 @@ https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engine
 https://weworkremotely.com/remote-jobs/aliqan-technologies-site-reliability-engineer
 https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs
 https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america
+https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
@@ -782,6 +780,7 @@ https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem
 https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer
 https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery
+https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications
 https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe
 https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship
 https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
@@ -998,6 +997,7 @@ https://www.chiletrabajos.cl/trabajo/consultor-sap-fi-junior-3852828
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264
 https://www.chiletrabajos.cl/trabajo/data-scientist-jr-3860932
+https://www.chiletrabajos.cl/trabajo/desarrollador-a-de-software-junior-fabrica-de-desarrollo-con-agentes-de-ia-3885717
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-fullstack-junior-3862561
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-ia-junior-proyecto-3860304
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-3648516

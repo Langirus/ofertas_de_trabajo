@@ -1,5 +1,3 @@
-https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370887288
-https://co.linkedin.com/jobs/view/ai-computer-vision-engineer-remote-colombia-at-fullstack-4370889259
 https://co.linkedin.com/jobs/view/ai-engineer-%E2%80%94-voice-applied-ai-100%25-remoto-at-simplebg-4447645768
 https://co.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373972765
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
@@ -901,6 +899,7 @@ https://www.chiletrabajos.cl/trabajo/asesor-tecnico-herramientas-rubro-ferretero
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3840630
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3850999
 https://www.chiletrabajos.cl/trabajo/asistente-administrativa-3864208
+https://www.chiletrabajos.cl/trabajo/asistente-administrativa-o-de-operaciones-3887713
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-2358408
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3277631
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3855960
@@ -1733,6 +1732,7 @@ ingenierojunioroperaciones|chiletrabajos
 ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
+ingenierojuniorproyectossistemassoftware|idomconsultingengineeringarchitecture
 ingenierojuniorreactremototrabajo|bairesdev
 ingenierojuniorredessantiagosistemas|portal
 ingenierojuniorsistemas|axity

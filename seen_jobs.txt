@@ -1,7 +1,3 @@
-https://co.linkedin.com/jobs/view/agentic-software-engineer-openai-codex-remote-colombia-at-fullstack-4377031445
-https://co.linkedin.com/jobs/view/ai-agent-engineer-python-gcp-llm-%E2%80%94-mcp-claude-%C2%B7-remoto-colombia-at-grupo-deacero-4441312237
-https://co.linkedin.com/jobs/view/ai-agent-engineer-python-gcp-llm-%E2%80%94-mcp-claude-%C2%B7-remoto-colombia-at-grupo-deacero-4453996366
-https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371013921
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371020537
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371021540
 https://co.linkedin.com/jobs/view/ai-agent-engineer-remote-colombia-at-fullstack-4371023490
@@ -617,9 +613,12 @@ https://pe.linkedin.com/jobs/view/remote-junior-android-developer-%D0%B2%D0%B0%D
 https://pe.linkedin.com/jobs/view/sin-experiencia-remoto-atenci%C3%B3n-al-cliente-at-gea-per%C3%BA-4447853690
 https://pe.linkedin.com/jobs/view/te-brindamos-herramientas-trabajo-remoto-sin-experiencia-con-planilla-completa-at-covisian-4457848887
 https://pe.linkedin.com/jobs/view/te-damos-herramientas-trabaja-remoto-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4455624238
+https://pe.linkedin.com/jobs/view/te-damos-herramientas-trabaja-remoto-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4458136506
+https://pe.linkedin.com/jobs/view/todo-remoto%21-nosotros-te-enviamos-la-pc-el-modem-de-internet-descansa-domingos-at-covisian-4458151503
 https://pe.linkedin.com/jobs/view/trabajo-100-por-ciento-remoto-atenci%C3%B3n-al-cliente-%C2%A1postula-sin-experiencia%21-at-gea-per%C3%BA-4447851670
 https://pe.linkedin.com/jobs/view/urgente%21%21-trabajo-remoto-con-todas-herramientas-planilla-completa-sin-experiencia-at-covisian-4457868856
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
+https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4458141532
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3262938
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
@@ -982,6 +981,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-rancagua-3876742
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-turno-tarde-3887160
+https://www.chiletrabajos.cl/trabajo/auxiliares-de-limpieza-3887274
 https://www.chiletrabajos.cl/trabajo/ayudante-tecnico-climatizacion-faena-minera-ii-region-3855909
 https://www.chiletrabajos.cl/trabajo/bodeguero-junior-la-granja-santiago-3827326
 https://www.chiletrabajos.cl/trabajo/buscamos-2-practicantes-de-desarrollo-saas-3871752

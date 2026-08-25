@@ -1,5 +1,3 @@
-https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4434288610
-https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4442517714
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4445610729
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4451364119
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4455182516
@@ -790,6 +788,7 @@ https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only
 https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer
+https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1
 https://www.chiletrabajos.cl/encuentra-un-empleo/120?2=t%C3%A9cnico+en+inform%C3%A1tica
@@ -1503,6 +1502,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-expe
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
 https://www.linkedin.com/jobs/view/junior-wordpress-developer-remote-work-ref%23297006-at-bairesdev-4438268335
+https://www.linkedin.com/jobs/view/machine-learning-analyst-remote-at-jobs-ai-4458577479
 https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-remote-at-hire-feed-4457055856
 https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-remote-at-hire-feed-4457566774
 https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4451927905

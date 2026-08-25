@@ -1,4 +1,3 @@
-https://co.linkedin.com/jobs/view/ai-engineer-ii-remote-at-sezzle-4373972765
 https://co.linkedin.com/jobs/view/ai-engineer-machine-learning-llms-%E2%80%93-remote-colombia-at-echez-group-4424611732
 https://co.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23290353-at-bairesdev-4446390838
 https://co.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23290354-at-bairesdev-4446513127
@@ -1732,6 +1731,7 @@ ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
 ingenierojuniorproyectossistemassoftware|idomconsultingengineeringarchitecture
+ingenierojuniorproyectos|idomconsultingengineeringarchitecture
 ingenierojuniorreactremototrabajo|bairesdev
 ingenierojuniorredessantiagosistemas|portal
 ingenierojuniorsistemas|axity

@@ -1,4 +1,3 @@
-https://co.linkedin.com/jobs/view/full-stack-web-developer-ai-automation-engineer-100%25-remote-at-parcero-4440836643
 https://co.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454402361
 https://co.linkedin.com/jobs/view/jr-e-commerce-developer-remote-at-helios-partners-4450063997
 https://co.linkedin.com/jobs/view/junior-consultant-remote-colombia-at-andean-recruiting-4444621212
@@ -1795,6 +1794,7 @@ ingenierosistemas|paresalvarez
 ingenierosistema|chiletrabajos
 ingenierosoftwaresoporte|despapeliza
 ingenierosoftware|bipboplabs
+ingenierosoftware|copec
 ingenierosoftware|esmart
 ingenierosoftware|fundacininvica
 ingenierosoftware|innomar

@@ -1,4 +1,3 @@
-https://co.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454402361
 https://co.linkedin.com/jobs/view/jr-e-commerce-developer-remote-at-helios-partners-4450063997
 https://co.linkedin.com/jobs/view/junior-consultant-remote-colombia-at-andean-recruiting-4444621212
 https://co.linkedin.com/jobs/view/junior-customer-success-operations-analyst-remote-colombia-full-time-at-shark-helpers-4414265338
@@ -706,6 +705,7 @@ https://uy.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-amer
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/elixir-backend-engineer-remote-latin-america-at-fullstack-4447549515
 https://uy.linkedin.com/jobs/view/graduate-sales-development-representative-canada-remote-at-canonical-4442564132
+https://uy.linkedin.com/jobs/view/it-automation-platform-engineer-remote-at-zyte-4459043188
 https://uy.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4452720862
 https://uy.linkedin.com/jobs/view/php-software-engineer-remote-latin-america-at-fullstack-4383772759
 https://uy.linkedin.com/jobs/view/python-django-software-engineer-remote-latin-america-at-fullstack-4408678959

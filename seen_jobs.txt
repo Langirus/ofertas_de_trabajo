@@ -1,8 +1,3 @@
-https://co.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4451454050
-https://co.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23300853-at-bairesdev-4455975363
-https://co.linkedin.com/jobs/view/ai-inference-engineer-qvac-100%25-remote-worldwide-at-tether-io-4410208244
-https://co.linkedin.com/jobs/view/aprendiz-sena-remoto-colombia-at-empresa-confidencial-4431878229
-https://co.linkedin.com/jobs/view/consultor-a-junior-de-aplicaciones-empresariales-remoto-at-sperto-consulting-4433420464
 https://co.linkedin.com/jobs/view/consultor-junior-desarrollador-oracle-apex-remoto-colombia-at-ram-bpo-%F0%9F%90%8F-4444651141
 https://co.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4448235366
 https://co.linkedin.com/jobs/view/data-engineer-microsoft-fabric-pyspark-remoto-colombia-at-ntt-data-europe-latam-4440766528
@@ -487,6 +482,7 @@ https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4436215418
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4442084553
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4448221060
+https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4457493175
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436997492
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
@@ -1247,6 +1243,7 @@ https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/desarrollador-sql-it-convergence-ciudad-de-mexico
 https://www.getonbrd.com/jobs/desarrollador-web-weyland-ingenieria-limitada-santiago
+https://www.getonbrd.com/jobs/desarrolladores-sonda-santiago
 https://www.getonbrd.com/jobs/developer-magnar-lima-santiago-buenos-aires-ciudad-de-mexico-bogota-c4fd
 https://www.getonbrd.com/jobs/developer-portugues-espanol-magnar-remote
 https://www.getonbrd.com/jobs/devops-engineer-e-commerce-interfell-remote
@@ -1299,6 +1296,7 @@ https://www.getonbrd.com/jobs/microsoft-power-platform-automation-engineer-dartm
 https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
 https://www.getonbrd.com/jobs/observability-engineer-junior-whitestack-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
+https://www.getonbrd.com/jobs/practicante-de-telecomunicaciones-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
 https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
@@ -1894,6 +1892,7 @@ marketingmesespracticantetrade|mondelzinternational
 marketingpracticavopero|cencosud
 merchandisingplanningpractica|pumagroup
 mesamonitoreonocoperadoressoporte|netmetrix
+mesproyectopudahuelredestecnico|acl
 microinformaticaonsitesoporte|stefaninigroup
 microinformaticapracticantetecnico|avalora
 microinformaticatecnico|chiletrabajos
@@ -1915,6 +1914,7 @@ practicanteseguridadtecnologica|segurosfalabella
 practicantesolucionestecnologicas|wspyargentina
 practicantesoporteti|verisure
 practicantesostenibilidad|sgs
+practicantetelecomunicaciones|na
 practicanteti|marlenemewesagenciadeaduanas
 practicanteuniversitaria|schwarzkopfcomunicaciones
 practicantevisado|bancode

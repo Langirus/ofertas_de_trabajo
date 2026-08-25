@@ -1,5 +1,3 @@
-https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4445610729
-https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4451364119
 https://co.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4455182516
 https://co.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4451454050
 https://co.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23300853-at-bairesdev-4455975363
@@ -905,6 +903,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-a
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-gestion-mercadopublico-providencia-3876316
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-part-time-3863689
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-y-cobranza-3883574
+https://www.chiletrabajos.cl/trabajo/asistente-adminsitrativa-3888039
 https://www.chiletrabajos.cl/trabajo/asistente-auditoria-3871904
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
 https://www.chiletrabajos.cl/trabajo/asistente-de-credito-y-cobranzas-cerrillos-3863358
@@ -1789,6 +1788,7 @@ ingenieroredessoporte|hitss
 ingenieroredesti|empresaconfidencial
 ingenieroredes|brass
 ingenieroredtelecomunicaciones|acl
+ingenieroremotosqltrabajo|bairesdev
 ingenieroremototrabajo|bairesdev
 ingenierorpawebscraping|inteligenciaartificial
 ingenieroseguridadsistemas|netline

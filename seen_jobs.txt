@@ -1,4 +1,3 @@
-https://co.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4445132909
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hired-4413721017
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4408846833
 https://co.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-colombia-at-mixrank-4415467274
@@ -1961,6 +1960,7 @@ remotosoftwaresoportetecnicowms|mecalux
 remotosoportetecnico|inetum
 representantesoportetecnicoterreno|toshibaglobalcommercesolutions
 salessupporttrainee|siemensenergy
+salestrainee|cheaf
 sapsoporte|genesys
 seotrainee|dentsu
 serenatecnicotelecomunicaciones|chiletrabajos

@@ -1,4 +1,3 @@
-https://co.linkedin.com/jobs/view/mobile-ai-engineer-remote-work-at-bairesdev-4452724455
 https://co.linkedin.com/jobs/view/physical-security-systems-analyst-latam-at-aon-4422685162
 https://co.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4456326361
 https://co.linkedin.com/jobs/view/software-development-engineer-ii-full-stack-business-remote-%40-colombia-at-offerup-4439509750
@@ -1241,6 +1240,7 @@ https://www.getonbrd.com/jobs/full-stack-developer-codeable-lima
 https://www.getonbrd.com/jobs/full-stack-developer-python-nodejs-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/full-stack-developer-react-aws-serverless-ryc-tech-group-santiago
 https://www.getonbrd.com/jobs/full-stack-java-angularjs-angular-17-3it-santiago
+https://www.getonbrd.com/jobs/full-stack-product-engineer-react-next-js-ai-infrastructu-crost-ai-remote
 https://www.getonbrd.com/jobs/full-stack-software-engineer-legalatoms-remote-a444
 https://www.getonbrd.com/jobs/fullstack-developer-angular-python-2brains-remote
 https://www.getonbrd.com/jobs/ia-engineer-penta-financiero-santiago

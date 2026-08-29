@@ -1,6 +1,3 @@
-https://co.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-remoto-at-inetum-4428183557
-https://co.linkedin.com/jobs/view/workflow-ai-engineer-colombia-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417817037
-https://cr.linkedin.com/jobs/view/ai-automation-engineer-n8n-ai-workflows-aa-remote-colombia-costa-rica-fulltime-at-gorilla-logic-4431277339
 https://cr.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4451366024
 https://cr.linkedin.com/jobs/view/backend-engineer-remote-at-crossing-hurdles-4454218935
 https://cr.linkedin.com/jobs/view/data-analyst-remote-at-hired-4418680291
@@ -490,6 +487,7 @@ https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419
 https://mx.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4440576939
 https://mx.linkedin.com/jobs/view/react-engineer-remote-work-ref%23298566-at-bairesdev-4443587327
 https://mx.linkedin.com/jobs/view/remote-ai-automation-solutions-engineer-at-rtm-connect-by-betterwho-4449424599
+https://mx.linkedin.com/jobs/view/remote-ai-automation-solutions-engineer-at-rtm-connect-by-betterwho-4460569350
 https://mx.linkedin.com/jobs/view/remote-ai-developer-internship-at-emma-of-torre-ai-4440033417
 https://mx.linkedin.com/jobs/view/remote-backend-django-engineer-%E2%80%93-ai-algorithmic-systems-at-emma-of-torre-ai-4427124969
 https://mx.linkedin.com/jobs/view/remote-latam-python-backend-engineer-scale-ai-apis-at-azumo-4432076749
@@ -769,6 +767,7 @@ https://www.chiletrabajos.cl/encuentra-un-empleo?2=junior&categoria=2007&f=2
 https://www.chiletrabajos.cl/relacionadas/2390946
 https://www.chiletrabajos.cl/relacionadas/3190640
 https://www.chiletrabajos.cl/relacionadas/3321116
+https://www.chiletrabajos.cl/relacionadas/3476384
 https://www.chiletrabajos.cl/trabajo/3244677
 https://www.chiletrabajos.cl/trabajo/3661542
 https://www.chiletrabajos.cl/trabajo/3753715
@@ -790,6 +789,7 @@ https://www.chiletrabajos.cl/trabajo/3867404
 https://www.chiletrabajos.cl/trabajo/3871836
 https://www.chiletrabajos.cl/trabajo/3873140
 https://www.chiletrabajos.cl/trabajo/3879845
+https://www.chiletrabajos.cl/trabajo/3886550
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326

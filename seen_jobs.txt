@@ -1,9 +1,7 @@
-https://cr.linkedin.com/jobs/view/workflow-ai-engineer-costa-rica-fully-remote-at-bell-mccoy-integrated-solutions-4417805469
-https://do.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-bairesdev-4430581342
-https://ec.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-ref%23298242-at-bairesdev-4440846953
 https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://ec.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-bairesdev-4454429309
+https://ec.linkedin.com/jobs/view/pasante-desarrollador-fullstack-remoto-at-brandview-latam-4461214245
 https://es.linkedin.com/jobs/view/%F0%9F%92%BB-data-engineer-aws-100%25-remoto-proyecto-estable-at-keapps-4443333306
 https://es.linkedin.com/jobs/view/%F0%9F%93%B1-%C2%A1buscamos-programadores-as-y-l%C3%ADder-t%C3%A9cnico-java%21-sector-log%C3%ADstico-100%25-remoto-%F0%9F%9A%80-at-keapps-4444929053
 https://es.linkedin.com/jobs/view/%F0%9F%9A%80-frontend-developer-mid%E2%80%93junior-vue-%C2%B7-angular-%C2%B7-nuxt-teletrabajo-at-iahorro-com-4428938224
@@ -365,6 +363,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442219565
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446405204
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4457101642
+https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4460066490
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
 https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-brasil-4444205664
@@ -1645,6 +1644,7 @@ incidentesingenieroti|ita
 industrialingenierosimplifica|pisafarmacutica
 industrialmantenimientotecnico|chiletrabajos
 industrialtecnicovendedor|chiletrabajos
+informacioninformationprojectproyectossoportesupporttechnologytecnologia|bechtelcorporation
 informacionpracticaprofesionalseguridad|fondoesperanza
 informacionpracticaprofesionalseguridad|grupofalabella
 informaticaingenieriajavajovenprofesionaltrainee|indragroup

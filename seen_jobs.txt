@@ -1,8 +1,3 @@
-https://es.linkedin.com/jobs/view/ai-assisted-code-analyst-100%25-remoto-desde-espa%C3%B1a-at-ust-4430221666
-https://es.linkedin.com/jobs/view/ai-automation-engineer-n8n-100%25-remote-from-spain-at-capitole-4451235323
-https://es.linkedin.com/jobs/view/ai-automation-engineer-remote-es-uk-only-at-quadrivia-ai-4423653558
-https://es.linkedin.com/jobs/view/ai-engineer-%E2%80%93-computer-vision-remote-work-at-bairesdev-4424255475
-https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-abalia-4447131374
 https://es.linkedin.com/jobs/view/ai-engineer-100%25-remoto-at-alten-4420723771
 https://es.linkedin.com/jobs/view/ai-engineer-backend-remote-es-uk-only-at-quadrivia-ai-4424887846
 https://es.linkedin.com/jobs/view/ai-engineer-copilot-studio-100%25-remoto-at-it-partner-4441381044
@@ -683,6 +678,7 @@ https://uy.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-re
 https://uy.linkedin.com/jobs/view/software-engineer-elixir-phoenix-latin-america-remote-at-bluelight-4448102838
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
 https://ve.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4441219664
+https://ve.linkedin.com/jobs/view/full-stack-python-ai-engineer-remote-work-at-bairesdev-4460611285
 https://ve.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4441220578
 https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
 https://ve.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4455687881
@@ -864,6 +860,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-part-time-3863689
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-y-cobranza-3883574
 https://www.chiletrabajos.cl/trabajo/asistente-adminsitrativa-3888039
 https://www.chiletrabajos.cl/trabajo/asistente-auditoria-3871904
+https://www.chiletrabajos.cl/trabajo/asistente-contable-administrativo-3891699
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
 https://www.chiletrabajos.cl/trabajo/asistente-de-credito-y-cobranzas-cerrillos-3863358
 https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-3870024
@@ -1123,6 +1120,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-la-serena-387
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-rancagua-3875263
 https://www.chiletrabajos.cl/trabajo/tecnico-en-telecomunicaciones-san-fernando-3849745
 https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-en-electricidad-para-ventas-3809473
+https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-servicio-3891889
 https://www.chiletrabajos.cl/trabajo/tecnico-instalador-seguridad-electronica-3850329
 https://www.chiletrabajos.cl/trabajo/tecnico-mantencion-santiago-3105595
 https://www.chiletrabajos.cl/trabajo/tecnico-mantenimiento-electrico-transformadores-en-aceite-3869459
@@ -1785,6 +1783,7 @@ ingenieroremototrabajo|bairesdev
 ingenierorpawebscraping|inteligenciaartificial
 ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision
+ingenieroserviciotecnico|chiletrabajos
 ingenierosistemasteletrabajo|heyclue
 ingenierosistemas|paresalvarez
 ingenierosistema|chiletrabajos
@@ -1984,6 +1983,7 @@ soportetecnico|imunicipalidadderecoleta
 soportetecnico|theemailcompany
 soportetecnico|vigatec
 soporteti|altia
+soporteti|empresaconfidencial
 soporteti|nortrans
 soporteti|sermaluc
 soporteti|tunichefruits

@@ -1,4 +1,3 @@
-https://ec.linkedin.com/jobs/view/cloudops-engineer-remote-ecuador-at-connect-tech%2Btalent-4403986357
 https://ec.linkedin.com/jobs/view/full-stack-engineer-learnwith-ai-remote-%24100-000-year-usd-at-crossover-4413820723
 https://ec.linkedin.com/jobs/view/ingeniero-de-datos-junior-trabajo-remoto-at-bairesdev-4454429309
 https://ec.linkedin.com/jobs/view/pasante-desarrollador-fullstack-remoto-at-brandview-latam-4461214245
@@ -1310,6 +1309,7 @@ https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-rem
 https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-d014
+https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f
 https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote

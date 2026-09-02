@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/ai-solutions-engineer-%E2%80%93-100%25-remoto-at-oliver-james-4449609143
-https://es.linkedin.com/jobs/view/ai-solutions-engineer-100%25-remoto-at-oliver-james-4447372293
-https://es.linkedin.com/jobs/view/analista-cyberark-remoto-at-grupo-ns-4431141158
 https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-activos-y-datos-full-remote-spain-at-joppy-4440644493
 https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
 https://es.linkedin.com/jobs/view/analista-de-datos-junior-soporte-funcional-power-bi-excel-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4439203730
@@ -878,6 +875,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850
 https://www.chiletrabajos.cl/trabajo/auditor-interno-3882096
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-30-horas-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-comuna-pudahuel-3824978
+https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-jardin-infantil-las-condes-3892658
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-part-time-residencia-lactantes-y-preescolares-illapel-disponibili-3864889
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-varon-part-time-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-anestesia-3665956
@@ -1210,6 +1208,7 @@ https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-s
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote-1993
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/desarrollador-salesforce-semi-senior-apex-lwc-3it-remote
 https://www.getonbrd.com/jobs/desarrollador-sql-it-convergence-ciudad-de-mexico
 https://www.getonbrd.com/jobs/desarrollador-web-weyland-ingenieria-limitada-santiago
 https://www.getonbrd.com/jobs/desarrolladores-sonda-santiago
@@ -1463,6 +1462,7 @@ https://www.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed
 https://www.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4439329231
 https://www.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4439574311
 https://www.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4439580123
+https://www.linkedin.com/jobs/view/junior-software-engineer-latam-%0Alatin-america-at-sezzle-la-4462435509
 https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4229334006
 https://www.linkedin.com/jobs/view/junior-software-engineer-latam-at-sezzle-4462415351
 https://www.linkedin.com/jobs/view/junior-software-engineer-open-3d-engine-remote-at-crossing-hurdles-4423884631

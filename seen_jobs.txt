@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/ai-engineer-f-m-remote-at-qima-4418984179
-https://es.linkedin.com/jobs/view/ai-engineer-full-remote-at-everfield-4408695171
 https://es.linkedin.com/jobs/view/ai-engineer-remote-international-at-jobgether-4433667320
 https://es.linkedin.com/jobs/view/ai-engineer-remote-spain-at-lifebit-4417316671
 https://es.linkedin.com/jobs/view/ai-engineer-remoto-at-knowmad-mood-4418291853
@@ -1243,6 +1241,7 @@ https://www.getonbrd.com/jobs/ingeniero-a-de-estudios-actuariales-bnp-paribas-ca
 https://www.getonbrd.com/jobs/ingeniero-a-de-integraciones-y-automatizacion-ia-grupo-amoble-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataforma-y-automatizacion-ia-hypnos-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-plataformas-aws-bc-tecnologia-santiago
+https://www.getonbrd.com/jobs/ingeniero-a-de-proyecto-implementacion-ziyu-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-desarrollo-y-calidad-nncc-agrosuper-rancagua
 https://www.getonbrd.com/jobs/ingeniero-a-operacional-del2-agilistik-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-productos-digitales-agrosuper-rancagua
@@ -1633,6 +1632,7 @@ iainnovacionpracticanteprocesos|cydingeniera
 ialiderremototecnico|exportadoradatabase
 ialidertecnico|hitss
 iaoperacionespracticante|credit
+implementacioningenieroproyecto|na
 implementacionsoporte|evalearning
 implementacionsoporte|owlteamsolutions
 importanteindustriamantenimientoreferentetecnico|secretariadeextensinuniversitariautnfrc

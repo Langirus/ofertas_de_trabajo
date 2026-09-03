@@ -1,7 +1,3 @@
-https://es.linkedin.com/jobs/view/analista-funcional-moodle-%E2%80%93-php-lms-web-development-%E2%80%93-remoto-espa%C3%B1a-at-thewhiteam-4416701633
-https://es.linkedin.com/jobs/view/analista-mlops-remoto-at-vermont-solutions-4418221492
-https://es.linkedin.com/jobs/view/analista-programador-a-altitude-scripting-net-c%23-contact-center-%C2%B7-100%25-teletrabajo-at-beigar-4452379443
-https://es.linkedin.com/jobs/view/analista-programador-a-as400-remoto-galicia-at-ad4-oct%C3%B3gono-4435282467
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-%E2%80%93-sistemas-de-pago-tarjetas-remoto-at-profile-software-services-4411414997
 https://es.linkedin.com/jobs/view/analista-programador-a-cobol-swift-100%25-remoto-at-altia-4439820464
 https://es.linkedin.com/jobs/view/analista-programador-a-gravity-remoto-at-plexus-tech-4434842958
@@ -192,6 +188,7 @@ https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
 https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027
+https://es.linkedin.com/jobs/view/remote-ai-systems-automation-engineer-internal-operations-m-f-d-at-roompricegenie-4463122161
 https://es.linkedin.com/jobs/view/remote-airline-standards-engineer-%E2%80%94-m-e-data-compliance-at-cae-defence-security-%E2%80%93-indo-pacific-4436012011
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
@@ -204,6 +201,7 @@ https://es.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-assisted-develo
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-in-test-remoto-at-isprox-4450157511
 https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4432269577
+https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4461694772
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-full-remote-at-knowmad-mood-4440271158
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
@@ -904,6 +902,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-pasteleria-pastelera-o-3809556
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-3893569
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-chiloe-3865326
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-y-mantencion-3891577
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-comuna-arauco-3867088
@@ -1299,6 +1298,7 @@ https://www.getonbrd.com/jobs/semi-senior-full-stack-developer-agendapro-remote-
 https://www.getonbrd.com/jobs/senior-full-stack-ruby-on-rails-engineer-autoraptor-remote
 https://www.getonbrd.com/jobs/senior-site-reliability-engineer-sre-gcp-devsu-remote
 https://www.getonbrd.com/jobs/site-reliability-engineer-sre-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/site-reliability-engineer-sre-secretaria-de-gobierno-digital-santiago
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-d014
 https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f

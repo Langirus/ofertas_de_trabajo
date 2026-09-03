@@ -1,7 +1,3 @@
-https://es.linkedin.com/jobs/view/analista-de-ciberseguridad-protecci%C3%B3n-de-activos-y-datos-full-remote-spain-at-joppy-4440644493
-https://es.linkedin.com/jobs/view/analista-de-datos-ia-ag%C3%A9ntica-h-m-at-michael-page-4428923989
-https://es.linkedin.com/jobs/view/analista-de-datos-junior-soporte-funcional-power-bi-excel-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4439203730
-https://es.linkedin.com/jobs/view/analista-de-datos-junior-soporte-funcional-power-bi-excel-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4443269307
 https://es.linkedin.com/jobs/view/analista-de-datos-remoto-at-alten-spain-4449200224
 https://es.linkedin.com/jobs/view/analista-de-operaciones-ti-100%25-remoto-at-nunegal-consulting-4398829248
 https://es.linkedin.com/jobs/view/analista-devops-remoto-at-getronics-4414318159
@@ -289,6 +285,7 @@ https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
+https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-leon-at-blacksmith-agency-4462700558
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431393128
@@ -440,6 +437,7 @@ https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-am
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4436844806
+https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-tijuana-at-blacksmith-agency-4462703356
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23298564-at-bairesdev-4443579865
 https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
@@ -1282,6 +1280,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611
 https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
+https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-dynamic-devs-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago
 https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago
@@ -1750,6 +1749,7 @@ ingenierooperaciones|geovictoria
 ingenierooperativaplanificacion|ikea
 ingenieropasivosproduccionserviciossistemas|bancode
 ingenieroplanningworkforce|achs
+ingenieropostpreprocesosreemplazotransformacion|bancobci
 ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieropracticas|kadevstudio
 ingenieroprevencionriesgos|chiletrabajos

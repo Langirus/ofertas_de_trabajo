@@ -1,10 +1,3 @@
-https://es.linkedin.com/jobs/view/analista-programador-java-100%25-teletrabajo-at-entelgy-4440665165
-https://es.linkedin.com/jobs/view/analista-programador-java-cassandra-100%25-remoto-at-ust-espa%C3%B1a-latam-4455676488
-https://es.linkedin.com/jobs/view/analista-programador-java-microservicios-teletrabajo-ingl%C3%A9s-b2-c1-at-knowmad-mood-4430004706
-https://es.linkedin.com/jobs/view/analista-programador-java-python-active-viam-100%25-remoto-espa%C3%B1a-at-ust-4443776514
-https://es.linkedin.com/jobs/view/analista-programador-java-python-olap-100%25-remoto-at-ust-espa%C3%B1a-latam-4454252031
-https://es.linkedin.com/jobs/view/analista-programador-oracle-osb-oracle-service-bus-o-java-oracle-middleware-teletrabajo-at-heyclue-4448802813
-https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4427529157
 https://es.linkedin.com/jobs/view/analista-programador-rpg-as400-30-34k-remoto-en-espa%C3%B1a-at-squad-technology-solutions-4432278352
 https://es.linkedin.com/jobs/view/analista-programador-salesforce-remoto-at-grupo-tecdata-engineering-4442917851
 https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
@@ -35,6 +28,7 @@ https://es.linkedin.com/jobs/view/consultor-sistemas-sap-junior-%E2%80%93-sap-ba
 https://es.linkedin.com/jobs/view/cybersecurity-incident-response-analyst-full-remote-spain-at-joppy-4440642656
 https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-analyst-%E2%80%93-remoto-h-m-x-at-experis-espa%C3%B1a-4450469491
+https://es.linkedin.com/jobs/view/data-analyst-100%25-remoto-at-ebis-business-techschool-4462839734
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
 https://es.linkedin.com/jobs/view/data-engineer-100%25-teletrabajo-at-aubay-spain-4448813187
 https://es.linkedin.com/jobs/view/data-engineer-analyst-100%25-remote-spain-at-ust-4442616705
@@ -714,6 +708,7 @@ https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american
 https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy
 https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
+https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform
 https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
@@ -794,6 +789,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-3843221
 https://www.chiletrabajos.cl/trabajo/analista-de-facturacion-y-servicio-al-cliente-3882672
 https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834978
 https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaciones-junior-3823250
+https://www.chiletrabajos.cl/trabajo/analista-de-operaciones-en-powertec-3864049
 https://www.chiletrabajos.cl/trabajo/analista-de-patologia-3849190
 https://www.chiletrabajos.cl/trabajo/analista-de-personas-para-chiloe-3855460
 https://www.chiletrabajos.cl/trabajo/analista-de-propuestas-electricas-3756360
@@ -994,6 +990,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-en-informatica-3801403
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-3770232
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-5x2-antofagasta-santiago-3886050
 https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-ingeniero-en-ejecuc-en-prevencion-de-riesgos-3812640
+https://www.chiletrabajos.cl/trabajo/ingeniero-en-prevencion-de-riesgos-turno-solo-dia-lampa-3893139
 https://www.chiletrabajos.cl/trabajo/ingeniero-huechuraba-3852217
 https://www.chiletrabajos.cl/trabajo/ingeniero-ia-intermedio-hibrido-3x2-3860545
 https://www.chiletrabajos.cl/trabajo/ingeniero-informatico-3851502
@@ -1244,6 +1241,7 @@ https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago-4997
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-datos-y-analitica-agencia-de-aduanas-felipe-serrano-santiago
+https://www.getonbrd.com/jobs/ingeniero-de-estudios-actuariales-bnp-paribas-cardif-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-infraestructura-cloud-azure-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-infraestructura-y-soporte-ti-apex-group-chile-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-procesos-ti-datasur-santiago
@@ -1750,6 +1748,7 @@ ingenieroplanningworkforce|achs
 ingenieropostpreprocesosreemplazotransformacion|bancobci
 ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieropracticas|kadevstudio
+ingenieroprevencionriesgosturno|chiletrabajos
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprevencionriesgos|empresaconstructoraeinmobiliariamollerprezcotapos
 ingenieropreventa|chiletrabajos
@@ -1973,6 +1972,7 @@ soportetecnicoti|alertplus
 soportetecnicoti|chiletrabajos
 soportetecnicoti|empresaconfidencial
 soportetecnicoti|imunicipalidadderecoleta
+soportetecnicoti|rockpointassociates
 soportetecnicoti|tataconsultancyservices
 soportetecnicoti|theandesbrands
 soportetecnicoti|universidaddelasamricas

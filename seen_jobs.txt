@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/analista-programador-sisnet-teletrabajo-100%25-at-krell-4427188457
 https://es.linkedin.com/jobs/view/analyst-developer-java-spring-boot-100%25-remoto-desde-espa%C3%B1a-at-ust-4442864009
 https://es.linkedin.com/jobs/view/analyst-developer-java-spring-boot-100%25-remoto-desde-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4445134921
 https://es.linkedin.com/jobs/view/application-development-engineer-remoto-at-experience-it-solutions-4440585125
@@ -1904,6 +1903,7 @@ operationspeopletrainee|roche
 perfilesrolessapseguridadtrainee|seidor
 planificacionpracticantesoporte|airlines
 practicanteprocesos|vincicompass
+practicanteriesgotecnologico|banchileinversiones
 practicanteseguridadtecnologica|segurosfalabella
 practicantesolucionestecnologicas|wspyargentina
 practicantesoporteti|verisure

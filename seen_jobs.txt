@@ -1,7 +1,3 @@
-https://es.linkedin.com/jobs/view/application-support-engineer-trilogy-remote-%2460-000-year-usd-at-crossover-4445758930
-https://es.linkedin.com/jobs/view/automation-devops-engineer-remoto-at-knowmad-mood-4436880419
-https://es.linkedin.com/jobs/view/aws-big-data-engineer-remote-35-42k-at-the-board-people-talent-4427054292
-https://es.linkedin.com/jobs/view/aws-cloud-engineer-teletrabajo-100%25-at-plexus-tech-4451741781
 https://es.linkedin.com/jobs/view/azure-data-engineer-remoto-espa%C3%B1a-h-m-x-at-experis-espa%C3%B1a-4446633733
 https://es.linkedin.com/jobs/view/backend-devops-engineer-java-kotlin-kubernetes-azure-100%25-remoto-at-knowmad-mood-4441332850
 https://es.linkedin.com/jobs/view/backend-engineer-platform-stacks-spain-remote-at-grafana-labs-4446845598
@@ -71,6 +67,7 @@ https://es.linkedin.com/jobs/view/devops-jr-engineer-azure-100%25-remoto-at-ical
 https://es.linkedin.com/jobs/view/elixir-software-engineer-junior-25-35k-remote-at-bizneo-hr-4448288105
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
+https://es.linkedin.com/jobs/view/frontend-engineer-web-applications-remote-at-hire-feed-4464009933
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427081120
 https://es.linkedin.com/jobs/view/frontend-full-stack-engineers-mid-level-b2b-typescript-html-css-php-next-js-symfony-laravel-docker-ai-tools-%E2%82%AC250-300-day-remote-eu-spanish-speaking-6-month-initial-contract-at-owen-thomas-b-corp%E2%84%A2-4427561409
 https://es.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445428347
@@ -176,6 +173,7 @@ https://es.linkedin.com/jobs/view/remote-ai-systems-automation-engineer-internal
 https://es.linkedin.com/jobs/view/remote-airline-standards-engineer-%E2%80%94-m-e-data-compliance-at-cae-defence-security-%E2%80%93-indo-pacific-4436012011
 https://es.linkedin.com/jobs/view/remote-operations-intern-at-edp-4419175472
 https://es.linkedin.com/jobs/view/revenue-operations-analyst-saas-remote-at-bizneo-hr-4372831406
+https://es.linkedin.com/jobs/view/sales-development-representative-sdr-trainee-100%25-remoto-at-rockstar-data-4461827883
 https://es.linkedin.com/jobs/view/sales-intern-ai-start-up-remote-at-reshapeos-4455262719
 https://es.linkedin.com/jobs/view/sales-intern-ai-start-up-remote-at-reshapeos-4460829580
 https://es.linkedin.com/jobs/view/sistemas-inform%C3%A1ticos-abiertos-t%C3%A9cnico-de-intervenci%C3%B3n-de-protecci%C3%B3n-remoto-espa%C3%B1a-id-at-abalia-4439200306
@@ -196,6 +194,7 @@ https://es.linkedin.com/jobs/view/software-engineer-platform-productivity-spain-
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4446639455
 https://es.linkedin.com/jobs/view/software-engineer-python-aws-100%25-remote-at-ust-4440469463
+https://es.linkedin.com/jobs/view/software-engineer-remote-at-hire-feed-4464019143
 https://es.linkedin.com/jobs/view/software-engineer-remoto-100%25-indefinido-h-m-x-at-experis-4420122142
 https://es.linkedin.com/jobs/view/software-engineer-synthetic-monitoring-spain-remote-at-grafana-labs-4447085641
 https://es.linkedin.com/jobs/view/software-fullstack-engineer-spain-remote-at-cimpress-technology-4400556536
@@ -1874,6 +1873,7 @@ logisticopracticanterepuestostemuco|salfarent
 managementpracticanterevenue|airlines
 mantencionsantiagotecnico|chiletrabajos
 mantenedorminamineraspencetrainee|bhp
+mantenimientosoportetecnico|sonda
 mantenimientotecnicoterreno|chiletrabajos
 mantenimientotecnico|carlsjr
 mantenimientotecnico|chiletrabajos

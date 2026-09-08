@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/cybersecurity-incident-response-analyst-full-remote-spain-at-joppy-4440642656
-https://es.linkedin.com/jobs/view/cybersecurity-solutions-presales-junior-specialist-remote-at-tarlogic-4435219393
 https://es.linkedin.com/jobs/view/data-analyst-%E2%80%93-remoto-h-m-x-at-experis-espa%C3%B1a-4450469491
 https://es.linkedin.com/jobs/view/data-analyst-100%25-remoto-at-ebis-business-techschool-4462839734
 https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
@@ -164,6 +162,7 @@ https://es.linkedin.com/jobs/view/sistemas-inform%C3%A1ticos-abiertos-t%C3%A9cni
 https://es.linkedin.com/jobs/view/snowflake-data-engineer-remote-at-ust-4411549049
 https://es.linkedin.com/jobs/view/soc-analyst-l1-l2-%E2%80%93-incident-response-%E2%80%94-100%25-remote-spain-at-squad-cabinet-de-conseils-et-d%E2%80%99expertises-4426981543
 https://es.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-assisted-development-100%25-remote-at-astek-4427380214
+https://es.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4464498031
 https://es.linkedin.com/jobs/view/software-engineer-engineering-efficiency-remote-friendly-at-qonto-4425650715
 https://es.linkedin.com/jobs/view/software-engineer-in-test-remoto-at-isprox-4450157511
 https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4432269577
@@ -394,6 +393,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4462831801
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4463345857
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4463756188
+https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464486956
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-mexico-%0Amexico-remote-at-sezzle-la-4447364490
 https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585

@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/cloud-devops-engineer-pharma-full-remote-from-portugal-or-spain-at-ambit-iberia-4450908333
 https://es.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4437344191
 https://es.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439125142
 https://es.linkedin.com/jobs/view/consultor-sistemas-sap-junior-%E2%80%93-sap-basis-remoto-at-itrtech-group-4445067103
@@ -1898,6 +1897,7 @@ operacionespracticaprofesional|juegosdevideolatinoamricajvlat
 operationspeopletrainee|roche
 perfilesrolessapseguridadtrainee|seidor
 planificacionpracticantesoporte|airlines
+possoportetecnicoterreno|stefanini
 practicanteprocesos|vincicompass
 practicanteriesgotecnologico|banchileinversiones
 practicanteseguridadtecnologica|segurosfalabella

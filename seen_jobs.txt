@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/data-analyst-%E2%80%93-remoto-h-m-x-at-experis-espa%C3%B1a-4450469491
-https://es.linkedin.com/jobs/view/data-analyst-100%25-remoto-at-ebis-business-techschool-4462839734
-https://es.linkedin.com/jobs/view/data-engineer-100%25-remoto-at-ioon-4433209795
 https://es.linkedin.com/jobs/view/data-engineer-100%25-teletrabajo-at-aubay-spain-4448813187
 https://es.linkedin.com/jobs/view/data-engineer-analyst-100%25-remote-spain-at-ust-4442616705
 https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
@@ -286,11 +283,13 @@ https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bai
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4439444238
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4442203805
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4448241338
+https://mx.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4463530203
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434164402
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442219565
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446405204
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4457101642
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4460066490
+https://mx.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4463525393
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
 https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-brasil-4444205664
@@ -1459,6 +1458,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457550795
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4457888139
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4458147748
+https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464496999
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Alatin-america-at-sezzle-la-4447367447
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4462196646

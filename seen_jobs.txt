@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/data-engineer-python-palantir-100%25-remoto-at-grupo-digital-4435995872
-https://es.linkedin.com/jobs/view/data-engineer-remote-%E2%80%93-spain-only-aws-at-infoser-technological-solutions-hardware-big-data-experts-4432243256
-https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417315706
 https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417323315
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-capitole-4433180436
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
@@ -769,6 +766,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-gestion-y-calidad-en-lampa-3834
 https://www.chiletrabajos.cl/trabajo/analista-de-inteligencia-de-datos-y-operaciones-junior-3823250
 https://www.chiletrabajos.cl/trabajo/analista-de-marketplaces-3894610
 https://www.chiletrabajos.cl/trabajo/analista-de-operaciones-en-powertec-3864049
+https://www.chiletrabajos.cl/trabajo/analista-de-pago-a-proveedores-y-servicios-3896330
 https://www.chiletrabajos.cl/trabajo/analista-de-patologia-3849190
 https://www.chiletrabajos.cl/trabajo/analista-de-personas-para-chiloe-3855460
 https://www.chiletrabajos.cl/trabajo/analista-de-propuestas-electricas-3756360
@@ -1460,8 +1458,10 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Alatin-america-at-sezzle-la-4447367447
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4462196646
+https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4465058488
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
+https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4465059518
 https://www.linkedin.com/jobs/view/junior-wordpress-developer-remote-work-ref%23297006-at-bairesdev-4438268335
 https://www.linkedin.com/jobs/view/machine-learning-analyst-remote-at-jobs-ai-4458577479
 https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-remote-at-hire-feed-4457055856

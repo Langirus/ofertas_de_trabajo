@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/data-engineer-analyst-100%25-remote-spain-at-ust-4442616705
-https://es.linkedin.com/jobs/view/data-engineer-aws-specialist-remoto-02cc-at-abalia-4432944978
 https://es.linkedin.com/jobs/view/data-engineer-databricks-100%25-remoto-at-capitole-4433922526
 https://es.linkedin.com/jobs/view/data-engineer-databricks-proyecto-codere-%E2%80%93-100%25-remoto-at-it-partner-4413831958
 https://es.linkedin.com/jobs/view/data-engineer-fullremote-at-capitole-4435977981
@@ -233,6 +231,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-443623534
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4439425505
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-4448235088
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23300852-at-bairesdev-4455977319
+https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23303199-at-bairesdev-4464908371
 https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
 https://mx.linkedin.com/jobs/view/ai-financial-operations-analyst-remote-at-quora-4444194535
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
@@ -1993,6 +1992,7 @@ soporte|sermaluc
 systemstrainee|softtek
 tecnicotelecomunicaciones|chiletrabajos
 tecnicotelecomunicaciones|fdtecnologa
+tecnicotelecomunicaciones|tecnoera
 tecnicoti|anticipa
 tecnicoti|empresaconfidencial
 tecnicoti|tivit

@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/data-engineer-remote-spain-at-lifebit-4417323315
-https://es.linkedin.com/jobs/view/data-engineer-remoto-at-capitole-4433180436
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4428408962
 https://es.linkedin.com/jobs/view/data-engineer-remoto-at-vermont-solutions-4449102674
 https://es.linkedin.com/jobs/view/data-engineer-with-snowflake-and-python-remote-from-spain-at-ust-4451237653
@@ -280,6 +278,7 @@ https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446405204
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4457101642
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4460066490
+https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4464108827
 https://mx.linkedin.com/jobs/view/desarrollador-react-junior-trabajo-remoto-at-bairesdev-4463525393
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
 https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
@@ -938,6 +937,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-procesos-y-operaciones-ti-3873896
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-redes-y-seguridad-proyecto-sase-ztna-3854522
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-soporte-funcional-de-aplicaciones-y-procesos-3887325
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-automatizacion-3894577
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-electronica-electricidad-o-profesion-afin-3716869
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-a-junior-formacion-en-gemelos-digitales-y-tecnologias-3867404

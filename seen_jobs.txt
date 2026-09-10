@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-python-%C2%B7-genai-%C2%B7-langchain-%C2%B7-rag-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4439223302
-https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-remote-at-qaracter-beyond-your-challenge-4435966637
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
 https://es.linkedin.com/jobs/view/data-scientist-ml-engineer-forecasting-genai-remoto-at-everfield-4408695171
 https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
@@ -100,6 +98,7 @@ https://es.linkedin.com/jobs/view/junior-procurement-specialist-100%25-remote-at
 https://es.linkedin.com/jobs/view/junior-react-frontend-developer-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4448022370
 https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
 https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
+https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-engradar-4465818721
 https://es.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4465049378
 https://es.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ia-remoto-at-exportadora-data-base-s-a-4444278909
 https://es.linkedin.com/jobs/view/machine-learning-engineer-at-ntt-data-europe-latam-4430374625
@@ -220,6 +219,7 @@ https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
+https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-cancun-at-blacksmith-agency-4465844216
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-leon-at-blacksmith-agency-4462700558
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
 https://mx.linkedin.com/jobs/view/ai-training-engineer-%E2%80%93-remote-at-hire-feed-4412952588

@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-100%25-remoto-espa%C3%B1a-at-qaracter-beyond-your-challenge-4450897674
-https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-madrid-remoto-at-it-partner-4430839286
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-python-%C2%B7-genai-%C2%B7-langchain-%C2%B7-rag-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4439223302
 https://es.linkedin.com/jobs/view/data-ops-engineer-%E2%80%93-ai-enablement-remote-at-qaracter-beyond-your-challenge-4435966637
 https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
@@ -1232,6 +1230,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/ingeniero-devops-junior-transvip-santiago
 https://www.getonbrd.com/jobs/ingeniero-gobierno-de-datos-agrosuper-rancagua
+https://www.getonbrd.com/jobs/ingeniero-qa-automatizador-lisit-santiago
 https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote
 https://www.getonbrd.com/jobs/junior-data-engineer-grupo-mariposa-remote
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago
@@ -1697,6 +1696,7 @@ ingenierojunioroperaciones|chiletrabajos
 ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
+ingenierojuniorprevencionriesgos|mutualidaddecarabinerosmutucar
 ingenierojuniorproyectossistemassoftware|idomconsultingengineeringarchitecture
 ingenierojuniorproyectos|idomconsultingengineeringarchitecture
 ingenierojuniorreactremototrabajo|bairesdev

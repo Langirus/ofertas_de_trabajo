@@ -1,8 +1,3 @@
-https://es.linkedin.com/jobs/view/database-reliability-engineer-dbre-remote-at-finom-4440892108
-https://es.linkedin.com/jobs/view/database-reliability-engineer-remote-at-hire-feed-4464010628
-https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
-https://es.linkedin.com/jobs/view/desarrollador-a-ia-junior-remoto-at-randstad-digital-espa%C3%B1a-4417623045
-https://es.linkedin.com/jobs/view/desarrollador-a-java-nodejs-%E2%80%93-proyecto-internacional%2Bingl%C3%A9s-alto-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4457248210
 https://es.linkedin.com/jobs/view/desarrollador-a-php-laravel-junior-100%25-remoto-h-m-x-at-experis-espa%C3%B1a-4427325972
 https://es.linkedin.com/jobs/view/desarrollador-a-rpa-junior-uipath-teletrabajo-at-hasten-group-4452802125
 https://es.linkedin.com/jobs/view/desarrollador-java-jr-teletrabajo-at-optimissa-4433189237
@@ -287,6 +282,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4437108381
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-quik-hire-staffing-4409036689
 https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4410280271
+https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4466059202
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4437302382
 https://mx.linkedin.com/jobs/view/fbs-ai-automation-engineer-remote-at-capgemini-4444187000
@@ -680,6 +676,7 @@ https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer
 https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
 https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1
+https://weworkremotely.com/remote-jobs/zowie-devops-engineer
 https://www.chiletrabajos.cl/encuentra-un-empleo/120?2=t%C3%A9cnico+en+inform%C3%A1tica
 https://www.chiletrabajos.cl/encuentra-un-empleo/60?2=junior&13=1022&f=2
 https://www.chiletrabajos.cl/encuentra-un-empleo/?2=en+inform%C3%A1tica+junior
@@ -1449,6 +1446,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464496999
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464970542
 https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4465621025
+https://www.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4466024527
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-%0Alatin-america-at-sezzle-la-4447367447
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4462196646
@@ -1480,9 +1478,11 @@ https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4458141719
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4458582408
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4459112486
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4465608088
+https://www.linkedin.com/jobs/view/python-engineer-remote-at-hired-4466036425
 https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-services-4420445707
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4442433426
+https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4466027497
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4438577705
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439703769
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439783390

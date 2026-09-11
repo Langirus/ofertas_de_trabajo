@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/data-quality-analyst-spanish-%2415-hr-remote-at-crossing-hurdles-4415172446
-https://es.linkedin.com/jobs/view/data-scientist-ml-engineer-forecasting-genai-remoto-at-everfield-4408695171
-https://es.linkedin.com/jobs/view/data-scientist-mlops-engineer-100%25-teletrabajo-at-nunegal-consulting-4396442951
 https://es.linkedin.com/jobs/view/database-reliability-engineer-dbre-remote-at-finom-4440892108
 https://es.linkedin.com/jobs/view/database-reliability-engineer-remote-at-hire-feed-4464010628
 https://es.linkedin.com/jobs/view/dba-postgresql-t%C3%A9cnico-a-de-sistemas-%E2%80%93-linux-azure-%E2%80%93-100%25-remoto-espa%C3%B1a-at-thewhiteam-4430007719
@@ -396,6 +393,7 @@ https://mx.linkedin.com/jobs/view/python-engineer-remote-at-hired-4464015797
 https://mx.linkedin.com/jobs/view/python-engineer-remote-at-hired-4465036585
 https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4436292216
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
+https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-varicent-4464852166
 https://mx.linkedin.com/jobs/view/qa-automation-trainee-100%25-remoto-at-implemental-systems-4461779789
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
 https://mx.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4440576939
@@ -1807,6 +1805,7 @@ internratingsresearch|passfortamoodyscompany
 internsdet|remoteok
 internsoftware|stellacapitaladvisory
 inventoryjuniorpurchasingremotespecialist|mprtoolsequipment
+inversionespracticanteviajes|falabella
 inversionespracticaviajes|grupofalabella
 iotpracticaprofesiona|bwhale
 itjrlatamsourcer|azkait
@@ -1978,6 +1977,7 @@ soportetecnicousuario|chiletrabajos
 soportetecnico|empresaconfidencial
 soportetecnico|hueneiitservices
 soportetecnico|imunicipalidadderecoleta
+soportetecnico|sonda
 soportetecnico|theemailcompany
 soportetecnico|vigatec
 soporteti|altia

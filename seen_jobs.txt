@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/developer-analyst-%E2%80%93-java-c%2B%2B-linux-market-risk-remoto-at-vermont-solutions-4454755031
-https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-4452235476
 https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-espa%C3%B1a-latam-4454252031
 https://es.linkedin.com/jobs/view/developer-data-analyst-pyhton-ingl%C3%A9s-50%25-presencial-y-remoto-at-sandav-4428813429
 https://es.linkedin.com/jobs/view/devops-engineer-aws-cloud-100%25-remoto-at-experience-it-solutions-4451709668
@@ -295,6 +293,7 @@ https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hir
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439734272
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440532848
+https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hired-4466358094
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4428450020
 https://mx.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782366
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
@@ -736,6 +735,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-adquisiciones-3855322
 https://www.chiletrabajos.cl/trabajo/analista-de-aprovisionamiento-proyecto-3-meses-contrato-est-lampa-3837343
 https://www.chiletrabajos.cl/trabajo/analista-de-calidad-sector-norte-3861223
 https://www.chiletrabajos.cl/trabajo/analista-de-clientes-y-subcontratos-finanzas-3871537
+https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-3890092
 https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-metro-manquehue-3838576
 https://www.chiletrabajos.cl/trabajo/analista-de-compras-3808373
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584

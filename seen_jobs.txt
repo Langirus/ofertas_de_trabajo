@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/desarrollador-java-jr-teletrabajo-at-optimissa-4433189237
 https://es.linkedin.com/jobs/view/developer-analyst-%E2%80%93-java-c%2B%2B-linux-market-risk-remoto-at-vermont-solutions-4454755031
 https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-4452235476
 https://es.linkedin.com/jobs/view/developer-analyst-java-python-olap-100%25-remoto-at-ust-espa%C3%B1a-latam-4454252031
@@ -658,6 +657,7 @@ https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/solar-secure-solutions-web-development-intern
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus
+https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
 https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security

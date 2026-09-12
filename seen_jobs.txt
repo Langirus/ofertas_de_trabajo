@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/devops-engineer-junior-100%25-teletrabajo-at-metrica-4428064125
-https://es.linkedin.com/jobs/view/devops-jr-engineer-azure-100%25-remoto-at-icalia-solutions-by-izertis-4424871458
-https://es.linkedin.com/jobs/view/devops-jr-engineer-azure-100%25-remoto-at-icalia-solutions-by-izertis-4445889246
 https://es.linkedin.com/jobs/view/elixir-software-engineer-junior-25-35k-remote-at-bizneo-hr-4448288105
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
@@ -232,6 +229,7 @@ https://mx.linkedin.com/jobs/view/cloud-security-engineer-remote-at-hire-feed-44
 https://mx.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439103917
 https://mx.linkedin.com/jobs/view/cocos2d-x-junior-game-developer-remote-at-yo-it-consulting-4439956478
 https://mx.linkedin.com/jobs/view/consultor-mulesoft-junior-m%C3%A9xico-remoto-fulltime-at-sps-4416933393
+https://mx.linkedin.com/jobs/view/consultor-oracle-cloud-junior-biling%C3%BCe-remoto-at-towa-software-4465419994
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4412957584
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4431392249
 https://mx.linkedin.com/jobs/view/data-analyst-remote-at-hire-feed-4433837800
@@ -713,6 +711,7 @@ https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrat
 https://www.chiletrabajos.cl/trabajo/alumno-a-en-practica-o-trainee-marketing-digital-y-redes-sociales-3857208
 https://www.chiletrabajos.cl/trabajo/alumno-en-practica-de-gastronomia-3842008
 https://www.chiletrabajos.cl/trabajo/analista-a-de-gestion-de-talento-zona-norte-de-santiago-3864143
+https://www.chiletrabajos.cl/trabajo/analista-administrativo-backoffice-3898048
 https://www.chiletrabajos.cl/trabajo/analista-cobranza-credio-y-facturacion-3864652
 https://www.chiletrabajos.cl/trabajo/analista-contable-3805440
 https://www.chiletrabajos.cl/trabajo/analista-contable-3858482
@@ -1765,6 +1764,7 @@ ingenieroredtelecomunicaciones|acl
 ingenieroremotosqltrabajo|bairesdev
 ingenieroremototrabajo|bairesdev
 ingenierorpawebscraping|inteligenciaartificial
+ingenierosecretariotecnico|bosmart
 ingenieroseguridadsistemas|netline
 ingenieroserviciotecnico|accuvision
 ingenieroserviciotecnico|chiletrabajos

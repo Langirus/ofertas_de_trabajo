@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/elixir-software-engineer-junior-25-35k-remote-at-bizneo-hr-4448288105
 https://es.linkedin.com/jobs/view/founding-engineer-60k-100k-remote-or-barcelona-agentic-coder-at-hirevoice-4425134151
 https://es.linkedin.com/jobs/view/frontend-engineer-react-con-enfoque-ux-100%25-remoto-at-bcnc-group-4416706145
 https://es.linkedin.com/jobs/view/frontend-engineer-web-applications-remote-at-hire-feed-4464009933
@@ -1746,6 +1745,7 @@ ingenieropronosticosupermercados|cencosud
 ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent
+ingenieroproyectos|atacamaminerales
 ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo
 ingenieroqa|factorlt

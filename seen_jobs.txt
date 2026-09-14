@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/full-stack-nodejs-engineer-remote-world-wide-at-webito-4445508068
-https://es.linkedin.com/jobs/view/full-stack-software-engineer-ingl%C3%A9s-alto-remoto-at-ingenierojob-4423190172
-https://es.linkedin.com/jobs/view/fullremote-ml-engineer-data-scientist-at-capitole-4421922333
 https://es.linkedin.com/jobs/view/fullstack-engineer-and-developer-europe-remote-%E2%80%93-international-client-at-thewhiteam-4424452411
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-angular-react-100%25-teletrabajo-at-knowmad-mood-4428422410
 https://es.linkedin.com/jobs/view/fullstack-engineer-java-%2B-react%2B-ia-100%25-teletrabajo-at-knowmad-mood-4422048178
@@ -988,6 +985,7 @@ https://www.chiletrabajos.cl/trabajo/part-time-auxiliar-de-farmacia-fines-de-sem
 https://www.chiletrabajos.cl/trabajo/pmo-junior-gestion-y-seguimiento-de-proyectos-ti-3871836
 https://www.chiletrabajos.cl/trabajo/postular/3809354
 https://www.chiletrabajos.cl/trabajo/postular/3866005
+https://www.chiletrabajos.cl/trabajo/postular/3894768
 https://www.chiletrabajos.cl/trabajo/practica-administracion-project-management-y-produccion-de-eventos-3873954
 https://www.chiletrabajos.cl/trabajo/practica-profesional-area-de-control-de-gestion-3867853
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ciberseguridad-informatica-3861828
@@ -1084,6 +1082,7 @@ https://www.chiletrabajos.cl/trabajo/tecnicos-electricos-con-licencia-de-conduci
 https://www.chiletrabajos.cl/trabajo/tecnicos-y-ayudantes-en-climatizacion-calefaccion-3888384
 https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3857137
 https://www.chiletrabajos.cl/trabajo/vendedor-a-tecnico-a-industrial-3873434
+https://www.chiletrabajos.cl/trabajo/vendedor-tecnico-maquinaria-industria-de-alimentos-3898155
 https://www.getonbrd.com/jobs/administrador-a-de-laboratorio-improving-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-manukora-remote
@@ -1616,6 +1615,7 @@ incidentesingenieroti|ita
 industrialingenierosimplifica|pisafarmacutica
 industrialmantenimientotecnico|chiletrabajos
 industrialtecnicovendedor|chiletrabajos
+industriamaquinariatecnicovendedor|chiletrabajos
 informacioninformationprojectproyectossoportesupporttechnologytecnologia|bechtelcorporation
 informacionpracticaprofesionalseguridad|fondoesperanza
 informacionpracticaprofesionalseguridad|grupofalabella

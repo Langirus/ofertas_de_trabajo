@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/generative-ai-analyst-spanish-%2411-hr-remote-at-crossing-hurdles-4415171659
 https://es.linkedin.com/jobs/view/generative-ai-engineer-python-%C2%B7-llms-%C2%B7-rag-%C2%B7-100%25-remote-ref-nf-at-abalia-4437645823
 https://es.linkedin.com/jobs/view/genesys-cloud-software-engineer-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4416115977
 https://es.linkedin.com/jobs/view/help-desk-n1-soporte-de-aplicaciones-remoto-at-between-group-4438675201
@@ -1794,6 +1793,7 @@ ingenierotrainee|buffer
 ingenierotrainee|weir
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 inlcusionjrlaboralremotosoporteti|ferrostaalc
+instrumentacionsoportetecnicotrainee|clonsaingeniera
 integracionnegociopracticanteproyectosservicios|banchileinversiones
 internacionalscouting|revivalfootball
 internitoperations|proctergamble

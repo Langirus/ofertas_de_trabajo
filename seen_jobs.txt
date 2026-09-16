@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
-https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-de-informaci%C3%B3n-al-viajero-pis-100%25-remoto-at-astek-4441048634
 https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
 https://es.linkedin.com/jobs/view/ingeniero-a-de-software-blockchain-activos-digitales-dlt-100%25-remoto-at-azertium-it-4450374296
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-de-ia-100%25-remoto-at-ust-4438408222
@@ -626,6 +624,7 @@ https://weworkremotely.com/remote-jobs/patrianna-devops-engineer
 https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
+https://weworkremotely.com/remote-jobs/sigma-software-data-engineer-interior-design
 https://weworkremotely.com/remote-jobs/solar-secure-solutions-web-development-intern
 https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product
 https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus
@@ -1440,6 +1439,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-expe
 https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-latam-at-sezzle-4323959443
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4462196646
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4465058488
+https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4468226396
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4465059518

@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-de-ia-para-eyeflow-at-arsoft-4431667498
-https://es.linkedin.com/jobs/view/ingeniero-a-de-integraci%C3%B3n-y-automatizaci%C3%B3n-teletrabajo-at-irium-4443913722
 https://es.linkedin.com/jobs/view/ingeniero-a-de-integraciones-itsm-full-remote-spain-%E2%82%AC40k-%E2%82%AC48k-at-joppy-4435047603
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-3d-teletrabajo-100%25-at-keapps-4440545976
 https://es.linkedin.com/jobs/view/ingeniero-a-de-inteligencia-artificial-ia-llm-teletrabajo-100%25-at-keapps-4433082736
@@ -1131,6 +1129,7 @@ https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterre
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-42labs-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/data-engineer-aws-lakehouse-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/data-engineer-cloud-especializado-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-data-analytics-engineer-trainee-egos-bi-monterrey
 https://www.getonbrd.com/jobs/data-engineer-data-scientist-improving-south-america-remote
@@ -1654,6 +1653,7 @@ informjuniormodalidadsitiosoportetico|computrabajo
 infraestructuraingenieroit|porsche
 infraestructuraingenierosoporteti|na
 infraestructuraingeniero|autofin
+infraestructuraingeniero|confidencial
 infraestructuraingeniero|na
 infraestructurainversionespractica|principal
 infraestructuraitjuniorterreno|ssioutsourcing

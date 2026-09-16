@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-de-sistemas-teletrabajo-at-heyclue-4435367837
-https://es.linkedin.com/jobs/view/ingeniero-a-de-software-blockchain-activos-digitales-dlt-100%25-remoto-at-azertium-it-4450374296
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-de-ia-100%25-remoto-at-ust-4438408222
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-de-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439993888
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
@@ -682,6 +680,7 @@ https://www.chiletrabajos.cl/trabajo/3873140
 https://www.chiletrabajos.cl/trabajo/3879845
 https://www.chiletrabajos.cl/trabajo/3886550
 https://www.chiletrabajos.cl/trabajo/3894768
+https://www.chiletrabajos.cl/trabajo/3898673
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -1686,6 +1685,7 @@ ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
 ingenierojuniorprevencionriesgos|mutualidaddecarabinerosmutucar
+ingenierojuniorprovidenciaredestecnicotelecomunicacionesterreno|mandomedio
 ingenierojuniorproyectossistemassoftware|idomconsultingengineeringarchitecture
 ingenierojuniorproyectos|idomconsultingengineeringarchitecture
 ingenierojuniorreactremototrabajo|bairesdev

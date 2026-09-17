@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-de-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439993888
-https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-edi-remoto-at-experience-it-solutions-4418025157
-https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-ia-100%25-remoto-at-ust-espa%C3%B1a-latam-4439868096
 https://es.linkedin.com/jobs/view/ingeniero-a-de-soluciones-ia-100%25-remoto-espa%C3%B1a-at-ust-4440160286
 https://es.linkedin.com/jobs/view/ingeniero-a-frontend-vue-js-%E2%80%93-60%25-teletrabajo-h%C3%ADbrido-le%C3%B3n-at-hasten-group-4426731508
 https://es.linkedin.com/jobs/view/ingeniero-a-ia-gcp-remoto-at-irium-4431094376
@@ -339,6 +336,7 @@ https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4436844806
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-tijuana-at-blacksmith-agency-4462703356
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23298564-at-bairesdev-4443579865
+https://mx.linkedin.com/jobs/view/mid-ai-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4466899539
 https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
@@ -915,6 +913,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-de-operaciones-junior-3887158
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-preventa-3865825
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-procesos-consultor-de-procesos-3882000
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-proyectos-de-innovacion-y-desarrollo-pudahuel-3847717
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-proyectos-y-servicios-ti-junior-3898673
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-redes-proyecto-minero-especialista-en-radwin-y-fiber-in-motion-3872866
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-redes-y-soporte-3865082
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-sistemas-junior-3664833
@@ -1470,6 +1469,7 @@ https://www.linkedin.com/jobs/view/python-engineer-remote-work-at-indi-staffing-
 https://www.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-hire-feed-4414693340
 https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4442433426
 https://www.linkedin.com/jobs/view/quality-analyst-remote-at-hire-feed-4466027497
+https://www.linkedin.com/jobs/view/remote-ai-automation-engineer-at-hirelatam-4467134032
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4438577705
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439703769
 https://www.linkedin.com/jobs/view/software-engineer-cloud-remote-at-hire-feed-4439783390

@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-sap-abap-s4-hana-100%25-remoto-at-oxigent-technologies-4465518772
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4418865898
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4448577126
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4449193245
@@ -1071,6 +1070,7 @@ https://www.getonbrd.com/jobs/administrador-a-de-laboratorio-improving-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-manukora-remote
 https://www.getonbrd.com/jobs/ai-automation-qa-engineer-tcit-santiago-08ec
+https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote
 https://www.getonbrd.com/jobs/ai-engineering-intern-puente-talent-partners-remote
 https://www.getonbrd.com/jobs/ai-qa-engineer-tcit-santiago
 https://www.getonbrd.com/jobs/alumno-en-practica-ing-informatica-area-observabilidad-bice-vida-santiago

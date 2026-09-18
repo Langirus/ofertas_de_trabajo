@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4458672134
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
 https://es.linkedin.com/jobs/view/ingeniero-a-t%C3%A9cnico-a-ia-100%25-remoto-proyectos-de-inteligencia-artificial-at-keapps-4444923006
 https://es.linkedin.com/jobs/view/ingeniero-de-datos-teletrabajo-espa%C3%B1a-at-akkodis-4437270293
@@ -593,6 +592,7 @@ https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-a
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/doximity-data-analyst-reporting-partnerships
 https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer
+https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer
 https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher
 https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app
 https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform

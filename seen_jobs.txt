@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4448577126
-https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4449193245
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-100%25-teletrabajo-at-knowmad-mood-4458672134
 https://es.linkedin.com/jobs/view/ingeniero-a-software-java-ingl%C3%A9s-100%25-remoto-at-knowmad-mood-4437300339
 https://es.linkedin.com/jobs/view/ingeniero-a-t%C3%A9cnico-a-ia-100%25-remoto-proyectos-de-inteligencia-artificial-at-keapps-4444923006
@@ -1602,6 +1600,7 @@ implementacionsoporte|owlteamsolutions
 importanteindustriamantenimientoreferentetecnico|secretariadeextensinuniversitariautnfrc
 incendiojuniorsistemastecnico|chiletrabajos
 incidentesingenieroti|ita
+industrialesingenieroprevencionproyectosriesgos|inprint
 industrialingenierosimplifica|pisafarmacutica
 industrialmantenimientotecnico|chiletrabajos
 industrialtecnicovendedor|chiletrabajos
@@ -1643,6 +1642,7 @@ informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act
 informaticosoporteterreno|randstad
 informaticotecnico|compchile
+informaticotecnico|gocar
 informaticotecnico|softtek
 informaticotecnico|terrefort
 informjuniormodalidadsitiosoportetico|computrabajo

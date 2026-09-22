@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/junior-aws-devops-engineer-remoto-at-vermont-solutions-4426279339
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-4422213272
 https://es.linkedin.com/jobs/view/junior-cloud-engineer-aws-100%25-remoto-espa%C3%B1a-at-ust-espa%C3%B1a-latam-4425259828
 https://es.linkedin.com/jobs/view/junior-data-scientist-at-joinrs-4431667237
@@ -39,6 +38,7 @@ https://es.linkedin.com/jobs/view/python-engineer-remoto-at-capitole-4454603232
 https://es.linkedin.com/jobs/view/qa-ai-engineer-teletrabajo-at-alten-4447372377
 https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
 https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4452599386
+https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4468531826
 https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse-4457886035
 https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse-4458579121
 https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768

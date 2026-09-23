@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
-https://es.linkedin.com/jobs/view/mid-cloud-engineer-azure-y-o-aws-full-remote-spain-%E2%82%AC25k-%E2%82%AC30k-at-joppy-4441302984
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4431274231
 https://es.linkedin.com/jobs/view/mid-junior-java-kafka-developer-100%25-remoto-at-ust-espa%C3%B1a-latam-4457490433
@@ -13,6 +11,7 @@ https://es.linkedin.com/jobs/view/programador-junior-java-fullstack-teletrabajo-
 https://es.linkedin.com/jobs/view/programador-python-junior-mid-hiperautomatizaci%C3%B3n-remoto-madrid-o-barcelona-h-m-x-at-experis-espa%C3%B1a-4467395353
 https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
 https://es.linkedin.com/jobs/view/python-engineer-remoto-at-capitole-4454603232
+https://es.linkedin.com/jobs/view/python-software-engineer-remote-work-at-cloudlinux-4469318251
 https://es.linkedin.com/jobs/view/qa-ai-engineer-teletrabajo-at-alten-4447372377
 https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
 https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4452599386
@@ -1843,6 +1842,7 @@ juniorsoporteti|softtek
 juniorterrenotramites|chiletrabajos
 labpathologyprogramtrainee|roche
 lampapracticati|arrimaq
+lidermediospagotecnico|indragroup
 lidermetropolitanaregionsoportetecnologicotorre|accenture
 lidernativereacttecnico|accenture
 lidernivelsapsoporte|qibit

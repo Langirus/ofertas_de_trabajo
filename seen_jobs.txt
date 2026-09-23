@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-spain-at-everai-4409064527
 https://es.linkedin.com/jobs/view/junior-mid-performance-marketer-full-remote-spain-at-everai-4419813608
 https://es.linkedin.com/jobs/view/junior-procurement-specialist-100%25-remote-at-ubq-io-4443383799
 https://es.linkedin.com/jobs/view/junior-react-frontend-developer-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4448022370
@@ -1707,6 +1706,7 @@ ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenierooperacionalesprocesos|elevaadvisory
 ingenierooperacionalsoporte|na
+ingenierooperacionesplantaproductiva|confidential
 ingenierooperacionesprocesosti|chiletrabajos
 ingenierooperacionesti|onemarketer
 ingenierooperaciones|geovictoria

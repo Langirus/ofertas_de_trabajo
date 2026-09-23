@@ -1,10 +1,3 @@
-https://es.linkedin.com/jobs/view/junior-react-frontend-developer-remoto-espa%C3%B1a-at-experis-espa%C3%B1a-4448022370
-https://es.linkedin.com/jobs/view/junior-risk-monitoring-analyst-100%25-remote-cet-timezone-at-bitfinex-4418551783
-https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-docplanner-4399149599
-https://es.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-early-career-strong-problem-solving-coding-focus-100%25-remote-within-spain-at-engradar-4465818721
-https://es.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4465049378
-https://es.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-ia-remoto-at-exportadora-data-base-s-a-4444278909
-https://es.linkedin.com/jobs/view/machine-learning-engineer-at-ntt-data-europe-latam-4430374625
 https://es.linkedin.com/jobs/view/machine-learning-operations-engineer-ai-trainer-freelance-8-20hrs-week-remote-at-10x-team-4416945574
 https://es.linkedin.com/jobs/view/mid-cloud-engineer-azure-y-o-aws-full-remote-spain-%E2%82%AC25k-%E2%82%AC30k-at-joppy-4441302984
 https://es.linkedin.com/jobs/view/mid-data-engineer-full-remote-spain-%E2%82%AC32k-%E2%82%AC42k-at-joppy-4426943808
@@ -381,6 +374,7 @@ https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-s
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4449647305
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-ref%23297179-at-bairesdev-4438270291
 https://pe.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-at-bairesdev-4451665824
+https://pe.linkedin.com/jobs/view/ai-engineer-mobile-remote-work-at-bairesdev-4469448813
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
 https://pe.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23299133-at-bairesdev-4449077689
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
@@ -663,6 +657,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3870471
 https://www.chiletrabajos.cl/trabajo/analista-contable-3885256
 https://www.chiletrabajos.cl/trabajo/analista-contable-3898033
 https://www.chiletrabajos.cl/trabajo/analista-contable-3901921
+https://www.chiletrabajos.cl/trabajo/analista-contable-3902435
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-linares-3874608
@@ -680,6 +675,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-3890092
 https://www.chiletrabajos.cl/trabajo/analista-de-cobranza-metro-manquehue-3838576
 https://www.chiletrabajos.cl/trabajo/analista-de-compras-3808373
 https://www.chiletrabajos.cl/trabajo/analista-de-control-de-calidad-planta-productiva-trabajo-por-turnos-3829584
+https://www.chiletrabajos.cl/trabajo/analista-de-costos-3902392
 https://www.chiletrabajos.cl/trabajo/analista-de-custodia-3882000
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3831868
 https://www.chiletrabajos.cl/trabajo/analista-de-datos-junior-3856739
@@ -1132,6 +1128,7 @@ https://www.getonbrd.com/jobs/desarrollador-back-end-python-agencia-de-aduanas-f
 https://www.getonbrd.com/jobs/desarrollador-backend-go-5-meses-agilistik-santiago
 https://www.getonbrd.com/jobs/desarrollador-backend-java-spring-boot-3it-santiago-019a
 https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
+https://www.getonbrd.com/jobs/desarrollador-full-stack-react-nestjs-aws-witi-remote
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-santiago
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
@@ -1243,6 +1240,7 @@ https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f
 https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
+https://www.getonbrd.com/jobs/software-engineer-zaelot-remote
 https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.getonbrd.com/jobs/soporte-de-redes-y-telecomunicaciones-tarapaca-bc-tecnologia-iquique
 https://www.getonbrd.com/jobs/soporte-e-infraestructura-apex-group-chile-santiago
@@ -1741,6 +1739,7 @@ ingenieroproyecto|metrodesantiago
 ingenieroqa|factorlt
 ingenieroqa|na
 ingenierorancaguaredessoporteterrenoti|nttdata
+ingenieroredesreemplazoseguridad|sclconsultores
 ingenieroredessalud|owlteamsolutions
 ingenieroredesseguridad|chiletrabajos
 ingenieroredessistemasti|sacyr
@@ -1884,6 +1883,7 @@ monitoreosoportetecnicotelecomunicaciones|sgs
 monitoreotecnicoti|computrabajo
 navieroshippingtrainee|ultranav
 negociospracticanteprocesos|nttdata
+nivelpracticantesoporteti|maserrzuriz
 nivelpresencialsoportetecnico|ada4solutionsheadhunting
 nivelservicesoporteti|chiletrabajos
 ofertapracticatitulotrabajo|theoptimal

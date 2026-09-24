@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/programador-a-junior-pl-i-mainframe-100%25-remoto-at-krell-4446726140
-https://es.linkedin.com/jobs/view/programador-a-uipath-junior-teletrabajo-100%25-at-plexus-tech-4440103663
 https://es.linkedin.com/jobs/view/programador-junior-java-fullstack-teletrabajo-at-second-window-4449866520
 https://es.linkedin.com/jobs/view/programador-python-junior-mid-hiperautomatizaci%C3%B3n-remoto-madrid-o-barcelona-h-m-x-at-experis-espa%C3%B1a-4467395353
 https://es.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441930467
@@ -808,6 +806,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-minera-antofagasta-38
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-minera-escondida-3861912
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicios-punta-arenas-3866116
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-transporte-y-pasteleria-3850502
+https://www.chiletrabajos.cl/trabajo/auxiliar-dietetica-3649443
 https://www.chiletrabajos.cl/trabajo/auxiliar-estafeta-jornada-completa-para-un-cdc-las-concepcion-reg-bio-bio-3834864
 https://www.chiletrabajos.cl/trabajo/auxiliar-recinto-deportivo-3886525
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-distintas-instlaciones-3900560
@@ -1039,6 +1038,7 @@ https://www.chiletrabajos.cl/trabajo/tecnicos-y-ayudantes-en-climatizacion-calef
 https://www.chiletrabajos.cl/trabajo/tecnologo-medico-bacteriologo-bioanalista-3857137
 https://www.chiletrabajos.cl/trabajo/vendedor-a-tecnico-a-industrial-3873434
 https://www.chiletrabajos.cl/trabajo/vendedor-tecnico-maquinaria-industria-de-alimentos-3898155
+https://www.chiletrabajos.cl/trabajo/vendedora-sin-experiencia-3903441
 https://www.getonbrd.com/jobs/administrador-a-de-laboratorio-improving-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-manukora-remote

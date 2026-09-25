@@ -1,8 +1,3 @@
-https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4452599386
-https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4468531826
-https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse-4457886035
-https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse-4458579121
-https://es.linkedin.com/jobs/view/qa-engineer-full-remote-spain-at-joppy-4435037768
 https://es.linkedin.com/jobs/view/remote-ai-engineer-agents-m-f-d-at-roompricegenie-4440564525
 https://es.linkedin.com/jobs/view/remote-ai-engineer-knowledge-m-f-d-at-roompricegenie-4440573027
 https://es.linkedin.com/jobs/view/remote-ai-systems-automation-engineer-internal-operations-m-f-d-at-roompricegenie-4463122161
@@ -397,6 +392,7 @@ https://portal.chiletrabajos.cl/empresa/acl/trabajo/analista-de-datos-junior-346
 https://portal.chiletrabajos.cl/empresa/acl/trabajo/desarrollador-fullstack-junior-3237638
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/administrador-cloud-azure-junior-3877992
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
+https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/seguridad-de-la-informacion-junior-3752273
 https://portal.chiletrabajos.cl/empresa/coderhub/trabajo/fullstack-developer-junior-3711633
 https://portal.chiletrabajos.cl/empresa/exrayconsultores/trabajo/desarrollador-back-end-junior-3341784
 https://portal.chiletrabajos.cl/empresa/exrayconsultores/trabajo/desarrollador-web-front-end-junior-3387648
@@ -1212,6 +1208,7 @@ https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago
 https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago
 https://www.getonbrd.com/jobs/qa-engineer-factor-it-remote
 https://www.getonbrd.com/jobs/qa-engineer-ssr-coderslab-io-quito
+https://www.getonbrd.com/jobs/qa-engineer-xintec-santiago
 https://www.getonbrd.com/jobs/qa-enginer-zaelot-remote
 https://www.getonbrd.com/jobs/qa-funcional-automatizador-junior-agilistik-santiago
 https://www.getonbrd.com/jobs/qa-integration-test-engineer-improving-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro
@@ -1588,6 +1585,7 @@ industrialmantenimientotecnico|chiletrabajos
 industrialtecnicovendedor|chiletrabajos
 industriamaquinariatecnicovendedor|chiletrabajos
 informacioninformationprojectproyectossoportesupporttechnologytecnologia|bechtelcorporation
+informacionjuniorsantiagoseguridad|portal
 informacionpracticaprofesionalseguridad|fondoesperanza
 informacionpracticaprofesionalseguridad|grupofalabella
 informaticaingenieriajavajovenprofesionaltrainee|indragroup
@@ -1805,6 +1803,7 @@ itpractica|pumagroup
 itremotosoportetecnico|michaelpage
 itsoporte|blueexpress
 itsupporttrainee|cumplo
+javajuniorprogramadorteletrabajo|soltelgroup
 jeejuniorprogramadorremoto|exportadoradatabase
 jornadamediaparvulostecnico|chiletrabajos
 jovenprofesionaltrainee|sacyr
@@ -1899,6 +1898,7 @@ practicanteprocesos|vincicompass
 practicanteriesgotecnologico|banchileinversiones
 practicanteseguridadtecnologica|segurosfalabella
 practicantesolucionestecnologicas|wspyargentina
+practicantesoporteti|detacoopcooperativadeahorroycrdito
 practicantesoporteti|verisure
 practicantesostenibilidad|sgs
 practicantetelecomunicaciones|na

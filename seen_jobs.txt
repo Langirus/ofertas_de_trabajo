@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/qa-ai-engineer-teletrabajo-at-alten-4447372377
-https://es.linkedin.com/jobs/view/qa-automation-engineer-100%25-remoto-at-grupo-tecdata-engineering-4445152210
 https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4452599386
 https://es.linkedin.com/jobs/view/qa-automatizaci%C3%B3n-junior-teletrabajo-at-alten-spain-4468531826
 https://es.linkedin.com/jobs/view/qa-engineer-core-database-remote-at-clickhouse-4457886035
@@ -1022,6 +1020,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-instalador-seguridad-electronica-38
 https://www.chiletrabajos.cl/trabajo/tecnico-mantencion-santiago-3105595
 https://www.chiletrabajos.cl/trabajo/tecnico-mantenimiento-electrico-transformadores-en-aceite-3869459
 https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herramientas-3850704
+https://www.chiletrabajos.cl/trabajo/tecnico-o-ingeniero-en-computacion-3903865
 https://www.chiletrabajos.cl/trabajo/tecnico-o-ingeniero-en-informatica-3875826
 https://www.chiletrabajos.cl/trabajo/tecnico-para-sistemas-de-incendio-junior-3835235
 https://www.chiletrabajos.cl/trabajo/tecnico-sec-calefont-honorarios-3857699
@@ -1990,6 +1989,7 @@ soporte|bechtelcorporation
 soporte|evalearning
 soporte|sermaluc
 systemstrainee|softtek
+tallertecnicoti|gocar
 tecnicotelecomunicaciones|chiletrabajos
 tecnicotelecomunicaciones|fdtecnologa
 tecnicotelecomunicaciones|tecnoera

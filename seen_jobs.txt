@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4432269577
-https://es.linkedin.com/jobs/view/software-engineer-java-%2B-python-%2B-workday-remoto-at-knowmad-mood-4461694772
 https://es.linkedin.com/jobs/view/software-engineer-java-100%25-remoto-at-knowmad-mood-4418870687
 https://es.linkedin.com/jobs/view/software-engineer-java-aws-terraform-python-full-remote-at-knowmad-mood-4440271158
 https://es.linkedin.com/jobs/view/software-engineer-java-remoto-espa%C3%B1a-id-at-abalia-4424361239
@@ -959,6 +957,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-en-climatizacion-hvac-7x7-mineria
 https://www.chiletrabajos.cl/trabajo/tecnico-a-en-educacion-parvularia-cuidadora-infantil-las-condes-3870433
 https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimiento-3829930
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
+https://www.chiletrabajos.cl/trabajo/tecnico-auxiliar-de-enfermeria-para-cuidado-de-adulto-mayor-en-casa-particular-3904612
 https://www.chiletrabajos.cl/trabajo/tecnico-auxiliar-de-farmacia-3827502
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
 https://www.chiletrabajos.cl/trabajo/tecnico-b-gruas-generacion-copiapo-3877435
@@ -1574,6 +1573,7 @@ implementacionsoporte|owlteamsolutions
 importanteindustriamantenimientoreferentetecnico|secretariadeextensinuniversitariautnfrc
 incendiojuniorsistemastecnico|chiletrabajos
 incidentesingenieroti|ita
+incomarketingpractica|essity
 industrialesingenieroprevencionproyectosriesgos|inprint
 industrialingenierosimplifica|pisafarmacutica
 industrialmantenimientotecnico|chiletrabajos

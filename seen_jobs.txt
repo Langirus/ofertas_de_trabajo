@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/software-engineer-platform-productivity-spain-remote-at-grafana-labs-4449963687
-https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4435990213
 https://es.linkedin.com/jobs/view/software-engineer-python-100%25-remote-at-oxigent-technologies-4446639455
 https://es.linkedin.com/jobs/view/software-engineer-python-aws-100%25-remote-at-ust-4440469463
 https://es.linkedin.com/jobs/view/software-engineer-remote-at-hire-feed-4464019143
@@ -539,6 +537,7 @@ https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/patrianna-devops-engineer
 https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
+https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/sigma-software-data-engineer-interior-design
 https://weworkremotely.com/remote-jobs/solar-secure-solutions-web-development-intern
@@ -730,6 +729,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-comuna-pudahuel-3824978
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-jardin-infantil-las-condes-3892658
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-part-time-residencia-lactantes-y-preescolares-illapel-disponibili-3864889
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-varon-part-time-colegio-maipu-3722398
+https://www.chiletrabajos.cl/trabajo/auxiliar-asero-turno-corto-quilicura-3904848
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-anestesia-3665956
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-20-horas-3865010
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897

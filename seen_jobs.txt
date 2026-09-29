@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec-consultores-4435122769
 https://es.linkedin.com/jobs/view/soporte-it-%2B-experiencia-gestion-documental-24x7-remoto-02cc-at-abalia-4467365502
 https://es.linkedin.com/jobs/view/soporte-t%C3%A9cnico-remoto-software-wms-at-mecalux-4452916445
 https://es.linkedin.com/jobs/view/sr-fullstack-ai-engineer-remote-at-knowmad-mood-4448554972
@@ -1896,6 +1895,7 @@ possoportetecnicoterreno|stefanini
 practicanteprocesos|vincicompass
 practicanteriesgotecnologico|banchileinversiones
 practicanteseguridadtecnologica|segurosfalabella
+practicantesoftwarestartup|reddot
 practicantesolucionestecnologicas|wspyargentina
 practicantesoporteti|detacoopcooperativadeahorroycrdito
 practicantesoporteti|verisure

@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/software-testing-engineer-python-%E2%80%93-100%25-remote-at-oxigent-technologies-4428916834
-https://es.linkedin.com/jobs/view/soporte-aplicaciones-microservicios-24x7-remoto-madrid-madrid-00000-es-at-grupo-digital-4432676512
 https://es.linkedin.com/jobs/view/soporte-cloud-payments-24x7-remoto-at-infortec-consultores-4435122769
 https://es.linkedin.com/jobs/view/soporte-it-%2B-experiencia-gestion-documental-24x7-remoto-02cc-at-abalia-4467365502
 https://es.linkedin.com/jobs/view/soporte-t%C3%A9cnico-remoto-software-wms-at-mecalux-4452916445
@@ -143,6 +141,7 @@ https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4437302382
 https://mx.linkedin.com/jobs/view/fbs-ai-automation-engineer-remote-at-capgemini-4444187000
+https://mx.linkedin.com/jobs/view/fbs-ai-engineer-remote-at-capgemini-4471746756
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4445888607
 https://mx.linkedin.com/jobs/view/fbs-information-security-analyst-remote-at-capgemini-4438735970
@@ -1816,6 +1815,7 @@ juniormetropolitanaregionsantiagosantiagotrabajos|portal
 juniormidaivideoartistfullremotecostarica|everai
 juniormidaivideoartistfullremotemexico|everai
 juniormidaivideoartistfullremotespain|everai
+juniormonitoreotecnicoti|computrabajo
 juniormonitoreotecnico|nttdata
 juniormonitorieooperador|computrabajo
 juniorpbmoreemplazosantiago|portal

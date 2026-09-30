@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/soporte-t%C3%A9cnico-remoto-software-wms-at-mecalux-4452916445
-https://es.linkedin.com/jobs/view/sr-fullstack-ai-engineer-remote-at-knowmad-mood-4448554972
 https://es.linkedin.com/jobs/view/sre-engineer-docker-python-ingles-b2-remoto-espa%C3%B1a-h-m-x-at-experis-espa%C3%B1a-4435662869
 https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
@@ -537,6 +535,7 @@ https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-prod
 https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus
 https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer
 https://weworkremotely.com/remote-jobs/stakefish-devops-engineer
+https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer
 https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security
 https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology
@@ -1678,6 +1677,7 @@ ingenieromantenimientoplanificacion|chiletrabajos
 ingenieromecatronicooperaciones|princetoncriticalmineralspureli
 ingenieromelipillaoficinaoperacionestecnicavialidad|sacyr
 ingenierometropolitanaminimoprevencionregion|chiletrabajos
+ingenieromigracionesprocesossql|sermaluc
 ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromineroproyectoredes|chiletrabajos
 ingenierominerosoptimizacionprocesos|andritz

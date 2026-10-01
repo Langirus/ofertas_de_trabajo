@@ -1,6 +1,3 @@
-https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
-https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-monitorizaci%C3%B3n-24x7-remoto-at-aubay-spain-4412885387
-https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-monitorizaci%C3%B3n-24x7-remoto-at-aubay-spain-4454134812
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-redes-sd-lan-100%25-teletrabajo-at-entelgy-4456179698
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-seguridad-%E2%80%93-prisma-cloud-%E2%80%93-remoto-h-m-x-at-experis-espa%C3%B1a-4452249186
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-sistemas-linux-red-hat-aix-%E2%80%93-100%25-remoto-espa%C3%B1a-%2B-turnos-24x7-at-thewhiteam-4430002790
@@ -95,6 +92,7 @@ https://mx.linkedin.com/jobs/view/data-and-robotics-operations-analyst-100%25-re
 https://mx.linkedin.com/jobs/view/data-business-analyst-remote-at-martine-law-pllc-criminal-defense-and-family-attorneys-4423960501
 https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
+https://mx.linkedin.com/jobs/view/datawharehouse-product-support-analyst-mexico-remote-at-ellucian-4474114006
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-backend-jr-remoto-at-ntt-data-europe-latam-4440258489
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
@@ -659,6 +657,7 @@ https://www.chiletrabajos.cl/trabajo/analista-empresarial-coyhaique-3880667
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
 https://www.chiletrabajos.cl/trabajo/analista-logistico-3812641
+https://www.chiletrabajos.cl/trabajo/analista-operacional-3906783
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3879845
 https://www.chiletrabajos.cl/trabajo/analista-proveedores-y-tesoreria-3859066
@@ -1686,6 +1685,7 @@ ingenieromultidisciplina|ghd
 ingenieronetremotosoftwaretrabajo|bairesdev
 ingenieronfpaproyectossistemas|chiletrabajos
 ingenieronivelredessoportewireless|nttdata
+ingenieronivelsantiagosoporte|tibox
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
 ingenierooperacionalesprocesos|elevaadvisory

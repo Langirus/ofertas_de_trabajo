@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/sre-engineer-docker-python-ingles-b2-remoto-espa%C3%B1a-h-m-x-at-experis-espa%C3%B1a-4435662869
-https://es.linkedin.com/jobs/view/streaming-data-platform-engineer-remoto-at-irium-4421211846
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-base-de-datos-remoto-at-knowmad-mood-4424605523
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-monitorizaci%C3%B3n-24x7-remoto-at-aubay-spain-4412885387
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-de-monitorizaci%C3%B3n-24x7-remoto-at-aubay-spain-4454134812
@@ -1553,6 +1551,7 @@ https://www.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire
 https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-us-timezone-overlap-helpful-at-connect-tech%2Btalent-4413531003
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos
+iainformaticaingeniero|fenixserviciosacuicolas
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
@@ -1591,6 +1590,7 @@ informaticajuniortrabajos|portal
 informaticapracticantesistemas|glasstech
 informaticapracticante|estandariso
 informaticapracticaprofesional|centromedicoformed
+informaticapracticaprofesional|steptherapy
 informaticapracticasoporte|voxa
 informaticaredessoportetecnico|mafem
 informaticatecnicotrabajos|portal

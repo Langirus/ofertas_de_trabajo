@@ -1,4 +1,3 @@
-https://es.linkedin.com/jobs/view/t%C3%A9cnico-a-soporte-bbdd-sql-teletrabajo-100%25-at-minsait-4435972999
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-funcional-y-t%C3%A9cnico-adobe-campaign-classic-100%25-remoto-at-abalia-4437687750
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-it-n1-remoto-at-michael-page-4441595783
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-unix-linux-shell-scripting-remote-at-abalia-4433338928
@@ -1088,6 +1087,7 @@ https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions
 https://www.getonbrd.com/jobs/data-engineer-zaelot-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago
+https://www.getonbrd.com/jobs/desarrollador-a-backend-y-cloud-agilistik-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-react-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-full-stack-manosya-chile-santiago
 https://www.getonbrd.com/jobs/desarrollador-a-full-stack-node-angular-bc-tecnologia-remote

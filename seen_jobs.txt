@@ -1,5 +1,3 @@
-https://es.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-funcional-y-t%C3%A9cnico-adobe-campaign-classic-100%25-remoto-at-abalia-4437687750
-https://es.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-it-n1-remoto-at-michael-page-4441595783
 https://es.linkedin.com/jobs/view/t%C3%A9cnico-unix-linux-shell-scripting-remote-at-abalia-4433338928
 https://es.linkedin.com/jobs/view/tco-de-soporte-inform%C3%A1tico-dinahosting-posibilidad-teletrabajo-at-dinahosting-s-l-4443365006
 https://gt.linkedin.com/jobs/view/ai-engineer-mobile-remote-work-ref%23301027-at-bairesdev-4455968509
@@ -201,6 +199,7 @@ https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-j
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4462437447
 https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4468363410
+https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4474702052
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4440531867
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4460899927
@@ -1799,6 +1798,7 @@ itpractica|pumagroup
 itremotositiosoportetecnico|toshibaglobalcommercesolutions
 itremotosoportetecnico|michaelpage
 itsoporte|blueexpress
+itsoporte|sermaluc
 itsupporttrainee|cumplo
 javajuniorprogramadorteletrabajo|soltelgroup
 jeejuniorprogramadorremoto|exportadoradatabase

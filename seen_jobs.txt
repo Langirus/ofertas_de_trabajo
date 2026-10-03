@@ -1,6 +1,3 @@
-https://hn.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4427855862
-https://jm.linkedin.com/jobs/view/application-support-engineer-trilogy-remote-%2460-000-year-usd-at-crossover-4452323318
-https://mx.linkedin.com/jobs/view/advanced-application-support-engineer-%E2%80%93-polarion-product-remote-at-siemens-digital-industries-software-4464180115
 https://mx.linkedin.com/jobs/view/ai-agent-engineer-remote-at-hire-feed-4415358740
 https://mx.linkedin.com/jobs/view/ai-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431399118
 https://mx.linkedin.com/jobs/view/ai-engineer-i-remote-%0Amexico-remote-at-sezzle-la-4447362586
@@ -645,6 +642,7 @@ https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
 https://www.chiletrabajos.cl/trabajo/analista-logistico-3812641
 https://www.chiletrabajos.cl/trabajo/analista-operacional-3906783
+https://www.chiletrabajos.cl/trabajo/analista-programador-3908256
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3879845
 https://www.chiletrabajos.cl/trabajo/analista-proveedores-y-tesoreria-3859066
@@ -1662,6 +1660,7 @@ ingenierojuniorsistemas|axity
 ingenierojuniorsoporteti|experis
 ingenierojuniortableauvisualizacion|apiuxtech
 ingenierojuniortrabajos|portal
+ingenierojunior|atcom
 ingenierojunior|computrabajo
 ingenieroklass|farmaciasahumada
 ingenierolearningmachine|axity
@@ -1751,6 +1750,7 @@ ingenierosoftware|bancobci
 ingenierosoftware|bipboplabs
 ingenierosoftware|copec
 ingenierosoftware|esmart
+ingenierosoftware|experis
 ingenierosoftware|fundacininvica
 ingenierosoftware|innomar
 ingenierosoftware|kibernum

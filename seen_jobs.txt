@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4443132629
-https://mx.linkedin.com/jobs/view/ai-engineer-python-remote-work-ref%23290357-at-bairesdev-4440860492
-https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4431394164
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4434011913
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4418918930
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-at-lumenalta-4428643965
@@ -24,6 +21,7 @@ https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23300852-at-baires
 https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23303199-at-bairesdev-4464908371
 https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
 https://mx.linkedin.com/jobs/view/ai-financial-operations-analyst-remote-at-quora-4444194535
+https://mx.linkedin.com/jobs/view/ai-quality-analyst-%2430-hr-remote-at-crossing-hurdles-4473873227
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
 https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624
@@ -1925,6 +1923,7 @@ practicasell|falabella
 practicaserviciosucda|cencosud
 practicasoportetecnicoti|afpplanvital
 practicasoporteti|hortifrut
+practicasoporte|zentagroup
 practicasprofesionalessantiago|limchile
 practicasti|apiuxtech
 practicatecnologiatransformacion|airlines
@@ -1940,6 +1939,7 @@ produccionsupervisortrainee|empresasarizta
 productdataanalyst|remoteok
 professionalrecruiterremotetraineeworkyoung|bairesdev
 providenciasoportetecnicoterreno|bctecnologa
+proyectoredessoportetecnico|fondoesperanza
 qaproyecto3meses|na
 qatecnico|na
 rancaguatecnicotelecomunicaciones|chiletrabajos

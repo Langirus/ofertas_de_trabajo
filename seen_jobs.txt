@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23300852-at-bairesdev-4455977319
-https://mx.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23303199-at-bairesdev-4464908371
-https://mx.linkedin.com/jobs/view/ai-engineers-remote-only-mexico-at-scalepex-4436703737
-https://mx.linkedin.com/jobs/view/ai-financial-operations-analyst-remote-at-quora-4444194535
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-%2430-hr-remote-at-crossing-hurdles-4473873227
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
 https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
@@ -1038,6 +1034,7 @@ https://www.getonbrd.com/jobs/backend-software-engineer-witi-remote
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago-405d
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago-8777
+https://www.getonbrd.com/jobs/big-data-engineer-databricks-improving-remote
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bc-tecnologia-santiago-6212
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevideo-santiago-5f33
 https://www.getonbrd.com/jobs/business-analyst-digital-analytics-bi-witi-montevideo-santiago-f207
@@ -1208,6 +1205,7 @@ https://www.getonbrd.com/jobs/solutions-engineer-vibeai-remote
 https://www.getonbrd.com/jobs/soporte-de-redes-y-telecomunicaciones-tarapaca-bc-tecnologia-iquique
 https://www.getonbrd.com/jobs/soporte-e-infraestructura-apex-group-chile-santiago
 https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote
+https://www.getonbrd.com/jobs/ssis-data-migration-engineer-improving-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
 https://www.getonbrd.com/jobs/wordpress-content-publishing-specialist-junior-front-end-d-josh-brown-consulting-remote
 https://www.linkedin.com/jobs/view/accounting-analyst-remote-work-at-indi-staffing-services-4453112594
@@ -1742,6 +1740,7 @@ ingenierosistemas|paresalvarez
 ingenierosistema|chiletrabajos
 ingenierosoftwaresoporte|despapeliza
 ingenierosoftware|160k
+ingenierosoftware|avostech
 ingenierosoftware|bancobci
 ingenierosoftware|bipboplabs
 ingenierosoftware|copec
@@ -1772,6 +1771,7 @@ inlcusionjrlaboralremotosoporteti|ferrostaalc
 instrumentacionsoportetecnicotrainee|clonsaingeniera
 integracionnegociopracticanteproyectosservicios|banchileinversiones
 integracionpruebassistemastecnico|tecnologasipinfokrause
+inteligenciaoperacionalpractica|afpcuprum
 internacionaljoyeriarancaguaretailvendedor|chiletrabajos
 internacionaljoyeriaretailvendedor|chiletrabajos
 internacionalscouting|revivalfootball

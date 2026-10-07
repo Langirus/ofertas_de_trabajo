@@ -1,9 +1,3 @@
-https://mx.linkedin.com/jobs/view/ai-quality-analyst-%2430-hr-remote-at-crossing-hurdles-4473873227
-https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hire-feed-4412958198
-https://mx.linkedin.com/jobs/view/ai-quality-analyst-remote-at-jobs-ai-4408783917
-https://mx.linkedin.com/jobs/view/ai-research-engineer-remote-at-hire-feed-4434224624
-https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4412942965
-https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-cancun-at-blacksmith-agency-4465844216
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-ciudad-juarez-at-blacksmith-agency-4475003166
 https://mx.linkedin.com/jobs/view/ai-software-engineer-remote-leon-at-blacksmith-agency-4462700558
 https://mx.linkedin.com/jobs/view/ai-solutions-engineer-document-intelligence-generative-ai-remoto-mx-biling%C3%BCe-at-towa-software-4426171023
@@ -125,6 +119,7 @@ https://mx.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-44
 https://mx.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-4430598975
 https://mx.linkedin.com/jobs/view/java-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4419872229
 https://mx.linkedin.com/jobs/view/java-technical-support-engineer-remote-work-at-bairesdev-4461313926
+https://mx.linkedin.com/jobs/view/java-technical-support-engineer-remote-work-at-bairesdev-4475472414
 https://mx.linkedin.com/jobs/view/javascript-frontend-engineer-remote-at-hire-feed-4433899930
 https://mx.linkedin.com/jobs/view/javascript-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4431384423
 https://mx.linkedin.com/jobs/view/jr-recruiter-remote-shared-services-at-hudson-talent-solutions-4431511446
@@ -300,6 +295,7 @@ https://pe.linkedin.com/jobs/view/todo-remoto%21-nosotros-te-enviamos-la-pc-el-m
 https://pe.linkedin.com/jobs/view/trabajo-100-por-ciento-remoto-atenci%C3%B3n-al-cliente-%C2%A1postula-sin-experiencia%21-at-gea-per%C3%BA-4447851670
 https://pe.linkedin.com/jobs/view/trabajo-remoto-salario-s-1130-%2B-variable-350-soporte-t%C3%A9cnico-full-time-pm-at-entelconnect-4469575290
 https://pe.linkedin.com/jobs/view/trabajo-remoto-sueldo-s-1750-%2B-variable-de-s-250-soporte-t%C3%A9cnico-jornada-pm-full-time-at-entelconnect-4476192801
+https://pe.linkedin.com/jobs/view/trabajo-remoto-sueldo-s-1750-%2B-variable-de-s-250-soporte-t%C3%A9cnico-jornada-pm-full-time-at-entelconnect-4476745171
 https://pe.linkedin.com/jobs/view/urgente%21%21-trabajo-remoto-con-todas-herramientas-planilla-completa-sin-experiencia-at-covisian-4457868856
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
 https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4458141532
@@ -724,6 +720,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-limpieza-y-servicios-generales-
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-mantenimiento-nocturno-3367561
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-pasteleria-pastelera-o-3809556
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-peluqueria-3910347
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-residuos-spot-minera-antofagasta-3903107
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-3893569
@@ -793,6 +790,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contra
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-implementacion-ai-cloud-3886560
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-integracion-azure-apis-azure-integration-3865587
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-mantencion-y-continuidad-de-sistemas-ti-azure-python-gestion-3910396
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-de-mantenimiento-y-confiabilidad-3886992
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834399
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-procesos-y-operaciones-ti-3873896
@@ -1031,6 +1029,7 @@ https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/analytics-engineer-jr-galilei-remote
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
 https://www.getonbrd.com/jobs/backend-software-engineer-witi-remote
+https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago-405d
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago-8777
@@ -1385,6 +1384,7 @@ https://www.linkedin.com/jobs/view/junior-software-engineer-with-accounting-expe
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4462196646
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4465058488
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4468226396
+https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4476761727
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4465059518

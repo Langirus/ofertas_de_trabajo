@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/application-support-engineer-trilogy-remote-%2460-000-year-usd-at-crossover-4437309197
-https://mx.linkedin.com/jobs/view/applied-ai-engineer-remote-aguascalientes-at-blacksmith-agency-4474794552
-https://mx.linkedin.com/jobs/view/associate-red-team-analyst-remote-mexico-at-armadin-4470307917
-https://mx.linkedin.com/jobs/view/associate-security-engineer-remote-at-rooted-4456630957
 https://mx.linkedin.com/jobs/view/associate-software-engineer-%E2%80%93-remote-at-hire-feed-4415865868
 https://mx.linkedin.com/jobs/view/auxiliar-de-soporte-remoto-at-energyza-energy-4405289567
 https://mx.linkedin.com/jobs/view/azure-data-platform-engineer-serbia-mexico-remote-at-worldwide-clinical-trials-4390719736
@@ -171,6 +167,7 @@ https://mx.linkedin.com/jobs/view/mid-ai-engineer-remote-in-m%C3%A9xico-at-capge
 https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
+https://mx.linkedin.com/jobs/view/practicante-de-desarrollo-de-software-1er-turno-avionics-remoto-at-collins-aerospace-4477884135
 https://mx.linkedin.com/jobs/view/practicante-de-talento-y-desarrollo-latam-at-sigma-4436232737
 https://mx.linkedin.com/jobs/view/python-%2Bai-fullstack-engineer-remote-in-mexico-at-pyramid-consulting-inc-4439308638
 https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
@@ -260,6 +257,7 @@ https://pe.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23299133-at-baires
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
 https://pe.linkedin.com/jobs/view/ai-training-data-intern-%246-hr-remote-at-crossing-hurdles-4470710242
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
+https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-chiclayo-at-blacksmith-agency-4477833599
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464014035
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464435069
 https://pe.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454292311
@@ -766,6 +764,7 @@ https://www.chiletrabajos.cl/trabajo/desarrollador-junior-de-software-3825664
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-full-stack-3865755
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-full-stack-con-experiencia-javascript-hibrido-3777820
 https://www.chiletrabajos.cl/trabajo/desarrollador-junior-fullstack-con-experiencia-en-typescrip-remoto-3777818
+https://www.chiletrabajos.cl/trabajo/desarrollador-junior-integraciones-con-jira-3911018
 https://www.chiletrabajos.cl/trabajo/developer-backend-junior-modalidad-hibrida-3899304
 https://www.chiletrabajos.cl/trabajo/e391-ingeniero-ambiental-con-manejo-de-norma-iso-14001-copiapo-3836570
 https://www.chiletrabajos.cl/trabajo/ejecutivo-analista-de-pricing-3855986
@@ -1341,6 +1340,7 @@ https://www.linkedin.com/jobs/view/integrations-data-engineer-latam-21163-at-som
 https://www.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-4457616857
 https://www.linkedin.com/jobs/view/it-support-analyst-remote-work-at-indi-staffing-services-4438221744
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
+https://www.linkedin.com/jobs/view/junior-data-analyst-python-for-an-e-commerce-company-us-based-remote-at-paired-4475269124
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4447992726
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-indi-staffing-services-4441203387

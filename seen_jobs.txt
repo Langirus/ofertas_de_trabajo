@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/cloud-engineer-gcp-jr-mayormente-remoto-cdmx-at-corus-consulting-an-alten-company-4454453610
-https://mx.linkedin.com/jobs/view/cloud-engineer-remote-at-hire-feed-4430499667
 https://mx.linkedin.com/jobs/view/cloud-engineer-remote-at-quik-hire-staffing-4431399047
 https://mx.linkedin.com/jobs/view/cloud-security-engineer-remote-at-hire-feed-4431393080
 https://mx.linkedin.com/jobs/view/cloud-security-engineer-remote-at-hire-feed-4439566583
@@ -430,6 +428,7 @@ https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming
 https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america
 https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
+https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript
 https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
@@ -866,6 +865,7 @@ https://www.chiletrabajos.cl/trabajo/pmo-junior-gestion-y-seguimiento-de-proyect
 https://www.chiletrabajos.cl/trabajo/postular/3809354
 https://www.chiletrabajos.cl/trabajo/postular/3866005
 https://www.chiletrabajos.cl/trabajo/postular/3894768
+https://www.chiletrabajos.cl/trabajo/postular/3903600
 https://www.chiletrabajos.cl/trabajo/practica-administracion-project-management-y-produccion-de-eventos-3873954
 https://www.chiletrabajos.cl/trabajo/practica-profesional-area-de-control-de-gestion-3867853
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ciberseguridad-informatica-3861828

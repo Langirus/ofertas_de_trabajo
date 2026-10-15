@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/data-analyst-remote-at-quik-hire-staffing-4409033754
-https://mx.linkedin.com/jobs/view/data-analyst-with-ga4-and-gtm-experience-remote-for-marketing-agency-for-education-at-atomic-remote-jobs-4473838079
-https://mx.linkedin.com/jobs/view/data-and-robotics-operations-analyst-100%25-remote-latin-america-based-at-glacier-4442185589
-https://mx.linkedin.com/jobs/view/data-business-analyst-remote-at-martine-law-pllc-criminal-defense-and-family-attorneys-4423960501
 https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
 https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/datawharehouse-product-support-analyst-mexico-remote-at-ellucian-4474114006
@@ -239,6 +235,7 @@ https://pe.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23299133-at-baires
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
 https://pe.linkedin.com/jobs/view/ai-training-data-intern-%246-hr-remote-at-crossing-hurdles-4470710242
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
+https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-arequipa-at-blacksmith-agency-4480107610
 https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-chiclayo-at-blacksmith-agency-4477833599
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464014035
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464435069
@@ -392,6 +389,7 @@ https://uy.linkedin.com/jobs/view/ai-engineer-remote-work-at-bairesdev-445760276
 https://uy.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371021530
 https://uy.linkedin.com/jobs/view/azure-data-engineer-remote-latin-america-at-bluelight-4418464464
 https://uy.linkedin.com/jobs/view/elixir-backend-engineer-remote-latin-america-at-fullstack-4447549515
+https://uy.linkedin.com/jobs/view/full-stack-elixir-%2B-react-engineer-remote-work-at-bairesdev-4479128822
 https://uy.linkedin.com/jobs/view/graduate-sales-development-representative-canada-remote-at-canonical-4442564132
 https://uy.linkedin.com/jobs/view/it-automation-platform-engineer-remote-at-zyte-4459043188
 https://uy.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4452720862
@@ -629,6 +627,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-a
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-gestion-mercadopublico-providencia-3876316
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-part-time-3863689
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-y-cobranza-3883574
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-y-operativo-condominios-2900283
 https://www.chiletrabajos.cl/trabajo/asistente-adminsitrativa-3888039
 https://www.chiletrabajos.cl/trabajo/asistente-auditoria-3871904
 https://www.chiletrabajos.cl/trabajo/asistente-contable-administrativo-3891699
@@ -1040,6 +1039,7 @@ https://www.getonbrd.com/jobs/data-analyst-en-42labs-42labs-santiago
 https://www.getonbrd.com/jobs/data-analyst-jr-reporting-insights-h3plus-monterrey
 https://www.getonbrd.com/jobs/data-engenieer-3it-santiago
 https://www.getonbrd.com/jobs/data-engineer-42labs-santiago
+https://www.getonbrd.com/jobs/data-engineer-artefact-latam-ciudad-de-mexico-lima-bogota-santiago
 https://www.getonbrd.com/jobs/data-engineer-aws-datalake-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/data-engineer-aws-lakehouse-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/data-engineer-cloud-especializado-3it-santiago

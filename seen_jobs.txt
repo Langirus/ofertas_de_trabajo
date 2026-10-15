@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/data-engineer-junior-remote-work-at-bairesdev-4415688712
-https://mx.linkedin.com/jobs/view/data-engineer-remote-at-hire-feed-4415863993
 https://mx.linkedin.com/jobs/view/datawharehouse-product-support-analyst-mexico-remote-at-ellucian-4474114006
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-backend-jr-remoto-at-ntt-data-europe-latam-4440258489
@@ -157,6 +155,7 @@ https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m
 https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
 https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-spectrum-equity-4465187701
 https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-varicent-4464852166
+https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-varicent-4479176242
 https://mx.linkedin.com/jobs/view/qa-automation-trainee-100%25-remoto-at-implemental-systems-4461779789
 https://mx.linkedin.com/jobs/view/qa-engineer-%E2%80%93-remote-at-hire-feed-4419852643
 https://mx.linkedin.com/jobs/view/qa-engineer-remote-at-hire-feed-4440576939
@@ -1768,6 +1767,7 @@ inlcusionjrlaboralremotosoporteti|ferrostaalc
 instrumentacionsoportetecnicotrainee|clonsaingeniera
 integracionnegociopracticanteproyectosservicios|banchileinversiones
 integracionpruebassistemastecnico|tecnologasipinfokrause
+integrationsinternship|murex
 inteligenciaoperacionalpractica|afpcuprum
 internacionaljoyeriarancaguaretailvendedor|chiletrabajos
 internacionaljoyeriaretailvendedor|chiletrabajos

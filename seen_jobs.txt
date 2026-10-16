@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4439444238
-https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4442203805
-https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4448241338
 https://mx.linkedin.com/jobs/view/desarrollador-junior-node-js-trabajo-remoto-at-bairesdev-4463530203
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4434164402
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4442219565
@@ -990,6 +987,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
 https://www.getonbrd.com/jobs/analista-de-observabilidad-y-operaciones-ti-riskamerica-remote
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
+https://www.getonbrd.com/jobs/analista-de-soporte-sap-basis-junior-factor-it-medellin
 https://www.getonbrd.com/jobs/analista-de-soporte-tecnico-grupo-mariposa-ciudad-de-guatemala-santiago-quito-bogota-buenos-aires-lima-ddd4
 https://www.getonbrd.com/jobs/analista-desarrollador-cobol-bc-tecnologia-remote
 https://www.getonbrd.com/jobs/analista-digital-junior-icrossing-ciudad-de-mexico
@@ -1153,6 +1151,7 @@ https://www.getonbrd.com/jobs/python-engineer-ml-infrastructure-improving-remote
 https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1
 https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago
 https://www.getonbrd.com/jobs/qa-analyst-rankmi-santiago
+https://www.getonbrd.com/jobs/qa-automation-engineer-bc-tecnologia-santiago-f47a
 https://www.getonbrd.com/jobs/qa-automation-engineer-dynamic-devs-remote-3611
 https://www.getonbrd.com/jobs/qa-automation-engineer-interfell-remote-2ef9
 https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
@@ -1794,6 +1793,7 @@ itsoporte|blueexpress
 itsoporte|sermaluc
 itsupporttrainee|apiuxtech
 itsupporttrainee|cumplo
+ittecnico|icestar
 javajuniorprogramadorteletrabajo|soltelgroup
 jeejuniorprogramadorremoto|exportadoradatabase
 jornadamediaparvulostecnico|chiletrabajos

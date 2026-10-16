@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/desarrollador-java-backend-jr-remoto-at-ntt-data-europe-latam-4440258489
-https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
-https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4442090434
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4423222637
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4439444238
 https://mx.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4442203805
@@ -537,6 +534,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3901921
 https://www.chiletrabajos.cl/trabajo/analista-contable-3902435
 https://www.chiletrabajos.cl/trabajo/analista-contable-3911428
 https://www.chiletrabajos.cl/trabajo/analista-contable-3912266
+https://www.chiletrabajos.cl/trabajo/analista-contable-3915158
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-linares-3874608
@@ -672,6 +670,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-la-farfana-el-trebal-39002
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-maipu-9-hrs-semanales-3795258
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-malvilla-3898076
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-martes-y-jueves-en-colina-3822219
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-noche-domingos-200000-quilicura-3915216
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-paine-buin-3889391
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-para-san-antonio-mananas-3881641
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-part-time-3866736
@@ -1160,6 +1159,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-java-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-dynamic-devs-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
+https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-eabe
 https://www.getonbrd.com/jobs/qa-automation-engineer-xintec-santiago
 https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago
 https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago

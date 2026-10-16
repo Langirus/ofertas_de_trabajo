@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-backend-jr-remoto-at-ntt-data-europe-latam-4440258489
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4442090434
@@ -1932,6 +1931,7 @@ presencialsoportetecnico|conytecconsultores
 presencialsoporte|evalearning
 prevencionriesgostecnicotrainee|chiletrabajos
 privateprogramsapseidortrainee|seidor
+procesostrainee|imerys
 processingrocktrainee|sandvik
 produccionsupervisortrainee|empresasarizta
 productdataanalyst|remoteok

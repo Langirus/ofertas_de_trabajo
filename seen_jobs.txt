@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/datawharehouse-product-support-analyst-mexico-remote-at-ellucian-4474114006
 https://mx.linkedin.com/jobs/view/desarrollador-backend-junior-net-c%23-%E2%94%82-remoto-at-towa-software-4414455768
 https://mx.linkedin.com/jobs/view/desarrollador-java-backend-jr-remoto-at-ntt-data-europe-latam-4440258489
 https://mx.linkedin.com/jobs/view/desarrollador-java-junior-trabajo-remoto-at-bairesdev-4413559459
@@ -1979,6 +1978,7 @@ soportetecnico|imunicipalidadderecoleta
 soportetecnico|sonda
 soportetecnico|theemailcompany
 soportetecnico|vigatec
+soportetecnologico|ticmoai
 soporteti|altia
 soporteti|empresaconfidencial
 soporteti|nortrans

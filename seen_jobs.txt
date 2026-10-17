@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4446405204
-https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4457101642
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4460066490
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4464108827
 https://mx.linkedin.com/jobs/view/desarrollador-python-junior-trabajo-remoto-at-bairesdev-4470005690
@@ -239,6 +237,7 @@ https://pe.linkedin.com/jobs/view/practicante-preprofesional-de-sistemas-ti-100%
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
 https://pe.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295736-at-bairesdev-4449082602
 https://pe.linkedin.com/jobs/view/remote-junior-android-developer-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%B2-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B5-at-teacher-army-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B2-it-4447193688
+https://pe.linkedin.com/jobs/view/remoto-sueldo-s-1750-%2B-variable-de-s-250-soporte-t%C3%A9cnico-full-time-at-entelconnect-4480850220
 https://pe.linkedin.com/jobs/view/sin-experiencia-remoto-atenci%C3%B3n-al-cliente-at-gea-per%C3%BA-4447853690
 https://pe.linkedin.com/jobs/view/te-brindamos-herramientas-trabajo-remoto-sin-experiencia-con-planilla-completa-at-covisian-4457848887
 https://pe.linkedin.com/jobs/view/te-damos-herramientas-trabaja-remoto-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4455624238
@@ -1654,6 +1653,7 @@ ingenierolinuxsoporte|workcapit
 ingenieromaculoficinatecnica|aguasandinas
 ingenieromantencionsistemas|cognitiotecnologa
 ingenieromantenimientoplanificacion|chiletrabajos
+ingenieromantenimiento|clariant
 ingenieromecatronicooperaciones|princetoncriticalmineralspureli
 ingenieromelipillaoficinaoperacionestecnicavialidad|sacyr
 ingenierometropolitanaminimoprevencionregion|chiletrabajos

@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-at-bairesdev-4415643867
-https://mx.linkedin.com/jobs/view/desarrollador-servicenow-junior-trabajo-remoto-ref%23297020-at-bairesdev-4438278005
 https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-brasil-4444205664
 https://mx.linkedin.com/jobs/view/desarrollador-soporte-rpa-e-ia-%E2%80%93-automation-anywhere-apa-at-universia-m%C3%A9xico-4443423864
 https://mx.linkedin.com/jobs/view/devops-engineer-remote-at-hire-feed-4415879028
@@ -852,6 +850,7 @@ https://www.chiletrabajos.cl/trabajo/postular/3903600
 https://www.chiletrabajos.cl/trabajo/practica-administracion-project-management-y-produccion-de-eventos-3873954
 https://www.chiletrabajos.cl/trabajo/practica-profesional-area-de-control-de-gestion-3867853
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ciberseguridad-informatica-3861828
+https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-en-prevencion-de-riesgos-calama-y-antofagast-3915951
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-informatica-o-desarrollador-concepcion-3780377
 https://www.chiletrabajos.cl/trabajo/practica-profesional-prevencion-de-riesgos-3806090
 https://www.chiletrabajos.cl/trabajo/practica-profesional-tecnico-o-ingeniero-en-prevencion-de-riesgos-3861745
@@ -1611,6 +1610,7 @@ ingenierialidertecnico|nttdata
 ingenieriamantenimientotecnico|tevapharmaceuticals
 ingenieriamodernizacionpracticantertuscada|siemens
 ingenieriaofertastrainee|siemens
+ingenieriapracticaprevencionprofesional|chiletrabajos
 ingenieriapracticaprofesionalsoftware|fundacinconectadoaprendo
 ingenieroingenieroprevencionriesgos|chiletrabajos
 ingenieroinglesnivelsressr|chiletrabajos

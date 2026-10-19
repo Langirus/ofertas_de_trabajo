@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
-https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
-https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4425109535
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4434273756
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436938787
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4436988674
@@ -683,6 +680,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-operaciones-colina-3789889
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-pasteleria-pastelera-o-3809556
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-peluqueria-3910347
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-picking-2955915
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-planta-y-rigger-3916441
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-reciclaje-lonquen-3915388
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-residuos-spot-minera-antofagasta-3903107
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-servicio-3893569
@@ -1636,6 +1634,7 @@ ingenierojuniorprevencionriesgos|mutualidaddecarabinerosmutucar
 ingenierojuniorprovidenciaredestecnicotelecomunicacionesterreno|mandomedio
 ingenierojuniorproyectossistemassoftware|idomconsultingengineeringarchitecture
 ingenierojuniorproyectos|idomconsultingengineeringarchitecture
+ingenierojuniorproyecto|ziyu
 ingenierojuniorreactremototrabajo|bairesdev
 ingenierojuniorredessantiagosistemas|portal
 ingenierojuniorsistemas|axity
@@ -1883,6 +1882,7 @@ operacionalespracticanteproyectos|vincicompass
 operacionalpracticantesoportetecnologico|detacoopcooperativadeahorroycrdito
 operacionespracticaprofesionalservicios|ikea
 operacionespracticaprofesional|juegosdevideolatinoamricajvlat
+operacionessoportetecnicoti|enorchile
 operationspeopletrainee|roche
 perfilesrolessapseguridadtrainee|seidor
 planificacionpracticantesoporte|airlines

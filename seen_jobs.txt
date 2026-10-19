@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/devops-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4434941263
-https://mx.linkedin.com/jobs/view/devsecops-cloud-engineer-100%25-remote-in-mexico-at-pyramid-consulting-inc-4429585509
-https://mx.linkedin.com/jobs/view/distributed-training-engineer-remote-work-ref%23298264-at-bairesdev-4440850826
-https://mx.linkedin.com/jobs/view/enterprise-solutions-engineer-latam-at-elevenlabs-4402179463
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-hired-4412948902
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-jobs-ai-4409000275
 https://mx.linkedin.com/jobs/view/entry-level-software-developer-%E2%80%93-remote-at-quik-hire-staffing-4425109535
@@ -1041,6 +1037,8 @@ https://www.getonbrd.com/jobs/data-engineer-factor-it-remote-33e7
 https://www.getonbrd.com/jobs/data-engineer-financia-capital-santiago-46b9
 https://www.getonbrd.com/jobs/data-engineer-gcp-coderslab-io-remote
 https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-coderslab-io-santiago
+https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-tcit-santiago
+https://www.getonbrd.com/jobs/data-engineer-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
@@ -1061,6 +1059,7 @@ https://www.getonbrd.com/jobs/desarrollador-backend-net-leytonmedia-santiago
 https://www.getonbrd.com/jobs/desarrollador-full-stack-asesoria-y-gestion-de-procesos-s-a-santiago-ce3c
 https://www.getonbrd.com/jobs/desarrollador-full-stack-react-nestjs-aws-witi-remote
 https://www.getonbrd.com/jobs/desarrollador-full-stack-react-nestjs-aws-witi-santiago
+https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-backend-witi-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-santiago
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
@@ -1189,6 +1188,7 @@ https://www.getonbrd.com/jobs/soporte-e-infraestructura-apex-group-chile-santiag
 https://www.getonbrd.com/jobs/sr-qa-analyst-e-commerce-ingles-intermedio-smith-remote
 https://www.getonbrd.com/jobs/ssis-data-migration-engineer-improving-remote
 https://www.getonbrd.com/jobs/technical-lead-arkho-santiago-4e53
+https://www.getonbrd.com/jobs/trainee-python-tcit-santiago-74dd
 https://www.getonbrd.com/jobs/wordpress-content-publishing-specialist-junior-front-end-d-josh-brown-consulting-remote
 https://www.linkedin.com/jobs/view/accounting-analyst-remote-work-at-indi-staffing-services-4453112594
 https://www.linkedin.com/jobs/view/ai-analyst-remote-at-quik-hire-staffing-4454865329

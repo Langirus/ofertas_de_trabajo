@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/entry-level-software-engineer-site-reliability-remote-mexico-at-yelp-4466059202
 https://mx.linkedin.com/jobs/view/erp-business-systems-analyst-testing-integration-documentation-m%C3%A9xico-remote-at-ellucian-4463637756
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4431445040
 https://mx.linkedin.com/jobs/view/escalation-engineer-alpha-remote-%2460-000-year-usd-at-crossover-4437302382
@@ -1782,6 +1781,7 @@ inventoryjuniorpurchasingremotespecialist|mprtoolsequipment
 inversionespracticanteviajes|falabella
 inversionespracticaviajes|grupofalabella
 iotpracticaprofesiona|bwhale
+isaludpracticasprofesionales|isaludisapredecodelco
 itjrlatamsourcer|azkait
 itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
 itpractica|pumagroup

@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/fbs-ai-engineer-remote-at-capgemini-4471746756
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4408473106
 https://mx.linkedin.com/jobs/view/fbs-fullstack-developer-jr-mid-c%23-net-remote-at-capgemini-4445888607
 https://mx.linkedin.com/jobs/view/fbs-information-security-analyst-remote-at-capgemini-4438735970
@@ -1769,6 +1768,7 @@ internitmexremote|directive
 internitoperations|proctergamble
 internlightsantiagowater|nalcowateranecolabcompany
 internlogisticswinnership|beiersdorf
+internmonitoringremotesupport|medtronic
 internoperationsproductrewards|sezzle
 internoperationsremote|edp
 internratingsresearch|passfortamoodyscompany

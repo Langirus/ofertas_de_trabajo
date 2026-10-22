@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/fbs-it-onboarding-specialist-jr-remote-at-capgemini-4450387418
-https://mx.linkedin.com/jobs/view/fbs-junior-executive-researcher-remote-at-capgemini-4455808410
-https://mx.linkedin.com/jobs/view/financial-software-engineer-remote-at-quik-hire-staffing-4434014094
 https://mx.linkedin.com/jobs/view/firmware-validation-engineer-remote-at-ust-4445564563
 https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
 https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
@@ -361,6 +358,7 @@ https://uy.linkedin.com/jobs/view/python-engineer-remote-latin-america-at-fullst
 https://uy.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-remote-latin-america-at-fullstack-4451942770
 https://uy.linkedin.com/jobs/view/software-engineer-angular-%2B-seo-marketing-remote-latin-america-at-fullstack-4451945697
 https://uy.linkedin.com/jobs/view/software-engineer-elixir-phoenix-latin-america-remote-at-bluelight-4448102838
+https://ve.linkedin.com/jobs/view/analista-de-ingenier%C3%ADa-de-datos-trabajo-remoto-at-bairesdev-4481361963
 https://ve.linkedin.com/jobs/view/data-ai-engineer-remote-latam-full-time-in-usd-at-bridgeway-global-recruitment-4428290161
 https://ve.linkedin.com/jobs/view/entry-level-software-developer-remote-at-hire-feed-4441219664
 https://ve.linkedin.com/jobs/view/full-stack-python-ai-engineer-remote-work-at-bairesdev-4460611285
@@ -1622,6 +1620,7 @@ ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojrsoftware|direccindepersonasuandes
 ingenierojrtableauvisualizacion|apiuxtech
+ingenierojuniormodalidadreemplazoremotawintel|computrabajo
 ingenierojunioroperaciones|chiletrabajos
 ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
@@ -1978,6 +1977,7 @@ soportetecnico|theemailcompany
 soportetecnico|vigatec
 soportetecnologico|ticmoai
 soporteti|altia
+soporteti|credit
 soporteti|empresaconfidencial
 soporteti|nortrans
 soporteti|rancocherries

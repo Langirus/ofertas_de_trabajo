@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378039909
-https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378040888
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
 https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-quik-hire-staffing-4434007774
 https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308
@@ -1317,6 +1315,7 @@ https://www.linkedin.com/jobs/view/it-support-analyst-remote-work-at-bairesdev-4
 https://www.linkedin.com/jobs/view/it-support-analyst-remote-work-at-indi-staffing-services-4438221744
 https://www.linkedin.com/jobs/view/java-junior-developer-remote-work-at-indi-staffing-services-4420432838
 https://www.linkedin.com/jobs/view/junior-data-analyst-python-for-an-e-commerce-company-us-based-remote-at-paired-4475269124
+https://www.linkedin.com/jobs/view/junior-data-analyst-python-for-an-e-commerce-company-us-based-remote-at-paired-4481005150
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4428403089
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-bairesdev-4447992726
 https://www.linkedin.com/jobs/view/junior-java-developer-remote-work-at-indi-staffing-services-4441203387
@@ -1682,6 +1681,7 @@ ingenieroprevencionriesgos|empresaconstructoraeinmobiliariamollerprezcotapos
 ingenieropreventa|chiletrabajos
 ingenieroprocesossistemas|salfarent
 ingenieroprocesostransformacion|bancobci
+ingenieroprocesos|acl
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroprocesos|witi

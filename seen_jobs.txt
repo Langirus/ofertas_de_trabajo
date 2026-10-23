@@ -1,9 +1,3 @@
-https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
-https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439734272
-https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440532848
-https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hired-4466358094
-https://mx.linkedin.com/jobs/view/frontend-engineer-remote-work-at-plexus-tech-4428450020
-https://mx.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4444782366
 https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378039909
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378040888
@@ -232,6 +226,8 @@ https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/seguridad-de-la-inf
 https://portal.chiletrabajos.cl/empresa/coderhub/trabajo/fullstack-developer-junior-3711633
 https://portal.chiletrabajos.cl/empresa/exrayconsultores/trabajo/desarrollador-back-end-junior-3341784
 https://portal.chiletrabajos.cl/empresa/exrayconsultores/trabajo/desarrollador-web-front-end-junior-3387648
+https://portal.chiletrabajos.cl/empresa/gep/trabajo/desarrollador-a-web-junior-req-500-3916852
+https://portal.chiletrabajos.cl/empresa/gep/trabajo/desarrollador-web-junior-req-510-3916848
 https://portal.chiletrabajos.cl/empresa/grafton/trabajo/consultor-de-proyectos-ti-junior-3848681
 https://portal.chiletrabajos.cl/empresa/haibusolutions/trabajo/desarrollador-junior-integraciones-con-jira-3911018
 https://portal.chiletrabajos.cl/empresa/icetel/trabajo/santiago-ingeniero-junior-3208128
@@ -473,6 +469,7 @@ https://www.chiletrabajos.cl/trabajo/3879845
 https://www.chiletrabajos.cl/trabajo/3886550
 https://www.chiletrabajos.cl/trabajo/3894768
 https://www.chiletrabajos.cl/trabajo/3898673
+https://www.chiletrabajos.cl/trabajo/3903600
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-contrato-indefinido-3829326
@@ -563,6 +560,7 @@ https://www.chiletrabajos.cl/trabajo/analista-sr-calidad-iso-9001-iso-27001-3881
 https://www.chiletrabajos.cl/trabajo/analista-tecnico-integraciones-3882313
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-automatizacion-y-rpa-3846992
 https://www.chiletrabajos.cl/trabajo/analista-ti-junior-santiago-3865565
+https://www.chiletrabajos.cl/trabajo/analista-ti-nivel-1-rm-3919288
 https://www.chiletrabajos.cl/trabajo/apoyo-tecnico-administrativo-pozo-almonte-reemplazo-3868011
 https://www.chiletrabajos.cl/trabajo/aprendiz-de-escariador-3845421
 https://www.chiletrabajos.cl/trabajo/asesor-en-prevencion-de-riesgos-ingeniero-3861249
@@ -707,7 +705,9 @@ https://www.chiletrabajos.cl/trabajo/data-scientist-jr-3860932
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-de-software-junior-fabrica-de-desarrollo-con-agentes-de-ia-3885717
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-fullstack-junior-3862561
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-ia-junior-proyecto-3860304
+https://www.chiletrabajos.cl/trabajo/desarrollador-a-junior-full-stack-talagante-3881992
 https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-3648516
+https://www.chiletrabajos.cl/trabajo/desarrollador-a-web-junior-req-500-3916852
 https://www.chiletrabajos.cl/trabajo/desarrollador-aplicaciones-web-junior-1389638
 https://www.chiletrabajos.cl/trabajo/desarrollador-full-stack-junior-3823186
 https://www.chiletrabajos.cl/trabajo/desarrollador-fullstack-junior-3825764

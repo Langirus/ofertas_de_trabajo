@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/freelance-ai-engineer-remote-at-hire-feed-4415881124
-https://mx.linkedin.com/jobs/view/frontend-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412956552
 https://mx.linkedin.com/jobs/view/frontend-engineer-next-js-remote-work-ref%23290630-at-bairesdev-4420453876
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4439734272
 https://mx.linkedin.com/jobs/view/frontend-engineer-remote-at-hire-feed-4440532848
@@ -91,6 +89,7 @@ https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%2329
 https://mx.linkedin.com/jobs/view/mid-ai-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4466899539
 https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
 https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
+https://mx.linkedin.com/jobs/view/palantir-foundry-engineer-remote-work-at-bairesdev-4481607517
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
 https://mx.linkedin.com/jobs/view/practicante-de-desarrollo-de-software-1er-turno-avionics-remoto-at-collins-aerospace-4477884135
 https://mx.linkedin.com/jobs/view/practicante-de-talento-y-desarrollo-latam-at-sigma-4436232737
@@ -1700,6 +1699,7 @@ ingenieroproyectos|computrabajo
 ingenieroproyecto|metrodesantiago
 ingenieroqa|factorlt
 ingenieroqa|na
+ingenieroqa|rycconsultoresasociados
 ingenierorancaguaredessoporteterrenoti|nttdata
 ingenieroredesreemplazoseguridad|sclconsultores
 ingenieroredessalud|owlteamsolutions

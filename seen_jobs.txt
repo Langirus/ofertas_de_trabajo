@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/full-stack-engineer-react-python-genai-remoto-biling%C3%BCe-at-towa-software-4426198249
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378039909
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4378040888
 https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
@@ -1048,6 +1047,7 @@ https://www.getonbrd.com/jobs/desarrollador-full-stack-react-nestjs-aws-witi-san
 https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-backend-witi-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-net-c-coderslab-io-santiago
 https://www.getonbrd.com/jobs/desarrollador-fullstack-sin-experiencia-mobilize-santiago
+https://www.getonbrd.com/jobs/desarrollador-go-y-node-js-itsmart-santiago
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote
 https://www.getonbrd.com/jobs/desarrollador-net-framework-web-forms-latam-qulane-remote-1993
 https://www.getonbrd.com/jobs/desarrollador-odi-bc-tecnologia-santiago

@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/full-stack-engineer-repairpal-remote-mexico-at-yelp-4437741805
-https://mx.linkedin.com/jobs/view/full-stack-engineer-web-development-remote-at-quik-hire-staffing-4434007774
-https://mx.linkedin.com/jobs/view/fullstack-engineer-react-node-js-remote-at-quik-hire-staffing-4428655308
 https://mx.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-de-operaciones-it-%E2%80%93-remoto-con-una-visita-al-mes-at-corus-consulting-an-alten-company-4427651335
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4418835127
 https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4440238064
@@ -751,6 +748,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-certificado-nfpa-proyectos-de-sis
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-constructor-residente-region-araucania-2077316
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3624108
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3919826
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-junior-puerto-montt-3856472
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-mantenimiento-industria-de-alimentos-lacteos-bebidas-viajes-eeuu-3904706
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-operaciones-junior-3887158
@@ -893,6 +891,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-faena-mi
 https://www.chiletrabajos.cl/trabajo/tecnico-electronico-instrumentista-junior-3788186
 https://www.chiletrabajos.cl/trabajo/tecnico-en-aire-acondicionado-3319704
 https://www.chiletrabajos.cl/trabajo/tecnico-en-automatizacion-electronico-o-similar-3549704
+https://www.chiletrabajos.cl/trabajo/tecnico-en-automatizacion-y-control-3919824
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-3848163
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-junior-3907955
 https://www.chiletrabajos.cl/trabajo/tecnico-en-climatizacion-y-refrigeracion-3879193
@@ -1077,6 +1076,7 @@ https://www.getonbrd.com/jobs/ingeniero-a-cloud-riskamerica-remote
 https://www.getonbrd.com/jobs/ingeniero-a-de-calidad-de-datos-agrosuper-rancagua
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-bc-tecnologia-remote-743c
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-big-data-aws-bc-tecnologia-remote
+https://www.getonbrd.com/jobs/ingeniero-a-de-datos-gcp-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-datos-ot-dmz-it-2brains-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-ia-y-plataforma-penta-vida-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-de-desarrollo-senegocia-com-santiago

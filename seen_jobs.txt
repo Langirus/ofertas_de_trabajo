@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4440238064
-https://mx.linkedin.com/jobs/view/ingeniero-de-desarrollo-de-software-en-pruebas-trabajo-remoto-at-bairesdev-4446776653
-https://mx.linkedin.com/jobs/view/ingeniero-de-software-java-trabajo-remoto-at-bairesdev-4436095614
-https://mx.linkedin.com/jobs/view/ingeniero-de-software-net-trabajo-remoto-at-bairesdev-4436218044
 https://mx.linkedin.com/jobs/view/ingeniero-de-soporte-t%C3%A9cnico-alpha-remote-%2460-000-year-usd-at-crossover-4434392552
 https://mx.linkedin.com/jobs/view/ingeniero-de-soporte-t%C3%A9cnico-alpha-remote-%2460-000-year-usd-at-crossover-4442694439
 https://mx.linkedin.com/jobs/view/integration-engineer-node-js-typescript-python-americas-remote-at-c-d-talent-advisory-academy-4422535116
@@ -70,6 +66,7 @@ https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-softw
 https://mx.linkedin.com/jobs/view/latam-operations-analyst-at-reap-4457586304
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4436844806
+https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-mexico-city-at-blacksmith-agency-4483382838
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-tijuana-at-blacksmith-agency-4462703356
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23298564-at-bairesdev-4443579865
 https://mx.linkedin.com/jobs/view/mid-ai-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4466899539
@@ -323,6 +320,7 @@ https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-113
 https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096
 https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102
 https://sv.linkedin.com/jobs/view/ai-automation-engineer-remote-san-salvador-at-blacksmith-agency-4478335501
+https://sv.linkedin.com/jobs/view/ai-engineer-remote-santa-ana-at-blacksmith-agency-4483383831
 https://sv.linkedin.com/jobs/view/ingeniero-de-automatizaci%C3%B3n-e-ia-remoto-latam-at-quid-solutions-4475075251
 https://sv.linkedin.com/jobs/view/robotics-engineer-el-salvador-remote-%E2%80%94-full-time-at-rex-zone-4455117955
 https://sv.linkedin.com/jobs/view/soporte-t%C3%A9cnico-de-call-center-technical-support-specialist-remoto-at-invu-pos-4461336951
@@ -1235,6 +1233,7 @@ https://www.linkedin.com/jobs/view/customer-data-engineer-latam-20629-at-somewhe
 https://www.linkedin.com/jobs/view/data-analyst-%2460-hr-remote-at-crossing-hurdles-4474253624
 https://www.linkedin.com/jobs/view/data-analyst-%2490-hr-remote-at-crossing-hurdles-4471056913
 https://www.linkedin.com/jobs/view/data-analyst-business-remote-at-jobs-ai-4455171415
+https://www.linkedin.com/jobs/view/data-analyst-latam-remote-at-growthassistant-4483386499
 https://www.linkedin.com/jobs/view/data-engineer-google-cloud-platform-gcp-latam-at-avenue-code-4380616432
 https://www.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4453685903
 https://www.linkedin.com/jobs/view/data-engineer-i-remote-at-quik-hire-staffing-4456739553
@@ -1570,6 +1569,7 @@ informaticojuniortecnico|softtek
 informaticojunior|chiletrabajos
 informaticolissoporte|randstad
 informaticonivelsoporte|tecnologiainformatica
+informaticorancaguaregionsoportetecnicoterreno|slpsolucionesinformticas
 informaticoregionsoportetalcatecnicoterrenovii|slpsolucionesinformticas
 informaticosoportetecnicoterreno|chiletrabajos
 informaticosoportetecnico|act

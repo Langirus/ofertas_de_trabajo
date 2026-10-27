@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/jr-software-engineer-biligual-remote-at-iron-mountain-4463189067
-https://mx.linkedin.com/jobs/view/junior-ai-llm-integration-developer-%E2%80%94-remote-latam-time-zone-russian-speaking-team-at-covouch-4433310962
 https://mx.linkedin.com/jobs/view/junior-conversion-rate-optimization-cro-specialist-remote-at-invesp-4447960193
 https://mx.linkedin.com/jobs/view/junior-it-support-associate-remote-at-aspiringit-4447029431
 https://mx.linkedin.com/jobs/view/junior-media-buyer-remote-at-client-accelerators-4430928599
@@ -143,6 +141,7 @@ https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-application
 https://mx.linkedin.com/jobs/view/support-engineer-%E2%80%93-sql-web-applications-remote-mexico-only-at-varicent-4413198824
 https://mx.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-it-remoto-y-en-sitio-at-toshiba-global-commerce-solutions-4470393737
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
+https://mx.linkedin.com/jobs/view/test-junior-nestjs-developer-latam-at-dacodes-4484282110
 https://mx.linkedin.com/jobs/view/trainee-sales-development-representative-datamax-ai-remote-global-at-max-accelerate-technology-group-4457893933
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4441210503
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4449647305
@@ -1130,6 +1129,7 @@ https://www.getonbrd.com/jobs/qa-automation-engineer-lisit-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-mobile-dynamic-devs-santiago
 https://www.getonbrd.com/jobs/qa-automation-engineer-python-cbqa-solutions-remote
 https://www.getonbrd.com/jobs/qa-automation-engineer-witi-remote-eabe
+https://www.getonbrd.com/jobs/qa-automation-engineer-witi-santiago-ffa5
 https://www.getonbrd.com/jobs/qa-automation-engineer-xintec-santiago
 https://www.getonbrd.com/jobs/qa-engineer-asimov-consultores-santiago
 https://www.getonbrd.com/jobs/qa-engineer-crm-coderslab-io-santiago

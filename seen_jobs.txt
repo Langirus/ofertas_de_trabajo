@@ -1,8 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-conversion-rate-optimization-cro-specialist-remote-at-invesp-4447960193
-https://mx.linkedin.com/jobs/view/junior-it-support-associate-remote-at-aspiringit-4447029431
-https://mx.linkedin.com/jobs/view/junior-media-buyer-remote-at-client-accelerators-4430928599
-https://mx.linkedin.com/jobs/view/junior-mid-ai-video-artist-full-remote-mexico-at-everai-4409066528
-https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4427010973
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4435814338
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4438234476
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4440997607
@@ -164,6 +159,7 @@ https://pe.linkedin.com/jobs/view/junior-fullstack-react-node-developer-remote-w
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/machine-learning-engineer-remote-huancayo-at-blacksmith-agency-4466551794
 https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
+https://pe.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23306347-at-bairesdev-4484277536
 https://pe.linkedin.com/jobs/view/practicante-de-canales-remotos-care-at-entel-per%C3%BA-4464447879
 https://pe.linkedin.com/jobs/view/practicante-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4476677884
 https://pe.linkedin.com/jobs/view/practicante-pre-profesional-de-canales-remotos-care-at-entel-per%C3%BA-4483745687
@@ -568,6 +564,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-contable-administrativo-3891699
 https://www.chiletrabajos.cl/trabajo/asistente-control-de-inventarios-y-auditoria-ciudad-de-los-valles-3841704
 https://www.chiletrabajos.cl/trabajo/asistente-de-credito-y-cobranzas-cerrillos-3863358
 https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-3870024
+https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-3921600
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-3859566
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-de-personas-3907465
@@ -1580,6 +1577,7 @@ informaticotecnico|terrefort
 informjuniormodalidadsitiosoportetico|computrabajo
 infraestructuraingenieroit|porsche
 infraestructuraingenieromaroperacionesvina|ithuntersinternational
+infraestructuraingenieropreventati|ittecture
 infraestructuraingenieroproducciontelecomunicaciones|bancode
 infraestructuraingenierosoporteti|na
 infraestructuraingeniero|autofin
@@ -1621,6 +1619,7 @@ ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
 ingenierojuniorprevencionriesgos|mutualidaddecarabinerosmutucar
+ingenierojuniorpreventa|computrabajo
 ingenierojuniorprovidenciaredestecnicotelecomunicacionesterreno|mandomedio
 ingenierojuniorproyectossistemassoftware|idomconsultingengineeringarchitecture
 ingenierojuniorproyectos|idomconsultingengineeringarchitecture
@@ -1691,6 +1690,7 @@ ingenieropronosticosupermercados|cencosud
 ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent
+ingenieroproyectossapssffti|novandinolitio
 ingenieroproyectos|atacamaminerales
 ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo

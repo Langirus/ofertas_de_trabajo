@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4435814338
-https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4438234476
 https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4440997607
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
 https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
@@ -369,6 +367,7 @@ https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welc
 https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem
+https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer
 https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer
 https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery
 https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications
@@ -1363,6 +1362,7 @@ https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4435805851
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4438232746
 https://www.linkedin.com/jobs/view/node-js-junior-developer-remote-work-at-indi-staffing-services-4441205487
+https://www.linkedin.com/jobs/view/prompt-engineer-llm-engineer-%E2%80%93-python-text-to-query-%E2%80%93-latam-at-connect-tech%2Btalent-4481157077
 https://www.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4446815107
 https://www.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4452390926
 https://www.linkedin.com/jobs/view/python-engineer-remote-at-hire-feed-4441947111

@@ -1,11 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-react-developer-remote-work-at-indi-staffing-services-4440997607
-https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-hired-4412955543
-https://mx.linkedin.com/jobs/view/junior-software-developer-%E2%80%93-remote-at-jobs-ai-4408782837
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434290152
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4434466668
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435103109
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4435107209
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436997494
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4436999376
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437100396
 https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440028325
@@ -145,6 +137,7 @@ https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-44
 https://pe.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23299133-at-bairesdev-4449077689
 https://pe.linkedin.com/jobs/view/ai-integration-engineer-remote-huancayo-at-blacksmith-agency-4480901916
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
+https://pe.linkedin.com/jobs/view/ai-software-engineer-remote-cusco-at-blacksmith-agency-4484718300
 https://pe.linkedin.com/jobs/view/ai-training-data-intern-%246-hr-remote-at-crossing-hurdles-4470710242
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
 https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-arequipa-at-blacksmith-agency-4480107610
@@ -368,6 +361,7 @@ https://weworkremotely.com/remote-jobs/hrtx-devops-engineer
 https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer
 https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem
 https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer
+https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics
 https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer
 https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery
 https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications
@@ -1073,7 +1067,9 @@ https://www.getonbrd.com/jobs/ingeniero-a-de-proyecto-implementacion-ziyu-santia
 https://www.getonbrd.com/jobs/ingeniero-a-de-software-next-js-python-witi-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-desarrollo-y-calidad-nncc-agrosuper-rancagua
 https://www.getonbrd.com/jobs/ingeniero-a-operacional-del2-agilistik-santiago
+https://www.getonbrd.com/jobs/ingeniero-a-operaciones-ti-dalca-s-a-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-productos-digitales-agrosuper-rancagua
+https://www.getonbrd.com/jobs/ingeniero-a-qa-automation-leytonmedia-santiago
 https://www.getonbrd.com/jobs/ingeniero-a-qa-factor-it-santiago-b93e
 https://www.getonbrd.com/jobs/ingeniero-backend-java-y-node-js-agilistik-santiago
 https://www.getonbrd.com/jobs/ingeniero-cloud-devops-turno-fin-de-semana-interfell-remote
@@ -1108,6 +1104,7 @@ https://www.getonbrd.com/jobs/mid-level-software-engineer-zagged-remote
 https://www.getonbrd.com/jobs/net-software-engineer-codineering-inc-remote
 https://www.getonbrd.com/jobs/observability-engineer-junior-whitestack-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
+https://www.getonbrd.com/jobs/practica-profesional-ingenieria-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/practicante-de-telecomunicaciones-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
 https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote
@@ -1597,6 +1594,7 @@ ingenieriamodernizacionpracticantertuscada|siemens
 ingenieriaofertastrainee|siemens
 ingenieriapracticaprevencionprofesional|chiletrabajos
 ingenieriapracticaprofesionalsoftware|fundacinconectadoaprendo
+ingenieriapracticaprofesional|na
 ingenieroingenieroprevencionriesgos|chiletrabajos
 ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
@@ -1663,6 +1661,7 @@ ingenierooperacionalesprocesos|elevaadvisory
 ingenierooperacionalsoporte|na
 ingenierooperacionesplantaproductiva|confidential
 ingenierooperacionesprocesosti|chiletrabajos
+ingenierooperacionesti|na
 ingenierooperacionesti|onemarketer
 ingenierooperaciones|geovictoria
 ingenierooperativaplanificacion|ikea
@@ -1691,6 +1690,7 @@ ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent
 ingenieroproyectossapssffti|novandinolitio
+ingenieroproyectosti|sonda
 ingenieroproyectos|atacamaminerales
 ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo

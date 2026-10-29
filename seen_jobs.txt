@@ -1,9 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4436215418
-https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4442084553
-https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4448221060
-https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4457493175
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436954143
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4436997492
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440027435
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440963608
@@ -391,6 +385,7 @@ https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only
+https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
 https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer
 https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
@@ -698,6 +693,7 @@ https://www.chiletrabajos.cl/trabajo/influencer-marketing-analyst-3920025
 https://www.chiletrabajos.cl/trabajo/informatico-junior-3608849
 https://www.chiletrabajos.cl/trabajo/informatico-junior-3903600
 https://www.chiletrabajos.cl/trabajo/ing-en-informatica-junior-1745433
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-agronomo-a-encargado-a-de-operaciones-rancagua-region-o-higgins-3922730
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-3842267
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-ind-3841944
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-ciberseguridad-junior-contrato-indef-3839898
@@ -725,6 +721,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-de-ciberseguridad-y-networking-co
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3624108
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3919826
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-junior-puerto-montt-3856472
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-desarrollo-de-software-3922562
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-desarrollo-de-software-net-c-3920737
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-mantenimiento-industria-de-alimentos-lacteos-bebidas-viajes-eeuu-3904706
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-operaciones-junior-3887158
@@ -916,6 +913,7 @@ https://www.chiletrabajos.cl/trabajo/tens-tecnico-en-farmacia-3898921
 https://www.chiletrabajos.cl/trabajo/vendedor-a-retail-en-joyeria-internacional-rancagua-full-time-3904589
 https://www.chiletrabajos.cl/trabajo/vendedor-a-retail-en-joyeria-internacional-rancagua-part-time-3904590
 https://www.chiletrabajos.cl/trabajo/vendedor-a-tecnico-a-industrial-3873434
+https://www.chiletrabajos.cl/trabajo/vendedor-tecnico-con-experiencia-en-sistemas-contra-incendios-3922680
 https://www.chiletrabajos.cl/trabajo/vendedor-tecnico-maquinaria-industria-de-alimentos-3898155
 https://www.chiletrabajos.cl/trabajo/vendedora-sin-experiencia-3903441
 https://www.getonbrd.com/jobs/administrador-a-de-laboratorio-improving-remote
@@ -979,6 +977,7 @@ https://www.getonbrd.com/jobs/cloud-engineer-for-iot-improving-south-america-rem
 https://www.getonbrd.com/jobs/cloud-engineer-mid-sr-alegra-remote
 https://www.getonbrd.com/jobs/cloud-operations-database-engineer-signant-health-remote
 https://www.getonbrd.com/jobs/contract-software-engineer-integrations-front-end-travefy-remote
+https://www.getonbrd.com/jobs/conversational-ai-qa-specialist-evolution-collect-llc-remote
 https://www.getonbrd.com/jobs/data-ai-platform-engineer-ia-engineer-penta-financiero-santiago
 https://www.getonbrd.com/jobs/data-analyst-3it-remote
 https://www.getonbrd.com/jobs/data-analyst-en-42labs-42labs-santiago
@@ -1104,6 +1103,7 @@ https://www.getonbrd.com/jobs/net-software-engineer-codineering-inc-remote
 https://www.getonbrd.com/jobs/observability-engineer-junior-whitestack-remote
 https://www.getonbrd.com/jobs/partner-tecnico-astro-static-morfeo-media-lab-remote
 https://www.getonbrd.com/jobs/practica-profesional-ingenieria-zerviz-technologies-santiago
+https://www.getonbrd.com/jobs/practicante-data-scientist-unholster-santiago
 https://www.getonbrd.com/jobs/practicante-de-telecomunicaciones-zerviz-technologies-santiago
 https://www.getonbrd.com/jobs/pro-c-developer-factor-it-remote
 https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote

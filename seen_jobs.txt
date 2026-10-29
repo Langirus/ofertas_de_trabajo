@@ -1,8 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4437100396
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4440028325
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-at-quik-hire-staffing-4409049073
-https://mx.linkedin.com/jobs/view/junior-software-developer-remote-work-at-bairesdev-4460645641
-https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4413106144
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4436215418
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4442084553
 https://mx.linkedin.com/jobs/view/junior-software-development-engineer-in-test-r%2Bd-remote-work-at-bairesdev-4448221060
@@ -560,6 +555,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-387
 https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-3921600
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-3859566
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
+https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-contractual-con-conocimientos-de-ia-3921004
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-de-personas-3907465
 https://www.chiletrabajos.cl/trabajo/asistente-de-hogar-casa-particular-puertas-adentro-3814392
 https://www.chiletrabajos.cl/trabajo/asistente-de-operaciones-santiago-3876652
@@ -714,8 +710,10 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-planificacion-y-control-3834
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-procesos-y-operaciones-ti-3873896
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-redes-y-seguridad-proyecto-sase-ztna-3854522
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-soporte-funcional-de-aplicaciones-y-procesos-3887325
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-de-soporte-funcional-de-aplicaciones-y-procesos-3910876
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-automatizacion-3894577
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-electronica-electricidad-o-profesion-afin-3716869
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-de-riesgos-proyectos-industriales-3900123
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-a-junior-formacion-en-gemelos-digitales-y-tecnologias-3867404
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-automatizacion-e-iot-3845391
@@ -799,6 +797,7 @@ https://www.chiletrabajos.cl/trabajo/postular/3866005
 https://www.chiletrabajos.cl/trabajo/postular/3894768
 https://www.chiletrabajos.cl/trabajo/postular/3903600
 https://www.chiletrabajos.cl/trabajo/practica-administracion-project-management-y-produccion-de-eventos-3873954
+https://www.chiletrabajos.cl/trabajo/practica-disenador-a-grafico-a-3922524
 https://www.chiletrabajos.cl/trabajo/practica-profesional-area-de-control-de-gestion-3867853
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ciberseguridad-informatica-3861828
 https://www.chiletrabajos.cl/trabajo/practica-profesional-ingenieria-en-prevencion-de-riesgos-calama-y-antofagast-3915951
@@ -1671,6 +1670,7 @@ ingenieroplanningworkforce|achs
 ingenieropostpreprocesosreemplazotransformacion|bancobci
 ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieropracticas|kadevstudio
+ingenieroprevencionproyectosriesgos|chiletrabajos
 ingenieroprevencionriesgosturno|chiletrabajos
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprevencionriesgos|empresaconstructoraeinmobiliariamollerprezcotapos

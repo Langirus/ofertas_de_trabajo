@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440963608
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440976292
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
 https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4462437447
@@ -384,6 +382,7 @@ https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only
 https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
+https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform
 https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer
 https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
@@ -424,6 +423,7 @@ https://www.chiletrabajos.cl/trabajo/3879845
 https://www.chiletrabajos.cl/trabajo/3886550
 https://www.chiletrabajos.cl/trabajo/3894768
 https://www.chiletrabajos.cl/trabajo/3898673
+https://www.chiletrabajos.cl/trabajo/3899209
 https://www.chiletrabajos.cl/trabajo/3903600
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-junior-contrato-indefinido-presencial-3825701
 https://www.chiletrabajos.cl/trabajo/administrador-de-sistemas-ti-junior-aws-contrato-indefinido-3830448

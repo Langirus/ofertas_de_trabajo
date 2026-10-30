@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4468363410
-https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4474702052
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4440531867
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4460899927
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4462182542
@@ -1072,6 +1069,7 @@ https://www.getonbrd.com/jobs/ingeniero-cloud-devops-turno-fin-de-semana-interfe
 https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/ingeniero-cloud-gcp-tcit-santiago-4997
 https://www.getonbrd.com/jobs/ingeniero-de-datos-3it-remote-ee93
+https://www.getonbrd.com/jobs/ingeniero-de-datos-martinexsa-ciudad-de-guatemala
 https://www.getonbrd.com/jobs/ingeniero-de-datos-senior-foris-ai-remote
 https://www.getonbrd.com/jobs/ingeniero-de-datos-y-analitica-agencia-de-aduanas-felipe-serrano-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-estudios-actuariales-bnp-paribas-cardif-santiago
@@ -1500,6 +1498,7 @@ iainformaticaingeniero|fenixserviciosacuicolas
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
+iaingenierojunior|ita
 iaingenieroprocesos|roberthalf
 iaingenierosoftware|empresassb
 iaingenierosoluciones|satjobconsultancyreclutamientoyseleccin
@@ -1690,6 +1689,7 @@ ingenieropropuestastrainee|freemaq
 ingenieroprovision|artikos
 ingenieroproyectoreq14378|salfarent
 ingenieroproyectossapssffti|novandinolitio
+ingenieroproyectosti|novandinolitio
 ingenieroproyectosti|sonda
 ingenieroproyectos|atacamaminerales
 ingenieroproyectos|cmpc

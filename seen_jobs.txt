@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437177850
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440027435
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440963608
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4440976292
 https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
@@ -769,6 +767,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-preventa-proyectos-integrados-385
 https://www.chiletrabajos.cl/trabajo/ingeniero-programacion-y-control-deseable-experiencia-obra-ferroviaria-vina-3846121
 https://www.chiletrabajos.cl/trabajo/ingeniero-qa-automatizador-3857784
 https://www.chiletrabajos.cl/trabajo/ingeniero-sistema-3875947
+https://www.chiletrabajos.cl/trabajo/ingeniero-ssoma-seguridad-salud-ocupacional-y-medio-ambiente-3922944
 https://www.chiletrabajos.cl/trabajo/ingeniero-telecomunicaciones-3870623
 https://www.chiletrabajos.cl/trabajo/ingeniero-trabajo-estandarizado-equipo-pesado-3864602
 https://www.chiletrabajos.cl/trabajo/ingenieros-informaticos-sean-alumnos-me-ensenen-a-usar-la-inteligencia-artifi-3900500
@@ -1656,6 +1655,7 @@ ingenieronivelredessoportewireless|nttdata
 ingenieronivelsantiagosoporte|tibox
 ingenieronivelsoftware|apiuxtech
 ingenieronube|zentagroup
+ingenieroocupacionalsaludseguridadssoma|chiletrabajos
 ingenierooperacionalesprocesos|elevaadvisory
 ingenierooperacionalsoporte|na
 ingenierooperacionesplantaproductiva|confidential

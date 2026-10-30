@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-jobs-ai-4408787785
-https://mx.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-mexico-at-mixrank-4415448304
-https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4462437447
 https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4468363410
 https://mx.linkedin.com/jobs/view/junior-software-engineer-mexico-%0Amexico-remote-at-sezzle-la-4474702052
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4436949385
@@ -139,6 +136,7 @@ https://pe.linkedin.com/jobs/view/practicante-de-canales-remotos-care-at-entel-p
 https://pe.linkedin.com/jobs/view/practicante-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4476677884
 https://pe.linkedin.com/jobs/view/practicante-pre-profesional-de-canales-remotos-care-at-entel-per%C3%BA-4483745687
 https://pe.linkedin.com/jobs/view/practicante-preprofesional-de-sistemas-ti-100%25-remoto-at-koolvara-4459905383
+https://pe.linkedin.com/jobs/view/practicante-profesional-o-preprofesional-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4485337854
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
 https://pe.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295736-at-bairesdev-4449082602
 https://pe.linkedin.com/jobs/view/remote-junior-android-developer-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%B2-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B5-at-teacher-army-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B2-it-4447193688
@@ -856,6 +854,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
 https://www.chiletrabajos.cl/trabajo/tecnico-educacion-diferencial-fin-de-semana-3894405
 https://www.chiletrabajos.cl/trabajo/tecnico-educacion-parvularia-3911285
 https://www.chiletrabajos.cl/trabajo/tecnico-electricidad-intslaciones-seguridad-electronica-y-automatizacion-3908162
+https://www.chiletrabajos.cl/trabajo/tecnico-electrico-mantenimiento-3920594
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-santiago-3405950
@@ -1503,6 +1502,7 @@ iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
 iaingenieroprocesos|roberthalf
 iaingenierosoftware|empresassb
+iaingenierosoluciones|satjobconsultancyreclutamientoyseleccin
 iaingenierosoluciones|uyustools
 iaingeniero|ionixsolucionesdigitales
 iainnovacionpracticanteprocesos|cydingeniera

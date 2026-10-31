@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4460899927
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4462182542
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4462831801
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4463345857
@@ -371,6 +370,7 @@ https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data
 https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
 https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform
+https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company
 https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern

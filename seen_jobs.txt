@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4462831801
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4463345857
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4463756188
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464486956
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4466307721
@@ -200,6 +198,7 @@ https://pr.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-
 https://pr.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4414602125
 https://py.linkedin.com/jobs/view/ai-engineer-remote-asuncion-at-blacksmith-agency-4480849554
 https://py.linkedin.com/jobs/view/ai-software-engineer-remote-ciudad-del-este-at-blacksmith-agency-4478070550
+https://py.linkedin.com/jobs/view/applied-ai-engineer-remote-asuncion-at-blacksmith-agency-4485992649
 https://py.linkedin.com/jobs/view/full-stack-ai-engineer-remote-work-at-bairesdev-4471908565
 https://py.linkedin.com/jobs/view/python-ai-engineer-remote-work-at-techjobsdata-4461686803
 https://remoteOK.com/remote-jobs/remote-analista-pleno-de-negocios-offshore-c6-bank-1131925
@@ -812,6 +811,7 @@ https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-experiencia-en
 https://www.chiletrabajos.cl/trabajo/programmer-analyst-associate-nivel-junior-3640576
 https://www.chiletrabajos.cl/trabajo/qa-automatizador-junior-3751042
 https://www.chiletrabajos.cl/trabajo/reemplazo-asistente-de-abastecimiento-y-soporte-administrativo-pre-y-post-natal-3865249
+https://www.chiletrabajos.cl/trabajo/s378-ingenieros-gestion-de-proyectos-auditores-de-proyectos-mineros-santiago-3923947
 https://www.chiletrabajos.cl/trabajo/sap-gr-consultor-analista-de-negocios-3851856
 https://www.chiletrabajos.cl/trabajo/se-busca-chofer-asistente-personal-seguridad-vina-del-mar-3915959
 https://www.chiletrabajos.cl/trabajo/se-busca-junior-administrativo-en-comuna-de-las-condes-3864030

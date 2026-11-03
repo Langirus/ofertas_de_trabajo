@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4436844806
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-mexico-city-at-blacksmith-agency-4483382838
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-tijuana-at-blacksmith-agency-4462703356
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-work-ref%23298564-at-bairesdev-4443579865
@@ -1665,6 +1664,7 @@ ingenierooperativaplanificacion|ikea
 ingenieropasivosproduccionserviciossistemas|bancode
 ingenieroplanificacion|finning
 ingenieroplanningworkforce|achs
+ingenieroplataforma|proyectum
 ingenieropostpreprocesosreemplazotransformacion|bancobci
 ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieropracticas|kadevstudio

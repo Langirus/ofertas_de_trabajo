@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4466307721
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
-https://mx.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-mexico-%0Amexico-remote-at-sezzle-la-4447364490
-https://mx.linkedin.com/jobs/view/junior-web-developer-latam-remote-for-north-american-universities-%F0%9F%9A%80-at-atomic-remote-jobs-4435291585
 https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
 https://mx.linkedin.com/jobs/view/latam-operations-analyst-at-reap-4457586304
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
@@ -99,6 +95,7 @@ https://mx.linkedin.com/jobs/view/t%C3%A9cnico-de-soporte-it-remoto-y-en-sitio-a
 https://mx.linkedin.com/jobs/view/technical-analyst-%E2%80%93-data-support-remote-mexico-only-at-varicent-4413506311
 https://mx.linkedin.com/jobs/view/test-junior-nestjs-developer-latam-at-dacodes-4484282110
 https://mx.linkedin.com/jobs/view/trainee-sales-development-representative-datamax-ai-remote-global-at-max-accelerate-technology-group-4457893933
+https://mx.linkedin.com/jobs/view/validador-de-datos-jr-remoto-freelancer-at-retailbeat-4486009235
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4441210503
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4449647305
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-ref%23297179-at-bairesdev-4438270291
@@ -370,6 +367,7 @@ https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-
 https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company
 https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer
 https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester
+https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai
 https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only
 https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
@@ -833,6 +831,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-a-gestor-a-de-activos-y-mantenimien
 https://www.chiletrabajos.cl/trabajo/tecnico-aplicador-de-pesticidas-3572764
 https://www.chiletrabajos.cl/trabajo/tecnico-auxiliar-de-enfermeria-para-cuidado-de-adulto-mayor-en-casa-particular-3904612
 https://www.chiletrabajos.cl/trabajo/tecnico-auxiliar-de-farmacia-3827502
+https://www.chiletrabajos.cl/trabajo/tecnico-avanzado-en-climatizacion-aire-acondicionado-2435076
 https://www.chiletrabajos.cl/trabajo/tecnico-b-en-climatizacion-hvac-7x7-mineria-3864914
 https://www.chiletrabajos.cl/trabajo/tecnico-b-gruas-generacion-copiapo-3877435
 https://www.chiletrabajos.cl/trabajo/tecnico-climatizacion-y-o-ayudantes-con-conocimientos-3864989
@@ -886,6 +885,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-ingeniero-servicio-3891889
 https://www.chiletrabajos.cl/trabajo/tecnico-instalador-aire-acondicionado-junior-3913560
 https://www.chiletrabajos.cl/trabajo/tecnico-instalador-seguridad-electronica-3850329
 https://www.chiletrabajos.cl/trabajo/tecnico-mantencion-santiago-3105595
+https://www.chiletrabajos.cl/trabajo/tecnico-mantenedor-en-climatizacion-aire-acondicionado-3509324
 https://www.chiletrabajos.cl/trabajo/tecnico-mantenimiento-electrico-transformadores-en-aceite-3869459
 https://www.chiletrabajos.cl/trabajo/tecnico-mecanico-industrial-maquina-y-herramientas-3850704
 https://www.chiletrabajos.cl/trabajo/tecnico-o-ingeniero-en-computacion-3903865

@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4463756188
-https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4464486956
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4466307721
 https://mx.linkedin.com/jobs/view/junior-software-engineer-remote-at-quik-hire-staffing-4409026546
 https://mx.linkedin.com/jobs/view/junior-software-engineer-with-accounting-experience-mexico-%0Amexico-remote-at-sezzle-la-4447364490
@@ -954,6 +952,7 @@ https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6
 https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/analytics-engineer-jr-galilei-remote
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
+https://www.getonbrd.com/jobs/back-end-software-engineer-nestjs-cloud-native-aws-witi-remote
 https://www.getonbrd.com/jobs/backend-software-engineer-witi-remote
 https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2
 https://www.getonbrd.com/jobs/bi-engineer-data-engineer-witi-santiago
@@ -996,6 +995,7 @@ https://www.getonbrd.com/jobs/data-engineer-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
+https://www.getonbrd.com/jobs/data-engineer-python-airflow-gcp-xintec-santiago
 https://www.getonbrd.com/jobs/data-engineer-zaelot-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
 https://www.getonbrd.com/jobs/data-scientist-unholster-santiago

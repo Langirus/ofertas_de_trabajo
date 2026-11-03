@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/l%C3%ADder-t%C3%A9cnico-de-desarrollo-de-software-home-office-at-towa-software-4427421380
-https://mx.linkedin.com/jobs/view/latam-operations-analyst-at-reap-4457586304
-https://mx.linkedin.com/jobs/view/machine-learning-engineer-%E2%80%93-remote-at-quik-hire-staffing-4425108549
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-python-remote-work-at-bairesdev-4436844806
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-mexico-city-at-blacksmith-agency-4483382838
 https://mx.linkedin.com/jobs/view/machine-learning-engineer-remote-tijuana-at-blacksmith-agency-4462703356
@@ -99,6 +96,7 @@ https://mx.linkedin.com/jobs/view/validador-de-datos-jr-remoto-freelancer-at-ret
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4441210503
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-at-indi-staffing-services-4449647305
 https://mx.linkedin.com/jobs/view/vue-js-engineer-remote-work-ref%23297179-at-bairesdev-4438270291
+https://ni.linkedin.com/jobs/view/full-stack-ai-engineer-remote-work-at-bairesdev-4486068266
 https://pe.linkedin.com/jobs/view/agentic-ai-engineer-remote-work-at-bairesdev-4451665824
 https://pe.linkedin.com/jobs/view/ai-engineer-mobile-remote-work-at-bairesdev-4469448813
 https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
@@ -819,6 +817,7 @@ https://www.chiletrabajos.cl/trabajo/soporte-a-la-gestion-de-abonados-y-cobranza
 https://www.chiletrabajos.cl/trabajo/soporte-informatica-n1-o-n2-sistemas-zona-buin-paine-3859336
 https://www.chiletrabajos.cl/trabajo/soporte-linux-y-redes-junior-3850813
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-electromecanico-rubro-ferretero-copiapo-3835279
+https://www.chiletrabajos.cl/trabajo/soporte-tecnico-instalaciones-3872618
 https://www.chiletrabajos.cl/trabajo/soporte-tecnico-junior-3861819
 https://www.chiletrabajos.cl/trabajo/soporte-ti-junior-3866556
 https://www.chiletrabajos.cl/trabajo/soporte-ti-nivel-1-service-desk-bilinguee-ingles-las-condes-3875901
@@ -1754,6 +1753,7 @@ ingenierotrainee|buffer
 ingenierotrainee|weir
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
 inlcusionjrlaboralremotosoporteti|ferrostaalc
+instalacionessoportetecnico|chiletrabajos
 instrumentacionsoportetecnicotrainee|clonsaingeniera
 integracionnegociopracticanteproyectosservicios|banchileinversiones
 integracionpruebassistemastecnico|tecnologasipinfokrause

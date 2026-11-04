@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/python-%2Bai-fullstack-engineer-remote-in-mexico-at-pyramid-consulting-inc-4439308638
-https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4443950280
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4452706351
@@ -1597,6 +1595,7 @@ ingenierointegracion|sermaluc
 ingenierointegracion|taglermaq
 ingenierointegradorsoftware|acl
 ingenierointegradospreventaproyectos|chiletrabajos
+ingenierointeligencianegocios|direccindepersonasuandes
 ingenierointeligencia|falabella
 ingenierojavaremotosoftwaretrabajo|bairesdev
 ingenierojornadajuniormediasoftware|direccindepersonasuandes
@@ -1822,6 +1821,7 @@ juniorsoftwaredeveloperremote|jobsai
 juniorsoftwaredeveloperremote|quikhirestaffing
 juniorsoftwareengineerremote|jobsai
 juniorsoftwareengineerremote|quikhirestaffing
+juniorsoportetecnicoti|indragroup
 juniorsoportetecnico|actis
 juniorsoportetecnico|computrabajo
 juniorsoporteti|softtek

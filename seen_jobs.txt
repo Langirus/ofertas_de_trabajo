@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/mid-ai-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4466899539
-https://mx.linkedin.com/jobs/view/mobile-engineer-ai-remote-work-at-bairesdev-4436854599
-https://mx.linkedin.com/jobs/view/paid-media-planner-jr-google-ads-meta-ads-y-tiktok-ads-remoto-m%C3%A9xico-at-1927-4430994159
-https://mx.linkedin.com/jobs/view/palantir-foundry-engineer-remote-work-at-bairesdev-4481607517
 https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
 https://mx.linkedin.com/jobs/view/practicante-de-desarrollo-de-software-1er-turno-avionics-remoto-at-collins-aerospace-4477884135
 https://mx.linkedin.com/jobs/view/practicante-de-talento-y-desarrollo-latam-at-sigma-4436232737
@@ -293,6 +289,7 @@ https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam
 https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa
 https://weworkremotely.com/remote-jobs/aliqan-technologies-site-reliability-engineer
 https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs
+https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract
 https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america
 https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america
 https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america
@@ -515,6 +512,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3277631
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3855960
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-3896068
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-de-obra-3907131
+https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-coordinacion-3923978
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-a-y-de-proyectos-freelance-teletrabajo-3840060
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-con-orientacion-atencion-al-cliente-3837081
 https://www.chiletrabajos.cl/trabajo/asistente-administrativo-en-adquisiciones-antofagasta-3834554
@@ -531,6 +529,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-387
 https://www.chiletrabajos.cl/trabajo/asistente-de-ejecutivo-de-importaciones-3921600
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-3859566
 https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-en-maipu-3823321
+https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-general-3906379
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-contractual-con-conocimientos-de-ia-3921004
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-de-personas-3907465
 https://www.chiletrabajos.cl/trabajo/asistente-de-hogar-casa-particular-puertas-adentro-3814392
@@ -766,6 +765,7 @@ https://www.chiletrabajos.cl/trabajo/junior-motorista-externo-licitado-reemplazo
 https://www.chiletrabajos.cl/trabajo/junior-repartidor-3851975
 https://www.chiletrabajos.cl/trabajo/junior-tramites-terreno-3862616
 https://www.chiletrabajos.cl/trabajo/lampa-ingeniero-a-de-administracion-y-finanzas-3860058
+https://www.chiletrabajos.cl/trabajo/oferta-de-practica-profesional-gastronomia-3925770
 https://www.chiletrabajos.cl/trabajo/oferta-laboral-secretario-a-tecnico-a-administrativo-a-3852792
 https://www.chiletrabajos.cl/trabajo/paid-media-junior-creato-3853242
 https://www.chiletrabajos.cl/trabajo/part-time-35-hrs-auxiliar-o-tecnico-en-farmacia-maipu-3844418

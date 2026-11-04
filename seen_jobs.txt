@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/platform-engineer-ai-tooling-remote-at-sailpoint-4414909975
-https://mx.linkedin.com/jobs/view/practicante-de-desarrollo-de-software-1er-turno-avionics-remoto-at-collins-aerospace-4477884135
-https://mx.linkedin.com/jobs/view/practicante-de-talento-y-desarrollo-latam-at-sigma-4436232737
 https://mx.linkedin.com/jobs/view/python-%2Bai-fullstack-engineer-remote-in-mexico-at-pyramid-consulting-inc-4439308638
 https://mx.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295739-at-bairesdev-4432461764
 https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
@@ -533,6 +530,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-general-3906379
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-contractual-con-conocimientos-de-ia-3921004
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-de-personas-3907465
 https://www.chiletrabajos.cl/trabajo/asistente-de-hogar-casa-particular-puertas-adentro-3814392
+https://www.chiletrabajos.cl/trabajo/asistente-de-operaciones-con-licencia-clase-b-san-bernardo-3925250
 https://www.chiletrabajos.cl/trabajo/asistente-de-operaciones-santiago-3876652
 https://www.chiletrabajos.cl/trabajo/asistente-de-supervisor-de-seguridad-3868611
 https://www.chiletrabajos.cl/trabajo/asistente-de-tesoreria-3883873
@@ -1335,6 +1333,7 @@ https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-sta
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4468226396
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4476761727
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4479543293
+https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4487274839
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4465059518
@@ -1675,6 +1674,7 @@ ingenieropreventa|chiletrabajos
 ingenieroprocesossistemas|salfarent
 ingenieroprocesostransformacion|bancobci
 ingenieroprocesos|acl
+ingenieroprocesos|alfredhknight
 ingenieroprocesos|apiuxtech
 ingenieroprocesos|vigaflow
 ingenieroprocesos|witi

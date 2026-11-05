@@ -1,8 +1,3 @@
-https://mx.linkedin.com/jobs/view/python-engineer-remote-at-hired-4464015797
-https://mx.linkedin.com/jobs/view/python-engineer-remote-at-hired-4465036585
-https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4436292216
-https://mx.linkedin.com/jobs/view/python-software-engineer-%E2%80%93-remote-at-quik-hire-staffing-4412950731
-https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-spectrum-equity-4465187701
 https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-varicent-4464852166
 https://mx.linkedin.com/jobs/view/qa-analyst-mexico-remote-at-varicent-4479176242
 https://mx.linkedin.com/jobs/view/qa-automation-trainee-100%25-remoto-at-implemental-systems-4461779789
@@ -919,6 +914,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
 https://www.getonbrd.com/jobs/analista-de-observabilidad-y-operaciones-ti-riskamerica-remote
 https://www.getonbrd.com/jobs/analista-de-planificacion-y-analisis-de-negocio-neuralworks-santiago-a499
+https://www.getonbrd.com/jobs/analista-de-sistemas-full-stack-agilesoft-spa-remote
 https://www.getonbrd.com/jobs/analista-de-soporte-sap-basis-junior-factor-it-medellin
 https://www.getonbrd.com/jobs/analista-de-soporte-tecnico-grupo-mariposa-ciudad-de-guatemala-santiago-quito-bogota-buenos-aires-lima-ddd4
 https://www.getonbrd.com/jobs/analista-desarrollador-cobol-bc-tecnologia-remote
@@ -978,12 +974,14 @@ https://www.getonbrd.com/jobs/data-engineer-etl-ryc-tech-group-santiago
 https://www.getonbrd.com/jobs/data-engineer-factor-it-remote-33e7
 https://www.getonbrd.com/jobs/data-engineer-financia-capital-santiago-46b9
 https://www.getonbrd.com/jobs/data-engineer-gcp-coderslab-io-remote
+https://www.getonbrd.com/jobs/data-engineer-gcp-plataforma-de-datos-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-coderslab-io-santiago
 https://www.getonbrd.com/jobs/data-engineer-gcp-ssr-tcit-santiago
 https://www.getonbrd.com/jobs/data-engineer-gcp-tcit-santiago
 https://www.getonbrd.com/jobs/data-engineer-gux-technologies-santiago-4f8a
 https://www.getonbrd.com/jobs/data-engineer-latam-airlines-2brains-santiago
 https://www.getonbrd.com/jobs/data-engineer-oci-python-spark-crossjoin-solutions-remote
+https://www.getonbrd.com/jobs/data-engineer-plataforma-de-datos-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/data-engineer-python-airflow-gcp-xintec-santiago
 https://www.getonbrd.com/jobs/data-engineer-zaelot-remote
 https://www.getonbrd.com/jobs/data-platform-engineer-data-quality-ai-workflows-tritone-analytics-inc-remote
@@ -1603,6 +1601,7 @@ ingenierojrprocesos|dhlsupplychain
 ingenierojrprocesos|wisetrack
 ingenierojrsoftware|direccindepersonasuandes
 ingenierojrtableauvisualizacion|apiuxtech
+ingenierojuniormetropolitanaplataformaregion|computrabajo
 ingenierojuniormodalidadreemplazoremotawintel|computrabajo
 ingenierojunioroperaciones|chiletrabajos
 ingenierojunioroperaciones|seguridadenlaempresa
@@ -1862,6 +1861,7 @@ marketingpracticantepublicidad|chiletrabajos
 marketingpracticavopero|cencosud
 merchandisingplanningpractica|pumagroup
 mesamonitoreonocoperadoressoporte|netmetrix
+mesapracticanteservicioti|nttdata
 mesproyectopudahuelredestecnico|acl
 microinformaticaonsitesoporte|stefaninigroup
 microinformaticapracticantetecnico|avalora

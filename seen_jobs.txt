@@ -1,7 +1,3 @@
-https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4417317495
-https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4443950280
-https://mx.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4452706351
-https://mx.linkedin.com/jobs/view/python-engineer-remote-anywhere-in-m%C3%A9xico-at-capgemini-engineering-4418957888
 https://mx.linkedin.com/jobs/view/python-engineer-remote-at-hired-4464015797
 https://mx.linkedin.com/jobs/view/python-engineer-remote-at-hired-4465036585
 https://mx.linkedin.com/jobs/view/python-linear-programming-engineer-remote-in-m%C3%A9xico-at-capgemini-engineering-4436292216
@@ -528,6 +524,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-de-gerencia-general-3906379
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-contractual-con-conocimientos-de-ia-3921004
 https://www.chiletrabajos.cl/trabajo/asistente-de-gestion-de-personas-3907465
 https://www.chiletrabajos.cl/trabajo/asistente-de-hogar-casa-particular-puertas-adentro-3814392
+https://www.chiletrabajos.cl/trabajo/asistente-de-marketing-3926400
 https://www.chiletrabajos.cl/trabajo/asistente-de-operaciones-con-licencia-clase-b-san-bernardo-3925250
 https://www.chiletrabajos.cl/trabajo/asistente-de-operaciones-santiago-3876652
 https://www.chiletrabajos.cl/trabajo/asistente-de-supervisor-de-seguridad-3868611
@@ -839,6 +836,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-dibujante-climatizacion-3732270
 https://www.chiletrabajos.cl/trabajo/tecnico-educacion-diferencial-fin-de-semana-3894405
 https://www.chiletrabajos.cl/trabajo/tecnico-educacion-parvularia-3911285
 https://www.chiletrabajos.cl/trabajo/tecnico-electricidad-intslaciones-seguridad-electronica-y-automatizacion-3908162
+https://www.chiletrabajos.cl/trabajo/tecnico-electrico-instalaciones-industriales-y-fotovoltaicas-3925800
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-mantenimiento-3920594
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-planta-productiva-los-angeles-turnos-3763068
 https://www.chiletrabajos.cl/trabajo/tecnico-electrico-plantas-region-metropolitana-3850671
@@ -1567,6 +1565,7 @@ infraestructuraingenieroit|porsche
 infraestructuraingenieromaroperacionesvina|ithuntersinternational
 infraestructuraingenieropreventati|ittecture
 infraestructuraingenieroproducciontelecomunicaciones|bancode
+infraestructuraingenieroredes|kibernum
 infraestructuraingenierosoporteti|na
 infraestructuraingeniero|autofin
 infraestructuraingeniero|confidencial
@@ -1586,6 +1585,7 @@ ingenieriaofertastrainee|siemens
 ingenieriapracticaprevencionprofesional|chiletrabajos
 ingenieriapracticaprofesionalsoftware|fundacinconectadoaprendo
 ingenieriapracticaprofesional|na
+ingenieriapracticaprofesional|salfarent
 ingenieroingenieroprevencionriesgos|chiletrabajos
 ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos

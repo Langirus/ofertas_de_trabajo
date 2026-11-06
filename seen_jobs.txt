@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/remote-ai-analyst-photographer-spanish-at-turing-4467837581
-https://mx.linkedin.com/jobs/view/remote-ai-analyst-photographer-spanish-at-turing-4469421728
 https://mx.linkedin.com/jobs/view/remote-ai-analyst-photographer-spanish-at-turing-4471449518
 https://mx.linkedin.com/jobs/view/remote-ai-automation-solutions-engineer-at-rtm-connect-by-betterwho-4449424599
 https://mx.linkedin.com/jobs/view/remote-ai-automation-solutions-engineer-at-rtm-connect-by-betterwho-4460569350
@@ -702,6 +700,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-ejecucion-mecanico-3612726
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3844538
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-3890798
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-clasea-3841611
+https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-con-conocimiento-en-ups-tecnico-en-aire-acondicionado-3927601
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-de-estudio-de-proyectos-3559105
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-electronico-mencion-telecomunicaciones-3865753
 https://www.chiletrabajos.cl/trabajo/ingeniero-electrico-en-entrenamiento-3864432
@@ -1724,6 +1723,7 @@ ingenierosoftware|160k
 ingenierosoftware|avostech
 ingenierosoftware|bancobci
 ingenierosoftware|bipboplabs
+ingenierosoftware|cajalosandes
 ingenierosoftware|copec
 ingenierosoftware|esmart
 ingenierosoftware|experis

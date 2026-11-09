@@ -1,4 +1,3 @@
-https://mx.linkedin.com/jobs/view/remote-role-optimization-engineer-at-xchange-4477906656
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4439436495
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4441308706
 https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4442094997
@@ -1087,6 +1086,7 @@ https://www.getonbrd.com/jobs/product-builder-comunidadfeliz-remote
 https://www.getonbrd.com/jobs/programa-trainee-platform-engineering-developer-iconstruye-santiago-3200
 https://www.getonbrd.com/jobs/prompt-engineer-42labs-santiago
 https://www.getonbrd.com/jobs/python-engineer-ml-infrastructure-improving-remote
+https://www.getonbrd.com/jobs/python-ml-optimization-engineer-improving-remote
 https://www.getonbrd.com/jobs/q-a-tecnico-codeable-lima-7ca1
 https://www.getonbrd.com/jobs/qa-analyst-factor-it-santiago
 https://www.getonbrd.com/jobs/qa-analyst-rankmi-santiago

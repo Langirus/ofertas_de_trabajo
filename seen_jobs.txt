@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/remote-software-engineer-c%23-at-turing-4447188327
-https://mx.linkedin.com/jobs/view/remote-software-engineer-go-at-turing-4442205555
-https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418484212
 https://mx.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4438291199
 https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-4439432470
 https://mx.linkedin.com/jobs/view/remote-software-engineer-ruby-at-turing-4442200824
@@ -774,6 +771,7 @@ https://www.chiletrabajos.cl/trabajo/practicante-gestion-humana-3850658
 https://www.chiletrabajos.cl/trabajo/practicante-marketing-digital-publicista-3857662
 https://www.chiletrabajos.cl/trabajo/practicante-para-empresa-de-ingenieria-3852044
 https://www.chiletrabajos.cl/trabajo/profesional-ti-junior-automatizacion-y-software-interno-2818370
+https://www.chiletrabajos.cl/trabajo/programa-mujeres-profesionales-sin-experiencia-iv-region-3929185
 https://www.chiletrabajos.cl/trabajo/programador-analista-de-software-3790678
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-con-experiencia-en-javascript-remoto-3610115
 https://www.chiletrabajos.cl/trabajo/programador-junior-fullstack-experiencia-en-laravel-y-nextjs-remoto-3610115
@@ -901,6 +899,7 @@ https://www.getonbrd.com/jobs/analista-de-datos-arquitectura-bc-tecnologia-santi
 https://www.getonbrd.com/jobs/analista-de-datos-data-analyst-bc-tecnologia-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-direccion-chilecompra-santiago
 https://www.getonbrd.com/jobs/analista-de-datos-encuestas-y-estudios-opinando-online-santiago
+https://www.getonbrd.com/jobs/analista-de-datos-power-bi-codeable-lima
 https://www.getonbrd.com/jobs/analista-de-datos-y-operaciones-ziyu-santiago
 https://www.getonbrd.com/jobs/analista-de-gobierno-de-datos-3it-santiago
 https://www.getonbrd.com/jobs/analista-de-observabilidad-y-operaciones-ti-riskamerica-remote
@@ -1685,6 +1684,7 @@ ingenieroproyectosti|sonda
 ingenieroproyectos|atacamaminerales
 ingenieroproyectos|cmpc
 ingenieroproyectos|computrabajo
+ingenieroproyectos|komatsu
 ingenieroproyecto|metrodesantiago
 ingenieropythonpytorchremototensorflow|resolvglobal
 ingenieroqa|factorlt

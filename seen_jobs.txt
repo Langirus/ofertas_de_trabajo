@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4439441247
-https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4442095987
 https://mx.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4447181270
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-company-4391399748
 https://mx.linkedin.com/jobs/view/sap-application-security-analyst-i-remote-at-mccormick-flavor-solutions-4440772899
@@ -1320,6 +1318,7 @@ https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-sta
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4476761727
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4479543293
 https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4487274839
+https://www.linkedin.com/jobs/view/junior-sql-server-dba-remote-work-at-indi-staffing-services-4489960427
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4438223854
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4440990827
 https://www.linkedin.com/jobs/view/junior-sql-server-developer-remote-work-at-indi-staffing-services-4465059518
@@ -1773,6 +1772,7 @@ inversionespracticaviajes|grupofalabella
 iotpracticaprofesiona|bwhale
 isaludpracticasprofesionales|isaludisapredecodelco
 itjrlatamsourcer|azkait
+itjuniorprogramadortrainee|tataconsultancyservices
 itoperacionesplataformapracticaprofesionalsistemas|bancofalabella
 itpracticatecnica|deloitte
 itpractica|pumagroup

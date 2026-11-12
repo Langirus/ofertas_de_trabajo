@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4434966832
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4435535353
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442471647
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442507670
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4442580295
@@ -1116,6 +1114,7 @@ https://www.getonbrd.com/jobs/snowflake-data-engineer-crest-it-resources-llc-rem
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab9e
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-d014
 https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f
+https://www.getonbrd.com/jobs/software-engineer-frontend-capital-express-santiago
 https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
@@ -1656,6 +1655,7 @@ ingenieropracticaprofesionaltecnico|chiletrabajos
 ingenieropracticas|kadevstudio
 ingenieroprevencionproyectosriesgos|chiletrabajos
 ingenieroprevencionriesgosturno|chiletrabajos
+ingenieroprevencionriesgos|busesjm
 ingenieroprevencionriesgos|chiletrabajos
 ingenieroprevencionriesgos|empresaconstructoraeinmobiliariamollerprezcotapos
 ingenieropreventa|chiletrabajos

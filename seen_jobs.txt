@@ -1,8 +1,3 @@
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444295470
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4444921140
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445322093
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4445389577
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4446550522
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447778109
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447883097
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448145122
@@ -50,6 +45,7 @@ https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experienc
 https://pe.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23306347-at-bairesdev-4484277536
 https://pe.linkedin.com/jobs/view/practicante-de-canales-remotos-care-at-entel-per%C3%BA-4464447879
 https://pe.linkedin.com/jobs/view/practicante-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4476677884
+https://pe.linkedin.com/jobs/view/practicante-pre-o-pro-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4490595965
 https://pe.linkedin.com/jobs/view/practicante-pre-profesional-de-canales-remotos-care-at-entel-per%C3%BA-4483745687
 https://pe.linkedin.com/jobs/view/practicante-preprofesional-de-sistemas-ti-100%25-remoto-at-koolvara-4459905383
 https://pe.linkedin.com/jobs/view/practicante-profesional-o-preprofesional-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4485337854
@@ -648,6 +644,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-electronica-electricidad-o-p
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-de-riesgos-proyectos-industriales-3900123
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-en-prevencion-region-metropolitana-minimo-3-anos-max-5-anos-de-exp-3849268
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-a-junior-formacion-en-gemelos-digitales-y-tecnologias-3867404
+https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-ia-transformacion-digital-3820101
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-automatizacion-e-iot-3845391
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-sre-ssr-nivel-ingles-avanzado-3823795
 https://www.chiletrabajos.cl/trabajo/ingeniero-certificado-nfpa-proyectos-de-sistemas-de-incendio-3826055
@@ -796,6 +793,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-de-monitoreo-geotecnico-3867265
 https://www.chiletrabajos.cl/trabajo/tecnico-de-operaciones-y-mantenimiento-de-planta-3908604
 https://www.chiletrabajos.cl/trabajo/tecnico-de-proyectos-automatizacion-industrial-3874656
 https://www.chiletrabajos.cl/trabajo/tecnico-de-servicio-tecnico-electrodomesticos-de-alta-gama-3876716
+https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-3820094
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-onsite-faena-minera-las-tortolas-turno-7x7-3867586
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
@@ -1465,6 +1463,7 @@ https://www.linkedin.com/jobs/view/systems-implementation-engineer-remote-latam-
 huechurabaingenieroinstitucionalespresencialproyectossansebastianuniversidad|universidadsansebastin
 huechurabaingeniero|chiletrabajos
 iainformaticaingeniero|fenixserviciosacuicolas
+iainformaticoingenierotransformacion|chiletrabajos
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
 iaingenierojunior|grupoo2
@@ -1968,6 +1967,7 @@ soportetecnicoti|tataconsultancyservices
 soportetecnicoti|theandesbrands
 soportetecnicoti|universidaddelasamricas
 soportetecnicousuario|chiletrabajos
+soportetecnico|chiletrabajos
 soportetecnico|empresaconfidencial
 soportetecnico|hueneiitservices
 soportetecnico|imunicipalidadderecoleta

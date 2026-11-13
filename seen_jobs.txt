@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447778109
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4447883097
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448145122
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448809576
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4450071066
@@ -621,6 +619,7 @@ https://www.chiletrabajos.cl/trabajo/encargado-junior-de-informatica-procesamien
 https://www.chiletrabajos.cl/trabajo/estamos-en-busca-de-practicantes-en-marketing-digital-3837338
 https://www.chiletrabajos.cl/trabajo/estudio-juridico-busca-asistente-en-santiago-centro-3834288
 https://www.chiletrabajos.cl/trabajo/hs-28-ingeniero-key-user-software-jd-edwards-comuna-sierra-gorda-3909289
+https://www.chiletrabajos.cl/trabajo/hs30-ingenieros-con-10-15-20-anos-experiencia-en-servicios-mineros-ventanas-3931680
 https://www.chiletrabajos.cl/trabajo/influencer-marketing-analyst-3920025
 https://www.chiletrabajos.cl/trabajo/informatico-junior-3608849
 https://www.chiletrabajos.cl/trabajo/informatico-junior-3903600
@@ -1110,6 +1109,7 @@ https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-ab
 https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-d014
 https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f
 https://www.getonbrd.com/jobs/software-engineer-frontend-capital-express-santiago
+https://www.getonbrd.com/jobs/software-engineer-full-stack-logpilot-santiago-1ad9
 https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote

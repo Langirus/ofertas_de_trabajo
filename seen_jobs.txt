@@ -1,6 +1,3 @@
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4450071066
-https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
-https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-mexico-at-carollo-engineers-4417617170
 https://mx.linkedin.com/jobs/view/software-engineer-spec-driven-ai-development-contract-remote-mx-at-tech-holding-4478740650
 https://mx.linkedin.com/jobs/view/software-quality-analyst-%E2%80%93-remote-at-hired-4414900606
@@ -268,6 +265,7 @@ https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/patrianna-devops-engineer
 https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
+https://weworkremotely.com/remote-jobs/reddit-analytics-engineer
 https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/sigma-software-data-engineer-interior-design
@@ -296,6 +294,7 @@ https://weworkremotely.com/remote-jobs/us-ada-devops-intern
 https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only
 https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend
 https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform
+https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer
 https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer
 https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first
 https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d
@@ -570,6 +569,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-distintas-instlaciones-3
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ft-3839876
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-ftr-3848268
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-l-s-3928133
+https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-maipu-3932251
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-rancagua-3876742
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-tarde-santiago-centro-3929426
 https://www.chiletrabajos.cl/trabajo/auxiliares-de-aseo-turno-tarde-3887160

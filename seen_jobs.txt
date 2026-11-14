@@ -1,5 +1,3 @@
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448145122
-https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4448809576
 https://mx.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4450071066
 https://mx.linkedin.com/jobs/view/software-engineer-python-javascript-typescript-go-remote-at-quik-hire-staffing-4428651258
 https://mx.linkedin.com/jobs/view/software-engineer-scala-or-java-remote-at-here-technologies-4413245084
@@ -909,6 +907,7 @@ https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-5768
 https://www.getonbrd.com/jobs/analista-qa-sr-coderslab-io-santiago-d8e6
 https://www.getonbrd.com/jobs/analista-qa-usercode-spa-santiago
 https://www.getonbrd.com/jobs/analytics-engineer-jr-galilei-remote
+https://www.getonbrd.com/jobs/automation-engineer-hibrido-3x2-las-condes-prontopaga-santiago
 https://www.getonbrd.com/jobs/back-end-developer-hivetire-by-hivesystems-remote-e506
 https://www.getonbrd.com/jobs/back-end-software-engineer-nestjs-cloud-native-aws-witi-remote
 https://www.getonbrd.com/jobs/backend-software-engineer-witi-remote
@@ -1703,6 +1702,7 @@ ingenierorpawebscraping|inteligenciaartificial
 ingenieroscada|empresaconfidencial
 ingenierosecretariotecnico|bosmart
 ingenieroseguridadsistemas|netline
+ingenieroserviciostiusuarios|bancocentralde
 ingenieroservicios|itcingeniera
 ingenieroserviciotecnico|accuvision
 ingenieroserviciotecnico|chiletrabajos

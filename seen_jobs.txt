@@ -1,6 +1,3 @@
-https://pe.linkedin.com/jobs/view/ai-integration-engineer-remote-huancayo-at-blacksmith-agency-4480901916
-https://pe.linkedin.com/jobs/view/ai-integration-engineer-remote-piura-at-blacksmith-agency-4491086741
-https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
 https://pe.linkedin.com/jobs/view/ai-software-engineer-remote-cusco-at-blacksmith-agency-4484718300
 https://pe.linkedin.com/jobs/view/ai-software-engineer-remote-huancayo-at-blacksmith-agency-4488793852
 https://pe.linkedin.com/jobs/view/ai-training-data-intern-%246-hr-remote-at-crossing-hurdles-4470710242
@@ -489,6 +486,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-asero-turno-corto-quilicura-390484
 https://www.chiletrabajos.cl/trabajo/auxiliar-contable-2495069
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-anestesia-3665956
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-20-horas-3865010
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-30-horas-semanales-providencia-3933324
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3670897
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3898200
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-3917811
@@ -1103,6 +1101,7 @@ https://www.getonbrd.com/jobs/software-development-engineer-healthatom-remote-d0
 https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f
 https://www.getonbrd.com/jobs/software-engineer-frontend-capital-express-santiago
 https://www.getonbrd.com/jobs/software-engineer-full-stack-logpilot-santiago-1ad9
+https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-543b
 https://www.getonbrd.com/jobs/software-engineer-grupo-lagos-santiago-b74d
 https://www.getonbrd.com/jobs/software-engineer-intermedio-equifax-chile-santiago-8296
 https://www.getonbrd.com/jobs/software-engineer-platform-engineer-2brains-remote
@@ -1739,6 +1738,7 @@ ingenierotibco|tataconsultancyservices
 ingenierotrainee|buffer
 ingenierotrainee|weir
 ingestoperatorpracticaprofesionaltecnica|warnerbrosdiscovery
+inglesintermediosoporteterrenoti|hbconsultores
 inlcusionjrlaboralremotosoporteti|ferrostaalc
 instalacionessoportestecnico|rpgingenieraaudiovisual
 instalacionessoportetecnico|chiletrabajos

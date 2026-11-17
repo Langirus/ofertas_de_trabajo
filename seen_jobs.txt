@@ -1,6 +1,3 @@
-https://pe.linkedin.com/jobs/view/ai-engineer-mobile-remote-work-at-bairesdev-4469448813
-https://pe.linkedin.com/jobs/view/ai-engineer-python-remote-work-at-bairesdev-4431808795
-https://pe.linkedin.com/jobs/view/ai-engineer-remote-work-ref%23299133-at-bairesdev-4449077689
 https://pe.linkedin.com/jobs/view/ai-integration-engineer-remote-huancayo-at-blacksmith-agency-4480901916
 https://pe.linkedin.com/jobs/view/ai-integration-engineer-remote-piura-at-blacksmith-agency-4491086741
 https://pe.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4371035006
@@ -199,6 +196,7 @@ https://ve.linkedin.com/jobs/view/it-sourcer-jr-latam-at-azkait-4464134755
 https://ve.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4441220578
 https://ve.linkedin.com/jobs/view/junior-software-engineer-%E2%80%93-remote-at-hire-feed-4437106463
 https://ve.linkedin.com/jobs/view/machine-learning-engineer-remote-work-at-bairesdev-4455687881
+https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics
 https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam
 https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa
 https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech
@@ -210,6 +208,7 @@ https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america
 https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america
 https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures
 https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript
+https://weworkremotely.com/remote-jobs/bybit-animator-intern
 https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d
 https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward
 https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst
@@ -272,6 +271,7 @@ https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-e
 https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data
 https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer
 https://weworkremotely.com/remote-jobs/tether-ai-research-engineer
+https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems
 https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform
 https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company
 https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer

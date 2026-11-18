@@ -1,4 +1,3 @@
-https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-chiclayo-at-blacksmith-agency-4477833599
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464014035
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464435069
 https://pe.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454292311
@@ -1037,6 +1036,7 @@ https://www.getonbrd.com/jobs/ingeniero-devops-junior-transvip-santiago
 https://www.getonbrd.com/jobs/ingeniero-gobierno-de-datos-agrosuper-rancagua
 https://www.getonbrd.com/jobs/ingeniero-qa-automatizador-lisit-santiago
 https://www.getonbrd.com/jobs/it-applications-operations-engineer-netsuite-signant-health-remote
+https://www.getonbrd.com/jobs/java-backend-developer-arkho-remote
 https://www.getonbrd.com/jobs/junior-data-engineer-grupo-mariposa-remote
 https://www.getonbrd.com/jobs/junior-network-automation-engineer-zequenze-remote
 https://www.getonbrd.com/jobs/level-3-multi-cloud-engineer-zerviz-technologies-santiago

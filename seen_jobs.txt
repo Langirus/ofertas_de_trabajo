@@ -1,13 +1,9 @@
-https://pe.linkedin.com/jobs/view/ai-software-engineer-remote-huancayo-at-blacksmith-agency-4488793852
-https://pe.linkedin.com/jobs/view/ai-training-data-intern-%246-hr-remote-at-crossing-hurdles-4470710242
-https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
-https://pe.linkedin.com/jobs/view/desarrollador-junior-net-trabajo-remoto-at-bairesdev-4489034348
-https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-arequipa-at-blacksmith-agency-4480107610
 https://pe.linkedin.com/jobs/view/generative-ai-engineer-remote-chiclayo-at-blacksmith-agency-4477833599
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464014035
 https://pe.linkedin.com/jobs/view/home-office-te-damos-pc-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4464435069
 https://pe.linkedin.com/jobs/view/ingeniero-de-soluciones-ai-trabajo-remoto-at-bairesdev-4454292311
 https://pe.linkedin.com/jobs/view/ingeniero-ml-trabajo-remoto-at-bairesdev-4452713980
+https://pe.linkedin.com/jobs/view/junior-fullstack-react-%2B-node-developer-remote-work-at-bairesdev-4491853490
 https://pe.linkedin.com/jobs/view/junior-fullstack-react-node-developer-remote-work-ref%23305553-at-bairesdev-4476392752
 https://pe.linkedin.com/jobs/view/junior-software-developer-remote-at-hire-feed-4438240426
 https://pe.linkedin.com/jobs/view/machine-learning-engineer-remote-huancayo-at-blacksmith-agency-4466551794
@@ -245,10 +241,12 @@ https://weworkremotely.com/remote-jobs/mobena-frontend-engineer
 https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia
 https://weworkremotely.com/remote-jobs/openx-intern-marketing-design
 https://weworkremotely.com/remote-jobs/patrianna-devops-engineer
+https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres
 https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe
 https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii
 https://weworkremotely.com/remote-jobs/reddit-analytics-engineer
 https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam
+https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads
 https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer
 https://weworkremotely.com/remote-jobs/sigma-software-data-engineer-interior-design
 https://weworkremotely.com/remote-jobs/solar-secure-solutions-web-development-intern
@@ -474,6 +472,7 @@ https://www.chiletrabajos.cl/trabajo/asistente-en-climatizacion-3932436
 https://www.chiletrabajos.cl/trabajo/asistente-gestion-de-activos-san-sebastian-3852813
 https://www.chiletrabajos.cl/trabajo/asistente-lavador-de-vehiculos-con-licencia-clase-b-3780817
 https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
+https://www.chiletrabajos.cl/trabajo/asistente-multifuncional-de-local-y-mantencion-santiago-3931992
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
 https://www.chiletrabajos.cl/trabajo/auditor-interno-3882096
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-30-horas-colegio-maipu-3722398
@@ -1850,6 +1849,7 @@ mantenimientotecnico|firstsecurity
 marketingmesespracticantetrade|mondelzinternational
 marketingpracticantepublicidad|chiletrabajos
 marketingpracticavopero|cencosud
+masterpracticaprofesionalweb|ripley
 merchandisingplanningpractica|pumagroup
 mesamonitoreonocoperadoressoporte|netmetrix
 mesapracticanteservicioti|nttdata

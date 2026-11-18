@@ -1,4 +1,3 @@
-https://pe.linkedin.com/jobs/view/ai-software-engineer-remote-cusco-at-blacksmith-agency-4484718300
 https://pe.linkedin.com/jobs/view/ai-software-engineer-remote-huancayo-at-blacksmith-agency-4488793852
 https://pe.linkedin.com/jobs/view/ai-training-data-intern-%246-hr-remote-at-crossing-hurdles-4470710242
 https://pe.linkedin.com/jobs/view/backend-engineer-%E2%80%93-remote-at-hire-feed-4424985659
@@ -1866,6 +1865,7 @@ negociospracticanteprocesos|nttdata
 nivelpracticantesoporteti|maserrzuriz
 nivelpresencialsoportetecnico|ada4solutionsheadhunting
 nivelservicesoporteti|chiletrabajos
+nivelsoportetecnico|experis
 ofertapracticatitulotrabajo|theoptimal
 onboardingtrainee|agendapro
 operacionalespracticanteproyectos|vincicompass

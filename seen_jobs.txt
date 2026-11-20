@@ -1,4 +1,3 @@
-https://pe.linkedin.com/jobs/view/practicante-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4476677884
 https://pe.linkedin.com/jobs/view/practicante-pre-o-pro-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4490595965
 https://pe.linkedin.com/jobs/view/practicante-pre-profesional-de-canales-remotos-care-at-entel-per%C3%BA-4483745687
 https://pe.linkedin.com/jobs/view/practicante-preprofesional-de-sistemas-ti-100%25-remoto-at-koolvara-4459905383
@@ -1453,6 +1452,7 @@ iainformaticaingeniero|fenixserviciosacuicolas
 iainformaticoingenierotransformacion|chiletrabajos
 iaingenieroinnovacion|movizzon
 iaingenierointermedio|rycconsultoresasociados
+iaingenierojunior|apiuxtech
 iaingenierojunior|grupoo2
 iaingenierojunior|ita
 iaingenieromejoraprocesos|laboratoriodentaldies

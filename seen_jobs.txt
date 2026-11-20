@@ -1,6 +1,3 @@
-https://pe.linkedin.com/jobs/view/migraciones-trabajo-remoto-con-o-sin-experiencia-a-nivel-nacional-planilla-completa-pcd-at-netcall-group-4434224490
-https://pe.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23306347-at-bairesdev-4484277536
-https://pe.linkedin.com/jobs/view/practicante-de-canales-remotos-care-at-entel-per%C3%BA-4464447879
 https://pe.linkedin.com/jobs/view/practicante-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4476677884
 https://pe.linkedin.com/jobs/view/practicante-pre-o-pro-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4490595965
 https://pe.linkedin.com/jobs/view/practicante-pre-profesional-de-canales-remotos-care-at-entel-per%C3%BA-4483745687
@@ -468,6 +465,8 @@ https://www.chiletrabajos.cl/trabajo/asistente-logistica-3784929
 https://www.chiletrabajos.cl/trabajo/asistente-multifuncional-de-local-y-mantencion-santiago-3931992
 https://www.chiletrabajos.cl/trabajo/asistente-operaciones-automatismos-lau-3850706
 https://www.chiletrabajos.cl/trabajo/ato-soporte-equipos-de-izaje-moviles-y-estacionados-3935736
+https://www.chiletrabajos.cl/trabajo/ato-soporte-spci-minera-los-pelambres-3935793
+https://www.chiletrabajos.cl/trabajo/ato-soporte-suministro-electrico-minera-los-pelambres-3935815
 https://www.chiletrabajos.cl/trabajo/auditor-interno-3882096
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-30-horas-colegio-maipu-3722398
 https://www.chiletrabajos.cl/trabajo/auxiliar-aseo-comuna-pudahuel-3824978
@@ -1769,6 +1768,7 @@ itpracticatecnica|deloitte
 itpractica|pumagroup
 itremotositiosoportetecnico|toshibaglobalcommercesolutions
 itremotosoportetecnico|michaelpage
+itsoportetecnico|getronics
 itsoportetecnico|yelsolutions
 itsoporte|blueexpress
 itsoporte|sermaluc

@@ -1,6 +1,3 @@
-https://pe.linkedin.com/jobs/view/practicante-pre-o-pro-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4490595965
-https://pe.linkedin.com/jobs/view/practicante-pre-profesional-de-canales-remotos-care-at-entel-per%C3%BA-4483745687
-https://pe.linkedin.com/jobs/view/practicante-preprofesional-de-sistemas-ti-100%25-remoto-at-koolvara-4459905383
 https://pe.linkedin.com/jobs/view/practicante-profesional-o-preprofesional-de-desarrollo-web-remoto-at-nhl-decoracion-comercial-4485337854
 https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
 https://pe.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295736-at-bairesdev-4449082602
@@ -200,6 +197,7 @@ https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x
 https://weworkremotely.com/remote-jobs/confidential-devops-engineer
 https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer
 https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer
+https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer
 https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer
 https://weworkremotely.com/remote-jobs/doximity-data-analyst-reporting-partnerships
 https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience
@@ -382,6 +380,7 @@ https://www.chiletrabajos.cl/trabajo/analista-de-tesoreria-3861314
 https://www.chiletrabajos.cl/trabajo/analista-de-tesoreria-3869751
 https://www.chiletrabajos.cl/trabajo/analista-de-tesoreria-3881998
 https://www.chiletrabajos.cl/trabajo/analista-de-tesoreria-3883605
+https://www.chiletrabajos.cl/trabajo/analista-de-ti-junior-providencia-3935878
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-junior-de-automatizacion-3816582
 https://www.chiletrabajos.cl/trabajo/analista-desarrollador-net-junior-4-meses-3894768
 https://www.chiletrabajos.cl/trabajo/analista-documental-internacional-3887394
@@ -560,6 +559,7 @@ https://www.chiletrabajos.cl/trabajo/chofer-auxiliar-3836856
 https://www.chiletrabajos.cl/trabajo/commercial-intelligence-analyst-3866283
 https://www.chiletrabajos.cl/trabajo/comprador-asistente-administrativo-3854620
 https://www.chiletrabajos.cl/trabajo/conductor-y-asistente-operativo-3859325
+https://www.chiletrabajos.cl/trabajo/consultor-de-proyectos-ti-junior-3935828
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fi-junior-3852828
 https://www.chiletrabajos.cl/trabajo/consultor-sap-fico-junior-por-proyecto-modalidad-presencial-3832052
 https://www.chiletrabajos.cl/trabajo/cotizador-y-asistente-produccion-para-imprenta-3831264

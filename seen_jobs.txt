@@ -1,7 +1,3 @@
-https://pe.linkedin.com/jobs/view/programador-python-junior-con-ia-y-hugging-face-%E2%80%93-remoto-latam-at-digital-solutions-324-4432255066
-https://pe.linkedin.com/jobs/view/python-backend-engineer-remote-work-ref%23295736-at-bairesdev-4449082602
-https://pe.linkedin.com/jobs/view/remote-junior-android-developer-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%B2-%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B5-at-teacher-army-%D0%BD%D0%B0%D0%B9%D1%82%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B2-it-4447193688
-https://pe.linkedin.com/jobs/view/remoto-sueldo-s-1750-%2B-variable-de-s-250-soporte-t%C3%A9cnico-full-time-at-entelconnect-4480850220
 https://pe.linkedin.com/jobs/view/sin-experiencia-remoto-atenci%C3%B3n-al-cliente-at-gea-per%C3%BA-4447853690
 https://pe.linkedin.com/jobs/view/te-brindamos-herramientas-trabajo-remoto-sin-experiencia-con-planilla-completa-at-covisian-4457848887
 https://pe.linkedin.com/jobs/view/te-damos-herramientas-trabaja-remoto-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4455624238
@@ -51,6 +47,7 @@ https://portal.chiletrabajos.cl/empresa/sip/trabajo/analista-de-datos-junior-ti-
 https://portal.chiletrabajos.cl/empresa/tecnova/trabajo/ingeniero-de-redes-y-sistemas-junior-3010577
 https://portal.chiletrabajos.cl/empresa/tres60/trabajo/ingeniero-desarrollador-ti-full-stack-junior-3511862
 https://portal.chiletrabajos.cl/empresa/triibu/trabajo/analista-ti-junior-3405536
+https://portal.chiletrabajos.cl/empresa/valorunico/trabajo/ingeniero-junior-de-ciberseguridad-modalidad-hibrida-3933225
 https://portal.chiletrabajos.cl/empresa/wisely/trabajo/ingeniero-informatico-backend-junior-proyecto-3847504
 https://pr.linkedin.com/jobs/view/ai-engineer-remote-at-hire-feed-4414590331
 https://pr.linkedin.com/jobs/view/ai-training-engineer-remote-at-quik-hire-staffing-4414595215
@@ -498,6 +495,7 @@ https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-pedro-aguirre-cerda-390154
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-por-reemplazo-3929450
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-puerto-montt-3909410
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-turno-dia-recoleta-3677955
+https://www.chiletrabajos.cl/trabajo/auxiliar-de-aseo-y-coperia-3936566
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-carga-3843525
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-carniceria-y-atencion-a-publico-3897095
 https://www.chiletrabajos.cl/trabajo/auxiliar-de-casino-3893281
@@ -624,6 +622,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-a-informatico-ia-transformacion-d
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-junior-de-ciberseguridad-3932003
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-o-tecnico-a-electronico-a-automatizacion-e-iot-3845391
 https://www.chiletrabajos.cl/trabajo/ingeniero-a-sre-ssr-nivel-ingles-avanzado-3823795
+https://www.chiletrabajos.cl/trabajo/ingeniero-b-mov-tierras-obras-civiles-estructuras-3936493
 https://www.chiletrabajos.cl/trabajo/ingeniero-certificado-nfpa-proyectos-de-sistemas-de-incendio-3826055
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-constructor-residente-region-araucania-2077316
@@ -1617,6 +1616,7 @@ ingenierominaprogramacion|codelcocorporacinnacionaldelcobrede
 ingenieromineroproyectoredes|chiletrabajos
 ingenierominerosoptimizacionprocesos|andritz
 ingenieromlopsteletrabajo|irium
+ingenieromovtierras|chiletrabajos
 ingenieromultidisciplina|ghd
 ingenieronetremotosoftwaretrabajo|bairesdev
 ingenieronextpythonsoftware|na

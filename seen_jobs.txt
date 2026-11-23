@@ -1,4 +1,3 @@
-https://pe.linkedin.com/jobs/view/sin-experiencia-remoto-atenci%C3%B3n-al-cliente-at-gea-per%C3%BA-4447853690
 https://pe.linkedin.com/jobs/view/te-brindamos-herramientas-trabajo-remoto-sin-experiencia-con-planilla-completa-at-covisian-4457848887
 https://pe.linkedin.com/jobs/view/te-damos-herramientas-trabaja-remoto-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4455624238
 https://pe.linkedin.com/jobs/view/te-damos-herramientas-trabaja-remoto-turno-ma%C3%B1ana-sin-experiencia-at-covisian-4458135570
@@ -1562,6 +1561,7 @@ ingenieriapracticaprofesional|salfarent
 ingenieroingenieroprevencionriesgos|chiletrabajos
 ingenieroinglesnivelsressr|chiletrabajos
 ingenieroinnovacionproyectos|chiletrabajos
+ingenieroinnovaciontecnologiatrainee|legalcoachconsultores
 ingenieroinnovacion|experis
 ingenierointegraciones|clnicameds
 ingenierointegracion|sermaluc

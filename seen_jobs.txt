@@ -1,7 +1,3 @@
-https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
-https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3262938
-https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
-https://portal.chiletrabajos.cl/empresa/79587202/trabajo/tecnico-soporte-ti-junior-3355266
 https://portal.chiletrabajos.cl/empresa/abenisbusquedayseleccion/trabajo/backend-junior-python-3858073
 https://portal.chiletrabajos.cl/empresa/acl/trabajo/analista-de-datos-junior-3461983
 https://portal.chiletrabajos.cl/empresa/acl/trabajo/business-analyst-junior-3390353
@@ -618,6 +614,7 @@ https://www.chiletrabajos.cl/trabajo/ingeniero-certificado-nfpa-proyectos-de-sis
 https://www.chiletrabajos.cl/trabajo/ingeniero-ciberseguridad-junior-contrato-indefinido-3836841
 https://www.chiletrabajos.cl/trabajo/ingeniero-constructor-residente-region-araucania-2077316
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-ciberseguridad-y-networking-concepcion-3083545
+https://www.chiletrabajos.cl/trabajo/ingeniero-de-conectividad-y-redes-3872881
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3624108
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-aws-3919826
 https://www.chiletrabajos.cl/trabajo/ingeniero-de-datos-junior-puerto-montt-3856472
@@ -764,6 +761,7 @@ https://www.chiletrabajos.cl/trabajo/tecnico-de-proyectos-automatizacion-industr
 https://www.chiletrabajos.cl/trabajo/tecnico-de-servicio-tecnico-electrodomesticos-de-alta-gama-3876716
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-3820094
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-al-usuario-3845376
+https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-de-impresoras-multimarca-3938760
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-junior-para-empresa-de-tecnologia-3935176
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-onsite-faena-minera-las-tortolas-turno-7x7-3867586
 https://www.chiletrabajos.cl/trabajo/tecnico-de-soporte-ti-3844969
@@ -1464,6 +1462,7 @@ implementacioningenieroproyecto|na
 implementacionsoporte|evalearning
 implementacionsoporte|owlteamsolutions
 importanteindustriamantenimientoreferentetecnico|secretariadeextensinuniversitariautnfrc
+impresorasmultimarcasoportetecnico|chiletrabajos
 incendiojuniorsistemastecnico|chiletrabajos
 incidentesingenieroti|ita
 incomarketingpractica|essity
@@ -1685,6 +1684,7 @@ ingenieroredes|albemarlecorporation
 ingenieroredes|brass
 ingenieroredes|evalearning
 ingenieroredtelecomunicaciones|acl
+ingenieroremotosoporte|hexagonmining
 ingenieroremotosqltrabajo|bairesdev
 ingenieroremototrabajo|bairesdev
 ingenierorpawebscraping|inteligenciaartificial

@@ -1,6 +1,3 @@
-https://pe.linkedin.com/jobs/view/urgente%21%21-trabajo-remoto-con-todas-herramientas-planilla-completa-sin-experiencia-at-covisian-4457868856
-https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4428516640
-https://pe.linkedin.com/jobs/view/urgente-%21%21-home-office-9am-a-6pm-%21%21-con-o-sin-experiencia-sueldo-fijo%2Bplanilla-at-covisian-4458141532
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/kam-junior-3645296
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3262938
 https://portal.chiletrabajos.cl/empresa/79587202/trabajo/soporte-ti-junior-3453846
@@ -375,6 +372,7 @@ https://www.chiletrabajos.cl/trabajo/analista-empresarial-coyhaique-3880667
 https://www.chiletrabajos.cl/trabajo/analista-junior-datos-y-automatizacion-3832915
 https://www.chiletrabajos.cl/trabajo/analista-junior-de-soporte-erp-e-inteligencia-de-negocios-3844728
 https://www.chiletrabajos.cl/trabajo/analista-logistico-3812641
+https://www.chiletrabajos.cl/trabajo/analista-mesa-de-ayuda-3938376
 https://www.chiletrabajos.cl/trabajo/analista-operacional-3906783
 https://www.chiletrabajos.cl/trabajo/analista-programador-3908256
 https://www.chiletrabajos.cl/trabajo/analista-programador-junior-3806442
@@ -1021,6 +1019,7 @@ https://www.getonbrd.com/jobs/ingeniero-de-software-agilistik-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-software-ia-agentes-devaid-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-software-sr-back-y-fontend-checkr-santiago
 https://www.getonbrd.com/jobs/ingeniero-de-sre-sector-bancario-devsu-quito
+https://www.getonbrd.com/jobs/ingeniero-devops-cl-imagemaker-santiago
 https://www.getonbrd.com/jobs/ingeniero-devops-factor-it-remote-e650
 https://www.getonbrd.com/jobs/ingeniero-devops-junior-transvip-santiago
 https://www.getonbrd.com/jobs/ingeniero-gobierno-de-datos-agrosuper-rancagua
@@ -1151,6 +1150,7 @@ https://www.linkedin.com/jobs/view/ai-quality-analyst-personalization-remote-at-
 https://www.linkedin.com/jobs/view/ai-quality-analyst-remote-at-hired-4415364626
 https://www.linkedin.com/jobs/view/ai-software-engineer-remote-at-hire-feed-4447886067
 https://www.linkedin.com/jobs/view/algorithm-engineer-remote-at-hired-4456466235
+https://www.linkedin.com/jobs/view/analista-splunk-junior-trabajo-remoto-ref%23307905-at-bairesdev-4487009764
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4445173246
 https://www.linkedin.com/jobs/view/android-engineer-ai-ml-remote-work-at-bairesdev-4448542155
 https://www.linkedin.com/jobs/view/artificial-intelligence-%2B-python-engineer-remote-work-ref%23296750-at-bairesdev-4435334809

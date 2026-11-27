@@ -1,5 +1,3 @@
-https://portal.chiletrabajos.cl/empresa/acl/trabajo/business-analyst-junior-3390353
-https://portal.chiletrabajos.cl/empresa/acl/trabajo/desarrollador-fullstack-junior-3237638
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/administrador-cloud-azure-junior-3877992
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/jp-telco-junior-3774904
@@ -309,6 +307,7 @@ https://www.chiletrabajos.cl/trabajo/analista-contable-3911428
 https://www.chiletrabajos.cl/trabajo/analista-contable-3912266
 https://www.chiletrabajos.cl/trabajo/analista-contable-3915158
 https://www.chiletrabajos.cl/trabajo/analista-contable-3928163
+https://www.chiletrabajos.cl/trabajo/analista-contable-3939456
 https://www.chiletrabajos.cl/trabajo/analista-contable-colina-3838995
 https://www.chiletrabajos.cl/trabajo/analista-contable-empresa-industrial-3836158
 https://www.chiletrabajos.cl/trabajo/analista-contable-linares-3874608
@@ -1579,6 +1578,7 @@ ingenierojunioroperaciones|chiletrabajos
 ingenierojunioroperaciones|seguridadenlaempresa
 ingenierojuniorpod|rqingeniera
 ingenierojuniorprevencionriesgossantiagosst|mymamineraymedioambiente
+ingenierojuniorprevencionriesgos|bacheletgroup
 ingenierojuniorprevencionriesgos|mutualidaddecarabinerosmutucar
 ingenierojuniorpreventa|computrabajo
 ingenierojuniorprovidenciaredestecnicotelecomunicacionesterreno|mandomedio

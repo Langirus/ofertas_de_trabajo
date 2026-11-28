@@ -1,4 +1,3 @@
-https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/analista-qa-junior-3665084
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/jp-telco-junior-3774904
 https://portal.chiletrabajos.cl/empresa/bctecnologia/trabajo/seguridad-de-la-informacion-junior-3752273
 https://portal.chiletrabajos.cl/empresa/coderhub/trabajo/fullstack-developer-junior-3711633
@@ -835,6 +834,7 @@ https://www.chiletrabajos.cl/trabajo/vendedor-tecnico-maquinaria-industria-de-al
 https://www.chiletrabajos.cl/trabajo/vendedor-tecnico-trainee-v-region-sin-experiencia-3931320
 https://www.chiletrabajos.cl/trabajo/vendedora-sin-experiencia-3903441
 https://www.getonbrd.com/jobs/administrador-a-de-laboratorio-improving-remote
+https://www.getonbrd.com/jobs/administrador-azure-semi-sr-lisit-santiago
 https://www.getonbrd.com/jobs/ai-automation-engineer-contract-blupax-pharmaceuticals-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-elevateos-remote
 https://www.getonbrd.com/jobs/ai-automation-engineer-manukora-remote
